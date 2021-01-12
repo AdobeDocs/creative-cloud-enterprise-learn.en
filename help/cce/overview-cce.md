@@ -5,7 +5,7 @@ description: These Creative Cloud for enterprise tutorials, webinars, and use ca
 
 # Creative Cloud for Enterprise Tutorials
 
-![Creative Cloud Hero Image](assets/CCEbanner.png)
+![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
 These Creative Cloud for enterprise tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on the Creative Cloud for enterprise products.
 
