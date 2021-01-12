@@ -15,7 +15,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 <tr>
  <td>
    <a href="cce/overview-cce.md">
-      <img alt="Creative Cloud for Enterprise Tutorials" src="../assets/CCEbanner.png />
+      <img alt="Creative Cloud for Enterprise Tutorials" src="assets/CCEbanner.png />
    </a>
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud for Enterprise Tutorials</strong></a>
@@ -25,7 +25,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
   </td>
    <td>
    <a href="max2020/overview-max.md">
-      <img alt="MAX 2020 — the Enterprise Sessions" src="../assets/MAX.jpg" />
+      <img alt="MAX 2020 — the Enterprise Sessions" src="assets/MAX.jpg" />
    </a>
     <div>
    <a href="max2020/overview-max.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
@@ -34,7 +34,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
