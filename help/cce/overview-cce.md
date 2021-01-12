@@ -1,6 +1,6 @@
 ---
 title: Creative Cloud for Enterprise Tutorials
-description: These Creative Cloud for enterprise tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on the Creative Cloud for enterprise products.
+description: These Creative Cloud for enterprise tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on the Creative Cloud for enterprise products
 ---
 
 # Creative Cloud for Enterprise Tutorials
