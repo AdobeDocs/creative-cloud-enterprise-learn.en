@@ -10,8 +10,10 @@ product: creative-cloud
 # Creative Cloud for Enterprise Learning Hub {#cce-learning-hub}
 
 + [Overview](overview.md)
++ CCE {#cceoverview}
+  + [Overview](cce/overview-cce.md)
 + MAX 2020 {#max2020}
-  + [Overview](max2020/maxoverview.md)
+  + [Overview](max2020/overview-max.md)
   + Tutorials {#tutorials}
     + [Overview](max2020/maxtutorials.md)
     + Desktop Products {#desktop-products}

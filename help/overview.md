@@ -14,18 +14,23 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 <table>
 <tr>
  <td>
-   <a href="max2020/maxoverview.md">
+   <a href="cce/overview-cce.md">
+      <img alt="Creative Cloud for Enterprise Tutorials" src="../assets/CCEbanner.png />
+   </a>
+    <div>
+   <a href="cce/overview-cce.md"><strong>Creative Cloud for Enterprise Tutorials</strong></a>
+    </div>
+    <em>These Creative Cloud for enterprise tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on the Creative Cloud for enterprise products</em>
+    <br>
+  </td>
+   <td>
+   <a href="max2020/overview-max.md">
       <img alt="MAX 2020 — the Enterprise Sessions" src="../assets/MAX.jpg" />
    </a>
     <div>
-   <a href="max2020/maxoverview.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
+   <a href="max2020/overview-max.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
     </div>
     <em>These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
-    <div>
     <br>
   </td>
   <td>
