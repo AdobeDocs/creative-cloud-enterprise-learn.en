@@ -44,11 +44,11 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <br>
   </td>
   <td>
-   <a href="assets/ConnectingLightroomandBēhancetoYourAdobePortfolio.pdf">
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Connecting Lightroom and Bēhance to your Adobe Portfolio" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="assets/ConnectingLightroomandBēhancetoYourAdobePortfolio.pdf"><strong>Connecting Lightroom and Bēhance to your Adobe Portfolio</strong></a>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Connecting Lightroom and Bēhance to your Adobe Portfolio</strong></a>
     </div>
     <em>Use Bēhance projects as pages in your portfolio</em>
     <br>
