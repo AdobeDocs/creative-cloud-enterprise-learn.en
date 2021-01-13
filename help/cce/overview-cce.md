@@ -11,6 +11,8 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
 
 ## Click to download product tutorials
 
+### Spark
+
 <table>
 <tr>
  <td>
@@ -23,6 +25,23 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Adobe Spark Page offers some amazing and easy-to-use layout components that will bring your web stories to life</em>
     <br>
   </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Creating Your Brand in Adobe Spark" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark</strong></a>
+    </div>
+    <em>Adobe Spark makes it easy to define your brand</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Photoshop  
+
+<table>
+<tr>
   <td>
    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Add Remarkable Lighting to a Photo with Photoshop and After Effects" src="../assets/acrobat_PDF_96.png" />
@@ -43,8 +62,6 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Add a little Adobe Photoshop to your creative skill set</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Connecting Lightroom and Bēhance to your Adobe Portfolio" src="../assets/acrobat_PDF_96.png" />
@@ -55,17 +72,9 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Use Bēhance projects as pages in your portfolio</em>
     <br>
   </td>
-  <td>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="Create, add, and share your brand assets with Creative Cloud Libraries" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Create, add, and share your brand assets with Creative Cloud Libraries</strong></a>
-    </div>
-    <em>Creative Cloud Libraries provides a built-in brand system that allows designers to share brand assets across creative teams</em>
-    <br>
-  </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="Create Cinemagraphs in a snap with Photoshop and Adobe Stock" src="../assets/acrobat_PDF_96.png" />
    </a>
@@ -75,9 +84,7 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Searching for seamlessly looping videos on Adobe Stock for quickly assembling eye-catching cinemagraphs in Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Creating a living photograph with Photoshop — Part 1" src="../assets/acrobat_PDF_96.png" />
    </a>
@@ -97,6 +104,30 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Combining photos with video is a powerful way to add an engaging quality to your photos without sacrificing the message or tone of your original image</em>
     <br>
   </td>
+</tr>
+</table>
+
+## Libraries
+
+<table>
+<tr>
+  <td>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
+      <img alt="Create, add, and share your brand assets with Creative Cloud Libraries" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Create, add, and share your brand assets with Creative Cloud Libraries</strong></a>
+    </div>
+    <em>Creative Cloud Libraries provides a built-in brand system that allows designers to share brand assets across creative teams</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Fonts
+
+<table>
+<tr>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Creating beautiful typography with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
@@ -105,6 +136,16 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creating beautiful typography with Creative Cloud</strong></a>
     </div>
     <em>Learn to take advantage of the state-of-the-art typographic controls found in your favorite design tools</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
+      <img alt="Discovering Fonts with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Discovering Fonts with Creative Cloud</strong></a>
+    </div>
+    <em>Finding the right font for a project can seem overwhelming at times. With a variety of Creative Cloud apps and services, finding the right font is now fun and inspiring</em>
     <br>
   </td>
 </tr>

@@ -11,7 +11,7 @@ product: creative-cloud
 
 + [Overview](overview.md)
 + CCE {#cceoverview}
-  + [Overview](cce/overview-cce.md)
+  + [Tutorials](cce/overview-cce.md)
 + MAX 2020 {#max2020}
   + [Overview](max2020/overview-max.md)
   + Tutorials {#tutorials}
