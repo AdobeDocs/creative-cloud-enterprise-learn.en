@@ -38,7 +38,7 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
 </tr>
 </table>
 
-## Photoshop  
+### Photoshop  
 
 <table>
 <tr>
@@ -107,7 +107,7 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
 </tr>
 </table>
 
-## Libraries
+### Libraries
 
 <table>
 <tr>
@@ -124,7 +124,7 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
 </tr>
 </table>
 
-## Fonts
+### Fonts
 
 <table>
 <tr>
