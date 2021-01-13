@@ -99,10 +99,10 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
   </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
-      <img alt="Creating Beautiful Typography with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Creating beautiful typography with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creating Beautiful Typography with Creative Cloud</strong></a>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creating beautiful typography with Creative Cloud</strong></a>
     </div>
     <em>Learn to take advantage of the state-of-the-art typographic controls found in your favorite design tools</em>
     <br>
