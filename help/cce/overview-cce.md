@@ -43,6 +43,8 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Add a little Adobe Photoshop to your creative skill set</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Connecting Lightroom and Bēhance to your Adobe Portfolio" src="../assets/acrobat_PDF_96.png" />
@@ -71,6 +73,38 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Create Cinemagraphs in a snap with Photoshop and Adobe Stock</strong></a>
     </div>
     <em>Searching for seamlessly looping videos on Adobe Stock for quickly assembling eye-catching cinemagraphs in Photoshop</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
+      <img alt="Creating a living photograph with Photoshop — Part 1" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Creating a living photograph with Photoshop — Part 1</strong></a>
+    </div>
+    <em>Adobe Photoshop lets you quickly turn your short videos into living photographs that will mesmerize your audience on any social platform</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
+      <img alt="Creating a living photograph with Photoshop — Part 2" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>Creating a living photograph with Photoshop — Part 2</strong></a>
+    </div>
+    <em>Combining photos with video is a powerful way to add an engaging quality to your photos without sacrificing the message or tone of your original image</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
+      <img alt="Creating Beautiful Typography with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creating Beautiful Typography with Creative Cloud</strong></a>
+    </div>
+    <em>Learn to take advantage of the state-of-the-art typographic controls found in your favorite design tools</em>
     <br>
   </td>
 </tr>
