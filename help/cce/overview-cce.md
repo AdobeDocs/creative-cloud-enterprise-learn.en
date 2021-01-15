@@ -11,6 +11,39 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
 
 ## Click to download product tutorials
 
+### Creative Cloud for enterprise
+
+<table>
+<tr>
+ <td>
+   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
+      <img alt="From Hand Lettering to Illustrator via Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>From Hand Lettering to Illustrator via Creative Cloud</strong></a>
+    </div>
+    <em>Using the power of Creative Cloud for enterprise, Adobe mobile and desktop apps allow you to capture, convert, and create from anywhere — on any device</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
+      <img alt="From Lightroom Web to InDesign via Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>From Lightroom Web to InDesign via Creative Cloud</strong></a>
+    </div>
+    <em>Take your creativity from the camera to the final design with Creative Cloud files and libraries</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+
 ### Spark
 
 <table>
@@ -33,6 +66,16 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark</strong></a>
     </div>
     <em>Adobe Spark makes it easy to define your brand</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
+      <img alt="Meet Your New Production Artist: Adobe Spark Post" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Meet Your New Production Artist: Adobe Spark Post</strong></a>
+    </div>
+    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions — and all the while it is ready and able to do a lot of the tedious work for you</em>
     <br>
   </td>
 </tr>
@@ -63,13 +106,13 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <br>
   </td>
   <td>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
-      <img alt="Connecting Lightroom and Bēhance to your Adobe Portfolio" src="../assets/acrobat_PDF_96.png" />
+   <a href="assets/GreenScreenisNotJustforVideo.pdf">
+      <img alt="Green Screen is Not Just for Video" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Connecting Lightroom and Bēhance to your Adobe Portfolio</strong></a>
+   <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video</strong></a>
     </div>
-    <em>Use Bēhance projects as pages in your portfolio</em>
+    <em>You can use green screen in a photo studio and use After Effects to prepare the photo use in Photoshop</em>
     <br>
   </td>
 </tr>
@@ -105,7 +148,77 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <br>
   </td>
 </tr>
+<tr>
+   <td>
+   <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
+      <img alt="Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap</strong></a>
+    </div>
+    <em>In this hands-on, step- by-step lab, we combined Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
+      <img alt="Quickly Brand Your Instagram Photos with Adobe Photoshop Actions" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Quickly Brand Your Instagram Photos with Adobe Photoshop Actions</strong></a>
+    </div>
+    <em>Eliminate the tedium and save tons of time by using Actions in Photoshop</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
+      <img alt="Work Smarter, Not Harder, with Photoshop" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Work Smarter, Not Harder, with Photoshop</strong></a>
+    </div>
+    <em>Making changes in Photoshop can be time consuming, but it doesn’t have to be</em>
+    <br>
+  </td>
+</tr>  
 </table>
+
+### Adobe Portfolio
+
+<table>
+<tr>
+   <td>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf">
+      <img alt="Getting Started With Adobe Portfolio" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Getting Started With Adobe Portfolio</strong></a>
+    </div>
+    <em>Sharing your best work with Adobe Portfolio is an effective way to share your success and attract new creative talent</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
+      <img alt="Connecting Lightroom and Bēhance to your Adobe Portfolio" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Connecting Lightroom and Bēhance to your Adobe Portfolio</strong></a>
+    </div>
+    <em>Use Bēhance projects as pages in your portfolio</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
+      <img alt="Show your best work with Adobe Portfolio" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Show your best work with Adobe Portfolio</strong></a>
+    </div>
+    <em>Adobe Portfolio lets you upload, organize, and share your work with potential staff and clients all over the world</em>
+    <br>
+  </td>
+ </tr>
+ </table> 
+
 
 ### Libraries
 
@@ -119,6 +232,21 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Create, add, and share your brand assets with Creative Cloud Libraries</strong></a>
     </div>
     <em>Creative Cloud Libraries provides a built-in brand system that allows designers to share brand assets across creative teams</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
+      <img alt="Share Text Styles From Illustrator with Creative Cloud Libraries" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Share Text Styles From Illustrator with Creative Cloud Libraries</strong></a>
+    </div>
+    <em>Work Smarter, Not Harder, in Illustrator</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -148,5 +276,144 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Finding the right font for a project can seem overwhelming at times. With a variety of Creative Cloud apps and services, finding the right font is now fun and inspiring</em>
     <br>
   </td>
+  <td>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
+      <img alt="Unleash Hidden Gems in OpenType fonts" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Unleash Hidden Gems in OpenType fonts</strong></a>
+    </div>
+    <em>The OpenType format allows for a font to contain up to 65,536 glyphs</em>
+    <br>
+  </td>
 </tr>
 </table>
+
+### InDesign
+
+<table>
+<tr>
+  <td>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
+      <img alt="Creating interactive PDFs from InDesign" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Creating interactive PDFs from InDesign</strong></a>
+    </div>
+    <em>InDesign contains many features that help you format, style, manage, and keep track of the content in your documents</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
+      <img alt="Easily Gather and Incorporate Design Feedback with Adobe Acrobat and InDesign" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Easily Gather and Incorporate Design Feedback with Adobe Acrobat and InDesign</strong></a>
+    </div>
+    <em>Stakeholders can use Acrobat to add detailed comments and annotations, and then you can quickly bring those markups back into Adobe InDesign to see them in the context of your layout</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/StyleWebContentwithInDesign.pdf">
+      <img alt="Style web content with Adobe InDesign CC" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Style web content with Adobe InDesign CC</strong></a>
+    </div>
+    <em>Did you know that you can harness the power of InDesign to output HTML and web graphics?</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
+      <img alt="Interactive PDF: Bookmarks and Linked TOCs from InDesign" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interactive PDF: Bookmarks and Linked TOCs from InDesign</strong></a>
+    </div>
+    <em>Learn to use the Table of Contents feature in InDesign to generate both bookmarks and hyperlinks that will help your readers quickly find information in your PDF files</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
+      <img alt="Interactive PDF: Graphical Hyperlinks and Nested Master Pages in InDesign" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactive PDF: Graphical Hyperlinks and Nested Master Pages in InDesign</strong></a>
+    </div>
+    <em>Applying hyperlinks with master pages allows you to quickly manage a navigation system throughout all of your pages</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Illustrator
+
+<table>
+<tr>
+   <td>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
+      <img alt="Get to Know Graphic Styles in Illustrator" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Get to Know Graphic Styles in Illustrator</strong></a>
+    </div>
+    <em>Illustrator gives you the ability to style artwork in much the same way you style your text</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
+      <img alt="Work smarter, not harder, with Adobe Illustrator CC" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Work smarter, not harder, with Adobe Illustrator CC</strong></a>
+    </div>
+    <em>Speed up your vector drawings in Illustrator</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
+      <img alt="Illustrator Symbols + Layers = Perfect Structure for Responsive SVG!" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Perfect Structure for Responsive SVG!</strong></a>
+    </div>
+    <em>Illustrator provides unparalleled support for the SVG format, including the ability to create symbols, groups, IDs, and precise vector definitions of your artwork</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Dimension
+
+<table>
+<tr>
+   <td>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
+      <img alt="Visualize your Product in a Realistic Environment" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualize your Product in a Realistic Environment</strong></a>
+    </div>
+    <em>When you want to see how your products will look in the real world, Adobe Dimension is your go-to app</em>
+    <br>
+  </td>
+    <td>
+    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
