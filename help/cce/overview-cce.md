@@ -36,7 +36,7 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -245,7 +245,7 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -346,7 +346,7 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
