@@ -28,9 +28,41 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
       <img alt="Adobe Stock Tutorials" src="assets/Stock.jpg" />
     </a>
     <div>
-   <a href="stock/overview-stock.md"><strong>Creative Cloud for Enterprise Tutorials</strong></a>
+   <a href="stock/overview-stock.md"><strong>Adobe Stock Tutorials</strong></a>
     </div>
     <em>Tutorials to help you get up-to-speed on Adobe Stock</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD Tutorials" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD Tutorials</strong></a>
+    </div>
+    <em>Tutorials to help you get up-to-speed on Adobe XD</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="3di/overview-3di.md">
+      <img alt="Adobe Dimension Tutorials" src="assets/Dimenio.jpg" />
+    </a>
+    <div>
+   <a href="3di/overview-3di.md"><strong>Adobe Dimension Tutorials</strong></a>
+    </div>
+    <em>Tutorials to help you get up-to-speed on Adobe Dimension</em>
+    <br>
+  </td>
+  <td>
+  <a href="dva/overview-dva.md">
+      <img alt="Adobe DVA Tutorials" src="assets/CCEbanner-DVA.png" />
+    </a>
+    <div>
+   <a href="dva/overview-3di.md"><strong>Adobe DVA Tutorials</strong></a>
+    </div>
+    <em>Tutorials to help you get up-to-speed on Adobe DVA products</em>
     <br>
   </td>
   <td>
@@ -41,11 +73,6 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
    <a href="max2020/overview-max.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
     </div>
     <em>These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/WhiteBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
