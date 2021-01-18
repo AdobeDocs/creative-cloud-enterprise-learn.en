@@ -5,7 +5,7 @@ description: Tutorials to help you get up-to-speed on Adobe XD
 
 # Adobe XD tutorials
 
-![Creative Cloud Hero Image](../assets/CCEbanner-XD.png)
+![Creative Cloud Hero Image](../assets/XD.jpg)
 
 Tutorials to help you get up-to-speed on Adobe XD
 
