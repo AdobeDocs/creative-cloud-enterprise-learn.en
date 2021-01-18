@@ -33,5 +33,11 @@ Tutorials to help you get up-to-speed on Adobe Dimension
     <em>Create an ultra-realistic representation of your final product in a matter of minutes</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </tr>
 </table>
