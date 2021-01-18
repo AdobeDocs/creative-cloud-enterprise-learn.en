@@ -35,6 +35,11 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Take your creativity from the camera to the final design with Creative Cloud files and libraries</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -239,6 +244,11 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Work Smarter, Not Harder, in Illustrator</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -335,6 +345,11 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
     <em>Applying hyperlinks with master pages allows you to quickly manage a navigation system throughout all of your pages</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -387,6 +402,16 @@ Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise produ
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualize your Product in a Realistic Environment</strong></a>
     </div>
     <em>When you want to see how your products will look in the real world, Adobe Dimension is your go-to app</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
