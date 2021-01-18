@@ -24,6 +24,16 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
     <br>
   </td>
   <td>
+    <a href="stock/overview-stock.md">
+      <img alt="Adobe Stock Tutorials" src="assets/Stock.jpg" />
+    </a>
+    <div>
+   <a href="stock/overview-stock.md"><strong>Creative Cloud for Enterprise Tutorials</strong></a>
+    </div>
+    <em>Tutorials to help you get up-to-speed on Adobe Stock</em>
+    <br>
+  </td>
+  <td>
     <a href="max2020/overview-max.md">
       <img alt="MAX 2020 — the Enterprise Sessions" src="assets/MAX.jpg" />
     </a>
