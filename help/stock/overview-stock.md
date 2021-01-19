@@ -7,7 +7,7 @@ description: Tutorials to help you get up-to-speed on Adobe Stock
 
 ![Creative Cloud Hero Image](../assets/Stock.jpg)
 
-Tutorials to help you get up-to-speed on Adobe Stock
+Creatives are under pressure to quickly deliver new, visually compelling content that will capture and hold attention. Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets – all from within the Adobe creative apps they use every day.
 
 ## Click to download a PDF of an Adobe Stock tutorial
 

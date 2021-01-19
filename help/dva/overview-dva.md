@@ -7,7 +7,7 @@ description: Tutorials to help you get up-to-speed on Adobe DVA products
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
-Tutorials to help you get up-to-speed on Adobe DVA products
+Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more.
 
 ## Click to download a PDF of an Adobe DVA tutorial
 
