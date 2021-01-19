@@ -34,10 +34,14 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
+      <img alt="Visualize your Product in a Realistic Environment" src="../assets/acrobat_PDF_96.png" />
+   </a>
     <div>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualize your Product in a Realistic Environment</strong></a>
+    </div>
+    <em>When you want to see how your products will look in the real world, Adobe Dimension is your go-to app</em>
     <br>
   </td>
-</tr>
 </tr>
 </table>
