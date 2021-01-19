@@ -7,7 +7,8 @@ description: Tutorials to help you get up-to-speed on the Creative Cloud for Ent
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products.
+As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in Creative Cloud—from an enterprise perspective.
+
 
 ## Click to download a PDF of the product tutorials
 

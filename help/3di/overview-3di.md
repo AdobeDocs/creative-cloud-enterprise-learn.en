@@ -7,7 +7,7 @@ description: Tutorials to help you get up-to-speed on Adobe Dimension
 
 ![Creative Cloud Hero Image](../assets/Dimenio.jpg)
 
-Tutorials to help you get up-to-speed on Adobe Dimension
+Create engaging content in 3D faster with high-quality models, materials, and lighting. Dimension makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work.
 
 ## Click to download a PDF of an Adobe Dimension tutorial
 

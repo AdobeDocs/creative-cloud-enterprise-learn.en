@@ -15,12 +15,12 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 <tr>
   <td>
     <a href="cce/overview-cce.md">
-      <img alt="Creative Cloud for Enterprise Tutorials" src="assets/CCEbanner.png" />
+      <img alt="Creative Cloud for Enterprise" src="assets/CCEbanner.png" />
     </a>
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud for Enterprise Tutorials</strong></a>
     </div>
-    <em>Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products</em>
+    <em>Learn new features in the latest release of Creative Cloud—from an enterprise perspective</em>
     <br>
   </td>
   <td>
@@ -28,9 +28,9 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
       <img alt="Adobe Stock Tutorials" src="assets/Stock.jpg" />
     </a>
     <div>
-   <a href="stock/overview-stock.md"><strong>Adobe Stock Tutorials</strong></a>
+   <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>Tutorials to help you get up-to-speed on Adobe Stock</em>
+    <em>High-quality digital images, illustrations, videos, audio, templates and more</em>
     <br>
   </td>
   <td>
@@ -38,9 +38,9 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
       <img alt="Adobe XD Tutorials" src="assets/XD.jpg" />
     </a>
     <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD Tutorials</strong></a>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>Tutorials to help you get up-to-speed on Adobe XD</em>
+    <em>Design, prototype, and share user experiences</em>
     <br>
   </td>
 </tr>
@@ -50,9 +50,9 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
       <img alt="Adobe Dimension Tutorials" src="assets/Dimenio.jpg" />
     </a>
     <div>
-   <a href="3di/overview-3di.md"><strong>Adobe Dimension Tutorials</strong></a>
+   <a href="3di/overview-3di.md"><strong>Adobe Dimension</strong></a>
     </div>
-    <em>Tutorials to help you get up-to-speed on Adobe Dimension</em>
+    <em>Create photorealistic 3D images for branding, product shots, and package design</em>
     <br>
   </td>
   <td>
@@ -60,9 +60,9 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
       <img alt="Adobe DVA Tutorials" src="assets/CCEbanner-DVA.png" />
     </a>
     <div>
-   <a href="dva/overview-dva.md"><strong>Adobe DVA Tutorials</strong></a>
+   <a href="dva/overview-dva.md"><strong>Adobe DVA</strong></a>
     </div>
-    <em>Tutorials to help you get up-to-speed on Adobe DVA products</em>
+    <em>Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
     <div>
    <a href="max2020/overview-max.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
     </div>
-    <em>These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective</em>
+    <em>Learn all about the MAX 2020 Enterprise Sessions</em>
     <br>
   </td>
 </tr>
