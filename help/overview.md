@@ -18,14 +18,14 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
       <img alt="Creative Cloud for Enterprise" src="assets/CCEbanner.png" />
     </a>
     <div>
-   <a href="cce/overview-cce.md"><strong>Creative Cloud for Enterprise Tutorials</strong></a>
+   <a href="cce/overview-cce.md"><strong>Creative Cloud for Enterprise</strong></a>
     </div>
     <em>Learn new features in the latest release of Creative Cloud—from an enterprise perspective</em>
     <br>
   </td>
   <td>
     <a href="stock/overview-stock.md">
-      <img alt="Adobe Stock Tutorials" src="assets/Stock.jpg" />
+      <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
     <div>
    <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
@@ -35,7 +35,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
   </td>
   <td>
     <a href="xd/overview-xd.md">
-      <img alt="Adobe XD Tutorials" src="assets/XD.jpg" />
+      <img alt="Adobe XD" src="assets/XD.jpg" />
     </a>
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
@@ -47,7 +47,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 <tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe Dimension Tutorials" src="assets/Dimenio.jpg" />
+      <img alt="Adobe Dimension" src="assets/Dimenio.jpg" />
     </a>
     <div>
    <a href="3di/overview-3di.md"><strong>Adobe Dimension</strong></a>
@@ -57,7 +57,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobe DVA Tutorials" src="assets/CCEbanner-DVA.png" />
+      <img alt="Adobe DVA" src="assets/CCEbanner-DVA.png" />
     </a>
     <div>
    <a href="dva/overview-dva.md"><strong>Adobe DVA</strong></a>
