@@ -1,9 +1,9 @@
 ---
-title: Creative Cloud for Enterprise tutorials
+title: Creative Cloud for enterprise tutorials
 description: Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products
 ---
 
-# Creative Cloud for Enterprise tutorials
+# Creative Cloud for enterprise tutorials
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
