@@ -9,7 +9,7 @@ description: Tutorials to help you get up-to-speed on Adobe XD
 
 Adobe XD is a user experience design and prototyping tool for designing websites, apps, voice interfaces, games, and other types of digital experiences.
 
-## Click to download a PDF of an Adobe XD tutorial
+## Click to download an Adobe XD PDF tutorial
 
 <table>
 <tr>

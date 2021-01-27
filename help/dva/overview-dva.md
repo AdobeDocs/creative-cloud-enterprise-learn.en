@@ -1,15 +1,15 @@
 ---
-title: Adobe DVA tutorials
+title: Adobe Video tutorials
 description: Tutorials to help you get up-to-speed on Adobe DVA products
 ---
 
-# Adobe DVA tutorials
+# Adobe Video tutorials
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
 Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more.
 
-## Click to download a PDF of an Adobe DVA tutorial
+## Click to download an Adobe Video PDF tutorial
 
 <table>
 <tr>
