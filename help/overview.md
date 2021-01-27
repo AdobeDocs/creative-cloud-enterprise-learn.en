@@ -15,10 +15,10 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 <tr>
   <td>
     <a href="cce/overview-cce.md">
-      <img alt="Creative Cloud for Enterprise" src="assets/CCEbanner.png" />
+      <img alt="Creative Cloud for enterprise" src="assets/CCEbanner.png" />
     </a>
     <div>
-   <a href="cce/overview-cce.md"><strong>Creative Cloud for Enterprise</strong></a>
+   <a href="cce/overview-cce.md"><strong>Creative Cloud for enterprise</strong></a>
     </div>
     <em>Learn new features in the latest release of Creative Cloud—from an enterprise perspective</em>
     <br>
@@ -47,20 +47,20 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 <tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe Dimension" src="assets/Dimenio.jpg" />
+      <img alt="Adobe 3D & VR" src="assets/Dimenio.jpg" />
     </a>
     <div>
-   <a href="3di/overview-3di.md"><strong>Adobe Dimension</strong></a>
+   <a href="3di/overview-3di.md"><strong>Adobe 3D & VR</strong></a>
     </div>
     <em>Create photorealistic 3D images for branding, product shots, and package design</em>
     <br>
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobe DVA" src="assets/CCEbanner-DVA.png" />
+      <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
     </a>
     <div>
-   <a href="dva/overview-dva.md"><strong>Adobe DVA</strong></a>
+   <a href="dva/overview-dva.md"><strong>Adobe Video</strong></a>
     </div>
     <em>Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more</em>
     <br>

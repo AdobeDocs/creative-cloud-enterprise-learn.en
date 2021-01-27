@@ -16,9 +16,9 @@ product: creative-cloud
   + [Tutorials](stock/overview-stock.md)
 + XD {#xdoverview}
   + [Tutorials](xd/overview-xd.md)
-+ Dimension {#dimensionoverview}
++ 3D & VR {#dimensionoverview}
   + [Tutorials](3di/overview-3di.md)
-+ DVA {#davoverview}
++ Video {#davoverview}
   + [Tutorials](dva/overview-dva.md)
 + MAX 2020 {#max2020}
   + [Overview](max2020/overview-max.md)
