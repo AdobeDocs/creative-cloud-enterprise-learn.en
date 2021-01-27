@@ -25,7 +25,7 @@ Create engaging content in 3D faster with high-quality models, materials, and li
   </td>
   <td>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf">
-      <img alt="Visualize Textile Designs or Patterns on 3D Objects with Adobe Dimension" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Visualize Textile Designs or Patterns on 3D Objects with Adobe Dimension" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualize Textile Designs or Patterns on 3D Objects with Adobe Dimension (PDF)</strong></a>
