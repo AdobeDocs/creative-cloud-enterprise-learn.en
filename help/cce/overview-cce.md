@@ -64,7 +64,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
       <img alt="Creating Your Brand in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark</strong></a>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark (PDF)</strong></a>
     </div>
     <em>Adobe Spark makes it easy to define your brand</em>
     <br>
@@ -111,9 +111,9 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
       <img alt="Green Screen is Not Just for Video" src="assets/GreenScreenisNotJustforVideo.jpg" />
    </a>
     <div>
-   <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video</strong></a>
+   <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video (PDF)</strong></a>
     </div>
-    <em>You can use green screen in a photo studio and use After Effects to prepare the photo use in Photoshop (PDF)</em>
+    <em>You can use green screen in a photo studio and use After Effects to prepare the photo use in Photoshop</em>
     <br>
   </td>
 </tr>
