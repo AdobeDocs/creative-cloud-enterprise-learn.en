@@ -141,7 +141,7 @@ This setup consists of three lights:
 
 1. **Fill light:** less intensive and serving to fill in darker areas, this is used for areas the previous two lights don’t reach.
 
-![Example of a fill light illuminating a 3d headphone model](assets/Mastering3dlighting_24.jpg)
+    ![Example of a fill light illuminating a 3d headphone model](assets/Mastering3dlighting_24.jpg)
 
 There are two ways to create the 3-point lighting in Dimension – using Directional lights (individually adding them to the scene or using a 3-Point Light preset) or via glowing objects.
 
