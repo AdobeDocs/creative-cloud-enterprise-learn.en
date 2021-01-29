@@ -135,11 +135,11 @@ This setup consists of three lights:
 
 ![Example of a key light illuminating a 3d headphone model](assets/Mastering3dlighting_22.jpg)
 
-1. **Rim light:** oriented on the opposite side from the key, this is used to expose the silhouette of the subject.
+2. **Rim light:** oriented on the opposite side from the key, this is used to expose the silhouette of the subject.
 
 ![Example of a rim light illuminating a 3d headphone model](assets/Mastering3dlighting_23.jpg)
 
-1. **Fill light:** less intensive and serving to fill in darker areas, this is used for areas the previous two lights don’t reach.
+3. **Fill light:** less intensive and serving to fill in darker areas, this is used for areas the previous two lights don’t reach.
 
 ![Example of a fill light illuminating a 3d headphone model](assets/Mastering3dlighting_24.jpg)
 
