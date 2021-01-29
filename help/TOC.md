@@ -17,9 +17,9 @@ product: creative-cloud
   + [Tutorials](stock/overview-stock.md)
 + XD {#xdoverview}
   + [Tutorials](xd/overview-xd.md)
-+ 3D & VR {#3Doverview}
++ 3D & VR {#3doverview}
   + [Tutorials](3di/overview-3di.md)
-    + [Tips and techniques for mastering 3D lighting in CGI](3di/mastering3dlighting.md)
+  + [Tips and techniques for mastering 3D lighting in CGI](3di/mastering3dlighting.md)
 + Video {#videooverview}
   + [Tutorials](dva/overview-dva.md)
 + MAX 2020 {#max2020}

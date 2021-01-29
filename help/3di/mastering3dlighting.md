@@ -177,7 +177,7 @@ The easiest way to set this light is by using planes with glowing materials. In 
 
 The intensity of the light is controlled by the glow property on the planes’ materials. You are able to add a color or even a texture, which can be used to cast interesting shadows. Using glow materials will also provide the light intensity falloff, which is quite important for interior lighting.
 
-![Example of environment light, environment and key light, and environment, key and fill lights illuminating a 3d living room scene](assets/Mastering3dlighting_31.jpg)
+![Example of environment light, environment and key light, and environment, key and fill lights illuminating a 3d living room scene](assets/Mastering3dlighting_31.gif)
 
 ### Outdoor lighting
 
