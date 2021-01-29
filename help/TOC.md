@@ -1,17 +1,18 @@
 ---
-user-guide-title: Creative Cloud for Enterprise Learning Hub
-breadcrumb-title: Creative Cloud for Enterprise
-user-guide-description: View tutorials, webinars, and use cases focused on Creative Cloud for enterprise.
+user-guide-title: Creative Cloud for enterprise Learning Hub
+breadcrumb-title: Creative Cloud for enterprise
+user-guide-description: View tutorials and quick reference guides focused on Creative Cloud for enterprise.
 solution: Creative Cloud
 type: Tutorial
 product: creative-cloud
 ---
 
-# Creative Cloud for Enterprise Learning Hub {#cce-learning-hub}
+# Creative Cloud for enterprise Learning Hub {#cce-learning-hub}
 
 + [Overview](overview.md)
 + CCE {#cceoverview}
   + [Tutorials](cce/overview-cce.md)
+  + [Quick Reference Guides](quick-reference/overview-ref.md)
 + Stock {#stockoverview}
   + [Tutorials](stock/overview-stock.md)
 + XD {#xdoverview}
