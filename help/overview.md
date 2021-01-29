@@ -1,9 +1,9 @@
 ---
-title: Creative Cloud for Enterprise Learning Hub
+title: Creative Cloud for enterprise Learning Hub
 description: Welcome to the Creative Cloud for enterprise Learning Hub.
 ---
 
-# Creative Cloud for Enterprise Learning Hub
+# Creative Cloud for enterprise Learning Hub
 
 ![Creative Cloud Hero Image](assets/hero_cce.jpg)
 

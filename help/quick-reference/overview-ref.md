@@ -58,12 +58,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -145,12 +145,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -204,12 +204,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -422,12 +422,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
