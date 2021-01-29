@@ -113,11 +113,11 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-   <a href="Creating Cinemagraphs with Photoshop.pdf">
+   <a href="CreatingCinemagraphswithPhotoshop.pdf">
       <img alt="Creating Cinemagraphs with Photoshop" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="Creating Cinemagraphs with Photoshop.pdf"><strong>Creating Cinemagraphs with Photoshop (PDF)</strong></a>
+   <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>Creating Cinemagraphs with Photoshop (PDF)</strong></a>
     </div>
     <em>Create an living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop. Bring your images to life with motion and a strategic loop point</em>
     <br>
@@ -405,7 +405,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
       <img alt="Premiere Pro for Designers" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="PremiereProforDesignersn.pdf"><strong>Premiere Pro for Designers (PDF)</strong></a>
+   <a href="PremiereProforDesigners.pdf"><strong>Premiere Pro for Designers (PDF)</strong></a>
     </div>
     <em>Tell a compelling story on social media by combining video and graphics in Premiere Pro</em>
     <br>
