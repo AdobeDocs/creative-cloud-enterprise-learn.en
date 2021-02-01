@@ -9,7 +9,7 @@ description: Tutorials to help you get up-to-speed on Adobe 3D & VR
 
 Create engaging content in 3D faster with high-quality models, materials, and lighting. Dimension makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work.
 
-## Adobe 3D & VR tutorials
+## Click to view an Adobe 3D & VR tutorial
 
 <table>
 <tr>
@@ -47,7 +47,7 @@ Create engaging content in 3D faster with high-quality models, materials, and li
    <tr>
  <td>
    <a href="mastering3dlighting.md">
-      <img alt="Tips and techniques for mastering 3D lighting in CGI" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Tips and techniques for mastering 3D lighting in CGI" src="assets/Mastering3dlighting_1.gif" />
    </a>
     <div>
    <a href="mastering3dlighting.md"><strong>Tips and techniques for mastering 3D lighting in CGI</strong></a>
@@ -56,8 +56,13 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+   <a href="photorealistic.md">
+      <img alt="Creating photorealistic virtual photography with 3D rendering and compositing" src="assets/Photorealistic_1.png" />
+   </a>
     <div>
+   <a href="photorealistic.md"><strong>Creating photorealistic virtual photography with 3D rendering and compositing</strong></a>
+    </div>
+    <em>Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe Dimension</em>
     <br>
   </td>
   <td>

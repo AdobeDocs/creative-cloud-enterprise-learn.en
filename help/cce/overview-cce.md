@@ -10,7 +10,7 @@ description: Tutorials to help you get up-to-speed on the Creative Cloud for Ent
 As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in Creative Cloud—from an enterprise perspective.
 
 
-## Click to download a PDF of the product tutorials
+## Click to view a product tutorial
 
 ### Creative Cloud for enterprise
 

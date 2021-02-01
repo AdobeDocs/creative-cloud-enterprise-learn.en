@@ -9,7 +9,7 @@ description: Tutorials to help you get up-to-speed on Adobe DVA products
 
 Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more.
 
-## Click to download an Adobe Video PDF tutorial
+## Click to view an Adobe Video tutorial
 
 <table>
 <tr>
