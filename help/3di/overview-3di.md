@@ -57,7 +57,7 @@ Create engaging content in 3D faster with high-quality models, materials, and li
   </td>
   <td>
    <a href="photorealistic.md">
-      <img alt="Creating photorealistic virtual photography with 3D rendering and compositing" src="assets/Photorealistic_1.png" />
+      <img alt="Creating photorealistic virtual photography with 3D rendering and compositing" src="assets/Photorealistic_TOC.png" />
    </a>
     <div>
    <a href="photorealistic.md"><strong>Creating photorealistic virtual photography with 3D rendering and compositing</strong></a>
