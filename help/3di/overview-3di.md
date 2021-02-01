@@ -9,7 +9,7 @@ description: Tutorials to help you get up-to-speed on Adobe 3D & VR
 
 Create engaging content in 3D faster with high-quality models, materials, and lighting. Dimension makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work.
 
-## Adobe 3D & VR tutorials
+## Click to view an Adobe 3D & VR tutorial
 
 <table>
 <tr>

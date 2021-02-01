@@ -9,7 +9,7 @@ description: Tutorials to help you get up-to-speed on Adobe Stock
 
 Creatives are under pressure to quickly deliver new, visually compelling content that will capture and hold attention. Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets – all from within the Adobe creative apps they use every day.
 
-## Click to download an Adobe Stock PDF tutorial
+## Click to view an Adobe Stock tutorial
 
 <table>
 <tr>
