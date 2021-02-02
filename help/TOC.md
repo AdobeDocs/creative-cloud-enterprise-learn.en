@@ -17,6 +17,7 @@ product: creative-cloud
   + [Tutorials](stock/overview-stock.md)
 + XD {#xdoverview}
   + [Tutorials](xd/overview-xd.md)
+  + [Get comfortable with Components in Adobe XD](xd/components.md)
 + 3D & VR {#3doverview}
   + [Overview](3di/overview-3di.md)
   + Tutorials {#3dtutorials}
