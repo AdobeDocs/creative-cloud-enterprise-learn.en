@@ -66,8 +66,13 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+   <a href="3ddimensionstock.md">
+      <img alt="Customize and brand a 3D model with Dimension and Adobe Stock" src="assets/3ddimensionstock.jpg" />
+   </a>
     <div>
+   <a href="3ddimensionstock.md"><strong>Customize and brand a 3D model with Dimension and Adobe Stock</strong></a>
+    </div>
+    <em>Customize and brand a 3D model in Dimension using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
     <br>
   </td>
 </tr>

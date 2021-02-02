@@ -16,13 +16,15 @@ product: creative-cloud
 + Stock {#stockoverview}
   + [Tutorials](stock/overview-stock.md)
 + XD {#xdoverview}
-  + [Tutorials](xd/overview-xd.md)
-  + [Get comfortable with Components in Adobe XD](xd/components.md)
+  + [Overview](xd/overview-xd.md)
+  + Tutorials {#xdtutorials}
+   + [Get comfortable with Components in Adobe XD](xd/components.md)
 + 3D & VR {#3doverview}
   + [Overview](3di/overview-3di.md)
   + Tutorials {#3dtutorials}
     + [Tips and techniques for mastering 3D lighting in CGI](3di/mastering3dlighting.md)
     + [Creating photorealistic virtual photography with 3D rendering and compositing](3di/photorealistic.md)
+    + [Customize and brand a 3D model with Dimension and Adobe Stock](3di/3ddeimensionstock.md)
 + Video {#videooverview}
   + [Tutorials](dva/overview-dva.md)
 + MAX 2020 {#max2020}
