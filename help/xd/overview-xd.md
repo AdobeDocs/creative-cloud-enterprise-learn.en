@@ -15,7 +15,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
 <tr>
  <td>
    <a href="components.md">
-      <img alt="Get comfortable with Components in Adobe XD" src="assets/componentsxd.jpg" />
+      <img alt="Get comfortable with Components in Adobe XD" src="assets/Componentsxd.jpg" />
    </a>
     <div>
    <a href="components.md"><strong>Get comfortable with Components in Adobe XD</strong></a>
