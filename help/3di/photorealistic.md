@@ -159,8 +159,6 @@ Once the scene is complete, the workflow for the end-user is straightforward. Si
 
 The end result is a convincing blend of reality and 3D that helps end users achieve the goal of creating photorealistic images with minimal effort. Give it a try yourself with some [free Dimension scenes](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) we created to demonstrate the workflow.
 
-![A 3D rendered metal sphere is composited into a series of background images with different lighting](assets/Photorealistic_26.png)
-
 [Download the latest release](https://creativecloud.adobe.com/apps/download/dimension) of Dimension today and start building your photorealistic images.
 
 
