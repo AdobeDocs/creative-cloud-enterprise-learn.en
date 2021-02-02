@@ -9,18 +9,18 @@ description: Tutorials to help you get up-to-speed on Adobe XD
 
 Adobe XD is a user experience design and prototyping tool for designing websites, apps, voice interfaces, games, and other types of digital experiences.
 
-## Click to download an Adobe XD PDF tutorial
+## Click to view an Adobe XD tutorial
 
 <table>
 <tr>
  <td>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf">
-      <img alt="Behind the Scenes of MAX Madness with Adobe XD" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
+   <a href="components.md">
+      <img alt="Get comfortable with Components in Adobe XD" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf"><strong>Behind the Scenes of MAX Madness with Adobe XD (PDF)</strong></a>
+   <a href="components.md"><strong>Get comfortable with Components in Adobe XD</strong></a>
     </div>
-    <em>Delivering an optimized mobile web experience can really resonate with your users</em>
+    <em>Learn how to use Components to give you unprecedented flexibility for applying both speed and consistency to your design workflow</em>
     <br>
   </td>
   <td>
@@ -117,6 +117,16 @@ Adobe XD is a user experience design and prototyping tool for designing websit
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>Supercharge the Repeat Grid in XD with External Text and Graphics (PDF)</strong></a>
     </div>
     <em>Combine the repeat grid with external text and graphics to supercharge your productivity</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf">
+      <img alt="Behind the Scenes of MAX Madness with Adobe XD" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
+   </a>
+    <div>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf"><strong>Behind the Scenes of MAX Madness with Adobe XD (PDF)</strong></a>
+    </div>
+    <em>Delivering an optimized mobile web experience can really resonate with your users</em>
     <br>
   </td>
 </tr>
