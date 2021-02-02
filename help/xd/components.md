@@ -9,7 +9,7 @@ Learn how to use Components to give you unprecedented flexibility for applying b
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-Click the PDF file icon to download a Quick Reference Guide for this video tutorial. 
+Click the PDF file icon to download a PDF of this tutorial.
 [![PDF File Icon](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)
 
 
