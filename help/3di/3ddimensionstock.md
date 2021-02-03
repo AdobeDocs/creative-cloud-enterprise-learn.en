@@ -10,6 +10,7 @@ Customize and brand a 3D model in Dimension using materials, environmental prope
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 
 Click the PDF file icon to download a Quick Reference Guide of this tutorial.
+
 [![PDF File Icon](../assets/acrobat_PDF_96.png)](../quick-reference/SkiptheShootGettheShot.pdf)
 
 
