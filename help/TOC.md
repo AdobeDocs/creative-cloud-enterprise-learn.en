@@ -11,7 +11,10 @@ product: creative-cloud
 
 + [Overview](overview.md)
 + CCE {#cceoverview}
-  + [Tutorials](cce/overview-cce.md)
+  + [Overview](cce/overview-cce.md)
+  + Tutorials {#ccetutorials}
+    + [Create unique composites with Adobe Stock and Photoshop for iPad](cce/compositepsipad.md)
+    + [Creating Cinemagraphs with Photoshop](cce/cinemagraphps.md)
   + [Quick Reference Guides](quick-reference/overview-ref.md)
 + Stock {#stockoverview}
   + [Tutorials](stock/overview-stock.md)
@@ -24,7 +27,7 @@ product: creative-cloud
   + Tutorials {#3dtutorials}
     + [Tips and techniques for mastering 3D lighting in CGI](3di/mastering3dlighting.md)
     + [Creating photorealistic virtual photography with 3D rendering and compositing](3di/photorealistic.md)
-    + [Customize and brand a 3D model with Dimension and Adobe Stock](3di/3ddeimensionstock.md)
+    + [Customize and brand a 3D model with Dimension and Adobe Stock](3di/3ddimensionstock.md)
 + Video {#videooverview}
   + [Tutorials](dva/overview-dva.md)
 + MAX 2020 {#max2020}

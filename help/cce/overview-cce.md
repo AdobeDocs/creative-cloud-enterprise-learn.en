@@ -86,6 +86,26 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 <table>
 <tr>
+   <td>
+   <a href="compositepsipad.md">
+      <img alt="Create unique composites with Adobe Stock and Photoshop for iPad" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
+   </a>
+    <div>
+   <a href="compositepsipad.md"><strong>Create unique composites with Adobe Stock and Photoshop for iPad</strong></a>
+    </div>
+    <em>Bring the power of Photoshop to your fingertips. Learn to use one of your favorite Creative Cloud applications in a whole new way, with a re-engineered touch-based interface</em>
+    <br>
+  </td>
+  <td>
+   <a href="cinemagraphps.md">
+      <img alt="Creating Cinemagraphs with Photoshop" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="cinemagraphps.md"><strong>Creating Cinemagraphs with Photoshop</strong></a>
+    </div>
+    <em>In this step-by-step workshop video tutorial, you'll create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop</em>
+    <br>
+  </td>
   <td>
    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Add Remarkable Lighting to a Photo with Photoshop and After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
@@ -94,26 +114,6 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>Add remarkable lighting to a photo with Photoshop and After Effects (PDF)</strong></a>
     </div>
     <em>Learn to use the Light Burst effect in Adobe After Effects to dramatically enhance a photograph</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
-      <img alt="Anyone Can Be Creative with Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
-   </a>
-    <div>
-   <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Add a little Adobe Photoshop to your creative skill set (PDF)</strong></a>
-    </div>
-    <em>Add a little Adobe Photoshop to your creative skill set</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/GreenScreenisNotJustforVideo.pdf">
-      <img alt="Green Screen is Not Just for Video" src="assets/GreenScreenisNotJustforVideo.jpg" />
-   </a>
-    <div>
-   <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video (PDF)</strong></a>
-    </div>
-    <em>You can use green screen in a photo studio and use After Effects to prepare the photo use in Photoshop</em>
     <br>
   </td>
 </tr>
@@ -178,6 +178,33 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
    <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Work Smarter, Not Harder, with Photoshop (PDF)</strong></a>
     </div>
     <em>Making changes in Photoshop can be time consuming, but it doesn’t have to be</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
+   <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
+      <img alt="Anyone Can Be Creative with Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Add a little Adobe Photoshop to your creative skill set (PDF)</strong></a>
+    </div>
+    <em>Add a little Adobe Photoshop to your creative skill set</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/GreenScreenisNotJustforVideo.pdf">
+      <img alt="Green Screen is Not Just for Video" src="assets/GreenScreenisNotJustforVideo.jpg" />
+   </a>
+    <div>
+   <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video (PDF)</strong></a>
+    </div>
+    <em>You can use green screen in a photo studio and use After Effects to prepare the photo use in Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
