@@ -88,7 +88,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <tr>
    <td>
    <a href="compositepsipad.md">
-      <img alt="Create unique composites with Adobe Stock and Photoshop for iPad" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
+      <img alt="Create unique composites with Adobe Stock and Photoshop for iPad" src="assets/CompositePSiPad.jpg" />
    </a>
     <div>
    <a href="compositepsipad.md"><strong>Create unique composites with Adobe Stock and Photoshop for iPad</strong></a>
@@ -98,7 +98,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
   <td>
    <a href="cinemagraphps.md">
-      <img alt="Creating Cinemagraphs with Photoshop" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
+      <img alt="Creating Cinemagraphs with Photoshop" src="assets/CinemagraphsPS.jpg" />
    </a>
     <div>
    <a href="cinemagraphps.md"><strong>Creating Cinemagraphs with Photoshop</strong></a>
