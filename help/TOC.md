@@ -30,6 +30,9 @@ product: creative-cloud
     + [Customize and brand a 3D model with Dimension and Adobe Stock](3di/3ddimensionstock.md)
 + Video {#videooverview}
   + [Tutorials](dva/overview-dva.md)
++ Deploy & Manage {#deploy}
+  + [Overview](deploy/overview-deploy.md)
+  + [Serial number expiration](cceserial.md)
 + MAX 2020 {#max2020}
   + [Overview](max2020/overview-max.md)
   + Tutorials {#tutorials}
