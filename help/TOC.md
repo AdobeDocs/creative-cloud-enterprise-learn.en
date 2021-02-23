@@ -32,7 +32,7 @@ product: creative-cloud
   + [Tutorials](dva/overview-dva.md)
 + Deploy & Manage {#deploy}
   + [Overview](deploy/overview-deploy.md)
-  + [Serial number expiration](cceserial.md)
+  + [Serial number expiration](deploy/cceserial.md)
 + MAX 2020 {#max2020}
   + [Overview](max2020/overview-max.md)
   + Tutorials {#tutorials}
