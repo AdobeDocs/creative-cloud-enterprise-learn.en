@@ -33,6 +33,7 @@ product: creative-cloud
 + Deploy & Manage {#deploy}
   + [Overview](deploy/overview-deploy.md)
   + [Serial number expiration](deploy/cceserial.md)
+  + [Named User Licensing](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
   + [Overview](max2020/overview-max.md)
   + Tutorials {#tutorials}
