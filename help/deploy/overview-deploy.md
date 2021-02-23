@@ -5,6 +5,6 @@ description: Tutorials to help you get up-to-speed on how to deploy and manage C
 
 # Creative Cloud for enterprise deploy & manage topics
 
-![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
+![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
 * [Understanding Creative Cloud for enterprise and Acrobat Serial Number Expiration](cceserial.md)
