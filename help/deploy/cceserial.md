@@ -27,11 +27,11 @@ The serial number licenses associated with your ETLA agreement are available via
 
 The [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) is a command-line utility for IT Admins to check whether Adobe products on a computer are using serial numbers that have expired or are expiring. The tool will display information such as the product licensing identifier (LEID), the encrypted serial number, and the expiration date. This [page](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contains instructions on downloading & using the tool on either Mac or Windows computers.
 
-### Understanding the end user experience before and after serial number expires
+## Understanding the end user experience before and after serial number expires
 
 Both Acrobat and Creative Cloud for enterprise apps will begin to display messages (in the apps) starting 60 days before expiration. Once the serial number expires, the products stop working, and prompt the user to take action.
 
-## Creative Cloud for enterprise experience
+### Creative Cloud for enterprise experience
 
 The following information outlines the end user experience. There’s a short video below followed by review of the end user experience.
 
@@ -39,7 +39,7 @@ The following information outlines the end user experience. There’s a short vi
 
 **Before expiration**
 
-Beginning 60 days before the serial number expires, all Creative Cloud for enterprise apps display an in product dialog box to the end user. This message will appear weekly, until 30 days before expiration, it will then appear daily until the expiration date stating Your license is expiring. *This Adobe product is using a license that is due to expire on November 29, 2020. Please contact your admin to ensure continued access*.
+Beginning 60 days before the serial number expires, all Creative Cloud for enterprise apps display an in product dialog box to the end user. This message will appear weekly, until 30 days before expiration, it will then appear daily until the expiration date stating *Your license is expiring. This Adobe product is using a license that is due to expire on November 29, 2020. Please contact your admin to ensure continued access*.
 
 ![CCE before expiration message](assets/cceexpiring.png)
 
@@ -55,7 +55,7 @@ For all subsequent attempts to launch the apps, the end user will be prompted to
 
 ![CCE Sign in dialog 2](assets/ccesignin2.png)
 
-## Acrobat experience
+### Acrobat experience
 
 The following information outlines the end user experience. There’s a short video below followed by review of the end user experience.
 
@@ -64,7 +64,7 @@ The following information outlines the end user experience. There’s a short vi
 
 **Before expiration**
 
-Beginning 60 days before the serial number expires, Acrobat displays an in product pop-up message to the end user. This will appear once a week until 7 days before expiration. It will then begin to appear daily stating Your Adobe Acrobat license expires on 30/11/2020. Please contact your administrator to continue using Acrobat without disruption.
+Beginning 60 days before the serial number expires, Acrobat displays an in product pop-up message to the end user. This will appear once a week until 7 days before expiration. It will then begin to appear daily stating *Your Adobe Acrobat license expires on 30/11/2020. Please contact your administrator to continue using Acrobat without disruption.*
 
 ![Acrobat expiring message](assets/acrobatexpiring.png)
 
