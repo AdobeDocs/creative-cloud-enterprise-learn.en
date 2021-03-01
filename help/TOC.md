@@ -17,7 +17,14 @@ product: creative-cloud
     + [Creating Cinemagraphs with Photoshop](cce/cinemagraphps.md)
   + [Quick Reference Guides](quick-reference/overview-ref.md)
 + Stock {#stockoverview}
-  + [Tutorials](stock/overview-stock.md)
+  + [Overview](stock/overview-stock.md)
+  + Tutorials {#stocktutorials}
+    + [Add a hand-drawn aesthetic to Adobe Stock images](stock/handdrawn.md)
+    + [Add flair to typography with masks and animation](stock/flairtypography.md)
+    + [Animate an Adobe Stock vector illustration in Photoshop](stock/animatevector.md)
+    + [Begin Your Annual Report with a Video Created with Adobe Stock and Spark Video](stock/annualreport.md)
+    + [Bring creative to life with custom animations by Adobe Stock](stock/customanimations.md)
+    + [Change an Adobe Stock image’s colors to match your story](stock/changecolors.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}

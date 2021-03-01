@@ -14,6 +14,70 @@ Creatives are under pressure to quickly deliver new, visually compelling content
 <table>
 <tr>
  <td>
+   <a href="handdrawn.md">
+      <img alt="Add a hand-drawn aesthetic to Adobe Stock images" src="assets/handdrawn.jpg" />
+   </a>
+    <div>
+   <a href="handdrawn.md"><strong>Add a hand-drawn aesthetic to Adobe Stock images</strong></a>
+    </div>
+    <em>Amp up your creative marketing with unique techniques that add depth and dimension to your imagery using Photoshop for iPad</em>
+    <br>
+  </td>
+  <td>
+   <a href="flairtypography.md">
+      <img alt="Add flair to typography with masks and animation" src="assets/flairtypography.jpg" />
+   </a>
+    <div>
+   <a href="flairtypography.md"><strong>Add flair to typography with masks and animation</strong></a>
+    </div>
+    <em>Bring your text to life with elements from Adobe Stock and animation styles from After Effects</em>
+    <br>
+  </td>
+  <td>
+   <a href="animatevector.md">
+      <img alt="Animate an Adobe Stock vector illustration in Photoshop" src="assets/animatevector.jpg" />
+   </a>
+    <div>
+   <a href="animatevector.md"><strong>Animate an Adobe Stock vector illustration in Photoshop</strong></a>
+    </div>
+    <em>Bring animation into your newsletter graphics with editable vectors for Adobe Stock</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
+   <a href="annualreport.md">
+      <img alt="Begin Your Annual Report with a Video Created with Adobe Stock and Spark Video" src="assets/annualreport.jpg" />
+   </a>
+    <div>
+   <a href="annualreport.md"><strong>Begin Your Annual Report with a Video Created with Adobe Stock and Spark Video</strong></a>
+    </div>
+    <em>Make your annual report a story with Adobe Stock and Spark Video</em>
+    <br>
+  </td>
+  <td>
+   <a href="customanimations.md">
+      <img alt="Bring creative to life with custom animations by Adobe Stock" src="assets/customanimations.jpg" />
+   </a>
+    <div>
+   <a href="customanimations.md"><strong>Bring creative to life with custom animations by Adobe Stock</strong></a>
+    </div>
+    <em>Use Adobe Stock images, textures, patterns to custom animations in Photoshop</em>
+    <br>
+  </td>
+  <td>
+   <a href="changecolors.md">
+      <img alt="Change an Adobe Stock image’s colors to match your story" src="assets/changecolors.jpg" />
+   </a>
+    <div>
+   <a href="changecolors.md""><strong>Change an Adobe Stock image’s colors to match your story</strong></a>
+    </div>
+    <em>Find a unique photo in Adobe Stock and then adjust the color in Adobe Photoshop to fit your needs</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
    <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
       <img alt="Add Motion to Still Images with Adobe Stock and Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
    </a>
@@ -35,10 +99,10 @@ Creatives are under pressure to quickly deliver new, visually compelling content
   </td>
   <td>
    <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf">
-      <img alt="Create a Unique Editorial Graphic with After Effects and Adobe Stock" src="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.jpg" />
+      <img alt="Animate an Adobe Stock vector illustration in Photoshop" src="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf"><strong>Create a Unique Editorial Graphic with After Effects and Adobe Stock (PDF)</strong></a>
+   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf"><strong>Animate an Adobe Stock vector illustration in Photoshop (PDF)</strong></a>
     </div>
     <em>By combining After Effects with Adobe Stock, you can quickly create stunning special effects that will help you visually tell a story</em>
     <br>
