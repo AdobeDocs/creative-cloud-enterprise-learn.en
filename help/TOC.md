@@ -31,6 +31,9 @@ product: creative-cloud
     + [Create a product feature comparison chart using Adobe Stock](stock/featurecomparison.md)
     + [Create a semi-surreal composite with Adobe Stock](stock/surrealcomposite.md)
     + [Create a semi-surreal pattern with Adobe Stock](stock/surrealpattern.md)
+    + [Create an interactive product configurator with Adobe Stock](stock/productconfigurator.md)
+    + [Create an Interactive Tourism Photo with Adobe Stock and XD](stock/interactivetourismphoto.md)
+    + [Create Animations for Email with Adobe Stock and Photoshop](stock/animationemail.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
