@@ -47,10 +47,10 @@ Creatives are under pressure to quickly deliver new, visually compelling content
 <tr>
  <td>
    <a href="annualreport.md">
-      <img alt="Begin Your Annual Report with a Video Created with Adobe Stock and Spark Video" src="assets/annualreport.jpg" />
+      <img alt="Begin Your Annual Report with a video created with Adobe Stock and Spark Video" src="assets/annualreport.jpg" />
    </a>
     <div>
-   <a href="annualreport.md"><strong>Begin Your Annual Report with a Video Created with Adobe Stock and Spark Video</strong></a>
+   <a href="annualreport.md"><strong>Begin Your Annual Report with a video created with Adobe Stock and Spark Video</strong></a>
     </div>
     <em>Make your annual report a story with Adobe Stock and Spark Video</em>
     <br>
@@ -153,20 +153,20 @@ Creatives are under pressure to quickly deliver new, visually compelling content
   </td>
   <td>
    <a href="interactivetourismphoto.md">
-      <img alt="Create an Interactive Tourism Photo with Adobe Stock and XD" src="assets/interactivetourismphoto.jpg" />
+      <img alt="Create an interactive tourism photo with Adobe Stock and XD" src="assets/interactivetourismphoto.jpg" />
    </a>
     <div>
-   <a href="interactivetourismphoto.md"><strong>Create an Interactive Tourism Photo with Adobe Stock and XD</strong></a>
+   <a href="interactivetourismphoto.md"><strong>Create an interactive tourism photo with Adobe Stock and XD</strong></a>
     </div>
     <em>Quickly create an interactive photo within your website prototype with Adobe Stock & XD</em>
     <br>
   </td>
   <td>
    <a href="animationemail.md">
-      <img alt="Create Animations for Email with Adobe Stock and Photoshop" src="assets/animationemail.jpg" />
+      <img alt="Create animations for email with Adobe Stock and Photoshop" src="assets/animationemail.jpg" />
    </a>
     <div>
-   <a href="animationemail.md"><strong>Create Animations for Email with Adobe Stock and Photoshop</strong></a>
+   <a href="animationemail.md"><strong>Create animations for email with Adobe Stock and Photoshop</strong></a>
     </div>
     <em>Empower your Emails with Stop-Action Animation with Adobe Stock and Photoshop</em>
     <br>
@@ -185,10 +185,10 @@ Creatives are under pressure to quickly deliver new, visually compelling content
   </td>
   <td>
    <a href="webgraphics.md">
-      <img alt="Create Engaging Web Graphics by Combining Adobe Stock images with CSS" src="assets/webgraphics.jpg" />
+      <img alt="Create engaging web graphics by combining Adobe Stock images with CSS" src="assets/webgraphics.jpg" />
    </a>
     <div>
-   <a href="webgraphics.md"><strong>Create Engaging Web Graphics by Combining Adobe Stock images with CSS</strong></a>
+   <a href="webgraphics.md"><strong>Create engaging web graphics by combining Adobe Stock images with CSS</strong></a>
     </div>
     <em>Create brand unity with varying images by combining colors and gradients across your advertising campaign</em>
     <br>
@@ -249,10 +249,10 @@ Creatives are under pressure to quickly deliver new, visually compelling content
   </td>
    <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
-         <img alt="Add Motion to Still Images with Adobe Stock and Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
+         <img alt="Add motion to still images with Adobe Stock and Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf"><strong>Add Motion to Still Images with Adobe Stock and Photoshop (PDF)</strong></a>
+      <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf"><strong>Add motion to still images with Adobe Stock and Photoshop (PDF)</strong></a>
       </div>
       <em>Wow your audiences on any screen by incorporating video into a still image</em>
       <br>
@@ -281,20 +281,20 @@ Creatives are under pressure to quickly deliver new, visually compelling content
   </td>
    <td>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf">
-         <img alt="Create Unique Graphics by Combining Adobe Stock Images" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
+         <img alt="Create unique graphics by combining Adobe Stock images" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
       </a>
       <div>
-      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Create Unique Graphics by Combining Adobe Stock Images (PDF)</strong></a>
+      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Create unique graphics by combining Adobe Stock images (PDF)</strong></a>
       </div>
       <em>Bring together two different images to create an entirely new scene for your design projects. Adobe Stock and Adobe Photoshop make it easy</em>
       <br>
    </td>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf">
-         <img alt="Creating a Halloween Cinemagraph with Photoshop CC and Adobe Stock" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
+         <img alt="Creating a Halloween cinemagraph with Photoshop CC and Adobe Stock" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
       <div>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf"><strong>Creating a Halloween Cinemagraph with Photoshop CC and Adobe Stock (PDF)</strong></a>
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf"><strong>Creating a Halloween cinemagraph with Photoshop CC and Adobe Stock (PDF)</strong></a>
       </div>
       <em>Create a cinemagraph by compositing video, illustrations, and photos with Adobe Photoshop</em>
       <br>
@@ -303,10 +303,10 @@ Creatives are under pressure to quickly deliver new, visually compelling content
 <tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf">
-         <img alt="Put your Data in Motion with Adobe Stock and Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
+         <img alt="Put your data in motion with Adobe Stock and Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
       </a>
       <div>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf"><strong>Put your Data in Motion with Adobe Stock and Premiere Pro (PDF)</strong></a>
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf"><strong>Put your data in motion with Adobe Stock and Premiere Pro (PDF)</strong></a>
       </div>
       <em>Make your data come to life to tell a more persuasive story using Adobe Stock and Adobe Premiere Pro</em>
       <br>
@@ -316,17 +316,17 @@ Creatives are under pressure to quickly deliver new, visually compelling content
          <img alt="Recolor Adobe Stock Vector Artwork with Adobe Illustrator to Get Exactly the Look You Want" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
       </a>
       <div>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf"><strong>Recolor Adobe Stock Vector Artwork with Adobe Illustrator to Get Exactly the Look You Want (PDF)</strong></a>
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf"><strong>Recolor Adobe Stock vector artwork with Adobe Illustrator to get exactly the look you want (PDF)</strong></a>
       </div>
       <em>Adobe Stock makes it easy to find unique vector graphics, and Adobe Illustrator enables you to quickly modify them to match your creative vision</em>
       <br>
    </td>
    <td>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf">
-         <img alt="Show Off your Design Work in the Real World with Adobe Stock and Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Show off your design work in the real world with Adobe Stock and Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>Show Off your Design Work in the Real World with Adobe Stock and Photoshop (PDF)</strong></a>
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>Show off your design work in the real world with Adobe Stock and Photoshop (PDF)</strong></a>
       </div>
       <em>Follow these steps to showcase your work in a realistic-looking Adobe Stock template using Adobe Photoshop</em>
       <br>
@@ -345,10 +345,10 @@ Creatives are under pressure to quickly deliver new, visually compelling content
   </td>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf">
-         <img alt="Visualize Poster Designs in the Real World with Adobe Stock and Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Visualize poster designs in the real world with Adobe Stock and Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>Visualize Poster Designs in the Real World with Adobe Stock and Photoshop (PDF)</strong></a>
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>Visualize poster designs in the real world with Adobe Stock and Photoshop (PDF)</strong></a>
       </div>
       <em>Showcase your designs in real-life environments to get a better sense of how they’ll look out in the world</em>
       <br>
