@@ -34,6 +34,9 @@ product: creative-cloud
     + [Create an interactive product configurator with Adobe Stock](stock/productconfigurator.md)
     + [Create an Interactive Tourism Photo with Adobe Stock and XD](stock/interactivetourismphoto.md)
     + [Create Animations for Email with Adobe Stock and Photoshop](stock/animationemail.md)
+    + [Create cohesive brand imagery with beautiful gradients and Adobe Stock assets](stock/brandgradients.md)
+    + [Create Engaging Web Graphics by Combining Adobe Stock images with CSS](stock/webgraphics.md)
+    + [Create inspiring mood boards in no time with Adobe Stock](stock/moodboard.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
