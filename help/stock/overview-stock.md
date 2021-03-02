@@ -84,12 +84,12 @@ Creatives are under pressure to quickly deliver new, visually compelling content
     <div>
    <a href="collage.md"><strong>Create a 3D collage for a poster using Adobe Stock images</strong></a>
     </div>
-    <em>description: Design a collage in Adobe Illustrator that features an eye-catching 3D effect from images in Adobe Stock</em>
+    <em>Design a collage in Adobe Illustrator that features an eye-catching 3D effect from images in Adobe Stock</em>
     <br>
   </td>
   <td>
    <a href="boldlabel.md">
-      <img alt="Create a bold label with Adobe Stock templates and Photoshop Smart Objects" src="assets/customanimations.jpg" />
+      <img alt="Create a bold label with Adobe Stock templates and Photoshop Smart Objects" src="assets/boldlabel.jpg" />
    </a>
     <div>
    <a href="boldlabel.md"><strong>Create a bold label with Adobe Stock templates and Photoshop Smart Objects</strong></a>
@@ -99,12 +99,44 @@ Creatives are under pressure to quickly deliver new, visually compelling content
   </td>
   <td>
    <a href="infographic.md">
-      <img alt="Create a company guidelines infographic with Adobe Stock" src="assets/changecolors.jpg" />
+      <img alt="Create a company guidelines infographic with Adobe Stock" src="assets/infographic.jpg" />
    </a>
     <div>
    <a href="infographic.md"><strong>Create a company guidelines infographic with Adobe Stock</strong></a>
     </div>
     <em>Combine a variety of assets from Adobe Stock to communicate guidelines in the form of visually compelling infographics</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
+   <a href="featurecomparison.md">
+      <img alt="Create a product feature comparison chart using Adobe Stock" src="assets/featurecomparison.jpg" />
+   </a>
+    <div>
+   <a href="featurecomparison.md"><strong>Create a product feature comparison chart using Adobe Stock</strong></a>
+    </div>
+    <em>Create a graphic that compares product pricing plans to give prospective customers the information they need at a glance</em>
+    <br>
+  </td>
+  <td>
+   <a href="surrealcomposite.md">
+      <img alt="Create a semi-surreal composite with Adobe Stock" src="assets/surrealcomposite.jpg" />
+   </a>
+    <div>
+   <a href="surrealcomposite.md"><strong>Create a semi-surreal composite with Adobe Stock</strong></a>
+    </div>
+    <em>Create a memorable editorial image by combining multiple images with color, motion, and masking effects</em>
+    <br>
+  </td>
+  <td>
+   <a href="surrealpattern.md">
+      <img alt="Create a semi-surreal pattern with Adobe Stock" src="assets/surrealpattern.jpg" />
+   </a>
+    <div>
+   <a href="surrealpattern.md"><strong>Create a semi-surreal pattern with Adobe Stock</strong></a>
+    </div>
+    <em>Create a beautiful seamless pattern based on surreal imagery from Adobe Stock</em>
     <br>
   </td>
 </tr>

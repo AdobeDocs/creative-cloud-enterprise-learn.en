@@ -28,6 +28,9 @@ product: creative-cloud
     + [Create a 3D collage for a poster using Adobe Stock images](stock/collage.md)
     + [Create a bold label with Adobe Stock templates and Photoshop Smart Objects](stock/boldlabel.md)
     + [Create a company guidelines infographic with Adobe Stock](stock/infographic.md)
+    + [Create a product feature comparison chart using Adobe Stock](stock/featurecomparison.md)
+    + [Create a semi-surreal composite with Adobe Stock](stock/surrealcomposite.md)
+    + [Create a semi-surreal pattern with Adobe Stock](stock/surrealpattern.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
