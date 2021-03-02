@@ -70,9 +70,41 @@ Creatives are under pressure to quickly deliver new, visually compelling content
       <img alt="Change an Adobe Stock image’s colors to match your story" src="assets/changecolors.jpg" />
    </a>
     <div>
-   <a href="changecolors.md""><strong>Change an Adobe Stock image’s colors to match your story</strong></a>
+   <a href="changecolors.md"><strong>Change an Adobe Stock image’s colors to match your story</strong></a>
     </div>
     <em>Find a unique photo in Adobe Stock and then adjust the color in Adobe Photoshop to fit your needs</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
+   <a href="collage.md">
+      <img alt="Create a 3D collage for a poster using Adobe Stock images" src="assets/collage.jpg" />
+   </a>
+    <div>
+   <a href="collage.md"><strong>Create a 3D collage for a poster using Adobe Stock images</strong></a>
+    </div>
+    <em>description: Design a collage in Adobe Illustrator that features an eye-catching 3D effect from images in Adobe Stock</em>
+    <br>
+  </td>
+  <td>
+   <a href="boldlabel.md">
+      <img alt="Create a bold label with Adobe Stock templates and Photoshop Smart Objects" src="assets/customanimations.jpg" />
+   </a>
+    <div>
+   <a href="boldlabel.md"><strong>Create a bold label with Adobe Stock templates and Photoshop Smart Objects</strong></a>
+    </div>
+    <em>Design and visualize your custom designs with realistic packaging templates from Adobe Stock</em>
+    <br>
+  </td>
+  <td>
+   <a href="infographic.md">
+      <img alt="Create a company guidelines infographic with Adobe Stock" src="assets/changecolors.jpg" />
+   </a>
+    <div>
+   <a href="infographic.md"><strong>Create a company guidelines infographic with Adobe Stock</strong></a>
+    </div>
+    <em>Combine a variety of assets from Adobe Stock to communicate guidelines in the form of visually compelling infographics</em>
     <br>
   </td>
 </tr>
