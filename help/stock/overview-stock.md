@@ -142,6 +142,70 @@ Creatives are under pressure to quickly deliver new, visually compelling content
 </tr>
 <tr>
  <td>
+   <a href="productconfigurator.md">
+      <img alt="Create an interactive product configurator with Adobe Stock" src="assets/productconfigurator.jpg" />
+   </a>
+    <div>
+   <a href="productconfigurator.md"><strong>Create an interactive product configurator with Adobe Stock</strong></a>
+    </div>
+    <em>Use the power of interactivity, animation, and editable artwork from Adobe Stock to present financial information in a visual way</em>
+    <br>
+  </td>
+  <td>
+   <a href="interactivetourismphoto.md">
+      <img alt="Create an Interactive Tourism Photo with Adobe Stock and XD" src="assets/interactivetourismphoto.jpg" />
+   </a>
+    <div>
+   <a href="interactivetourismphoto.md"><strong>Create an Interactive Tourism Photo with Adobe Stock and XD</strong></a>
+    </div>
+    <em>Quickly create an interactive photo within your website prototype with Adobe Stock & XD</em>
+    <br>
+  </td>
+  <td>
+   <a href="animationemail.md">
+      <img alt="Create Animations for Email with Adobe Stock and Photoshop" src="assets/animationemail.jpg" />
+   </a>
+    <div>
+   <a href="animationemail.md"><strong>Create Animations for Email with Adobe Stock and Photoshop</strong></a>
+    </div>
+    <em>Empower your Emails with Stop-Action Animation with Adobe Stock and Photoshop</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
+   <a href="brandgradients.md">
+      <img alt="Create cohesive brand imagery with beautiful gradients and Adobe Stock assets" src="assets/brandgradients.jpg" />
+   </a>
+    <div>
+   <a href="brandgradients.md"><strong>Create cohesive brand imagery with beautiful gradients and Adobe Stock assets</strong></a>
+    </div>
+    <em>Create brand unity with varying images by combining colors and gradients across your advertising campaign</em>
+    <br>
+  </td>
+  <td>
+   <a href="webgraphics.md">
+      <img alt="Create Engaging Web Graphics by Combining Adobe Stock images with CSS" src="assets/webgraphics.jpg" />
+   </a>
+    <div>
+   <a href="webgraphics.md"><strong>Create Engaging Web Graphics by Combining Adobe Stock images with CSS</strong></a>
+    </div>
+    <em>Create brand unity with varying images by combining colors and gradients across your advertising campaign</em>
+    <br>
+  </td>
+  <td>
+   <a href="moodboard.md">
+      <img alt="Create inspiring mood boards in no time with Adobe Stock" src="assets/moodboard.jpg" />
+   </a>
+    <div>
+   <a href="moodboard.md"><strong>Create inspiring mood boards in no time with Adobe Stock</strong></a>
+    </div>
+    <em>Create a project mood board to relay information, ideas, visuals, and color palettes to teams/clients</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
    <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
       <img alt="Add Motion to Still Images with Adobe Stock and Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
    </a>
