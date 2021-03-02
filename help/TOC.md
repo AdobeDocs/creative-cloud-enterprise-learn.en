@@ -25,6 +25,9 @@ product: creative-cloud
     + [Begin Your Annual Report with a Video Created with Adobe Stock and Spark Video](stock/annualreport.md)
     + [Bring creative to life with custom animations by Adobe Stock](stock/customanimations.md)
     + [Change an Adobe Stock image’s colors to match your story](stock/changecolors.md)
+    + [Create a 3D collage for a poster using Adobe Stock images](stock/collage.md)
+    + [Create a bold label with Adobe Stock templates and Photoshop Smart Objects](stock/boldlabel.md)
+    + [Create a company guidelines infographic with Adobe Stock](stock/infographic.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
