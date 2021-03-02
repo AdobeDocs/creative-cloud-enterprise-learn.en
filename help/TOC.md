@@ -37,6 +37,10 @@ product: creative-cloud
     + [Create cohesive brand imagery with beautiful gradients and Adobe Stock assets](stock/brandgradients.md)
     + [Create Engaging Web Graphics by Combining Adobe Stock images with CSS](stock/webgraphics.md)
     + [Create inspiring mood boards in no time with Adobe Stock](stock/moodboard.md)
+    + [Create realistic photo composites with Adobe Stock images](stock/realisticcomposite.md)
+    + [Customize a loading screen animation with Adobe Stock and XD](stock/loadingscreen.md)
+    + [Customize an Adobe Stock presentation template to look professional](stock/presentationtemplate.md)
+    + [Customize the colors in an Adobe Stock vector illustration](stock/customizecolors.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
