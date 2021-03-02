@@ -1,10 +1,10 @@
 ---
-title: Create Animations for Email with Adobe Stock and Photoshop
+title: Create animations for email with Adobe Stock and Photoshop
 description: Empower your Emails with Stop-Action Animation with Adobe Stock and Photoshop
 thumbnail: 331838.jpg
 ---
 
-# Create Animations for Email with Adobe Stock and Photoshop
+# Create animations for email with Adobe Stock and Photoshop
 
 Empower your Emails with Stop-Action Animation with Adobe Stock and Photoshop.
 

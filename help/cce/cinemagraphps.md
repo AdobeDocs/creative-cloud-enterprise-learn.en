@@ -1,9 +1,9 @@
 ---
-title: Creating Cinemagraphs with Photoshop
+title: Creating cinemagraphs with Photoshop
 description: In this step-by-step workshop video tutorial, you'll create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop
 ---
 
-# Creating Cinemagraphs with Photoshop
+# Creating cinemagraphs with Photoshop
 
 In this step-by-step workshop video tutorial, you'll create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop.
 
