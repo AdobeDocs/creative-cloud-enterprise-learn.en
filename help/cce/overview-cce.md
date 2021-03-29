@@ -14,7 +14,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Creative Cloud for enterprise
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
@@ -47,7 +47,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Spark
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
@@ -84,7 +84,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Photoshop  
 
-<table>
+<table style="table-layout:fixed">
 <tr>
    <td>
    <a href="compositepsipad.md">
@@ -212,7 +212,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Adobe Portfolio
 
-<table>
+<table  style="table-layout:fixed">
 <tr>
    <td>
    <a href="assets/GettingStartedWithAdobePortfolio.pdf">
@@ -250,7 +250,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Libraries
 
-<table>
+<table  style="table-layout:fixed">
 <tr>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
@@ -282,7 +282,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Fonts
 
-<table>
+<table  style="table-layout:fixed">
 <tr>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
@@ -319,7 +319,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### InDesign
 
-<table>
+<table  style="table-layout:fixed">
 <tr>
   <td>
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
@@ -383,7 +383,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Illustrator
 
-<table>
+<table  style="table-layout:fixed">
 <tr>
    <td>
    <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
@@ -420,7 +420,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Dimension
 
-<table>
+<table  style="table-layout:fixed">
 <tr>
    <td>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">

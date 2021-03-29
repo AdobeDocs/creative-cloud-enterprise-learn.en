@@ -11,7 +11,7 @@ Adobe Illustrator on the iPad is a vector design experience reimagined for touch
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustratoripad.md#tutorial1">

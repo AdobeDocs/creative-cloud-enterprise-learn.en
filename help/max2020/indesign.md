@@ -11,7 +11,7 @@ The industry-standard app to create beautiful documents for print and digital pu
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
     <a href="indesign.md#tutorial1">

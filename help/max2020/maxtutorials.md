@@ -11,7 +11,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ## Tutorials by Desktop Products
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
     <a href="acrobat-sign.md">
@@ -102,7 +102,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Tutorials by Mobile App
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
     <a href="capture.md">
@@ -161,7 +161,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Tutorials by Integration
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
     <a href="aem.md">
@@ -225,7 +225,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 ### Hands-on Project: Create your own Face Mask
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">

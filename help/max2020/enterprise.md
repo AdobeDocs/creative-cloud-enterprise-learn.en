@@ -11,7 +11,7 @@ Manage Adobe entitlements and assets across your entire organization.
 
 ## Browse Enterprise Administration Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="enterprise.md#tutorial1">

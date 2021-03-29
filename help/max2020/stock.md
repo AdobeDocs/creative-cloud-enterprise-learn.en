@@ -11,7 +11,7 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="stock.md#tutorial1">

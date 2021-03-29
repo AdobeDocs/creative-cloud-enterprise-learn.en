@@ -11,7 +11,7 @@ Create engaging content in 3D faster with high-quality models, materials, and li
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="dimension.md#tutorial1">

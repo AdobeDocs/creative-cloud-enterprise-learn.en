@@ -11,7 +11,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="xd.md#tutorial1">

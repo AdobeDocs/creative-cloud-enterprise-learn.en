@@ -11,7 +11,7 @@ The Creative Cloud desktop app is your hub for managing CC apps, services, and c
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">

@@ -11,7 +11,7 @@ Adobe Fresco is a cross-platform app for creating drawings and paintings using b
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="fresco.md#tutorial1">

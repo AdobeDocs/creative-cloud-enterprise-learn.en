@@ -11,7 +11,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="photoshop.md#tutorial1">

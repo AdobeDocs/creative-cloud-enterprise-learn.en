@@ -11,7 +11,7 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">

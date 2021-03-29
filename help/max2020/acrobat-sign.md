@@ -11,7 +11,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">

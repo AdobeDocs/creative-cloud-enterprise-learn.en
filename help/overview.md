@@ -11,7 +11,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 
 ## Browse Topics
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="cce/overview-cce.md">

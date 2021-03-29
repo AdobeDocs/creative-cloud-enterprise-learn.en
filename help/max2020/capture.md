@@ -11,7 +11,7 @@ Adobe Capture turns mobile phones and tablets into a design collection tool. Use
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="capture.md#tutorial1">

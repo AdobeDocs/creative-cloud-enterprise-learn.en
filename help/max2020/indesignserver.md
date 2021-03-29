@@ -11,7 +11,7 @@ Adobe Adobe® InDesign® Server  software delivers a robust and scalable engine 
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">

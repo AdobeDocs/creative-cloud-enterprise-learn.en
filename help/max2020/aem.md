@@ -11,7 +11,7 @@ Adobe Experience Manager is the industry-leading digital experience management s
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="aem.md#tutorial1">
@@ -71,7 +71,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Eric Rowse, Senior Solutions Consultant (Digital Media)
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="https://www.adobe.com/marketing/experience-manager.html">

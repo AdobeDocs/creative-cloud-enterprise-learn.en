@@ -11,7 +11,7 @@ Keep your assets on hand and your projects on brand.
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">

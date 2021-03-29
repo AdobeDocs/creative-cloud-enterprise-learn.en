@@ -11,7 +11,7 @@ Wouldn’t it be cool if you could customize a face mask with your own artwork? 
 
 ## Browse Facemask Project Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="handsonproject.md#tutorial1">

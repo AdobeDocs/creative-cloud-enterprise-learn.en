@@ -11,7 +11,7 @@ Premiere Rush is the first all-in-one, cross-device video editing app that makes
 
 ## Browse Product Tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
  <td>
    <a href="rush.md#tutorial1">
