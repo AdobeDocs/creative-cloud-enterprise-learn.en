@@ -1,5 +1,5 @@
 ---
-cloud: creative-cloud
+cloud: Creative Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.en
 index: yes
