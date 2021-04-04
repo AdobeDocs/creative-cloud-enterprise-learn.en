@@ -1,8 +1,8 @@
 ---
 title: Photoshop on iPad
 description: A listing of Photoshop on iPad tutorials.
+exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 ---
-
 # Photoshop on iPad
 
 ![Tutorial Hero Image](../assets/PSoniPad.jpg)

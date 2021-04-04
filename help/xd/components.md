@@ -1,8 +1,8 @@
 ---
 title: Get comfortable with Components in Adobe XD
 description: Learn how to use Components to give you unprecedented flexibility for applying both speed and consistency to your design workflow
+exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
 ---
-
 # Get comfortable with Components in Adobe XD
 
 Learn how to use Components to give you unprecedented flexibility for applying both speed and consistency to your design workflow.
@@ -12,21 +12,3 @@ Learn how to use Components to give you unprecedented flexibility for applying b
 Click the PDF file icon to download a PDF of this tutorial.
 
 [![PDF File Icon](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

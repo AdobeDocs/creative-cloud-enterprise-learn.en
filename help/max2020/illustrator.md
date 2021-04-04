@@ -1,8 +1,8 @@
 ---
 title: Illustrator
 description: A listiing of Illustrator tutorials.
+exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
 ---
-
 # Illustrator
 
 ![Tutorial Hero Image](../assets/Illustrator.jpg)

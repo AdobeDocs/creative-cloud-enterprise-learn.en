@@ -1,8 +1,8 @@
 ---
 title: InDesign Server
 description: A listing of InDesign Server tutorials.
+exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 ---
-
 # InDesign Server
 
 ![Tutorial Hero Image](../assets/InDesignServer.jpg)

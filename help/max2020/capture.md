@@ -1,8 +1,8 @@
 ---
 title: Capture
 description: A listing of Capture tutorials.
+exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
 ---
-
 # Capture
 
 ![Tutorial Hero Image](../assets/Capture.jpg)

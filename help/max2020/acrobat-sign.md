@@ -1,8 +1,8 @@
 ---
 title: Acrobat & Sign
 description: A listing of Acrobat and Adobe Sign tutorials.
+exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 ---
-
 # Acrobat & Sign
 
 ![Tutorial Hero Image](../assets/DC.jpg)

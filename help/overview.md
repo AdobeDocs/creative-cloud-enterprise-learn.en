@@ -1,8 +1,8 @@
 ---
 title: Creative Cloud for enterprise Learning Hub
 description: Welcome to the Creative Cloud for enterprise Learning Hub.
+exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
 ---
-
 # Creative Cloud for enterprise Learning Hub
 
 ![Creative Cloud Hero Image](assets/hero_cce.jpg)

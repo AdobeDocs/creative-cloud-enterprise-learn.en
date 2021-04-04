@@ -1,8 +1,8 @@
 ---
 title: Dimension
 description: A listing of Adobe Dimension tutorials.
+exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
 ---
-
 # Dimension
 
 ![Tutorial Hero Image](../assets/Dimenio.jpg)

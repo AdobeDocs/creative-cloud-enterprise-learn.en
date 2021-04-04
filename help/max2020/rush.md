@@ -1,8 +1,8 @@
 ---
 title: Rush
 description: A listing of Rush tutorals.
+exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 ---
-
 # Rush
 
 ![Tutorial Hero Image](../assets/Rush.jpg)

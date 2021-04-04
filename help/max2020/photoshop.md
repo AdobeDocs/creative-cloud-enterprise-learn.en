@@ -1,8 +1,8 @@
 ---
 title: Photoshop
 description: A listing of Photoshop tutorials.
+exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 ---
-
 # Photoshop
 
 ![Tutorial Hero Image](../assets/Photoshop.jpg)

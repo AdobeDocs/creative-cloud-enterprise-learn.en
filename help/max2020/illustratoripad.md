@@ -1,8 +1,8 @@
 ---
 title: Illustrator on iPad
 description: A listing of Illustrator on iPad tutorials.
+exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 ---
-
 # Illustrator on iPad
 
 ![Tutorial Hero Image](../assets/AIoniPad.jpg)
@@ -61,5 +61,3 @@ Dave Weinberg, Senior Solutions Consultant (Digital Media)
 **October 2020 Release**
 
 Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.
-
-

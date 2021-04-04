@@ -2,8 +2,8 @@
 title: Change an Adobe Stock image’s colors to match your story
 description: Make a great image work even harder to support your message. Find a unique photo in Adobe Stock and then adjust the color in Adobe Photoshop to fit your needs
 thumbnail: 331810.jpg
+exl-id: 6607cd40-0035-41b1-a45b-b1a9d9382272
 ---
-
 # Change an Adobe Stock image’s colors to match your story
 
 Make a great image work even harder to support your message. Find a unique photo in Adobe Stock and then adjust the color in Adobe Photoshop to fit your needs.

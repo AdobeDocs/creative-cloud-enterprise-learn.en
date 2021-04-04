@@ -1,8 +1,8 @@
 ---
 title: Stock
 description: A listing of Adobe Stock tutorials.
+exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 ---
-
 # Stock
 
 ![Tutorial Hero Image](../assets/Stock.jpg)

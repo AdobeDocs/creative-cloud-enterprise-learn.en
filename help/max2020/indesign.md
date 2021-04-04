@@ -1,8 +1,8 @@
 ---
 title: InDesign
 description: A listing of InDesign tutorials.
+exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 ---
-
 # InDesign
 
 ![Tutorial Hero Image](../assets/InDesign.jpg)

@@ -1,8 +1,8 @@
 ---
 title: Fresco
 description: A listing of Fresco tutorials.
+exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 ---
-
 # Fresco
 
 ![Tutorial Hero Image](../assets/Fresco.jpg)

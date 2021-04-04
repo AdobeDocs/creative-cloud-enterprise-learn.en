@@ -1,8 +1,8 @@
 ---
 title: Understanding Creative Cloud for enterprise and Acrobat serial number expiration
-description: Understanding serial number expiration experience for Creative Cloud for enterprise and Acrobat 
+description: Understanding serial number expiration experience for Creative Cloud for enterprise and Acrobat
+exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
 ---
-
 # Understanding Creative Cloud for enterprise and Acrobat serial number expiration
 
 Historically, Adobe issued serial numbers with our apps (i.e. Creative Suite, Creative Cloud for enterprise, Acrobat XI, Acrobat DC) to customers on Enterprise Term License Agreements (ETLAs). These serial numbers do have an expiration date. Once the expiration date has passed, the product will no longer work so it is important to plan your migration before your serial numbers expire. This page outlines the steps necessary to ensure your end users have continued access to their Adobe apps and services.

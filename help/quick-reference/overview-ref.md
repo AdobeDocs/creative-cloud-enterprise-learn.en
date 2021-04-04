@@ -1,8 +1,8 @@
 ---
 title: Creative Cloud for enterprise quick reference guides
 description: Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products
+exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 ---
-
 # Creative Cloud for enterprise quick reference guides
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)

@@ -1,8 +1,8 @@
 ---
 title: Enterprise Administration
 description: A listing of InDesign Server tutorials.
+exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 ---
-
 # Enterprise Administration
 
 ![Tutorial Hero Image](../assets/hero_cce.jpg)

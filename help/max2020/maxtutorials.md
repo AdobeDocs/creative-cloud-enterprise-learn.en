@@ -1,8 +1,8 @@
 ---
 title: MAX 2020 Tutorials
-description: These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective. 
+description: These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective.
+exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 ---
-
 # Tutorials
 
 ![Max 2020 Hero Image](../assets/MAX.jpg)

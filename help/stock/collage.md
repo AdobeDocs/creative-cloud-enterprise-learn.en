@@ -2,8 +2,8 @@
 title: Create a 3D collage for a poster using Adobe Stock images
 description: Design a collage in Adobe Illustrator that features an eye-catching 3D effect from images in Adobe Stock
 thumbnail: 331805.jpg
+exl-id: 500c88f5-1313-49b5-a3ca-38535e172640
 ---
-
 # Create a 3D collage for a poster using Adobe Stock images
 
 Create posters that attract attention. Find relevant images in Adobe Stock and design a collage in Adobe Illustrator that features an eye-catching 3D effect.

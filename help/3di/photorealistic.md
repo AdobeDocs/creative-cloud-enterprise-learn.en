@@ -2,8 +2,8 @@
 title: Creating photorealistic virtual photography with 3D rendering and compositing
 description: Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe Dimension
 keywords: virtual photography, 100 Global MSV
+exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
 ---
-
 # Creating photorealistic virtual photography with 3D rendering and compositing
 
 ![A collage of examples featuring photorealistic virtual photographs designed with Adobe Dimension](assets/Photorealistic_1.png)
@@ -160,21 +160,3 @@ Once the scene is complete, the workflow for the end-user is straightforward. Si
 The end result is a convincing blend of reality and 3D that helps end users achieve the goal of creating photorealistic images with minimal effort. Give it a try yourself with some [free Dimension scenes](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) we created to demonstrate the workflow.
 
 [Download the latest release](https://creativecloud.adobe.com/apps/download/dimension) of Dimension today and start building your photorealistic images.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

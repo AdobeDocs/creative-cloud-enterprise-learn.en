@@ -2,8 +2,8 @@
 title: Tips and techniques for mastering 3D lighting in CGI
 description: Learn about 3D lighting & how to create different light conditions that can completely alter a computer-generated scene & the way that objects look in it
 keywords: 3D lighting, 600 Global MSV
+exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
 ---
-
 # Tips and techniques for mastering 3D lighting in CGI
 
 Learn about 3D lighting & how to create different light conditions that can completely alter a computer-generated scene & the way that objects look in it.
@@ -196,20 +196,3 @@ This means there will be a lot of complex ray tracing interaction, as the light 
 I hope this overview illustrates the importance of mastering 3D lights in various situations. You should be ready to start producing more compelling results.
 
 Happy lighting! Download the [latest release](https://creativecloud.adobe.com/apps/download/dimension) of Dimension today.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
