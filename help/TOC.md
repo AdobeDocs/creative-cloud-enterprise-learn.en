@@ -4,7 +4,7 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: View tutorials and quick reference guides focused on Creative Cloud for enterprise.
 solution: Creative Cloud
 type: Tutorial
-product: creative-cloud
+product: creative cloud
 ---
 
 # Creative Cloud for enterprise Learning Hub {#cce-learning-hub}
