@@ -1,6 +1,8 @@
 ---
 title: Photoshop on iPad
-description: A listing of Photoshop on iPad tutorials.
+description: Create anything you can imagine, anywhere inspiration strikes with Photoshop on iPad
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 ---
 # Photoshop on iPad

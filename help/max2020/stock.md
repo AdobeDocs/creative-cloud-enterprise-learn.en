@@ -1,13 +1,15 @@
 ---
 title: Stock
-description: A listing of Adobe Stock tutorials.
+description: Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 ---
 # Stock
 
 ![Tutorial Hero Image](../assets/Stock.jpg)
 
-Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling content  that  will  capture and hold attention. Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets – all from within the Adobe creative apps they use every day.
+Creatives are under pressure to quickly deliver new, visually compelling content that will capture and hold attention. Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets – all from within the Adobe creative apps they use every day.
 
 ## Browse Product Tutorials
 

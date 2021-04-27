@@ -1,6 +1,8 @@
 ---
 title: Rush
-description: A listing of Rush tutorals.
+description: Premiere Rush is the first all-in-one, cross-device video editing app that makes creating and sharing online content easier than ever
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 ---
 # Rush

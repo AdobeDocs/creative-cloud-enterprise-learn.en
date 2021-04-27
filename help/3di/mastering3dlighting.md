@@ -1,6 +1,8 @@
 ---
 title: Tips and techniques for mastering 3D lighting in CGI
 description: Learn about 3D lighting & how to create different light conditions that can completely alter a computer-generated scene & the way that objects look in it
+role: Business Practitioner
+level: Beginner, Intermediate
 keywords: 3D lighting, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
 ---

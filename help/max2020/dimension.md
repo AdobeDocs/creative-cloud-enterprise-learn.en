@@ -1,6 +1,8 @@
 ---
 title: Dimension
-description: A listing of Adobe Dimension tutorials.
+description: Dimension makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
 ---
 # Dimension
