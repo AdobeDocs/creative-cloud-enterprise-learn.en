@@ -1,6 +1,8 @@
 ---
 title: Create realistic photo composites with Adobe Stock images
 description: Bring together two great Adobe Stock photos to draw people into your social posts
+role: Business Practitioner
+level: Beginner, Intermediate
 thumbnail: 331836.jpg
 exl-id: 251fdc84-a3fe-47fb-b457-48c881d277ae
 ---

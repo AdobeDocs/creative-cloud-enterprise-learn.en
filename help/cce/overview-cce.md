@@ -1,6 +1,8 @@
 ---
 title: Creative Cloud for enterprise tutorials
 description: Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 ---
 # Creative Cloud for enterprise tutorials

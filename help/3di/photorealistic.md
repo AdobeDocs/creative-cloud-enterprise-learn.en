@@ -1,6 +1,8 @@
 ---
 title: Creating photorealistic virtual photography with 3D rendering and compositing
 description: Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe Dimension
+role: Business Practitioner
+level: Beginner, Intermediate
 keywords: virtual photography, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
 ---

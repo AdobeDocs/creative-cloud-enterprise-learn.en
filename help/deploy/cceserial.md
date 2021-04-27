@@ -1,6 +1,8 @@
 ---
 title: Understanding Creative Cloud for enterprise and Acrobat serial number expiration
 description: Understanding serial number expiration experience for Creative Cloud for enterprise and Acrobat
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
 ---
 # Understanding Creative Cloud for enterprise and Acrobat serial number expiration

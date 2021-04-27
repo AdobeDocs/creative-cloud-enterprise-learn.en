@@ -1,6 +1,8 @@
 ---
 title: Creative Cloud for enterprise deployment videos
 description: Get up-to-speed on how to deploy and manage Creative Cloud for enterprise apps
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
 ---
 # Creative Cloud for enterprise deploy & manage topics

@@ -1,6 +1,8 @@
 ---
 title: Enterprise Administration
-description: A listing of InDesign Server tutorials.
+description: Manage Adobe entitlements and assets across your entire organization
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 ---
 # Enterprise Administration

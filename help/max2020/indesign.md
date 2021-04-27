@@ -1,6 +1,8 @@
 ---
 title: InDesign
-description: A listing of InDesign tutorials.
+description: Create rich digital and print experiences, from eBooks and electronic magazines, to books, reports and whitepapers
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 ---
 # InDesign

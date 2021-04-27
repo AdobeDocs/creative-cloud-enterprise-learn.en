@@ -1,6 +1,8 @@
 ---
 title: XD
-description: A listiing of XD tutorials.
+description: Adobe XD is a user experience design and prototyping tool for designing websites, apps, voice interfaces, games, and other types of digital experiences
+role: Business Practitioner
+level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
 ---
 # XD
