@@ -9,7 +9,7 @@ exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These quick reference guides will help you learn new features in Creative Cloud.
+As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These quick reference guides help you learn new features in Creative Cloud.
 
 
 ## Click to download a PDF of the quick reference guide
@@ -51,10 +51,10 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 </tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
-      <img alt="Sketch, Comp and Finalize a Brochure Layout with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Sketch, Comp, and Finalize a Brochure Layout with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>Sketch, Comp and Finalize a Brochure Layout with Creative Cloud (PDF)</strong></a>
+   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>Sketch, Comp, and Finalize a Brochure Layout with Creative Cloud (PDF)</strong></a>
     </div>
     <em>Quickly explore layout ideas for print, web, mobile, or social on your mobile device with Adobe Comp</em>
     <br>
@@ -105,13 +105,23 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <table>
 <tr>
   <td>
+    <a href="Decodingthealphabetsoupofgraphicformats.pdf">
+      <img alt="Decoding the alphabet soup of graphic formats" src="../assets/acrobat_PDF_96.png" />
+    </a>
+    <div>
+    <a href="Decodingthealphabetsoupofgraphicformats.pdf"><strong>Decoding the alphabet soup of graphic formats (PDF)</strong></a>
+    </div>
+    <em>JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications, and creative projects. But what do they mean, and which should you pick?</em>
+    <br>
+  </td>
+ <td>
    <a href="AnyonecanbecreativewithCreativeCloud.pdf">
       <img alt="Anyone can be creative with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="AnyonecanbecreativewithCreativeCloud.pdf"><strong>Anyone can be creative with Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Follow along with this quick technique that will show you how to bring out the best in any photograph using the Camera RAW Filter</em>
+    <em>Follow along with this quick technique that shows you how to bring out the best in any photograph using the Camera RAW Filter</em>
     <br>
   </td>
   <td>
@@ -121,9 +131,11 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>Creating Cinemagraphs with Photoshop (PDF)</strong></a>
     </div>
-    <em>Create an living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop. Bring your images to life with motion and a strategic loop point</em>
+    <em>Create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop. Bring your images to life with motion and a strategic loop point</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
       <img alt="Create Jaw-Dropping Graphics with Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
@@ -134,9 +146,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <em>Use a common video technique, in After Effects, to quickly remove a background color in a photograph in order to create a unique photo composite for your design projects</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
       <img alt="Get to know Photoshop on the iPad" src="../assets/acrobat_PDF_96.png" />
    </a>
@@ -146,17 +156,39 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <em>Bring the power of Photoshop to your fingertips with a re-engineered touch-based interface</em>
     <br>
   </td>
-   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>  
+</table>
+
+### Fresco
+
+<table>
+<tr>
+ <td>
+   <a href="Frescoworkshop.pdf">
+      <img alt="Try your hand at Fresco on the iPad (and iPhone)" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="Frescoworkshop.pdf"><strong>Try your hand at Fresco on the iPad (and iPhone) (PDF)</strong></a>
+    </div>
+    <em>Explore a whole new world of digital drawing and painting with Adobe Fresco in this 15-minute hands-on workshop</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ### XD
@@ -330,10 +362,10 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
    <td>
    <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="Responsive and Animated SVG with XD, Illustrator and CSS" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Responsive and Animated SVG with XD, Illustrator, and CSS" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsive and Animated SVG with XD, Illustrator and CSS (PDF)</strong></a>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsive and Animated SVG with XD, Illustrator, and CSS (PDF)</strong></a>
     </div>
     <em>Add some animation to your SVG files with just a few lines of CSS</em>
     <br>
