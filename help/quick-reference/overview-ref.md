@@ -105,6 +105,16 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <table>
 <tr>
   <td>
+    <a href="Decodingthealphabetsoupofgraphicformats.pdf">
+      <img alt="Decoding the alphabet soup of graphic formats" src="../assets/acrobat_PDF_96.png" />
+    </a>
+    <div>
+    <a href="Decodingthealphabetsoupofgraphicformats.pdf"><strong>Decoding the alphabet soup of graphic formats (PDF)</strong></a>
+    </div>
+    <em>JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. But what do they mean, and which should you pick?</em>
+    <br>
+  </td>
+ <td>
    <a href="AnyonecanbecreativewithCreativeCloud.pdf">
       <img alt="Anyone can be creative with Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
@@ -124,6 +134,8 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <em>Create an living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop. Bring your images to life with motion and a strategic loop point</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
       <img alt="Create Jaw-Dropping Graphics with Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
@@ -134,9 +146,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <em>Use a common video technique, in After Effects, to quickly remove a background color in a photograph in order to create a unique photo composite for your design projects</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
       <img alt="Get to know Photoshop on the iPad" src="../assets/acrobat_PDF_96.png" />
    </a>
@@ -146,17 +156,39 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <em>Bring the power of Photoshop to your fingertips with a re-engineered touch-based interface</em>
     <br>
   </td>
-   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>  
+</table>
+
+### Fresco
+
+<table>
+<tr>
+ <td>
+   <a href="Frescoworkshop.pdf">
+      <img alt="Try your hand at Fresco on the iPad (and iPhone)" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="Frescoworkshop.pdf"><strong>Try your hand at Fresco on the iPad (and iPhone) (PDF)</strong></a>
+    </div>
+    <em>Explore a whole new world of digital drawing and painting with Adobe Fresco in this 15-minute hands-on workshop</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ### XD

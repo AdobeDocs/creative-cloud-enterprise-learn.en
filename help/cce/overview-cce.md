@@ -89,127 +89,159 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <table style="table-layout:fixed">
 <tr>
    <td>
-   <a href="compositepsipad.md">
-      <img alt="Create unique composites with Adobe Stock and Photoshop for iPad" src="assets/CompositePSiPad.jpg" />
-   </a>
+    <a href="alphabetsoup.md">
+      <img alt="Decoding the alphabet soup of graphic formats" src="assets/Alphabetsoup.png" />
+    </a>
     <div>
-   <a href="compositepsipad.md"><strong>Create unique composites with Adobe Stock and Photoshop for iPad</strong></a>
+    <a href="alphabetsoup.md"><strong>Decoding the alphabet soup of graphic formats</strong></a>
+    </div>
+    <em>JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. But what do they mean, and which should you pick?</em>
+    <br>
+  </td>
+  <td>
+    <a href="compositepsipad.md">
+      <img alt="Create unique composites with Adobe Stock and Photoshop for iPad" src="assets/CompositePSiPad.jpg" />
+    </a>
+    <div>
+    <a href="compositepsipad.md"><strong>Create unique composites with Adobe Stock and Photoshop for iPad</strong></a>
     </div>
     <em>Bring the power of Photoshop to your fingertips. Learn to use one of your favorite Creative Cloud applications in a whole new way, with a re-engineered touch-based interface</em>
     <br>
   </td>
   <td>
-   <a href="cinemagraphps.md">
+    <a href="cinemagraphps.md">
       <img alt="Creating Cinemagraphs with Photoshop" src="assets/CinemagraphsPS.jpg" />
-   </a>
+    </a>
     <div>
-   <a href="cinemagraphps.md"><strong>Creating Cinemagraphs with Photoshop</strong></a>
+    <a href="cinemagraphps.md"><strong>Creating Cinemagraphs with Photoshop</strong></a>
     </div>
     <em>In this step-by-step workshop video tutorial, you'll create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
-      <img alt="Add Remarkable Lighting to a Photo with Photoshop and After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>Add remarkable lighting to a photo with Photoshop and After Effects (PDF)</strong></a>
-    </div>
-    <em>Learn to use the Light Burst effect in Adobe After Effects to dramatically enhance a photograph</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
-   <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
-      <img alt="Create Cinemagraphs in a snap with Photoshop and Adobe Stock" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
-   </a>
+    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
+      <img alt="Add Remarkable Lighting to a Photo with Photoshop and After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
+    </a>
     <div>
-   <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Create Cinemagraphs in a snap with Photoshop and Adobe Stock (PDF)</strong></a>
+    <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>Add remarkable lighting to a photo with Photoshop and After Effects (PDF)</strong></a>
+    </div>
+    <em>Learn to use the Light Burst effect in Adobe After Effects to dramatically enhance a photograph</em>
+    <br>
+   </td>
+   <td>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
+      <img alt="Create Cinemagraphs in a snap with Photoshop and Adobe Stock" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
+    </a>
+    <div>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Create Cinemagraphs in a snap with Photoshop and Adobe Stock (PDF)</strong></a>
     </div>
     <em>Searching for seamlessly looping videos on Adobe Stock for quickly assembling eye-catching cinemagraphs in Photoshop</em>
     <br>
   </td>
    <td>
-   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Creating a living photograph with Photoshop — Part 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
-   </a>
+    </a>
     <div>
-   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Creating a living photograph with Photoshop — Part 1 (PDF)</strong></a>
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Creating a living photograph with Photoshop — Part 1 (PDF)</strong></a>
     </div>
     <em>Adobe Photoshop lets you quickly turn your short videos into living photographs that will mesmerize your audience on any social platform</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
-      <img alt="Creating a living photograph with Photoshop — Part 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>Creating a living photograph with Photoshop — Part 2 (PDF)</strong></a>
-    </div>
-    <em>Combining photos with video is a powerful way to add an engaging quality to your photos without sacrificing the message or tone of your original image</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
-   <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
-      <img alt="Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
-   </a>
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
+      <img alt="Creating a living photograph with Photoshop — Part 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
+    </a>
     <div>
-   <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
+    <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>Creating a living photograph with Photoshop — Part 2 (PDF)</strong></a>
+    </div>
+    <em>Combining photos with video is a powerful way to add an engaging quality to your photos without sacrificing the message or tone of your original image</em>
+    <br>
+  </td>
+  <td>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
+    <img alt="Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
+    </a>
+    <div>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
     </div>
     <em>In this hands-on, step- by-step lab, we combined Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
     <br>
   </td>
   <td>
-   <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
+    <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Quickly Brand Your Instagram Photos with Adobe Photoshop Actions" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
-   </a>
+    </a>
     <div>
-   <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Quickly Brand Your Instagram Photos with Adobe Photoshop Actions (PDF)</strong></a>
+    <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Quickly Brand Your Instagram Photos with Adobe Photoshop Actions (PDF)</strong></a>
     </div>
     <em>Eliminate the tedium and save tons of time by using Actions in Photoshop</em>
     <br>
   </td>
-  <td>
-   <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
+</tr>
+<tr>
+    <td>
+    <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Work Smarter, Not Harder, with Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
-   </a>
+    </a>
     <div>
-   <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Work Smarter, Not Harder, with Photoshop (PDF)</strong></a>
+    <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Work Smarter, Not Harder, with Photoshop (PDF)</strong></a>
     </div>
     <em>Making changes in Photoshop can be time consuming, but it doesn’t have to be</em>
     <br>
   </td>
-</tr>
-<tr>
    <td>
-   <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
+    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="Anyone Can Be Creative with Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
-   </a>
+    </a>
     <div>
-   <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Add a little Adobe Photoshop to your creative skill set (PDF)</strong></a>
+    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Add a little Adobe Photoshop to your creative skill set (PDF)</strong></a>
     </div>
     <em>Add a little Adobe Photoshop to your creative skill set</em>
     <br>
   </td>
   <td>
-   <a href="assets/GreenScreenisNotJustforVideo.pdf">
+    <a href="assets/GreenScreenisNotJustforVideo.pdf">
       <img alt="Green Screen is Not Just for Video" src="assets/GreenScreenisNotJustforVideo.jpg" />
-   </a>
+    </a>
     <div>
-   <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video (PDF)</strong></a>
+    <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video (PDF)</strong></a>
     </div>
     <em>You can use green screen in a photo studio and use After Effects to prepare the photo use in Photoshop</em>
     <br>
   </td>
+</tr>  
+</table>
+
+### Fresco
+
+<table>
+<tr>
+ <td>
+   <a href="frescoworkshop.md">
+      <img alt="Try your hand at Fresco on the iPad (and iPhone)" src="assets/Fresco.png" />
+   </a>
+    <div>
+   <a href="frescoworkshop.md"><strong>Try your hand at Fresco on the iPad (and iPhone)</strong></a>
+    </div>
+    <em>Explore a whole new world of digital drawing and painting with Adobe Fresco in this 15-minute hands-on workshop</em>
+    <br>
+  </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
-</tr>  
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ### Adobe Portfolio
