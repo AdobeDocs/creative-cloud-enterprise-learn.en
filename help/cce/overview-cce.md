@@ -9,7 +9,7 @@ exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in Creative Cloud—from an enterprise perspective.
+As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials help you learn new features in Creative Cloud—-from an enterprise perspective.
 
 
 ## Click to view a product tutorial
@@ -58,7 +58,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Adding a glideshow to your Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page offers some amazing and easy-to-use layout components that will bring your web stories to life</em>
+    <em>Adobe Spark Page offers some amazing and easy-to-use layout components that bring your web stories to life</em>
     <br>
   </td>
   <td>
@@ -78,7 +78,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Meet Your New Production Artist: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions — and all the while it is ready and able to do a lot of the tedious work for you</em>
+    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions — and all the while it is ready and able to do much of the tedious work for you</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <a href="alphabetsoup.md"><strong>Decoding the alphabet soup of graphic formats</strong></a>
     </div>
-    <em>JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. But what do they mean, and which should you pick?</em>
+    <em>JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications, and creative projects. But what do they mean, and which should you pick?</em>
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <a href="cinemagraphps.md"><strong>Creating Cinemagraphs with Photoshop</strong></a>
     </div>
-    <em>In this step-by-step workshop video tutorial, you'll create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop</em>
+    <em>In this step-by-step workshop video tutorial, you create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop</em>
     <br>
   </td>
 </tr>
@@ -147,7 +147,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Creating a living photograph with Photoshop — Part 1 (PDF)</strong></a>
     </div>
-    <em>Adobe Photoshop lets you quickly turn your short videos into living photographs that will mesmerize your audience on any social platform</em>
+    <em>Adobe Photoshop lets you quickly turn your short videos into living photographs that mesmerize your audience on any social platform</em>
     <br>
   </td>
 </tr>
@@ -169,7 +169,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
     </div>
-    <em>In this hands-on, step- by-step lab, we combined Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
+    <em>In this hands-on, step- by-step lab, we combine Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
     <br>
   </td>
   <td>
@@ -335,7 +335,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Discovering Fonts with Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Finding the right font for a project can seem overwhelming at times. With a variety of Creative Cloud apps and services, finding the right font is now fun and inspiring</em>
+    <em>Finding the right font for a project can seem overwhelming at times. With various Creative Cloud apps and services, finding the right font is now fun and inspiring</em>
     <br>
   </td>
   <td>
@@ -362,7 +362,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Creating interactive PDFs from InDesign (PDF)</strong></a>
     </div>
-    <em>InDesign contains many features that help you format, style, manage, and keep track of the content in your documents</em>
+    <em>InDesign contains many features that help you format, style, manage, and track the content in your documents</em>
     <br>
   </td>
    <td>
@@ -394,7 +394,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interactive PDF: Bookmarks and Linked TOCs from InDesign (PDF)</strong></a>
     </div>
-    <em>Learn to use the Table of Contents feature in InDesign to generate both bookmarks and hyperlinks that will help your readers quickly find information in your PDF files</em>
+    <em>Learn to use the Table of Contents feature in InDesign to generate both bookmarks and hyperlinks that help your readers quickly find information in your PDF files</em>
     <br>
   </td>
    <td>

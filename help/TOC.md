@@ -15,6 +15,8 @@ product: creative cloud
   + Tutorials {#ccetutorials}
     + [Create unique composites with Adobe Stock and Photoshop for iPad](cce/compositepsipad.md)
     + [Creating cinemagraphs with Photoshop](cce/cinemagraphps.md)
+    + [Decoding the alphabet soup of graphic formats](cce/alphabetsoup.md)
+    + [Try your hand at Fresco on the iPad and iPhone](cce/frescoworkshop.md)
   + [Quick Reference Guides](quick-reference/overview-ref.md)
 + Stock {#stockoverview}
   + [Overview](stock/overview-stock.md)
