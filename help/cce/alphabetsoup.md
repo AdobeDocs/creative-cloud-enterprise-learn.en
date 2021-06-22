@@ -5,6 +5,7 @@ role: Business Practitioner
 level: Beginner, Intermediate
 kt: 8038
 thumbnail: KT-8038.jpg
+exl-id: a6bccd09-d4e6-43ec-9bf9-58c34f215267
 ---
 # Decoding the alphabet soup of graphic formats
 

@@ -5,6 +5,7 @@ role: Business Practitioner
 level: Beginner, Intermediate
 kt: 8039
 thumbnail: KT-8039.jpg
+exl-id: 575a18f7-7927-42e7-bd0b-58994536a9f7
 ---
 # Try your hand at Fresco on the iPad (and iPhone)
 
