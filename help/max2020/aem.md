@@ -1,7 +1,7 @@
 ---
 title: AEM Assets and Asset Link
 description: A listing of AEM sssets and links
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 ---

@@ -1,7 +1,7 @@
 ---
 title: Adobe XD tutorials
 description: Tutorials to help you get up-to-speed on Adobe XD
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
 ---

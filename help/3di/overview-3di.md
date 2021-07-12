@@ -1,7 +1,7 @@
 ---
 title: Adobe 3D & VR tutorials
 description: Tutorials to help you get up-to-speed on Adobe 3D & VR
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
 ---

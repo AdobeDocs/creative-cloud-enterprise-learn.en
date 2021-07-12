@@ -1,7 +1,7 @@
 ---
 title: Adobe Stock tutorials
 description: Tutorials to help you get up-to-speed on Adobe Stock
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 ---

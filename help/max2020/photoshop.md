@@ -1,7 +1,7 @@
 ---
 title: Photoshop
 description: A listing of Photoshop tutorials
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 ---

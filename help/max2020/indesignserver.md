@@ -1,7 +1,7 @@
 ---
 title: InDesign Server
 description: Adobe Adobe® InDesign® Server software delivers a robust and scalable engine that leverages the design, layout, and typographical capabilities of InDesign to let you programmatically create engaging automated documents
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 ---

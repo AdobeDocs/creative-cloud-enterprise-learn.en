@@ -1,7 +1,7 @@
 ---
 title: CC Libraries
 description: Keep your assets on hand and your projects on brand
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 ---

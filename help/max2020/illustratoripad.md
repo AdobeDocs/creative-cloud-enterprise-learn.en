@@ -1,7 +1,7 @@
 ---
 title: Illustrator on iPad
 description: Adobe Illustrator on the iPad is a vector design experience reimagined for touch, the Apple Pencil, and iPad
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 ---

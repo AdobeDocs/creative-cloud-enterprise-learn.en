@@ -1,7 +1,7 @@
 ---
 title: Bring creative to life with custom animations by Adobe Stock
 description: Use Adobe Stock images, textures, patterns to custom animations in Photoshop
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 thumbnail: 331806.jpg
 exl-id: 0c45814d-7a27-4e61-a4d8-427709c13fb6

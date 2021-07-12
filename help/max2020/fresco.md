@@ -1,7 +1,7 @@
 ---
 title: Fresco
 description: Adobe Fresco is a cross-platform app for creating drawings and paintings using brush-based methods combining vector and raster workflows with cloud documents
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 ---

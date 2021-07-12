@@ -1,7 +1,7 @@
 ---
 title: Try your hand at Fresco on the iPad (and iPhone)
 description: Explore a whole new world of digital drawing and painting with Adobe Fresco in this 15-minute hands-on workshop
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 kt: 8039
 thumbnail: KT-8039.jpg

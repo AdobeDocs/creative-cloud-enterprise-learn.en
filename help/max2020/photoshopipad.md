@@ -1,7 +1,7 @@
 ---
 title: Photoshop on iPad
 description: Create anything you can imagine, anywhere inspiration strikes with Photoshop on iPad
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 ---

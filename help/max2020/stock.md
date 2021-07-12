@@ -1,7 +1,7 @@
 ---
 title: Stock
 description: Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 ---

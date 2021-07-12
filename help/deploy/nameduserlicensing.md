@@ -1,7 +1,7 @@
 ---
 title: Expiring serial numbers? Why it’s time for Named User Licensing
 description: Licensing Adobe products through Named User Licensing (NUL) allows IT admins to easily deploy and manage Adobe tools using the Admin Console and gives end users access to world-class creative and productivity apps and Adobe Cloud services, even if the entire workforce is remote
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 ---
