@@ -78,7 +78,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Meet Your New Production Artist: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions — and all the while it is ready and able to do much of the tedious work for you</em>
+    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions</em>
     <br>
   </td>
 </tr>
@@ -169,7 +169,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
     </div>
-    <em>In this hands-on, step- by-step lab, we combine Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
+    <em>In this hands-on, step- by-step lab, combine Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
     <br>
   </td>
   <td>
@@ -191,7 +191,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Work Smarter, Not Harder, with Photoshop (PDF)</strong></a>
     </div>
-    <em>Making changes in Photoshop can be time consuming, but it doesn’t have to be</em>
+    <em>Changes in Photoshop can be time consuming, but it doesn’t have to be</em>
     <br>
   </td>
    <td>
@@ -282,10 +282,30 @@ As an enterprise creative, you must collaborate with distributed teams, establis
  </table> 
 
 
-### Libraries
+### CC Libraries
 
 <table  style="table-layout:fixed">
 <tr>
+  <td>
+   <a href="ccteamlibraries.md">
+      <img alt="Creating a CC Team Library" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="ccteamlibraries.md"><strong>Creating a CC Team Library</strong></a>
+    </div>
+    <em>Learn how to share assets within a group or team using Creative Cloud Team Libraries</em>
+    <br>
+  </td>
+  <td>
+   <a href="sharecclibraries.md">
+      <img alt="Sharing branding assets with Creative Cloud Team Libraries" src="assets/ShareLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="sharecclibraries.md"><strong>Sharing branding assets with Creative Cloud Team Libraries</strong></a>
+    </div>
+    <em>Learn how to create, use, and share branding assets for your group or team using Creative Cloud Team Libraries</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
       <img alt="Create, add, and share your brand assets with Creative Cloud Libraries" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
@@ -296,6 +316,8 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <em>Creative Cloud Libraries provides a built-in brand system that allows designers to share brand assets across creative teams</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Share Text Styles From Illustrator with Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -304,6 +326,11 @@ As an enterprise creative, you must collaborate with distributed teams, establis
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Share Text Styles From Illustrator with Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Work Smarter, Not Harder, in Illustrator</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -463,7 +490,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualize your Product in a Realistic Environment (PDF)</strong></a>
     </div>
-    <em>When you want to see how your products will look in the real world, Adobe Dimension is your go-to app</em>
+    <em>When you want to see how your products look in the real world, Adobe Dimension is your go-to app</em>
     <br>
   </td>
   <td>
