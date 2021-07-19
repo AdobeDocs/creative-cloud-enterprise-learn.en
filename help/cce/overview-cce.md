@@ -329,12 +329,12 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -435,7 +435,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
