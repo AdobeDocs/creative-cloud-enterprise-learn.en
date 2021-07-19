@@ -297,11 +297,11 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-   <a href="sharedcclibraries.md">
+   <a href="sharecclibraries.md">
       <img alt="Sharing branding assets with Creative Cloud Team Libraries" src="assets/ShareLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="sharedcclibraries.md"><strong>Sharing branding assets with Creative Cloud Team Libraries</strong></a>
+   <a href="sharecclibraries.md"><strong>Sharing branding assets with Creative Cloud Team Libraries</strong></a>
     </div>
     <em>Learn how to create, use, and share branding assets for your group or team using Creative Cloud Team Libraries</em>
     <br>
