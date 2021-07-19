@@ -282,10 +282,30 @@ As an enterprise creative, you must collaborate with distributed teams, establis
  </table> 
 
 
-### Libraries
+### CC Libraries
 
 <table  style="table-layout:fixed">
 <tr>
+  <td>
+   <a href="ccteamlibraries.md">
+      <img alt="Creating a CC Team Library" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="ccteamlibraries.md"><strong>Creating a CC Team Library</strong></a>
+    </div>
+    <em>Learn how to share assets within a group or team using Creative Cloud Team Libraries</em>
+    <br>
+  </td>
+  <td>
+   <a href="sharedcclibraries.md">
+      <img alt="Sharing branding assets with Creative Cloud Team Libraries" src="assets/ShareLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="sharedcclibraries.md"><strong>Sharing branding assets with Creative Cloud Team Libraries</strong></a>
+    </div>
+    <em>Learn how to create, use, and share branding assets for your group or team using Creative Cloud Team Libraries</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
       <img alt="Create, add, and share your brand assets with Creative Cloud Libraries" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
@@ -296,6 +316,8 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <em>Creative Cloud Libraries provides a built-in brand system that allows designers to share brand assets across creative teams</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Share Text Styles From Illustrator with Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -304,6 +326,11 @@ As an enterprise creative, you must collaborate with distributed teams, establis
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Share Text Styles From Illustrator with Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Work Smarter, Not Harder, in Illustrator</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>

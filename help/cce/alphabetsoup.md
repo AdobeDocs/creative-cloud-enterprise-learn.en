@@ -9,9 +9,11 @@ exl-id: a6bccd09-d4e6-43ec-9bf9-58c34f215267
 ---
 # Decoding the alphabet soup of graphic formats
 
-JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. But… what do they mean, and which should you pick? Find out in this 15-minute hands-on workshop. Quickly learn how to apply transparency effects in Photoshop that can bring your presentation skills to a new level while exploring different graphic export and optimization settings. Follow along with designer/developer Chris Converse to create a compelling animation in PowerPoint using customized graphics exported from Photoshop.
+JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. But, what do they mean, and which should you pick? Find out in this 15-minute hands-on workshop. Quickly learn how to apply transparency effects in Photoshop that can bring your presentation skills to a new level while exploring different graphic export and optimization settings. Follow along with designer/developer Chris Converse to create a compelling animation in PowerPoint using customized graphics exported from Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
+
+<br>&nbsp;
 
 Click the PDF file icon to download a Quick Reference Guide of this tutorial.
 

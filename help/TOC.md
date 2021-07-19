@@ -13,6 +13,8 @@ product: creative cloud
 + CCE {#cceoverview}
   + [Overview](cce/overview-cce.md)
   + Tutorials {#ccetutorials}
+    + [Creating a CC Team Library](cce/ccteamlibraries.md)
+    + [Sharing branding assets with Creative Cloud Team Libraries](cce/sharedlibraries.md)
     + [Create unique composites with Adobe Stock and Photoshop for iPad](cce/compositepsipad.md)
     + [Creating cinemagraphs with Photoshop](cce/cinemagraphps.md)
     + [Decoding the alphabet soup of graphic formats](cce/alphabetsoup.md)
@@ -21,6 +23,7 @@ product: creative cloud
 + Stock {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
+    + [Search Adobe Stock licensing history](stock/searchstock.md)
     + [Add a hand-drawn aesthetic to Adobe Stock images](stock/handdrawn.md)
     + [Add flair to typography with masks and animation](stock/flairtypography.md)
     + [Animate an Adobe Stock vector illustration in Photoshop](stock/animatevector.md)
