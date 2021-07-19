@@ -2,7 +2,6 @@
 title: Tutorials
 description: Welcome to the Creative Cloud for enterprise Learning Hub
 role: User
-product: creative cloud
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
 ---
