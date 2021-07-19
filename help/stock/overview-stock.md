@@ -9,7 +9,8 @@ exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 
 ![Creative Cloud Hero Image](../assets/Stock.jpg)
 
-Creatives are under pressure to quickly deliver new, visually compelling content that will capture and hold attention. Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets – all from within the Adobe creative apps they use every day.
+Creatives are under pressure to quickly deliver new, visually compelling content that captures and holds attention. Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files, and 3D assets – all from within the Adobe creative apps they use every day.
+
 
 ## Click to view an Adobe Stock tutorial
 
@@ -118,7 +119,7 @@ Creatives are under pressure to quickly deliver new, visually compelling content
       <div>
       <a href="infographic.md"><strong>Create a company guidelines infographic with Adobe Stock</strong></a>
       </div>
-      <em>Combine a variety of assets from Adobe Stock to communicate guidelines in the form of visually compelling infographics</em>
+      <em>Combine various assets from Adobe Stock to communicate guidelines in the form of visually compelling infographics</em>
       <br>
   </td>
  <td>
@@ -288,7 +289,7 @@ Creatives are under pressure to quickly deliver new, visually compelling content
     <div>
    <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf"><strong>Animate an Adobe Stock vector illustration in Photoshop (PDF)</strong></a>
     </div>
-    <em>By combining After Effects with Adobe Stock, you can quickly create stunning special effects that will help you visually tell a story</em>
+    <em>By combining After Effects with Adobe Stock, you can quickly create stunning special effects that help you visually tell a story</em>
     <br>
   </td>
    <td>
@@ -362,7 +363,7 @@ Creatives are under pressure to quickly deliver new, visually compelling content
       <div>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>Visualize poster designs in the real world with Adobe Stock and Photoshop (PDF)</strong></a>
       </div>
-      <em>Showcase your designs in real-life environments to get a better sense of how they’ll look out in the world</em>
+      <em>Showcase your designs in real-life environments to get a better sense of how they look out in the world</em>
       <br>
   </td>
 </tr>

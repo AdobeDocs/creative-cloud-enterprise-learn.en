@@ -14,7 +14,7 @@ product: creative cloud
   + [Overview](cce/overview-cce.md)
   + Tutorials {#ccetutorials}
     + [Creating a CC Team Library](cce/ccteamlibraries.md)
-    + [Sharing branding assets with Creative Cloud Team Libraries](cce/sharedlibraries.md)
+    + [Sharing branding assets with Creative Cloud Team Libraries](cce/sharedcclibraries.md)
     + [Create unique composites with Adobe Stock and Photoshop for iPad](cce/compositepsipad.md)
     + [Creating cinemagraphs with Photoshop](cce/cinemagraphps.md)
     + [Decoding the alphabet soup of graphic formats](cce/alphabetsoup.md)

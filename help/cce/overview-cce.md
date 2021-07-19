@@ -78,7 +78,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Meet Your New Production Artist: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions — and all the while it is ready and able to do much of the tedious work for you</em>
+    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions</em>
     <br>
   </td>
 </tr>
@@ -169,7 +169,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
     </div>
-    <em>In this hands-on, step- by-step lab, we combine Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
+    <em>In this hands-on, step- by-step lab, combine Photoshop with After Effects to create jaw -dropping images and effects suitable for use in any medium</em>
     <br>
   </td>
   <td>
@@ -191,7 +191,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Work Smarter, Not Harder, with Photoshop (PDF)</strong></a>
     </div>
-    <em>Making changes in Photoshop can be time consuming, but it doesn’t have to be</em>
+    <em>Changes in Photoshop can be time consuming, but it doesn’t have to be</em>
     <br>
   </td>
    <td>
@@ -490,7 +490,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualize your Product in a Realistic Environment (PDF)</strong></a>
     </div>
-    <em>When you want to see how your products will look in the real world, Adobe Dimension is your go-to app</em>
+    <em>When you want to see how your products look in the real world, Adobe Dimension is your go-to app</em>
     <br>
   </td>
   <td>

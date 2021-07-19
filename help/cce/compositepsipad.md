@@ -13,6 +13,6 @@ Bring the power of Photoshop to your fingertips. Learn to use one of your favori
 
 <br>&nbsp;
 
-Click the PDF file icon to download a Quick Reference Guide of this tutorial.
+To download a Quick Reference Guide of this tutorial, click the PDF file icon below.
 
 [![PDF File Icon](../assets/acrobat_PDF_96.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
