@@ -9,10 +9,12 @@ thumbnail: KT-8209
 
 # Creating a CC Team Library
 
- In ths video tutorial, learn how to share assets within a group or team using Creative Cloud Team Libraries. You can identify Team libraries by the ![building image](assets/Smock_Building_18_N.png)
+ In ths video tutorial, learn how to share assets within a group or team using Creative Cloud Team Libraries. You can identify Team libraries by the ![building image](assets/Smock_Building_18_N.png).
 
  >[!TIP]
  >
  >Team libraries are not tied to the individual user account. The creator of a team library is not the owner of the library, the library belongs to the team.
+ 
+ <br>&nbsp;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335325?hidetitle=true)
