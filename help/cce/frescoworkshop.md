@@ -15,6 +15,6 @@ Explore a whole new world of digital drawing and painting with Adobe Fresco in t
 
 <br>&nbsp;
 
-To download a Quick Reference Guide of this tutorial, click the PDF file icon below.
+[**Download Quick Reference PDF Guide**](../quick-reference/Frescoworkshop.pdf)
 
-[![PDF File Icon](../assets/acrobat_PDF_96.png)](../quick-reference/Frescoworkshop.pdf)
+[![Image of first page of quick reference guide](assets/FrescoworkshopPage1.png)(../quick-reference/Frescoworkshop.pdf)
