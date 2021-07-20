@@ -15,4 +15,4 @@ In this step-by-step workshop video tutorial, create a living photograph by comb
 
 To open a Quick Reference PDF Guide of this tutorial, click the image below.
 
-Download [![Image of first page of quick reference guide](assets/CreatingCinemagraphswithPhotoshopPage1.png)](assets/quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+Download [![Image of first page of quick reference guide](assets/CreatingCinemagraphswithPhotoshopPage1.png)](assets/CreatingCinemagraphswithPhotoshop.pdf)
