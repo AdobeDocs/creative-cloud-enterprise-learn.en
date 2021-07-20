@@ -9,11 +9,11 @@ thumbnail: KT-8211
 
 # Sharing branding assets with Creative Cloud Team Libraries
 
- In ths video tutorial, learn how to create, use, and share branding assets for your group or team using Creative Cloud Team Libraries. You can identify Team libraries by the ![building image](assets/Smock_Building_18_N.png).
+ In ths video tutorial, learn how to create, use, and share branding assets for your group or team using Creative Cloud Team Libraries. Assets in Creative Cloud Team Libraries are stored in a central location, and are not tied to the individual user account. You can identify Team libraries by the ![building image](assets/Smock_Building_18_N.png) icon. 
 
- >[!NOTE]
+ >[!TIP]
  >
- >Assets in Creative Cloud Team Libraries are stored in a central location and are not tied to the individual user account. The creator of a team library is not the owner of the library, the library belongs to the team.
+ >Use Creative Cloud Team Libraries any time your organization must retain ownership of creative assets. Some examples include: corporate style guide, shared projects, and UI design elements.
 
  <br>&nbsp;
 
