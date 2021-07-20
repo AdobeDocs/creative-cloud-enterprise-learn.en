@@ -15,6 +15,6 @@ JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web 
 
 <br>&nbsp;
 
-To download a Quick Reference Guide of this tutorial, click the PDF file icon below.
+[**Download Quick Reference PDF Guide**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![PDF File Icon](../assets/acrobat_PDF_96.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![Image of first page of quick reference guide](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
