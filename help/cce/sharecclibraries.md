@@ -13,7 +13,7 @@ thumbnail: KT-8211
 
  >[!TIP]
  >
- >Use Creative Cloud Team Libraries any time your organization must retain ownership of creative assets. Some examples include: corporate style guide, shared projects, and UI design elements.
+ >Use Creative Cloud Team Libraries anytime your organization must retain ownership of creative assets. Some examples include: corporate style guide, shared projects, and UI design elements.
 
  <br>&nbsp;
 
