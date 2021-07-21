@@ -1,5 +1,5 @@
 ---
-title: Creating a CC Library for teams
+title: Creating Creative Cloud Libraries for teams
 description: Learn how to share assets within a group or team using Creative Cloud Libraries for teams
 role: User
 level: Beginner, Intermediate
@@ -7,9 +7,9 @@ kt: 8209
 thumbnail: KT-8209
 ---
 
-# Creating a CC Library for teams
+# Creating Creative Cloud Libraries for teams
 
- In ths video tutorial, learn how to share assets within a group or team using Creative Cloud Libraries for teams. These type of libraries are not tied to an individual user account, instead the library belongs to the team. You can identify team libraries by the ![building image](assets/Smock_Building_18_N.png) icon. 
+ In ths video tutorial, learn how to share assets within a group or team using Creative Cloud Libraries for teams. These types of libraries are not tied to an individual user account, instead the library belongs to the team. You can identify team libraries by the ![building image](assets/Smock_Building_18_N.png) icon. 
 
  >[!TIP]
  >
