@@ -288,22 +288,22 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
   <td>
    <a href="ccteamlibraries.md">
-      <img alt="Creating a CC Team Library" src="assets/CCTeamLibraries_1280.jpg" />
+      <img alt="Creating Creative Cloud Libraries for teams" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="ccteamlibraries.md"><strong>Creating a CC Team Library</strong></a>
+   <a href="ccteamlibraries.md"><strong>Creating Creative Cloud Libraries for teams</strong></a>
     </div>
-    <em>Learn how to share assets within a group or team using Creative Cloud Team Libraries</em>
+    <em>Learn how to share assets within a group or team using Creative Cloud Libraries for teams</em>
     <br>
   </td>
   <td>
    <a href="sharecclibraries.md">
-      <img alt="Sharing branding assets with Creative Cloud Team Libraries" src="assets/ShareLibraries_1280.jpg" />
+      <img alt="Sharing branding assets with Creative Cloud Libraries for teams" src="assets/ShareLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="sharecclibraries.md"><strong>Sharing branding assets with Creative Cloud Team Libraries</strong></a>
+   <a href="sharecclibraries.md"><strong>Sharing branding assets with Creative Cloud Libraries for teams</strong></a>
     </div>
-    <em>Learn how to create, use, and share branding assets for your group or team using Creative Cloud Team Libraries</em>
+    <em>Learn how to create, use, and share branding assets for your group or team using Creative Cloud Libraries for teams</em>
     <br>
   </td>
   <td>

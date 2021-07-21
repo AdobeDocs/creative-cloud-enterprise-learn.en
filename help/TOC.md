@@ -12,8 +12,8 @@ type: Tutorial
 + CCE {#cceoverview}
   + [Overview](cce/overview-cce.md)
   + Tutorials {#ccetutorials}
-    + [Creating a CC Team Library](cce/ccteamlibraries.md)
-    + [Sharing branding assets with Creative Cloud Team Libraries](cce/sharecclibraries.md)
+    + [Creating Creative Cloud Libraries for teams](cce/ccteamlibraries.md)
+    + [Sharing branding assets with Creative Cloud Libraries for teams](cce/sharecclibraries.md)
     + [Create unique composites with Adobe Stock and Photoshop for iPad](cce/compositepsipad.md)
     + [Creating cinemagraphs with Photoshop](cce/cinemagraphps.md)
     + [Decoding the alphabet soup of graphic formats](cce/alphabetsoup.md)
