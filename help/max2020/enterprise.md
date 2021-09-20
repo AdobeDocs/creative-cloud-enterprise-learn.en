@@ -57,6 +57,6 @@ Todd Burke, Principal Solutions Consultant (Digital Media)
 
 **Enterprise Administration Resources:**
 
-[Adobe Fonts User Guide](https://helpx.adobe.com/fonts/user-guide.html/fonts/using/welcome.ug.html)
+[Adobe Fonts User Guide](https://helpx.adobe.com/fonts/user-guide.html)
 
 [Enterprise Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html)
