@@ -92,7 +92,7 @@ In this tutorial, you will learn how to:
 * Add materials and control lighting for a professional look
 * Import assets to apply your brand or other designs
 
-**Click Image to Download Dimension File with 3D Model of White Mask**
+**Click Image to Download [!DNL Dimension] File with 3D Model of White Mask**
 
 [![Comparison Image](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 

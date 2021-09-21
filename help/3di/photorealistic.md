@@ -1,6 +1,6 @@
 ---
 title: Creating photorealistic virtual photography with 3D rendering and compositing
-description: Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe Dimension
+description: Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe [!DNL Dimension]
 role: User
 level: Beginner, Intermediate
 keywords: virtual photography, 100 Global MSV
@@ -8,24 +8,24 @@ exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
 ---
 # Creating photorealistic virtual photography with 3D rendering and compositing
 
-![A collage of examples featuring photorealistic virtual photographs designed with Adobe Dimension](assets/Photorealistic_1.png)
+![A collage of examples featuring photorealistic virtual photographs designed with Adobe [!DNL Dimension]](assets/Photorealistic_1.png)
 
 Looking at the images above, you'd be forgiven for assuming everything you see is real. With the technological advancements in the rendering of photorealistic 3D imagery, however, it's harder than ever to determine what is real and what is virtual. In this case, the images are a mix of real, photography, and rendered 3D content — and this is exactly the type of 3D design that companies are investing in.
 
 ![A scene from James Cameron's The Abyss in which Mary Mastrantonio reaches out to touch the CGI water tentacle](assets/Photorealistic_2.jpg)
 
-This technique, of layering, or ‘compositing’ 3D models into an image or video, is not new, and in fact its origins go back to the early days of VFX (as far back as the 1980s). What is new and exciting is that this technique has become a powerful tool for [Adobe Dimension](https://www.adobe.com/products/dimension.html) users, and an intriguing new workflow for photographers.
+This technique, of layering, or ‘compositing’ 3D models into an image or video, is not new, and in fact its origins go back to the early days of VFX (as far back as the 1980s). What is new and exciting is that this technique has become a powerful tool for [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) users, and an intriguing new workflow for photographers.
 
 
-## The technology behind creating composite images in Adobe Dimension
+## The technology behind creating composite images in Adobe [!DNL Dimension]
 
-![Editing the plane of a metal sphere model in an Adobe Dimension composite](assets/Photorealistic_3.png)
+![Editing the plane of a metal sphere model in an Adobe [!DNL Dimension] composite](assets/Photorealistic_3.png)
 
-Adobe Dimension has allowed users to seamlessly combine 2D and 3D elements together directly in the app by using the Adobe Sensei powered match image function. The main benefit of compositing elements in this way is that it turbo boosts the process of creating a realistic looking image by substituting a fully realized 3D scene with a background image, which can be captured from reality. 
+Adobe [!DNL Dimension] has allowed users to seamlessly combine 2D and 3D elements together directly in the app by using the Adobe Sensei powered match image function. The main benefit of compositing elements in this way is that it turbo boosts the process of creating a realistic looking image by substituting a fully realized 3D scene with a background image, which can be captured from reality. 
 
-![The Match Image feature in Adobe Dimension analyzes the background image and estimates the focal length and position of the camera that was used to capture it](assets/Photorealistic_4.gif)
+![The Match Image feature in Adobe [!DNL Dimension] analyzes the background image and estimates the focal length and position of the camera that was used to capture it](assets/Photorealistic_4.gif)
 
-The Match Image feature analyzes the background image and estimates the focal length and position of the camera that was used to capture it. A 3D camera is then created in the Dimension scene which can be used to render 3D elements within the same perspective as the background image so they will composite together.
+The Match Image feature analyzes the background image and estimates the focal length and position of the camera that was used to capture it. A 3D camera is then created in the [!DNL Dimension] scene which can be used to render 3D elements within the same perspective as the background image so they will composite together.
 
 But what about everything not captured within the camera’s frame?  The full environment an image is captured in matters significantly because it defines how everything looks within it. An object within an image is reflecting the light of the world around it, which includes everything behind the camera too. So, for the layered 3D elements to really blend in with the background of your image, they need to fully reflect the lighting in the environment in which the image was taken.
 
@@ -43,7 +43,7 @@ Cameras like the Ricoh Theta, Gopro MAX, and Insta 360 can capture 360 panoramas
 
 ## The process for creating photorealistic composite images
 
-### Capture
+### [!DNL Capture]
 
 To get started capturing environments for compositing, you need two main elements; a high quality background image or images and a 360° HDR panorama of the environment in which it was taken.
 
@@ -113,7 +113,7 @@ The result is an HDR image that can be used to light scenes in 3D.
 
 ![A 360 degree HDR panoramic of an office space with shadows visible at the nadir](assets/Photorealistic_17.png)
 
-Final steps will be to remove any shadowing and tripod legs visible at the nadir of the image and adjusting the default exposure of the image to light the scene correctly. Removal of details can be done using the clone tool in Photoshop. Adjusting exposure should be done in conjunction with the backgrounds in Dimension, since the exposure value of the HDR IBL is the lighting values for the 3D objects.
+Final steps will be to remove any shadowing and tripod legs visible at the nadir of the image and adjusting the default exposure of the image to light the scene correctly. Removal of details can be done using the clone tool in Photoshop. Adjusting exposure should be done in conjunction with the backgrounds in [!DNL Dimension], since the exposure value of the HDR IBL is the lighting values for the 3D objects.
 
 ### Capturing the backgrounds
 
@@ -125,40 +125,40 @@ After capturing the environment you can now capture backgrounds using a camera o
 
 There is a lot of leeway for framing and composition with the backgrounds. The camera can have high or low apertures for varied depth of field, use long or short focal lengths, and be angled up or down. The main requirement is that the camera is aimed towards the center point of where the environment was captured with the 360 camera.
 
-When the capturing is complete, the images should be post processed to match the color of the environment as close as possible. The color and exposure should be as neutral and natural as possible. Any stylized looks should be applied after 3D elements have been composited into the image with Adobe Dimension.
+When the capturing is complete, the images should be post processed to match the color of the environment as close as possible. The color and exposure should be as neutral and natural as possible. Any stylized looks should be applied after 3D elements have been composited into the image with Adobe [!DNL Dimension].
 
-## Assembling your composite image in Dimension
+## Assembling your composite image in [!DNL Dimension]
 
-With these elements gathered and complete, they can now be assembled in a scene in Adobe Dimension. This is as simple as dragging the background into the scene, where it will then be applied to the background; then, add the HDR pano into the environment light image slot.
+With these elements gathered and complete, they can now be assembled in a scene in Adobe [!DNL Dimension]. This is as simple as dragging the background into the scene, where it will then be applied to the background; then, add the HDR pano into the environment light image slot.
 
 Drag and drop the background image into an empty area of the canvas, or select the Environment within the scene panel and add the image to the background input.
 
-![The background image for a virtual photograph can be selected from the Properties menu in Adobe Dimension](assets/Photorealistic_20.png)
+![The background image for a virtual photograph can be selected from the Properties menu in Adobe [!DNL Dimension]](assets/Photorealistic_20.png)
 
 Add the HDR pano by selecting the Environment Light and adding it to the Image input.
 
-![The Environment Light source can be added to the background image of a virtual photograph from the Scene menu in in Adobe Dimension](assets/Photorealistic_21.png)
+![The Environment Light source can be added to the background image of a virtual photograph from the Scene menu in in Adobe [!DNL Dimension]](assets/Photorealistic_21.png)
 
 You can then use "Match Image" on your background to match the resolution and aspect as well as the camera perspective. Instead of generating the environment from the background image, the captured HDR pano image is used to light the scene, so the ‘create lights’ option can be left unchecked.
 
-![Using the Match Image feature in Adobe Dimension to render a 3D metal sphere image with the environment lights from an HDR panoramic](assets/Photorealistic_22.png)
+![Using the Match Image feature in Adobe [!DNL Dimension] to render a 3D metal sphere image with the environment lights from an HDR panoramic](assets/Photorealistic_22.png)
 
 Now, objects that are added into the scene will be composited realistically into the background since they are being lit by the environment where the image was taken.
 
-To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in Dimension, can be placed in the scene. The environment light’s rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano’s exposure should be increased or decreased to compensate.
+To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in [!DNL Dimension], can be placed in the scene. The environment light’s rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano’s exposure should be increased or decreased to compensate.
 
 ![A photorealistic virtual photograph of a metal sphere is composited onto a background image of office space](assets/Photorealistic_23.png)
 
-To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in Dimension, can be placed in the scene. The environment light’s rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano’s exposure should be increased or decreased to compensate.
+To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in [!DNL Dimension], can be placed in the scene. The environment light’s rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano’s exposure should be increased or decreased to compensate.
 
 ## The end result: A photorealistic composite image
 
-![A time-lapse of 3D compositing and rendering for a virtual product photograph in Adobe Dimension](assets/Photorealistic_24.gif)
+![A time-lapse of 3D compositing and rendering for a virtual product photograph in Adobe [!DNL Dimension]](assets/Photorealistic_24.gif)
 
-Once the scene is complete, the workflow for the end-user is straightforward. Simply drag and drop your own model or any [Adobe Stock 3D](https://stock.adobe.com/3d-assets) content directly into the image to render it as if it were there when the photo was taken. This opens new avenues for creating highly realistic ad content, or the ability to iterate on designs within many different contexts.
+Once the scene is complete, the workflow for the end-user is straightforward. Simply drag and drop your own model or any [Adobe [!DNL Stock] 3D](https://stock.adobe.com/3d-assets) content directly into the image to render it as if it were there when the photo was taken. This opens new avenues for creating highly realistic ad content, or the ability to iterate on designs within many different contexts.
 
 ![Photorealistic virtual photograph of 3D appliances composited into a kitchen counter top scene](assets/Photorealistic_25.png)
 
-The end result is a convincing blend of reality and 3D that helps end users achieve the goal of creating photorealistic images with minimal effort. Give it a try yourself with some [free Dimension scenes](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) we created to demonstrate the workflow.
+The end result is a convincing blend of reality and 3D that helps end users achieve the goal of creating photorealistic images with minimal effort. Give it a try yourself with some [free [!DNL Dimension] scenes](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) we created to demonstrate the workflow.
 
-[Download the latest release](https://creativecloud.adobe.com/apps/download/dimension) of Dimension today and start building your photorealistic images.
+[Download the latest release](https://creativecloud.adobe.com/apps/download/dimension) of [!DNL Dimension] today and start building your photorealistic images.

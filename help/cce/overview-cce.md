@@ -100,10 +100,10 @@ As an enterprise creative, you must collaborate with distributed teams, establis
   </td>
   <td>
     <a href="compositepsipad.md">
-      <img alt="Create unique composites with Adobe Stock and Photoshop for iPad" src="assets/CompositePSiPad.jpg" />
+      <img alt="Create unique composites with Adobe [!DNL Stock] and Photoshop for iPad" src="assets/CompositePSiPad.jpg" />
     </a>
     <div>
-    <a href="compositepsipad.md"><strong>Create unique composites with Adobe Stock and Photoshop for iPad</strong></a>
+    <a href="compositepsipad.md"><strong>Create unique composites with Adobe [!DNL Stock] and Photoshop for iPad</strong></a>
     </div>
     <em>Bring the power of Photoshop to your fingertips. Learn to use one of your favorite Creative Cloud applications in a whole new way, with a re-engineered touch-based interface</em>
     <br>
@@ -115,7 +115,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
     <a href="cinemagraphps.md"><strong>Creating Cinemagraphs with Photoshop</strong></a>
     </div>
-    <em>In this step-by-step workshop video tutorial, you create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop</em>
+    <em>In this step-by-step workshop video tutorial, you create a living photograph by combining video from Adobe [!DNL Stock] with clever masking techniques in Photoshop</em>
     <br>
   </td>
 </tr>
@@ -132,12 +132,12 @@ As an enterprise creative, you must collaborate with distributed teams, establis
    </td>
    <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
-      <img alt="Create Cinemagraphs in a snap with Photoshop and Adobe Stock" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
+      <img alt="Create Cinemagraphs in a snap with Photoshop and Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Create Cinemagraphs in a snap with Photoshop and Adobe Stock (PDF)</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Create Cinemagraphs in a snap with Photoshop and Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Searching for seamlessly looping videos on Adobe Stock for quickly assembling eye-catching cinemagraphs in Photoshop</em>
+    <em>Searching for seamlessly looping videos on Adobe [!DNL Stock] for quickly assembling eye-catching cinemagraphs in Photoshop</em>
     <br>
   </td>
    <td>
@@ -479,7 +479,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 </tr>
 </table>
 
-### Dimension
+### [!DNL Dimension]
 
 <table  style="table-layout:fixed">
 <tr>
@@ -490,7 +490,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualize your Product in a Realistic Environment (PDF)</strong></a>
     </div>
-    <em>When you want to see how your products look in the real world, Adobe Dimension is your go-to app</em>
+    <em>When you want to see how your products look in the real world, Adobe [!DNL Dimension] is your go-to app</em>
     <br>
   </td>
   <td>

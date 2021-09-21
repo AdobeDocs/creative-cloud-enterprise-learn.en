@@ -1,15 +1,15 @@
 ---
 title: Capture
-description: Adobe Capture turns mobile phones and tablets into a design collection tool
+description: Adobe [!DNL Capture] turns mobile phones and tablets into a design collection tool
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
 ---
-# Capture
+# [!DNL Capture]
 
 ![Tutorial Hero Image](../assets/Capture.jpg)
 
-Adobe Capture turns mobile phones and tablets into a design collection tool. Users can create many different types of assets (individual digital elements for artwork).   These assets automatically sync with other desktop and mobile Adobe applications. Users can bring them into their creative projects or easily share them with collaborators.
+Adobe [!DNL Capture] turns mobile phones and tablets into a design collection tool. Users can create many different types of assets (individual digital elements for artwork).   These assets automatically sync with other desktop and mobile Adobe applications. Users can bring them into their creative projects or easily share them with collaborators.
 
 ## Browse Product Tutorials
 
@@ -55,7 +55,7 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 ![Capture Logo](../assets/ca_appicon_96.png)
 
-**Capture Resources**
+**[!DNL Capture] Resources**
 
 [Learn & Support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) is your hub for additional tutorials and links to community forums.
 
