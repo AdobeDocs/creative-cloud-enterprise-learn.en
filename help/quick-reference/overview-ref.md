@@ -84,7 +84,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Create, Edit and Share a Web Page with Spark (PDF)</strong></a>
     </div>
-    <em>Create an interactive, responsive, and lightbox-enabled photo grid for your web page using simple, and intuitive, tools in Adobe Spark and beautiful images from Adobe Stock</em>
+    <em>Create an interactive, responsive, and lightbox-enabled photo grid for your web page using simple, and intuitive, tools in Adobe Spark and beautiful images from Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -131,7 +131,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>Creating Cinemagraphs with Photoshop (PDF)</strong></a>
     </div>
-    <em>Create a living photograph by combining video from Adobe Stock with clever masking techniques in Photoshop. Bring your images to life with motion and a strategic loop point</em>
+    <em>Create a living photograph by combining video from Adobe [!DNL Stock] with clever masking techniques in Photoshop. Bring your images to life with motion and a strategic loop point</em>
     <br>
   </td>
 </tr>
@@ -222,7 +222,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Design and Prototype Interactive Projects with Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Create a fully interactive, and animated, user experience in just a few minutes by combining Adobe XD with a wide range of unique and versatile assets on Adobe Stock</em>
+    <em>Create a fully interactive, and animated, user experience in just a few minutes by combining Adobe XD with a wide range of unique and versatile assets on Adobe [!DNL Stock]</em>
     <br>
   </td>
  </tr>
@@ -250,50 +250,50 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 </tr>
 </table> 
 
-### Stock
+### [!DNL Stock]
 
 <table>
 <tr>
   <td>
    <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf">
-      <img alt="Create Unique Graphics by Combining Adobe Stock Images" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Create Unique Graphics by Combining Adobe [!DNL Stock] Images" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Create Unique Graphics by Combining Adobe Stock Images (PDF)</strong></a>
+   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Create Unique Graphics by Combining Adobe [!DNL Stock] Images (PDF)</strong></a>
     </div>
-    <em>Combine images together from Adobe Stock to create an entirely new image for your design projects</em>
+    <em>Combine images together from Adobe [!DNL Stock] to create an entirely new image for your design projects</em>
     <br>
   </td>
   <td>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf">
-      <img alt="Enhance Your Portfolio with Unique Projects and Adobe Stock" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Enhance Your Portfolio with Unique Projects and Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf"><strong>Enhance Your Portfolio with Unique Projects and Adobe Stock (PDF)</strong></a>
+   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf"><strong>Enhance Your Portfolio with Unique Projects and Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Combine images together from Adobe Stock to create an entirely new image for your design projects</em>
+    <em>Combine images together from Adobe [!DNL Stock] to create an entirely new image for your design projects</em>
     <br>
   </td>
    <td>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf">
-      <img alt="Get More Attention with Motion from Adobe Stock" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Get More Attention with Motion from Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Get More Attention with Motion from Adobe Stock (PDF)</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Get More Attention with Motion from Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Capture the attention of your audiences, on any screen, by combining photography with video from Adobe Stock</em>
+    <em>[!DNL Capture] the attention of your audiences, on any screen, by combining photography with video from Adobe [!DNL Stock]</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
-      <img alt="Showcase your data with Adobe Stock Motion Graphic Templates" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Showcase your data with Adobe [!DNL Stock] Motion Graphic Templates" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>Showcase your data with Adobe Stock Motion Graphic Templates (PDF)</strong></a>
+   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>Showcase your data with Adobe [!DNL Stock] Motion Graphic Templates (PDF)</strong></a>
     </div>
-    <em>Represent your data in a more influential way by adding motion and design with a Motion Graphic Template from Adobe Stock</em>
+    <em>Represent your data in a more influential way by adding motion and design with a Motion Graphic Template from Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -303,15 +303,15 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf"><strong>Show Off Your Design Work in the Real World (PDF)</strong></a>
     </div>
-    <em>Learn to mock-up your design work with real world templates from Adobe Stock</em>
+    <em>Learn to mock-up your design work with real world templates from Adobe [!DNL Stock]</em>
     <br>
   </td>
 <td>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf">
-      <img alt="Tips for Creating Animation in Email with Adobe Stock" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Tips for Creating Animation in Email with Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Tips for Creating Animation in Email with Adobe Stock (PDF)</strong></a>
+   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Tips for Creating Animation in Email with Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Combine static images and video together in Photoshop to create a compelling Animated GIF for your campaign that’s suitable for a wide range of customer email applications</em>
     <br>
@@ -330,7 +330,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Unlimited Adobe Fonts at your Fingertips (PDF)</strong></a>
     </div>
-    <em>Capture interesting fonts in the real world using Adobe Capture on your mobile device, then identify and activate and save similar fonts using Adobe Fonts and Creative Cloud libraries</em>
+    <em>[!DNL Capture] interesting fonts in the real world using Adobe [!DNL Capture] on your mobile device, then identify and activate and save similar fonts using Adobe Fonts and Creative Cloud libraries</em>
     <br>
   </td>
    <td>
@@ -384,12 +384,12 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
   <td>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf">
-      <img alt="Creating Realistic 3D Mock-ups with Adobe Stock and Dimension" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Creating Realistic 3D Mock-ups with Adobe [!DNL Stock] and [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>Creating Realistic 3D Mock-ups with Adobe Stock and Dimension (PDF)</strong></a>
+   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>Creating Realistic 3D Mock-ups with Adobe [!DNL Stock] and [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>See how your design translates to real-world objects by combining 3D models from Adobe Stock with custom decals in Dimension</em>
+    <em>See how your design translates to real-world objects by combining 3D models from Adobe [!DNL Stock] with custom decals in [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -399,7 +399,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="SkiptheShootGettheShot.pdf"><strong>Skip the Shoot — Get the Shot (PDF)</strong></a>
     </div>
-    <em>Customize and brand a 3D model in Dimension using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
+    <em>Customize and brand a 3D model in [!DNL Dimension] using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
     <br>
   </td>
   <td>
@@ -452,7 +452,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf"><strong>Shoot, Edit, Publish your Photos with Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Combine videos and motion graphics together in order to tell a compelling story for social media with easy-to-use editing tools and Motion Graphic Templates in Premiere Rush</em>
+    <em>Combine videos and motion graphics together in order to tell a compelling story for social media with easy-to-use editing tools and Motion Graphic Templates in Premiere [!DNL Rush]</em>
     <br>
   </td>
   <td>

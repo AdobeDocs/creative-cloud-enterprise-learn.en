@@ -1,15 +1,15 @@
 ---
-title: Stock
-description: Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets
+title: [!DNL Stock]
+description: Adobe [!DNL Stock] for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 ---
-# Stock
+# [!DNL Stock]
 
-![Tutorial Hero Image](../assets/Stock.jpg)
+![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
 
-Creatives are under pressure to quickly deliver new, visually compelling content that will capture and hold attention. Adobe Stock for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets – all from within the Adobe creative apps they use every day.
+Creatives are under pressure to quickly deliver new, visually compelling content that will capture and hold attention. Adobe [!DNL Stock] for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets – all from within the Adobe creative apps they use every day.
 
 ## Browse Product Tutorials
 
@@ -17,23 +17,23 @@ Creatives are under pressure to quickly deliver new, visually compelling content
 <tr>
  <td>
    <a href="stock.md#tutorial1">
-      <img alt="Find the best assets faster with Adobe Stock" src="../assets/stock_torres_thumbnail.jpg" />
+      <img alt="Find the best assets faster with Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Find the best assets faster with Adobe Stock</strong></a>
+   <a href="stock.md#tutorial1"><strong>Find the best assets faster with Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe Sensei, our artificial intelligence engine</em>
     <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Search and License Stock Assets in AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="Search and License [!DNL Stock] Assets in AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>Search and License Stock Assets in 
+   <a href="stock.md#tutorial2"><strong>Search and License [!DNL Stock] Assets in 
 Adobe Experience Manager</strong></a>
     </div>
-    <em>Simplify the process of uploading your licensed Adobe Stock assets into your Digital Asset Management system</em>
+    <em>Simplify the process of uploading your licensed Adobe [!DNL Stock] assets into your Digital Asset Management system</em>
     <br>
   </td>
   <td>
@@ -44,7 +44,7 @@ Adobe Experience Manager</strong></a>
 </tr>
 </table>
 
-## Find the best assets faster with Adobe Stock (10:49) {#tutorial1}
+## Find the best assets faster with Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
@@ -58,26 +58,26 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 
-Victoria Torres, Stock Solutions Consultant (Digital Media)
+Victoria Torres, [!DNL Stock] Solutions Consultant (Digital Media)
 
-## Search and License Stock Assets in AEM (6:46) {#tutorial2}
+## Search and License [!DNL Stock] Assets in AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Description**
-Simplify the process of uploading your licensed Adobe Stock assets into your Digital Asset Management system.
+Simplify the process of uploading your licensed Adobe [!DNL Stock] assets into your Digital Asset Management system.
 
 In this tutorial, you will learn how to:
-* Perform Adobe Stock asset search without leaving AEM workspace
+* Perform Adobe [!DNL Stock] asset search without leaving AEM workspace
 * Save licensed assets directly to an AEM folder at time of licensing
-* View assets licensed from AEM in your Stock license history on the Stock website. 
+* View assets licensed from AEM in your [!DNL Stock] license history on the [!DNL Stock] website. 
 
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)
 
-![Stock Logo](../assets/st_appicon_96.png)
+![[!DNL Stock] Logo](../assets/st_appicon_96.png)
 
-**Adobe Stock Resources**
+**Adobe [!DNL Stock] Resources**
 
 [Learn & Support](https://helpx.adobe.com/support/stock.html) is your hub for additional tutorials and links to community forums.
 

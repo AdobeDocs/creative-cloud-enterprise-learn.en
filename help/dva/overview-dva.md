@@ -37,22 +37,22 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf">
-      <img alt="Create an Illustration from an Adobe Stock Photo with After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Create an Illustration from an Adobe [!DNL Stock] Photo with After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>Create an Illustration from an Adobe Stock Photo with After Effects (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>Create an Illustration from an Adobe [!DNL Stock] Photo with After Effects (PDF)</strong></a>
     </div>
-    <em>Combine the Hue/Saturation and Levels with the Cartoon effects in After Effects to create a unique stylized illustration from an Adobe Stock photo</em>
+    <em>Combine the Hue/Saturation and Levels with the Cartoon effects in After Effects to create a unique stylized illustration from an Adobe [!DNL Stock] photo</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf">
-      <img alt="Create Animated Titles Using Motion Graphics Templates in Adobe Premiere Rush" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
+      <img alt="Create Animated Titles Using Motion Graphics Templates in Adobe Premiere [!DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf"><strong>Create Animated Titles Using Motion Graphics Templates in Adobe Premiere Rush (PDF)</strong></a>
+   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf"><strong>Create Animated Titles Using Motion Graphics Templates in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
     </div>
     <em>Make your videos look even more amazing by adding professionally designed Motion Graphics templates that fit your story or match your personal brand</em>
     <br>
@@ -123,12 +123,12 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere Rush Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere Rush Adobe (PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
     </div>
-    <em>Adobe Premiere Rush delivers advanced video editing features in a simple-to-use app, so anyone can create a pro-quality video in minutes</em>
+    <em>Adobe Premiere [!DNL Rush] delivers advanced video editing features in a simple-to-use app, so anyone can create a pro-quality video in minutes</em>
     <br>
   </td>
 </tr>

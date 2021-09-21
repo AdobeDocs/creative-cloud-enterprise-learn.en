@@ -41,7 +41,7 @@ Another useful trick is to create a sphere with a shiny metal material (a chrome
 
 ![Using a mirror ball (sphere with metallic texture) to see and orient the environment light in a 3D scene](assets/Mastering3dlighting_4.gif)
 
-## Types of lights in Adobe Dimension
+## Types of lights in Adobe [!DNL Dimension]
 
 ### Environment lights
 
@@ -49,7 +49,7 @@ Environment lights are equirectangular (spherical) images, which are wrapped aro
 
 ![Examples of environment lights made out of photos, a 3D studio scene and an abstract 3D scene](assets/Mastering3dlighting_5.jpg)
 
-When you create a new scene in [Dimension](https://www.adobe.com/products/dimension.html), a default environment light will be created for you. This is why you are immediately able to actually see anything in the scene. Adobe Dimension Starter Assets include a certain number of environment lights, which you may try right away. In addition, [Adobe Stock](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) offers a huge, curated selection of environment lights.
+When you create a new scene in [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), a default environment light will be created for you. This is why you are immediately able to actually see anything in the scene. Adobe [!DNL Dimension] Starter Assets include a certain number of environment lights, which you may try right away. In addition, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) offers a huge, curated selection of environment lights.
 
 Environment lights produce highly realistic results, and can save you a lot of time. In order to achieve something similar manually, you would have to actually create the whole environment in 3D (including various light sources), which is a significant amount of work.
 
@@ -67,7 +67,7 @@ You can also create environment lights by capturing photographs of the real worl
 
 ![The photographic environment light is created using exposure bracketing and Merge to HDR Pro in Photoshop](assets/Mastering3dlighting_10.jpg)
 
-In both cases, the light sources (and their intensities) are “baked” into these images and will emit the light once they are used in Dimension.
+In both cases, the light sources (and their intensities) are “baked” into these images and will emit the light once they are used in [!DNL Dimension].
 
 In these methods you've captured all the lighting, reflections, and details you need, but 3D apps let you continue editing them in the 3D space, so you can adjust the lighting rotation as well as change the overall intensity and color.
 
@@ -79,11 +79,11 @@ In addition to Environment lights, which emit light from 360 degrees, there are 
 
 Using directional lights offers full control over the lighting setup. Lighting the scene using these lights is done in the same fashion as in traditional photography, where each light can be controlled independently, allowing you to build your own virtual photographic lighting. One of the most commonly used lighting setups is the 3-point light system.
 
-Dimension has a convenient action, Aim Light at Point, which allows you to control the rotation and height by simply clicking and dragging across a 3D object. This way, you can dynamically direct the light rays. These parameters can be adjusted manually as well.
+[!DNL Dimension] has a convenient action, Aim Light at Point, which allows you to control the rotation and height by simply clicking and dragging across a 3D object. This way, you can dynamically direct the light rays. These parameters can be adjusted manually as well.
 
 You are able to change the color and the intensity of the directional lights as well as adjust the shape of the light source – make it circular or rectangular, stretch it, or make it bigger. Finally, you can soften the edges of the light source.
 
-![Modifying the shape of a directional light in Adobe Dimension](assets/Mastering3dlighting_12.gif)
+![Modifying the shape of a directional light in Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
 If you make the light source smaller than the object, the shadows will be sharper, with a crisper outline, because the rays can’t get past the illuminated object. Bigger light sources produce softer shadows, because in this case the rays are coming from all sides of the object (marked red in the illustration below), creating an array of shadows. These shadows are softened by the rays coming from the opposite direction.
 
@@ -95,15 +95,15 @@ If you make the light source smaller than the object, the shadows will be sharpe
 
 Sunlight is a special type of directional light. The process of setting it up is very similar to a regular directional light, however this light will automatically change the color with height; when it is close to the horizon (low height angle values), it will gradually become warmer to simulate the sunset. The color can also be changed by using presets. Meanwhile, cloudiness will affect the shadow softness.
 
-![Manipulating lighting properties for sunlight lighting on a 3D car model in Adobe Dimension](assets/Mastering3dlighting_15.gif)
+![Manipulating lighting properties for sunlight lighting on a 3D car model in Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
 ![A 3D scene on the moon where the only source of lighting is sunlight](assets/Mastering3dlighting_16.jpg)
 
-We are able to emulate the sky using environment lights, and any environment light featuring the sky can be used. Now, we have to align the sunlight (made in Dimension) with the Sun, captured in the environment light. A fast way to do this is to create a sphere and assign a metal material to it; this will provide us with real time reflections of the environment, so we can use Aim light at point to align the sunlight with the Sun. 
+We are able to emulate the sky using environment lights, and any environment light featuring the sky can be used. Now, we have to align the sunlight (made in [!DNL Dimension]) with the Sun, captured in the environment light. A fast way to do this is to create a sphere and assign a metal material to it; this will provide us with real time reflections of the environment, so we can use Aim light at point to align the sunlight with the Sun. 
 
 If the environment light features an overcast sky, the cloudiness property can be used to match these conditions more closely.
 
-![Manipulating cloudiness properties for sky environment lighting on a 3D car model in Adobe Dimension](assets/Mastering3dlighting_17.gif)
+![Manipulating cloudiness properties for sky environment lighting on a 3D car model in Adobe [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
 
 Once the Sunlight and the Sky Environment light are paired, you may rotate them together using the Global Rotation property.
 
@@ -145,7 +145,7 @@ This setup consists of three lights:
 
     ![Example of a fill light illuminating a 3d headphone model](assets/Mastering3dlighting_24.jpg)
 
-There are two ways to create the 3-point lighting in Dimension – using Directional lights (individually adding them to the scene or using a 3-Point Light preset) or via glowing objects.
+There are two ways to create the 3-point lighting in [!DNL Dimension] – using Directional lights (individually adding them to the scene or using a 3-Point Light preset) or via glowing objects.
 
 ![Example of a 3-point light setup in a 3D scene](assets/Mastering3dlighting_25.jpg)
 
@@ -193,8 +193,8 @@ The scene itself plays a big role in this. To produce compelling results, use ob
 
 This means there will be a lot of complex ray tracing interaction, as the light bounces between the objects. Shaded spots will appear dark (as expected), whereas exposed areas remain bright.
 
-![Using the Global Rotation in Adobe Dimension to re-orient the Sun and Sky light system in a 3D scene](assets/Mastering3dlighting_34.gif)
+![Using the Global Rotation in Adobe [!DNL Dimension] to re-orient the Sun and Sky light system in a 3D scene](assets/Mastering3dlighting_34.gif)
 
 I hope this overview illustrates the importance of mastering 3D lights in various situations. You should be ready to start producing more compelling results.
 
-Happy lighting! Download the [latest release](https://creativecloud.adobe.com/apps/download/dimension) of Dimension today.
+Happy lighting! Download the [latest release](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) of Dimension today.

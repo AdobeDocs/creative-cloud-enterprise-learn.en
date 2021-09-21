@@ -212,7 +212,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
       <img alt="Adobe Stock" src="../assets/Stock.jpg" />
     </a>
     <div>
-    <a href="stock.md"><strong>Adobe Stock</strong></a>
+    <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
     <em>High-quality digital images, illustrations, videos, audio, templates and more</em>
     <br>

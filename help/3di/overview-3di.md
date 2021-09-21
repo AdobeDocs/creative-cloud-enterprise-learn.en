@@ -9,7 +9,7 @@ exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
 
 ![Creative Cloud Hero Image](../assets/Dimenio.jpg)
 
-Create engaging content in 3D faster with high-quality models, materials, and lighting. Dimension makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work.
+Create engaging content in 3D faster with high-quality models, materials, and lighting. [!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work.
 
 ## Click to view an Adobe 3D & VR tutorial
 
@@ -17,20 +17,20 @@ Create engaging content in 3D faster with high-quality models, materials, and li
 <tr>
  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
-      <img alt="Create Realistic 3D Mock-ups with Adobe Stock and Dimension" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Create Realistic 3D Mock-ups with Adobe [!DNL Stock] and [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Create Realistic 3D Mock-ups with Adobe Stock and Dimension (PDF)</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Create Realistic 3D Mock-ups with Adobe [!DNL Stock] and [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Easily combine a 2D design with a 3D model using Adobe Stock and placed graphics in Adobe Dimension</em>
+    <em>Easily combine a 2D design with a 3D model using Adobe [!DNL Stock] and placed graphics in Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf">
-      <img alt="Visualize Textile Designs or Patterns on 3D Objects with Adobe Dimension" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
+      <img alt="Visualize Textile Designs or Patterns on 3D Objects with Adobe [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualize Textile Designs or Patterns on 3D Objects with Adobe Dimension (PDF)</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualize Textile Designs or Patterns on 3D Objects with Adobe [!DNL Dimension] (PDF)</strong></a>
     </div>
     <em>Create an ultra-realistic representation of your final product in a matter of minutes</em>
     <br>
@@ -42,7 +42,7 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualize your Product in a Realistic Environment (PDF)</strong></a>
     </div>
-    <em>When you want to see how your products will look in the real world, Adobe Dimension is your go-to app</em>
+    <em>When you want to see how your products will look in the real world, Adobe [!DNL Dimension] is your go-to app</em>
     <br>
   </td>
 </tr>
@@ -64,17 +64,17 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <div>
    <a href="photorealistic.md"><strong>Creating photorealistic virtual photography with 3D rendering and compositing</strong></a>
     </div>
-    <em>Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe Dimension</em>
+    <em>Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="3ddimensionstock.md">
-      <img alt="Customize and brand a 3D model with Dimension and Adobe Stock" src="assets/3ddimensionstock.jpg" />
+      <img alt="Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
    </a>
     <div>
-   <a href="3ddimensionstock.md"><strong>Customize and brand a 3D model with Dimension and Adobe Stock</strong></a>
+   <a href="3ddimensionstock.md"><strong>Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Customize and brand a 3D model in Dimension using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
+    <em>Customize and brand a 3D model in [!DNL Dimension] using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
     <br>
   </td>
 </tr>

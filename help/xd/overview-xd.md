@@ -37,10 +37,10 @@ Adobe XD is a user experience design and prototyping tool for designing websit
   </td>
   <td>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf">
-      <img alt="Create a Zoomable eCommerce Photo with XD and Adobe Stock" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
+      <img alt="Create a Zoomable eCommerce Photo with XD and Adobe [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf"><strong>Create a Zoomable eCommerce Photo with XD and Adobe Stock (PDF)</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf"><strong>Create a Zoomable eCommerce Photo with XD and Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Combining high-resolution photography with the Auto-Animate feature of Adobe XD allows you to design more engaging experiences for your website</em>
     <br>
