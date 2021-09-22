@@ -20,9 +20,9 @@ Adobe XD is a user experience design and prototyping tool for designing websit
       <img alt="Get comfortable with Components in Adobe XD" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>Get comfortable with Components in Adobe XD</strong></a>
+   <a href="components.md"><strong>Get comfortable with [!UICONTROL Components] in Adobe XD</strong></a>
     </div>
-    <em>Learn how to use Components to give you unprecedented flexibility for applying both speed and consistency to your design workflow</em>
+    <em>Learn how to use [!UICONTROL Components] to give you unprecedented flexibility for applying both speed and consistency to your design workflow</em>
     <br>
   </td>
   <td>

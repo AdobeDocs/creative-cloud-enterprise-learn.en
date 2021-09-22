@@ -104,7 +104,7 @@ Scroll Groups</strong></a>
 </tr>
 </table>
 
-## Create Components with Hover States (7:35) {#tutorial1}
+## Create [!UICONTROL Components] with Hover States (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 

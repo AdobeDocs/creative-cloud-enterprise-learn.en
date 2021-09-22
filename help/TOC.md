@@ -48,7 +48,7 @@ type: Tutorial
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
-   + [Get comfortable with Components in Adobe XD](xd/components.md)
+   + [Get comfortable with [!UICONTROL Components] in Adobe XD](xd/components.md)
 + 3D & VR {#3doverview}
   + [Overview](3di/overview-3di.md)
   + Tutorials {#3dtutorials}
@@ -67,11 +67,11 @@ type: Tutorial
     + [Overview](max2020/maxtutorials.md)
     + Desktop Products {#desktop-products}
       + [Acrobat & Sign](max2020/acrobat-sign.md)
-      + [Dimension](max2020/dimension.md)
+      + [[!DNL Dimension]](max2020/dimension.md)
       + [Illustrator](max2020/illustrator.md)
       + [InDesign](max2020/indesign.md)
       + [Photoshop](max2020/photoshop.md)
-      + [Rush](max2020/rush.md)
+      + [[!DNL Rush]](max2020/rush.md)
       + [XD](max2020/xd.md)
     + Mobile Apps {#mobile-apps}
       + [[!DNL Capture]](max2020/capture.md)
