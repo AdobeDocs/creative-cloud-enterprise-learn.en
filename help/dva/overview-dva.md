@@ -126,7 +126,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
       <img alt="Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] delivers advanced video editing features in a simple-to-use app, so anyone can create a pro-quality video in minutes</em>
     <br>
