@@ -123,7 +123,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
