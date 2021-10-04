@@ -22,7 +22,7 @@ Adobe [!DNL Capture] turns mobile phones and tablets into a design collection to
     <div>
    <a href="capture.md#tutorial1"><strong>Capture Inspiration from the World Around You</strong></a>
     </div>
-    <em>Use the powerful selection and color editing tools in Adobe capture to dramatically change an image to match your corporate branding needs</em>
+    <em>Use the powerful selection and color editing tools in Adobe Capture to dramatically change an image to match your corporate branding needs</em>
     <br>
   </td>
   <td>
