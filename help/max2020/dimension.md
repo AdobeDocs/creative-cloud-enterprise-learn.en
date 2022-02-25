@@ -1,6 +1,6 @@
 ---
-title: [!DNL Dimension]
-description: [!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work
+title: "[!DNL Dimension]"
+description: "[!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work"
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b

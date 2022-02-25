@@ -1,5 +1,5 @@
 ---
-title: [!DNL Stock]
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files and 3D assets
 role: User
 level: Beginner, Intermediate

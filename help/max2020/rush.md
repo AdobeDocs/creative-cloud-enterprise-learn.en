@@ -1,5 +1,5 @@
 ---
-title: [!DNL Rush]
+title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] is the first all-in-one, cross-device video editing app that makes creating and sharing online content easier than ever
 role: User
 level: Beginner, Intermediate
