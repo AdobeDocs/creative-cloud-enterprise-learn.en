@@ -9,7 +9,7 @@ exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 
 ![Tutorial Hero Image](../assets/InDesignServer.jpg)
 
-Adobe Adobe® InDesign® Server software delivers a robust and scalable engine that leverages the design, layout, and typographical capabilities of InDesign to let you programmatically create engaging automated documents.
+Adobe InDesign® Server software delivers a robust and scalable engine that leverages the design, layout, and typographical capabilities of InDesign to let you programmatically create engaging automated documents.
 
 ## Browse Product Tutorials
 
