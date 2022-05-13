@@ -197,4 +197,4 @@ This means there will be a lot of complex ray tracing interaction, as the light 
 
 I hope this overview illustrates the importance of mastering 3D lights in various situations. You should be ready to start producing more compelling results.
 
-Happy lighting! Download the [latest release](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) of Dimension today.
+Happy lighting! Download the [latest release](https://creativecloud.adobe.com/apps/download/Dimension) of Dimension today.

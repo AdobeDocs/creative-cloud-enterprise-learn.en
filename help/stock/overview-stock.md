@@ -7,7 +7,7 @@ exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 ---
 # Adobe [!DNL Stock] tutorials
 
-![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud Hero Image](../assets/Stock.jpg)
 
 Creatives are under pressure to quickly deliver new, visually compelling content that captures and holds attention. Adobe [!DNL Stock] for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files, and 3D assets – all from within the Adobe creative apps they use every day.
 
