@@ -224,8 +224,6 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <em>Eliminate the tedium and save tons of time by using Actions in Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Work Smarter, Not Harder, with Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -254,11 +252,6 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Green Screen is Not Just for Video (PDF)</strong></a>
     </div>
     <em>You can use green screen in a photo studio and use After Effects to prepare the photo use in Photoshop</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -390,6 +383,16 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Taming Type Anxiety" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Taming Type Anxiety (PDF)</strong></a>
+    </div>
+    <em>Learn how to access and use over 20,000 professionally designed fonts in Creative Cloud</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Creating beautiful typography with Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -420,12 +423,6 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <em>The OpenType format allows for a font to contain up to 65,536 glyphs</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
