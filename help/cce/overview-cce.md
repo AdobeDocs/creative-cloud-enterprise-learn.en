@@ -14,6 +14,23 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 
 ## Click to view a product tutorial
 
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="Acrobat for Content Creators" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat for Content Creators (PDF)</strong></a>
+    </div>
+    <em>Learn about the Acrobat tools that help streamline creative workflows</em>
+    <br>
+  </td>
+</tr>
+</table>
+
 ### Creative Cloud for enterprise
 
 <table style="table-layout:fixed">
@@ -47,7 +64,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 </table>
 
 
-### Spark
+### Adobe Express (formerly Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -58,7 +75,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Adding a glideshow to your Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page offers some amazing and easy-to-use layout components that bring your web stories to life</em>
+    <em>Adobe Express offers some amazing and easy-to-use layout components that bring your web stories to life</em>
     <br>
   </td>
   <td>
@@ -68,7 +85,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Adobe Spark makes it easy to define your brand</em>
+    <em>Adobe Express makes it easy to define your brand</em>
     <br>
   </td>
   <td>
@@ -78,7 +95,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Meet Your New Production Artist: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions</em>
+    <em>Adobe Express learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions</em>
     <br>
   </td>
 </tr>

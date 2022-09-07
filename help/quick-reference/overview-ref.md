@@ -73,7 +73,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 </table>
 
 
-### Spark
+### Adobe Express (formerly Adobe Spark)
 
 <table>
 <tr>
