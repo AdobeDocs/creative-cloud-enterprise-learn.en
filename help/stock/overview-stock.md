@@ -9,8 +9,7 @@ exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 
 ![Creative Cloud Hero Image](../assets/Stock.jpg)
 
-Creatives are under pressure to quickly deliver new, visually compelling content that captures and holds attention. Adobe [!DNL Stock] for enterprise gives creative teams access to over 200 million images, videos, templates, illustrations, audio files, and 3D assets – all from within the Adobe creative apps they use every day.
-
+Creatives are under pressure to quickly deliver engaging visual content. Adobe Stock gives creative teams access to more than 300 million royalty-free images, videos, audio files, templates, illustrations and 3D assets –inside the Creative Cloud apps they use every day. Get unlimited access to Adobe Stock standard assets with Creative Cloud Pro Edition. Explore the latest collections at stock.adobe.com
 
 ## Click to view an Adobe [!DNL Stock] tutorial
 
@@ -82,10 +81,10 @@ Creatives are under pressure to quickly deliver new, visually compelling content
 <tr>
    <td>
       <a href="changecolors.md">
-         <img alt="Change an Adobe [!DNL Stock] image’s colors to match your story" src="assets/changecolors.jpg" />
+         <img alt="Change an Adobe [!DNL Stock] image's colors to match your story" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Change an Adobe [!DNL Stock] image’s colors to match your story</strong></a>
+      <a href="changecolors.md"><strong>Change an Adobe [!DNL Stock] image's colors to match your story</strong></a>
       </div>
       <em>Find a unique photo in Adobe [!DNL Stock] and then adjust the color in Adobe Photoshop to fit your needs</em>
       <br>
