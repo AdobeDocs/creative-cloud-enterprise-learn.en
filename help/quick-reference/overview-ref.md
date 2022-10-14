@@ -9,11 +9,9 @@ exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These quick reference guides help you learn new features in Creative Cloud.
+As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These quick reference guides (PDF) help you learn new features in Creative Cloud.
 
-## Click to download a PDF of the quick reference guide (products listed in alphabetical order)
-
-### Adobe Express (formerly Adobe Spark)
+## Adobe Express (formerly Adobe Spark)
 
 <table>
 <tr>
@@ -28,24 +26,24 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Creative Cloud for enterprise
+## Creative Cloud for enterprise
 
 <table>
 <tr>
@@ -92,7 +90,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 </tr>
 </table>
 
-### Fonts
+## Fonts
 
 <table>
 <tr>
@@ -107,24 +105,24 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
    <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Fresco
+## Fresco
 
 <table>
 <tr>
@@ -139,24 +137,24 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Illustrator
+## Illustrator
 
 <table>
 <tr>
@@ -181,19 +179,19 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Photoshop  
+## Photoshop  
 
 <table>
 <tr>
@@ -267,7 +265,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 </tr>  
 </table>
 
-### [!DNL Stock]
+## [!DNL Stock]
 
 <table>
 <tr>
@@ -334,19 +332,19 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### 3D
+## 3D
 
 <table>
 <tr>
@@ -371,19 +369,19 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Video
+## Video
 
 <table>
 <tr>
@@ -430,7 +428,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 </tr>
 </table>
 
-### XD
+## XD
 
 <table>
 <tr>
