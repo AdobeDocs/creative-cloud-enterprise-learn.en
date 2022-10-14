@@ -369,12 +369,12 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

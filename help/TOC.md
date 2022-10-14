@@ -1,7 +1,7 @@
 ---
 user-guide-title: Creative Cloud for enterprise Tutorials
 breadcrumb-title: Creative Cloud for enterprise
-user-guide-description: View tutorials and quick reference guides focused on Creative Cloud for enterprise.
+user-guide-description: View tutorials and quick reference guides focused on Creative Cloud for enterprise
 solution: Creative Cloud
 type: Tutorial
 ---
@@ -14,13 +14,15 @@ type: Tutorial
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
+    + [Taming type anxiety](cce/Taming-font-anxiety.md)
     + [Creating Creative Cloud Libraries for teams](cce/ccteamlibraries.md)
     + [Sharing branding assets with Creative Cloud Libraries for teams](cce/sharecclibraries.md)
     + [Create unique composites with Adobe [!DNL Stock] and Photoshop for iPad](cce/compositepsipad.md)
     + [Creating cinemagraphs with Photoshop](cce/cinemagraphps.md)
     + [Decoding the alphabet soup of graphic formats](cce/alphabetsoup.md)
     + [Try your hand at Fresco on the iPad and iPhone](cce/frescoworkshop.md)
-  + [Quick Reference Guides](quick-reference/overview-ref.md)
+  +  Quick reference guides {#ccerefguides}
+    + [Product listing](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
@@ -57,7 +59,8 @@ type: Tutorial
   + [Overview](dva/overview-dva.md)
   + Tutorials {#videotutorials}
     + [Video review with Frame.io](dva/video-review-frame-io.md)
-  + [Quick Reference Guides](dva/overview-dva-ref.md)
+  + Quick reference guides {#stockrefguides}
+    + [Stock guides](dva/overview-dva-ref.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
