@@ -13,6 +13,7 @@ type: Tutorial
   + [Overview](cce/overview-cce.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
+    + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
     + [Creating Creative Cloud Libraries for teams](cce/ccteamlibraries.md)
     + [Sharing branding assets with Creative Cloud Libraries for teams](cce/sharecclibraries.md)
     + [Create unique composites with Adobe [!DNL Stock] and Photoshop for iPad](cce/compositepsipad.md)

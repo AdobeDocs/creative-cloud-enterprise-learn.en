@@ -135,6 +135,16 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="Improve CC workflows with CC Libraries" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>Improve CC workflows with CC Libraries</strong></a>
+    </div>
+    <em>Learn how Creative Cloud Libraries keep design elements together—ensuring project consistency for designers and teams</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="Creating Creative Cloud Libraries for teams" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -164,6 +174,8 @@ As an enterprise creative, you must collaborate with distributed teams, establis
     <em>Creative Cloud Libraries provides a built-in brand system that allows designers to share brand assets across creative teams</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Share Text Styles From Illustrator with Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -172,6 +184,21 @@ As an enterprise creative, you must collaborate with distributed teams, establis
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Share Text Styles From Illustrator with Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Work Smarter, Not Harder, in Illustrator</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
