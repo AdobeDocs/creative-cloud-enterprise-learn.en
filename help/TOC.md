@@ -12,6 +12,7 @@ type: Tutorial
 + CCE {#cceoverview}
   + [Overview](cce/overview-cce.md)
   + Tutorials {#ccetutorials}
+    + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Creating Creative Cloud Libraries for teams](cce/ccteamlibraries.md)
     + [Sharing branding assets with Creative Cloud Libraries for teams](cce/sharecclibraries.md)
     + [Create unique composites with Adobe [!DNL Stock] and Photoshop for iPad](cce/compositepsipad.md)
@@ -28,7 +29,7 @@ type: Tutorial
     + [Animate an Adobe [!DNL Stock] vector illustration in Photoshop](stock/animatevector.md)
     + [Begin Your Annual Report with a video created with Adobe [!DNL Stock] and Spark Video](stock/annualreport.md)
     + [Bring creative to life with custom animations by Adobe [!DNL Stock]](stock/customanimations.md)
-    + [Change an Adobe [!DNL Stock] image’s colors to match your story](stock/changecolors.md)
+    + [Change an Adobe [!DNL Stock] image's colors to match your story](stock/changecolors.md)
     + [Create a 3D collage for a poster using Adobe [!DNL Stock] images](stock/collage.md)
     + [Create a bold label with Adobe [!DNL Stock] templates and Photoshop Smart Objects](stock/boldlabel.md)
     + [Create a company guidelines infographic with Adobe [!DNL Stock]](stock/infographic.md)
@@ -45,10 +46,6 @@ type: Tutorial
     + [Customize a loading screen animation with Adobe [!DNL Stock] and XD](stock/loadingscreen.md)
     + [Customize an Adobe [!DNL Stock] presentation template to look professional](stock/presentationtemplate.md)
     + [Customize the colors in an Adobe [!DNL Stock] vector illustration](stock/customizecolors.md)
-+ XD {#xdoverview}
-  + [Overview](xd/overview-xd.md)
-  + Tutorials {#xdtutorials}
-   + [Get comfortable with [!UICONTROL Components] in Adobe XD](xd/components.md)
 + 3D & VR {#3doverview}
   + [Overview](3di/overview-3di.md)
   + Tutorials {#3dtutorials}
@@ -56,7 +53,14 @@ type: Tutorial
     + [Creating photorealistic virtual photography with 3D rendering and compositing](3di/photorealistic.md)
     + [Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Video {#videooverview}
-  + [Tutorials](dva/overview-dva.md)
+  + [Overview](dva/overview-dva.md)
+  + Tutorials {#videotutorials}
+    + [Video review with Frame.io](dva/video-review-frame-io.md)
+  + [Quick Reference Guides](dva/overview-dva-ref.md)
++ XD {#xdoverview}
+  + [Overview](xd/overview-xd.md)
+  + Tutorials {#xdtutorials}
+   + [Get comfortable with [!UICONTROL Components] in Adobe XD](xd/components.md)
 + Deploy & Manage {#deploy}
   + [Overview](deploy/overview-deploy.md)
   + [Serial number expiration](deploy/cceserial.md)
