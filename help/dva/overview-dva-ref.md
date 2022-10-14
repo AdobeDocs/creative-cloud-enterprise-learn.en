@@ -1,17 +1,16 @@
 ---
-title: Adobe Video Tutorials
-description: Tutorials to help you get up-to-speed on Adobe DVA products
+title: Video Quick Reference Guides
+description: Quick references guides to help you get up-to-speed on Adobe DVA products
 role: User
 level: Beginner, Intermediate
-exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 ---
-# Adobe Video tutorials
+# Video quick reference guides
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
 Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more.
 
-## Click to view a video tutorial (PDF)
+## Click to download a PDF of the quick reference guide
 
 <table>
 <tr>
