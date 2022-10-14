@@ -136,7 +136,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Improve CC workflows with CC Libraries" src="assets/CCTeamLibraries_1280.jpg" />
+      <img alt="Improve CC workflows with CC Libraries" src="assets/Improveccworkflowswithcclibraries.jpg" />
    </a>
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>Improve CC workflows with CC Libraries</strong></a>
