@@ -12,4 +12,4 @@ As a content creator, you probably generate PDFs and then routinely view those P
 
 **Select the image below to download Acrobat for Content Creators (PDF).**
 
-[![Acrobat tutorial image](assets/AcrobatforContentCreators.jpg_400.png)](assets/AcrobatforContentCreators.pdf)
+[![Acrobat tutorial image](assets/AcrobatforContentCreators_400.jpg)](assets/AcrobatforContentCreators.pdf)
