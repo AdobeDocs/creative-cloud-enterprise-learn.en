@@ -130,7 +130,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
  </tr>
  </table>
 
- ### CC Libraries
+### CC Libraries
 
 <table  style="table-layout:fixed">
 <tr>
