@@ -5,7 +5,7 @@ role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 ---
-# Adobe Video tutorials
+# Adobe video tutorials
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
