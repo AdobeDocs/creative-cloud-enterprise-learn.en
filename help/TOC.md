@@ -56,7 +56,7 @@ type: Tutorial
   + [Overview](dva/overview-dva.md)
   + Tutorials {#videotutorials}
     + [Video review with Frame.io](dva/video-review-frame-io.md)
-  + [Quick Reference Guides](quick-reference/overview-dva-ref.md)
+  + [Quick Reference Guides](dva/overview-dva-ref.md)
 + XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}

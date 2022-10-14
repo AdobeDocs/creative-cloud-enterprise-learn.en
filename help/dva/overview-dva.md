@@ -11,7 +11,7 @@ exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 
 Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more.
 
-## Click to view an Adobe Video tutorial
+## Click to view an Adobe video tutorial
 
 <table>
 <tr>
@@ -20,7 +20,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
       <img alt="Video review with Frame-io" src="assets/Videoreviewwithframe.jpg" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>Video review with Frame-io (PDF)</strong></a>
+   <a href="video-review-frame-io.md"><strong>Video review with Frame.io (PDF)</strong></a>
     </div>
     <em>Learn how the Frame.io extension for Adobe Premiere Pro lets you centralize and share assets, receive real-time comments, track revisions, and get faster approvals—all without leaving the timeline </em>
     <br>
