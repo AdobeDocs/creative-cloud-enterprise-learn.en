@@ -9,9 +9,7 @@ exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
 
 ![Creative Cloud Hero Image](../assets/Dimenio.jpg)
 
-Create engaging content in 3D faster with high-quality models, materials, and lighting. [!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work.
-
-## Click to view an Adobe 3D & VR tutorial
+Create engaging content in 3D faster with high-quality models, materials, and lighting. [!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work. Select an image to view a tutorial.
 
 <table>
 <tr>
@@ -45,9 +43,7 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <em>When you want to see how your products will look in the real world, Adobe [!DNL Dimension] is your go-to app</em>
     <br>
   </td>
-</tr>
-   <tr>
- <td>
+  <td>
    <a href="mastering3dlighting.md">
       <img alt="Tips and techniques for mastering 3D lighting in CGI" src="assets/Mastering3dlighting_1.gif" />
    </a>
@@ -57,6 +53,8 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <em>Learn about 3D lighting & how to create different light conditions that can completely alter a computer-generated scene & the way that objects look in it</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="Creating photorealistic virtual photography with 3D rendering and compositing" src="assets/Photorealistic_TOC.png" />
@@ -75,6 +73,16 @@ Create engaging content in 3D faster with high-quality models, materials, and li
    <a href="3ddimensionstock.md"><strong>Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Customize and brand a 3D model in [!DNL Dimension] using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
     <br>
   </td>
 </tr>
