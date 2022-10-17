@@ -85,8 +85,6 @@ Adobe XD is a user experience design and prototyping tool for designing websit
     <em>Adobe XD offers some amazing interactive design tools that work in conjunction with your existing workflow, allowing you to take your interactive design vision to the next level</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="Designing a mobile web experience with XD" src="assets/MobileWebExperienceswithXD.jpg" />
@@ -97,6 +95,8 @@ Adobe XD is a user experience design and prototyping tool for designing websit
     <em>Get a behind-the-scenes look at the design process for the Russell Brown MAX Madness mobile web gallery using Adobe XD</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Prototype a Mobile Web Experience with Adobe XD" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
@@ -125,6 +125,11 @@ Adobe XD is a user experience design and prototyping tool for designing websit
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Behind the Scenes of MAX Madness with Adobe XD (PDF)</strong></a>
     </div>
     <em>Delivering an optimized mobile web experience can really resonate with your users</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
