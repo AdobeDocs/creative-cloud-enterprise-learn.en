@@ -14,7 +14,7 @@ type: Tutorial
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
-    + [Taming type anxiety](cce/Taming-font-anxiety.md)
+    + [Taming type anxiety](cce/taming-type-anxiety.md
     + [Creating Creative Cloud Libraries for teams](cce/ccteamlibraries.md)
     + [Sharing branding assets with Creative Cloud Libraries for teams](cce/sharecclibraries.md)
     + [Create unique composites with Adobe [!DNL Stock] and Photoshop for iPad](cce/compositepsipad.md)

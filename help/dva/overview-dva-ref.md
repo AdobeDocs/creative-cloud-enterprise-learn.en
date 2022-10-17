@@ -1,6 +1,6 @@
 ---
 title: Video Quick Reference Guides
-description: Quick references guides to help you get up-to-speed on Adobe DVA products
+description: Quick references guides to help you get up to speed on Adobe DVA products
 role: User
 level: Beginner, Intermediate
 ---
@@ -83,7 +83,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
       <img alt="After Effects for Photography" src="assets/AfterEffectsforPhotography.jpg" />
    </a>
     <div>
-   <a href="assets/AfterEffectsforPhotography.pdf target="_blank""><strong>After Effects for Photography (PDF)</strong></a>
+   <a href="assets/AfterEffectsforPhotography.pdf" target="_blank"><strong>After Effects for Photography (PDF)</strong></a>
     </div>
     <em>Learn to use the amazing effects in After Effects to enhance your photographs</em>
     <br>
@@ -93,7 +93,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
       <img alt="Cinemagraphs: The Mesmerizing Place Between a Photo and a Video" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
    </a>
     <div>
-   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf target="_blank""><strong>Cinemagraphs: The Mesmerizing Place Between a Photo and a Video (PDF)</strong></a>
+   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Cinemagraphs: The Mesmerizing Place Between a Photo and a Video (PDF)</strong></a>
     </div>
     <em>Learn more about cinemagraphs — those eye-catching hybrids that exist somewhere between a photo and a video</em>
     <br>
@@ -103,7 +103,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
       <img alt="Create an Illustration from an Adobe [!DNL Stock] Photo with After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf target="_blank""><strong>Create an Illustration from an Adobe [!DNL Stock] Photo with After Effects (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Create an Illustration from an Adobe [!DNL Stock] Photo with After Effects (PDF)</strong></a>
     </div>
     <em>Combine the Hue/Saturation and Levels with the Cartoon effects in After Effects to create a unique stylized illustration from an Adobe [!DNL Stock] photo</em>
     <br>
@@ -172,9 +172,9 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
          <img alt="Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
       </a>
       <div>
-      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>Smoothly Combine Music and Dialogue or Narration with Auto-ducking in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
+      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>Smoothly Combine Music and Dialogue or Narration with Auto-ducking in [!DNL Adobe Premiere Rush] (PDF)</strong></a>
       </div>
-      <em>Adobe Premiere [!DNL Rush] delivers advanced video editing features in a simple-to-use app, so anyone can create a pro-quality video in minutes</em>
+      <em>Adobe Premiere [!DNL Rush] delivers advanced video-editing features in a simple-to-use app, so anyone can create a pro-quality video in minutes</em>
       <br>
   </td>
   <td>
