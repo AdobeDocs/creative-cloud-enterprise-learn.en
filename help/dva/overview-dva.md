@@ -9,9 +9,7 @@ exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
-Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more.
-
-## Click to view an Adobe video tutorial
+Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more. Select an image to view a tutorial.
 
 <table>
 <tr>
