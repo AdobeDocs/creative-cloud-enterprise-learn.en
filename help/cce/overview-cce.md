@@ -11,7 +11,6 @@ exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 
 As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials help you learn new features in Creative Cloud—-from an enterprise perspective.
 
-
 ## Click to view a product tutorial (listed in alphabetical order)
 
 ### Adobe Acrobat
@@ -310,11 +309,11 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="Taming Type Anxiety" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>Taming Type Anxiety (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Taming Type Anxiety (PDF)</strong></a>
     </div>
     <em>Learn how to access and use over 20,000 professionally designed fonts in Creative Cloud</em>
     <br>
