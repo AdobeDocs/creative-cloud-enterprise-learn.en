@@ -9,7 +9,7 @@ type: Tutorial
 # Creative Cloud for enterprise tutorials {#cce-learning-hub}
 
 + [Overview](overview.md)
-+ CCE {#cceoverview}
++ Creative Cloud for enterprise {#cceoverview}
   + [Overview](cce/overview-cce.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
@@ -22,8 +22,8 @@ type: Tutorial
     + [Decoding the alphabet soup of graphic formats](cce/alphabetsoup.md)
     + [Try your hand at Fresco on the iPad and iPhone](cce/frescoworkshop.md)
   +  Quick reference guides {#ccerefguides}
-    + [Product listing](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+    + [CCE guides](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
     + [Search Adobe [!DNL Stock] licensing history](stock/searchstock.md)
@@ -49,19 +49,19 @@ type: Tutorial
     + [Customize a loading screen animation with Adobe [!DNL Stock] and XD](stock/loadingscreen.md)
     + [Customize an Adobe [!DNL Stock] presentation template to look professional](stock/presentationtemplate.md)
     + [Customize the colors in an Adobe [!DNL Stock] vector illustration](stock/customizecolors.md)
-+ 3D & VR {#3doverview}
++ Adobe 3D & VR {#3doverview}
   + [Overview](3di/overview-3di.md)
   + Tutorials {#3dtutorials}
     + [Tips and techniques for mastering 3D lighting in CGI](3di/mastering3dlighting.md)
     + [Creating photorealistic virtual photography with 3D rendering and compositing](3di/photorealistic.md)
     + [Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Video {#videooverview}
++ Adobe Video {#videooverview}
   + [Overview](dva/overview-dva.md)
   + Tutorials {#videotutorials}
     + [Video review with Frame.io](dva/video-review-frame-io.md)
-  + Quick reference guides {#stockrefguides}
-    + [Stock guides](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+  + Quick reference guides {#videorefguides}
+    + [Video guides](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
    + [Get comfortable with [!UICONTROL Components] in Adobe XD](xd/components.md)

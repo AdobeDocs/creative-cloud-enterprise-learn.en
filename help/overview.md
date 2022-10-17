@@ -36,18 +36,6 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Design, prototype, and share user experiences</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D & VR" src="assets/Dimenio.jpg" />
     </a>
@@ -57,6 +45,8 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
     <em>Create photorealistic 3D images for branding, product shots, and package design</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
@@ -65,6 +55,16 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
    <a href="dva/overview-dva.md"><strong>Adobe Video</strong></a>
     </div>
     <em>Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>Design, prototype, and share user experiences</em>
     <br>
   </td>
   <td>
