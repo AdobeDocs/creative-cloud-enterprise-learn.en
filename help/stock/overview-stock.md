@@ -253,9 +253,7 @@ Creatives are under pressure to quickly deliver engaging visual content. Adobe S
     <em>Add polish to any project with a great-looking illustration. Find the perfect vector in Adobe [!DNL Stock], and then match the colors to your project's palette using Adobe Illustrator</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Add motion to still images with Adobe [!DNL Stock] and Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -297,8 +295,6 @@ Creatives are under pressure to quickly deliver engaging visual content. Adobe S
       <em>Bring together two different images to create an entirely new scene for your design projects. Adobe [!DNL Stock] and Adobe Photoshop make it easy</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Creating a Halloween cinemagraph with Photoshop CC and Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -309,6 +305,8 @@ Creatives are under pressure to quickly deliver engaging visual content. Adobe S
       <em>Create a cinemagraph by compositing video, illustrations, and photos with Adobe Photoshop</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Put your data in motion with Adobe [!DNL Stock] and Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -339,9 +337,7 @@ Creatives are under pressure to quickly deliver engaging visual content. Adobe S
       <em>Follow these steps to showcase your work in a realistic-looking Adobe [!DNL Stock] template using Adobe Photoshop</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Uncover amazing details in Adobe [!DNL Stock] images with Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -351,6 +347,8 @@ Creatives are under pressure to quickly deliver engaging visual content. Adobe S
       <em>Discover the power of Lightroom on your mobile device to bring out the best in your images</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Visualize poster designs in the real world with Adobe [!DNL Stock] and Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -362,12 +360,17 @@ Creatives are under pressure to quickly deliver engaging visual content. Adobe S
       <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
