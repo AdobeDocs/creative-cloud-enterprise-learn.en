@@ -21,7 +21,7 @@ type: Tutorial
     + [Creating cinemagraphs with Photoshop](cce/cinemagraphps.md)
     + [Decoding the alphabet soup of graphic formats](cce/alphabetsoup.md)
     + [Try your hand at Fresco on the iPad and iPhone](cce/frescoworkshop.md)
-  +  Quick reference guides {#ccerefguides}
+  + Quick reference guides {#ccerefguides}
     + [CCE guides](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
