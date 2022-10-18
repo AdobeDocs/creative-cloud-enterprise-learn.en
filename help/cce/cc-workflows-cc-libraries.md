@@ -10,6 +10,6 @@ thumb: KT-11193.jpg
 
 Learn how Creative Cloud Libraries keep design elements together—ensuring project consistency for designers and teams in this hands-on tutorials.
 
-**Select the image below to download Improve CC workflows with CC Libraries (PDF).**
+Select the image below to view or download this PDF tutorial.
 
-[![CC libraries tutorial image](assets/Improveccworkflowswithcclibraries_400.jpg)](assets/ImproveCCWorkflowsCCLibraries.pdf)
+[![First page image of tutorial](assets/Improveccworkflowswithcclibraries.jgp){"width=680"}](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}
