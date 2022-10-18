@@ -6,10 +6,21 @@ level: Beginner, Intermediate
 thumb: KT-10962.jpg
 
 ---
-# Acrobat for Content Creators
+# Acrobat for content creators
 
 As a content creator, you probably generate PDFs and then routinely view those PDF files in Acrobat. But, Acrobat also includes many tools that help streamline typical creative workflows.
 
-**Select the image below to download Acrobat for Content Creators (PDF).**
-
-[![Acrobat tutorial image](assets/AcrobatforContentCreators_400.jpg)](assets/AcrobatforContentCreators.pdf)
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
+      <img alt="Acrobat for content creators" src="assets/AcrobatforContentCreators_400.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf" target="_blank"><strong>Acrobat for content creators (PDF)</strong></a>
+    </div>
+    <em>Learn about the Acrobat tools that help streamline creative workflows</em>
+    <br>
+  </td>
+</tr>
+</table>
