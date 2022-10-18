@@ -12,4 +12,4 @@ As a content creator, you probably generate PDFs and then routinely view those P
 
 <br>&nbsp;
 
-[![First page image of tutorial](assets/Acrobatforcontentcreators.png){"width=680"}](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/AcrobatforContentCreators.pdf target="_blank")
+[![First page image of tutorial](assets/Acrobatforcontentcreators.png){"width=680"}](assets/AcrobatforContentCreators.pdf)
