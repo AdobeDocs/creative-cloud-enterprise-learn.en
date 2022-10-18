@@ -19,7 +19,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
  <td>
    <a href="acrobat-content-creators.md">
-      <img alt="Acrobat for content creators" src="assets/AcrobatforContentCreators.jpg" />
+      <img alt="Acrobat for content creators" src="assets/Acrobatforcontentcreators.png" />
    </a>
     <div>
    <a href="acrobat-content-creators.md"><strong>Acrobat for content creators (PDF)</strong></a>
