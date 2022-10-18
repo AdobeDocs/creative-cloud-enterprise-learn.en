@@ -10,7 +10,7 @@ thumb: KT-10962.jpg
 
 As a content creator, you probably generate PDFs and then routinely view those PDF files in Acrobat. But, Acrobat also includes many tools that help streamline typical creative workflows.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr>
  <td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
