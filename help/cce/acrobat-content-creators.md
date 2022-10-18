@@ -16,9 +16,9 @@ As a content creator, you probably generate PDFs and then routinely view those P
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
       <img alt="Acrobat for content creators" src="assets/AcrobatforContentCreators_400.jpg" />
    </a>
-    <div>
+  </td>
+  </td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank"><strong>Acrobat for content creators (PDF)</strong></a>
-    </div>
     <em>Learn about the Acrobat tools that help streamline creative workflows</em>
     <br>
   </td>
