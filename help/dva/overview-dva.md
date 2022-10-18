@@ -15,7 +15,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
 <tr>
  <td>
    <a href="video-review-frame-io.md">
-      <img alt="Video review with Frame-io" src="assets/Videoreviewwithframe.jpg" />
+      <img alt="Video review with Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
    <a href="video-review-frame-io.md"><strong>Video review with Frame.io (PDF)</strong></a>
