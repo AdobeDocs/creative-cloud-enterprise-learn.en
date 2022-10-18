@@ -135,7 +135,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Improve CC workflows with CC Libraries" src="assets/Improveccworkflowswithcclibraries.jpg" />
+      <img alt="Improve CC workflows with CC Libraries" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>Improve CC workflows with CC Libraries</strong></a>
@@ -310,7 +310,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Taming Type Anxiety" src="assets/TamingTypeAnxiety.jpg" />
+      <img alt="Taming Type Anxiety" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>Taming Type Anxiety (PDF)</strong></a>
