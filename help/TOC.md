@@ -26,6 +26,7 @@ type: Tutorial
 + [!DNL Adobe Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
+    + [Stunning digital assets](stock/stunning-digital-assets.md)
     + [Search Adobe [!DNL Stock] licensing history](stock/searchstock.md)
     + [Add a hand-drawn aesthetic to Adobe [!DNL Stock] images](stock/handdrawn.md)
     + [Add flair to typography with masks and animation](stock/flairtypography.md)
