@@ -135,10 +135,10 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Improve CC workflows with CC Libraries" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="Improve CC workflows with CC Libraries (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>Improve CC workflows with CC Libraries</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>Improve CC workflows with CC Libraries (PDF)</strong></a>
     </div>
     <em>Learn how Creative Cloud Libraries keep design elements together—ensuring project consistency for designers and teams</em>
     <br>
@@ -310,7 +310,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Taming Type Anxiety" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Taming Type Anxiety (PDF)" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>Taming Type Anxiety (PDF)</strong></a>
