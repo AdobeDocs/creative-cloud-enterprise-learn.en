@@ -15,10 +15,10 @@ Creatives are under pressure to quickly deliver engaging visual content. Adobe S
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="Stunning digital assets" src="assets/Stunningdigitalassets.png" />
+         <img alt="Stunning digital assets (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>Stunning digital assets</strong></a>
+      <a href="stunning-digital-assets.md"><strong>Stunning digital assets (PDF)</strong></a>
       </div>
       <em>Learn how to integrate Adobe Stock with CC Libraries to create consistent and professional design results for print and screen in this hands-on tutorial</em>
       <br>
