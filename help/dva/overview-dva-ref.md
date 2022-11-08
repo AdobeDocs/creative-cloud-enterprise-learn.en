@@ -3,6 +3,7 @@ title: Video Quick Reference Guides
 description: Quick references guides to help you get up to speed on Adobe DVA products
 role: User
 level: Beginner, Intermediate
+exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
 ---
 # Video quick reference guides
 

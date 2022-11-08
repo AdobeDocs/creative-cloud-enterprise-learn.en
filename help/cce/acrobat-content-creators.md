@@ -4,7 +4,7 @@ description: Learn about key tools in Adobe Acrobat that help streamline creativ
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-
+exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
 ---
 # Acrobat for content creators
 

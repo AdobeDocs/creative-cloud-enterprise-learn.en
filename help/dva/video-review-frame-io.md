@@ -4,6 +4,7 @@ description: Learn how the Frame.io extension for Adobe Premiere Pro lets you ce
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
+exl-id: 7a3e55f0-5208-4d4f-9427-108a468a1f56
 ---
 # Video review with Frame.io
 

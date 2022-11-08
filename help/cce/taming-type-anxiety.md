@@ -4,7 +4,7 @@ description: Learn how to access and use over 20,000 professionally designed fon
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-
+exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
 ---
 # Taming type anxiety
 

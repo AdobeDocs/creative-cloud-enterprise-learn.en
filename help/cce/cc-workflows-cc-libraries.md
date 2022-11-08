@@ -4,7 +4,7 @@ description: Learn how Creative Cloud Libraries keep design elements together—
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-
+exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
 ---
 # Improve CC workflows with CC Libraries
 

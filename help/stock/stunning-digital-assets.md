@@ -4,6 +4,7 @@ description: Learn how to integrate Adobe Stock with CC Libraries to create cons
 role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg
+exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
 ---
 # Stunning digital assets
 
