@@ -50,6 +50,26 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express: Content that stands out" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content that stands out</strong></a>
+    </div>
+    <em> Create beautiful graphics, web pages, and video stories in minutes with Adobe Express</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Creating Your Brand in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark makes it easy to define your brand</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="Adding a glideshow to your Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -77,11 +97,6 @@ As an enterprise creative, you must collaborate with distributed teams, establis
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Meet Your New Production Artist: Adobe Spark Post (PDF)</strong></a>
     </div>
     <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -208,6 +223,16 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="Collaboration: The Future of Creativity" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>Collaboration: The Future of Creativity</strong></a>
+    </div>
+    <em>Among the many perks of an Adobe Creative Cloud subscription is free access to more than 20,000 professionally designed and curated fonts from Adobe Fonts</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="From Hand Lettering to Illustrator via Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -225,16 +250,6 @@ As an enterprise creative, you must collaborate with distributed teams, establis
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>From Lightroom Web to InDesign via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Take your creativity from the camera to the final design with Creative Cloud files and libraries</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
