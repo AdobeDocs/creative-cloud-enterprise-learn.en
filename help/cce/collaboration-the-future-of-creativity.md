@@ -11,4 +11,4 @@ Among the many perks of an Adobe Creative Cloud subscription is free access to m
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Collaboration-The-Future-of-Creativity.png){"width=680"}](assets/Collaboration-The-Future-of-Creativity.pdfCollaboration-The-Future-of-Creativity.pdf){target="blank"}
+[![First page image of tutorial](assets/Collaboration-The-Future-of-Creativity.png){"width=680"}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}
