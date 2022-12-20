@@ -28,7 +28,7 @@ Bring your ideas to life with Adobe software and apps for video editing, motion 
       <img alt="Video review with Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>Video review with Frame.io (PDF)</strong></a>
+   <a href="video-review-frame-io.md"><strong>Video review with Frame.io</strong></a>
     </div>
     <em>Learn how the Frame.io extension for Adobe Premiere Pro lets you centralize and share assets, receive real-time comments, track revisions, and get faster approvals—all without leaving the timeline</em>
     <br>
