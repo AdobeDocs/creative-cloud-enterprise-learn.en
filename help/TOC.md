@@ -55,12 +55,14 @@ type: Tutorial
 + Adobe 3D & VR {#3doverview}
   + [Overview](3di/overview-3di.md)
   + Tutorials {#3dtutorials}
+    + [3D design and rendering](3di/substance-3d-stager.md)
     + [Tips and techniques for mastering 3D lighting in CGI](3di/mastering3dlighting.md)
     + [Creating photorealistic virtual photography with 3D rendering and compositing](3di/photorealistic.md)
     + [Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe Video {#videooverview}
   + [Overview](dva/overview-dva.md)
   + Tutorials {#videotutorials}
+    + [Professional motion graphics templates](dva/motion-graphics-templates.md)
     + [Video review with Frame.io](dva/video-review-frame-io.md)
   + Quick reference guides {#videorefguides}
     + [Video guides](dva/overview-dva-ref.md)
