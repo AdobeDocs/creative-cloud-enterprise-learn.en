@@ -50,11 +50,11 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/adobe-express-content-that-stands-out.md">
+   <a href="adobe-express-content-that-stands-out.md">
       <img alt="Adobe Express: Content that stands out" src="assets/Adobe-Express-content-that-stands-out.png" />
    </a>
     <div>
-   <a href="assets/adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content that stands out</strong></a>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content that stands out</strong></a>
     </div>
     <em> Create beautiful graphics, web pages, and video stories in minutes with Adobe Express</em>
     <br>
@@ -223,11 +223,11 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/collaboration-the-future-of-creativity.md">
-      <img alt="Collaboration: The Future of Creativity" src="assets/Collaboration-the-future-of-creativity.png" />
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="Collaboration: The Future of Creativity" src="assets/Collaboration-The-Future-of-Creativity.png" />
    </a>
     <div>
-   <a href="assets/collaboration-the-future-of-creativity.md"><strong>Collaboration: The Future of Creativity</strong></a>
+   <a href="collaboration-the-future-of-creativity.md"><strong>Collaboration: The Future of Creativity</strong></a>
     </div>
     <em>Among the many perks of an Adobe Creative Cloud subscription is free access to more than 20,000 professionally designed and curated fonts from Adobe Fonts</em>
     <br>
