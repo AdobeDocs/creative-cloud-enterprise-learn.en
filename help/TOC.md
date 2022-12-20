@@ -15,6 +15,8 @@ type: Tutorial
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
     + [Taming type anxiety](cce/taming-type-anxiety.md)
+    + [Adobe Express: Content that stands out](cce/adobe-express-content-that-stands-out.md)
+    + [Collaboration: The future of creativity](cce/collaboration-the-future-of-creativity.md)
     + [Creating Creative Cloud Libraries for teams](cce/ccteamlibraries.md)
     + [Sharing branding assets with Creative Cloud Libraries for teams](cce/sharecclibraries.md)
     + [Create unique composites with Adobe [!DNL Stock] and Photoshop for iPad](cce/compositepsipad.md)

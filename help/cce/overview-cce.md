@@ -224,7 +224,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
 <tr>
  <td>
    <a href="assets/collaboration-the-future-of-creativity.md">
-      <img alt="Collaboration: The Future of Creativity" src="assets/collaboration-the-future-of-creativity.png" />
+      <img alt="Collaboration: The Future of Creativity" src="assets/Collaboration-the-future-of-creativity.png" />
    </a>
     <div>
    <a href="assets/collaboration-the-future-of-creativity.md"><strong>Collaboration: The Future of Creativity</strong></a>
