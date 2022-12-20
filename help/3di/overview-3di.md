@@ -14,6 +14,16 @@ Create engaging content in 3D faster with high-quality models, materials, and li
 <table>
 <tr>
  <td>
+   <a href="substance-3d-stager.md">
+      <img alt="3D design and rendering" src="assets/Substance3DStager.png" />
+   </a>
+    <div>
+   <a href="substance-3d-stager.md"><strong>3D design and rendering</strong></a>
+    </div>
+    <em>Import content, arrange your scene, apply materials and textures, adjust image-based and physical lighting, save cameras with different resolutions, and render photorealistic imagery</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
       <img alt="Create Realistic 3D Mock-ups with Adobe [!DNL Stock] and [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
@@ -43,6 +53,8 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <em>When you want to see how your products will look in the real world, Adobe [!DNL Dimension] is your go-to app</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="mastering3dlighting.md">
       <img alt="Tips and techniques for mastering 3D lighting in CGI" src="assets/Mastering3dlighting_1.gif" />
@@ -53,8 +65,6 @@ Create engaging content in 3D faster with high-quality models, materials, and li
     <em>Learn about 3D lighting & how to create different light conditions that can completely alter a computer-generated scene & the way that objects look in it</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="Creating photorealistic virtual photography with 3D rendering and compositing" src="assets/Photorealistic_TOC.png" />
@@ -73,11 +83,6 @@ Create engaging content in 3D faster with high-quality models, materials, and li
    <a href="3ddimensionstock.md"><strong>Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Customize and brand a 3D model in [!DNL Dimension] using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
