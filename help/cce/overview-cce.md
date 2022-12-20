@@ -22,7 +22,7 @@ As an enterprise creative, you must collaborate with distributed teams, establis
       <img alt="Acrobat for content creators" src="assets/Acrobatforcontentcreators.png" />
    </a>
     <div>
-   <a href="acrobat-content-creators.md"><strong>Acrobat for content creators (PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>Acrobat for content creators</strong></a>
     </div>
     <em>Learn about the Acrobat tools that help streamline creative workflows</em>
     <br>
