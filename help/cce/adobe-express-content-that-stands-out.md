@@ -4,6 +4,7 @@ description: Create beautiful graphics, web pages, and video stories in minutes 
 role: User
 level: Beginner, Intermediate
 thumb: KT-11641.jpg
+exl-id: ab62ec1d-d3f5-4fd0-8b6b-26ce038c1a76
 ---
 # Adobe Express: Content that stands out
 

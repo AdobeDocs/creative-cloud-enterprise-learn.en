@@ -4,6 +4,7 @@ description: Import content, arrange your scene, apply materials and textures, a
 role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
+exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
 ---
 # 3D design and rendering
 

@@ -4,6 +4,7 @@ description: Motion Graphics templates (.mogrt) are a collaborative and efficien
 role: User
 level: Beginner, Intermediate
 thumb: KT-11642.jpg
+exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
 ---
 # Professional motion graphics templates
 

@@ -4,6 +4,7 @@ description: Learn the many perks of an Adobe Creative Cloud subscription is fre
 role: User
 level: Beginner, Intermediate
 thumb: KT-11640.jpg
+exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
 ---
 # Collaboration: The Future of Creativity
 
