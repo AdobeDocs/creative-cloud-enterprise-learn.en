@@ -21,7 +21,7 @@ The serial number licenses associated with your ETLA agreement are available via
 1. (Optional) Select a **Product Name**, **Product Version**, or **Platform** to filter results.
 1. Click Search.
 1. The product name and serial numbers are displayed.
-1. (Optional) Select “EXPORT TO CSV” to download the list of serial numbers.
+1. (Optional) Select "EXPORT TO CSV" to download the list of serial numbers.
 
 ![Find your serial numbers](assets/retrieveserialnumbers.png)
 
@@ -35,7 +35,7 @@ Both Acrobat and Creative Cloud for enterprise apps will begin to display messag
 
 ### Creative Cloud for enterprise experience
 
-The following information outlines the end user experience. There’s a short video below followed by review of the end user experience.
+The following information outlines the end user experience. There's a short video below followed by review of the end user experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
@@ -51,7 +51,7 @@ Once the serial number expires, the users will no longer have access to the Crea
 
 ![CCE after expiration message](assets/cceafterexpire.png)
 
-For all subsequent attempts to launch the apps, the end user will be prompted to **Sign In Now** followed by the option to create their own Adobe ID and enter trial mode. However, any new Adobe ID created by the end user will not be associated with your organization’s licenses and will cause additional confusion to your users. To avoid business disruption and/or unnecessary confusion, migrate your users to named user licensing before your serial number(s) expire.
+For all subsequent attempts to launch the apps, the end user will be prompted to **Sign In Now** followed by the option to create their own Adobe ID and enter trial mode. However, any new Adobe ID created by the end user will not be associated with your organization's licenses and will cause additional confusion to your users. To avoid business disruption and/or unnecessary confusion, migrate your users to named user licensing before your serial number(s) expire.
 
 ![CCE Sign in dialog 1](assets/ccesignin1.png)
 
@@ -59,7 +59,7 @@ For all subsequent attempts to launch the apps, the end user will be prompted to
 
 ### Acrobat experience
 
-The following information outlines the end user experience. There’s a short video below followed by review of the end user experience.
+The following information outlines the end user experience. There's a short video below followed by review of the end user experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
@@ -76,7 +76,7 @@ Once the serial number expires, the users will no longer have access to Acrobat.
 
 ![Acrobat after expiration message](assets/acrobatafterexpire.png)
 
-For all subsequent attempts to launch Acrobat, the end user will be prompted to **Sign In Now** followed by the option to create their own Adobe ID and enter trial mode. However, any new Adobe ID created by the end user will not be associated with your organization’s licenses and will cause additional confusion to your users.
+For all subsequent attempts to launch Acrobat, the end user will be prompted to **Sign In Now** followed by the option to create their own Adobe ID and enter trial mode. However, any new Adobe ID created by the end user will not be associated with your organization's licenses and will cause additional confusion to your users.
 
 ![Acrobat Sign in dialog 1](assets/acrobatsignin1.png)
 
@@ -87,4 +87,4 @@ For all subsequent attempts to launch Acrobat, the end user will be prompted to 
 If you have questions about using the [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) tool or need help migrating from serial number deployment to named user, you have a few options:
 * Send an email to the Adobe Enterprise Onboarding team – **entonb@adobe.com**
 * Open a support ticket in [Admin Console](https://adminconsole.adobe.com/support)
-* Reach out to your Adobe Account Manager or Customer Success Manager
+* Reach out to your Adobe Account Team
