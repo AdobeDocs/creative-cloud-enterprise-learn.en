@@ -10,7 +10,7 @@ level: Beginner
 
 Firefly is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation. Firefly offers new ways to ideate, create, and communicate while significantly improving creative workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416910t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
 ## Learn more about Adobe Firefly
 
@@ -33,7 +33,7 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       <div>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank"}><strong>Explore Firefly in Photoshop</strong></a>
       </div>
-      <em>Firefly is now in Photoshop and the way you create will never be the same</em>
+      <em>Firefly is now in Photoshop and the way that you create will never be the same</em>
       <br>
   </td>
   <td>
