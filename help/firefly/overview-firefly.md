@@ -14,9 +14,9 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
 
 ## Look what you can do with Adobe Firefly
 
->[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
 <br>&nbsp;
+
+>[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
 ## Learn more about Adobe Firefly
 
