@@ -1,16 +1,22 @@
 ---
-title: Adobe [!DNL Firefly] overview
+title: Adobe [!DNL Firefly] Overview
 description: Get up-to-speed on Adobe [!DNL Firefly]
 role: User
 level: Beginner
 ---
-# Adobe [!DNL Firefly] Overview
+# Adobe [!DNL Firefly] overview
 
 ![Firefly Hero Image](../assets/firefly.png)
 
 Firefly is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation. Firefly offers new ways to ideate, create, and communicate while significantly improving creative workflows.
 
+<br>&nbsp;
+
+## Look what you can do with Adobe Firefly
+
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
+
+<br>&nbsp;
 
 ## Learn more about Adobe Firefly
 
