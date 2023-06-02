@@ -25,6 +25,8 @@ type: Tutorial
     + [Try your hand at Fresco on the iPad and iPhone](cce/frescoworkshop.md)
   + Quick reference guides {#ccerefguides}
     + [CCE guides](quick-reference/overview-ref.md)
++ [!DNL Adobe Firefly] {#fireflyoverview}
+  + [Overview](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
