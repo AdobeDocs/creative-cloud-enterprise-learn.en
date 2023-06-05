@@ -25,6 +25,26 @@ type: Tutorial
     + [Try your hand at Fresco on the iPad and iPhone](cce/frescoworkshop.md)
   + Quick reference guides {#ccerefguides}
     + [CCE guides](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+  + [Overview](express/overview-express.md)
+  + Tutorials {#expresstutorials}
+    + [Get started with Adobe Express](express/get-started)
+    + [Adobe Express for beginners](express/adobe-express-beginners)
+    + [Get quick inspiration](express/get-inspiration)
+    + [Create templates](express/create-templates)
+    + [Add design assets](express/add-design-assets)
+    + [Group objects](express/group-objects)
+    + [Select and move layers](express/layers)
+    + [Create multiple pages](express/multiple-pages)
+    + [Undo and redo](express/undo-redo)
+    + [Use CC Libraries](express/cc-libraries)
+    + [Apply your brand](express/brand)
+    + [Google Drive integration](express/google-drive)
+    + [Remove background](express/remove-background)
+    + [Refine a cutout](express/refine-cutout)
+    + [Use text effects](express/text-effects)
+    + [Use image effects](express/image-effects)
+    + [Create curved text](express/create-curved-text)
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [Overview](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
