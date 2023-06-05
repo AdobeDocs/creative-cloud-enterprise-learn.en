@@ -27,7 +27,7 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
   </td>
   <td>
     <a href="express/overview-express.md">
-      <img alt="Adobe Express" src="assets/express.png" />
+      <img alt="Adobe Express" src="assets/Express.png" />
     </a>
     <div>
    <a href="express/overview-express.md"><strong>Adobe Express</strong></a>

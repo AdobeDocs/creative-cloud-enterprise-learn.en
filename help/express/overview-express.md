@@ -6,9 +6,9 @@ level: Beginner
 ---
 # Adobe [!DNL Express] overview
 
-![Express Hero Image](../assets/express.png)
+![Express Hero Image](../assets/Express.png)
 
-Your company has given you special access as a test group for Adobe Express, an easy-to-use creative tool, with no experience required. 
+Adobe Express is an easy-to-use creative tool, with no experience required. 
 
 <br>&nbsp;
 
