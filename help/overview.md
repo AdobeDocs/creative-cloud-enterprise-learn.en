@@ -11,7 +11,7 @@ exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
 
 Welcome to the Creative Cloud for enterprise learning hub. Here you can find a wide range of learning experiences focused on Creative Cloud for enterprise. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on the Creative Cloud for enterprise products.
 
-## Browse Topics
+## Browse topics
 
 <table style="table-layout:fixed">
 <tr>
@@ -26,6 +26,26 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>An easy-to-use creative tool, with no experience required</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobe Firefly" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
+    </div>
+    <em>The new family of creative generative AI models coming to Adobe products</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -35,6 +55,7 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
     <em>High-quality digital images, illustrations, videos, audio, templates and more</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D & VR" src="assets/Dimenio.jpg" />
@@ -45,8 +66,6 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
     <em>Create photorealistic 3D images for branding, product shots, and package design</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
