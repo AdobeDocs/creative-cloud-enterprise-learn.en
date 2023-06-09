@@ -46,6 +46,11 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       <a href="webinar-experimenting.md">
          <img alt="Experimenting with Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>Experimenting with Firefly webinar</strong></a>
+      </div>
+      <em>Join Howard Pinsky as he dives into the Firefly beta in this webinar</em>
+      <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
