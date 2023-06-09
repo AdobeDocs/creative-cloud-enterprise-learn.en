@@ -6,6 +6,6 @@ level: Beginner
 ---
 # Experimenting with Firefly beta webinar
 
-Join Howard Pinsky as he dives into the Firefly beta in this webinar.
+Join Howard Pinsky in this webinar as he dives into the Firefly beta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420252?quality=12&learn=on&hidetitle=true)
