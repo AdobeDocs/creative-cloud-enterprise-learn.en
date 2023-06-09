@@ -87,11 +87,11 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
     <br>
   </td>
   <td>
-    <a href="max2020/overview-max.md">
+    <a href="max/overview-max.md">
       <img alt="MAX 2020 — the Enterprise Sessions" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
+   <a href="max/overview-max.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
     </div>
     <em>Learn all about the MAX 2020 Enterprise Sessions</em>
     <br>
