@@ -49,6 +49,8 @@ type: Tutorial
     + [Create curved text](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [Overview](firefly/overview-firefly.md)
+  + Webinars {firefly-webinars}
+    + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}

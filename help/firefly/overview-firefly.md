@@ -43,9 +43,9 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="webinar-experimenting.md">
+         <img alt="Experimenting with Adobe Firefly" src="assets/webinar-experimenting.png" />
+      </a>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
