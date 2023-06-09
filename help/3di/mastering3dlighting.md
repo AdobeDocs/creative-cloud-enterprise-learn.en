@@ -10,9 +10,9 @@ exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
 
 Learn about 3D lighting & how to create different light conditions that can completely alter a computer-generated scene & the way that objects look in it.
 
-We perceive the world around us using our senses: we hear, we feel, we smell, we see. We can see because our eyes are picking up information brought to us by elementary particles called photons. This information is processed by our brain to produce an image. What we interpret as an object color, glossiness, translucency or metallic qualities are all products of the interaction between the photons and the object’s surface.
+We perceive the world around us using our senses: we hear, we feel, we smell, we see. We can see because our eyes are picking up information brought to us by elementary particles called photons. This information is processed by our brain to produce an image. What we interpret as an object color, glossiness, translucency or metallic qualities are all products of the interaction between the photons and the object's surface.
 
-Light mechanics in a computer generated 3D scene follow the same natural principle of photon scattering, through a process called [ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Rays bounce off shapes and interact with their materials, effectively defining how objects appear in the final image. Lights expose dimensionality of anything that exists in a 3D scene. 
+Light mechanics in a computer generated 3D scene follow the same natural principle of photon scattering, through a process called ray tracing. Rays bounce off shapes and interact with their materials, effectively defining how objects appear in the final image. Lights expose dimensionality of anything that exists in a 3D scene. 
 
 Some materials are more sensitive to lighting conditions than others. Take metals for instance: a chrome object is basically reflecting everything around it. If a light is moved, becomes brighter, or larger, all of that information is visible directly on the chrome surface in almost mirror-like detail, so  it can appear completely different from one light condition to the other.
 
@@ -29,15 +29,15 @@ The process of creating a 3D render is never quite the same, but these are the m
 1. Material creation or assignment
 1. Rendering
 
-When you get to the lighting phase, it is ideal to set up your lights before working on the materials. To do this, you can assign a neutral gray, matte material to the whole scene. That way, you’ll be able to see and understand more clearly how the lights affect the object silhouettes in the scene. After the materials are completed, the lighting might need further refinement.
+When you get to the lighting phase, it is ideal to set up your lights before working on the materials. To do this, you can assign a neutral gray, matte material to the whole scene. That way, you'll be able to see and understand more clearly how the lights affect the object silhouettes in the scene. After the materials are completed, the lighting might need further refinement.
 
 ![CGI living room render comparison with neutral gray matte material on the left compared to finished materials on the right](assets/Mastering3dlighting_2.jpg)
 
-It's best to work on the lights one at a time. The active light should be the only one visible in the scene, whereas all other lights should be temporarily turned off. This way, you’ll be able to see how a specific light influences the scene, and change that by working on its properties, such as the position, direction, intensity, etc.
+It's best to work on the lights one at a time. The active light should be the only one visible in the scene, whereas all other lights should be temporarily turned off. This way, you'll be able to see how a specific light influences the scene, and change that by working on its properties, such as the position, direction, intensity, etc.
 
 ![Example of 3 lights illuminating a 3d car model individually and all 3 of them working together](assets/Mastering3dlighting_3.gif)
 
-Another useful trick is to create a sphere with a shiny metal material (a chrome or a mirror). This “mirror ball” will effectively reflect the entire scene around it, so you can easily determine the light’s position, direction, or size. In case of the environment lights, you’ll be able to see its reflection in the mirror ball, which will help set up its orientation in space.
+Another useful trick is to create a sphere with a shiny metal material (a chrome or a mirror). This "mirror ball" will effectively reflect the entire scene around it, so you can easily determine the light's position, direction, or size. In case of the environment lights, you'll be able to see its reflection in the mirror ball, which will help set up its orientation in space.
 
 ![Using a mirror ball (sphere with metallic texture) to see and orient the environment light in a 3D scene](assets/Mastering3dlighting_4.gif)
 
@@ -67,7 +67,7 @@ You can also create environment lights by capturing photographs of the real worl
 
 ![The photographic environment light is created using exposure bracketing and Merge to HDR Pro in Photoshop](assets/Mastering3dlighting_10.jpg)
 
-In both cases, the light sources (and their intensities) are “baked” into these images and will emit the light once they are used in [!DNL Dimension].
+In both cases, the light sources (and their intensities) are "baked" into these images and will emit the light once they are used in [!DNL Dimension].
 
 In these methods you've captured all the lighting, reflections, and details you need, but 3D apps let you continue editing them in the 3D space, so you can adjust the lighting rotation as well as change the overall intensity and color.
 
@@ -85,7 +85,7 @@ You are able to change the color and the intensity of the directional lights as 
 
 ![Modifying the shape of a directional light in Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
-If you make the light source smaller than the object, the shadows will be sharper, with a crisper outline, because the rays can’t get past the illuminated object. Bigger light sources produce softer shadows, because in this case the rays are coming from all sides of the object (marked red in the illustration below), creating an array of shadows. These shadows are softened by the rays coming from the opposite direction.
+If you make the light source smaller than the object, the shadows will be sharper, with a crisper outline, because the rays can't get past the illuminated object. Bigger light sources produce softer shadows, because in this case the rays are coming from all sides of the object (marked red in the illustration below), creating an array of shadows. These shadows are softened by the rays coming from the opposite direction.
 
 ![Diagram illustrating the effect that lighting intensity, direction and size have on the way that a 3D object is illuminated and the shadow it casts](assets/Mastering3dlighting_13.jpg)
 
@@ -119,7 +119,7 @@ You can control the softness of the shadows by scaling the glowing object up or 
 
 ![Changing the size of the object light will increase the light amount and soften the shadows](assets/Mastering3dlighting_19.gif)
 
-Unlike the previous types of lights we’ve covered, these lights can also utilize textures, in addition to plain colors. The textures can be attached to the base color of their materials, and the light intensity is controlled via a glow slider.
+Unlike the previous types of lights we've covered, these lights can also utilize textures, in addition to plain colors. The textures can be attached to the base color of their materials, and the light intensity is controlled via a glow slider.
 
 ![Applying a texture to an object light illuminating a 3D car model](assets/Mastering3dlighting_20.gif)
 
@@ -141,7 +141,7 @@ This setup consists of three lights:
 
     ![Example of a rim light illuminating a 3d headphone model](assets/Mastering3dlighting_23.jpg)
 
-1. **Fill light:** less intensive and serving to fill in darker areas, this is used for areas the previous two lights don’t reach.
+1. **Fill light:** less intensive and serving to fill in darker areas, this is used for areas the previous two lights don't reach.
 
     ![Example of a fill light illuminating a 3d headphone model](assets/Mastering3dlighting_24.jpg)
 
@@ -177,7 +177,7 @@ The easiest way to set this light is by using planes with glowing materials. In 
 
 ![An illustration demonstrating how key and fill lights are positioned in a 3D living room interior to illuminate the scene](assets/Mastering3dlighting_30.jpg)
 
-The intensity of the light is controlled by the glow property on the planes’ materials. You are able to add a color or even a texture, which can be used to cast interesting shadows. Using glow materials will also provide the light intensity falloff, which is quite important for interior lighting.
+The intensity of the light is controlled by the glow property on the planes' materials. You are able to add a color or even a texture, which can be used to cast interesting shadows. Using glow materials will also provide the light intensity falloff, which is quite important for interior lighting.
 
 ![Example of environment light, environment and key light, and environment, key and fill lights illuminating a 3d living room scene](assets/Mastering3dlighting_31.gif)
 
