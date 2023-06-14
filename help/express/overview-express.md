@@ -33,18 +33,23 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
       </a>
   </td>
   <td>
+      <a href="create-social-posters.md">
+         <img alt="Creating social posters with Firefly" src="assets/social-firefly.png" />
+      </a>
+  </td>
+  <td>
       <a href="schedule.md">
          <img alt="Schedule social posts" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="collaborate.md">
       <img alt="Invite project collaborators" src="assets/collaborate.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="get-inspiration.md">
          <img alt="Get quick inspiration" src="assets/inspiration.png" />
       </a>
@@ -59,14 +64,14 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
          <img alt="Add design assets" src="assets/design-assets.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="group-objects.md">
          <img alt="Group objects" src="assets/group-objects.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="layers.md">
          <img alt="Select and move layers" src="assets/layers.png" />
       </a>
@@ -81,14 +86,14 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
          <img alt="Undo and redo" src="assets/undo-redo.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Use CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="brand.md">
          <img alt="Apply your brand" src="assets/brand.png" />
       </a>
@@ -103,12 +108,12 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
          <img alt="Remove background" src="assets/background.png" />
       </a>
   </td>
+</tr>
   <td>
       <a href="refine-cutout.md">
          <img alt="Refine a cutout" src="assets/cutouts.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="text-effects.md">
          <img alt="Use text effects" src="assets/text-effects.png" />
@@ -123,11 +128,6 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
       <a href="create-curved-text.md">
          <img alt="Create curved text" src="assets/curved-text.png" />
       </a>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
