@@ -50,6 +50,8 @@ type: Tutorial
     + [Create curved text](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [Overview](firefly/overview-firefly.md)
+  + [Tutorials] {#firefly-tutorials}
+    + [Generative Fill in Photoshop](firefly/generative-fill.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
