@@ -3,6 +3,7 @@ title: Create Templates
 description: Learn how to use the same project layout again
 role: User
 level: Beginner
+exl-id: 64d758ab-85ef-46fa-865d-1f18d2fb4c6f
 ---
 # Create templates
 

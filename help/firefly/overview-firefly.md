@@ -3,6 +3,7 @@ title: Adobe [!DNL Firefly] Overview
 description: Get up-to-speed on Adobe [!DNL Firefly]
 role: User
 level: Beginner
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
 ---
 # Adobe [!DNL Firefly] overview
 

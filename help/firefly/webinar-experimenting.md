@@ -3,6 +3,7 @@ title: Experimenting with Firefly Beta Webinar
 description: Join Howard Pinsky as he dives into the Firefly beta
 role: User
 level: Beginner
+exl-id: e75836e5-206a-4fe1-807e-0ab973ea62ea
 ---
 # Experimenting with Firefly beta webinar
 

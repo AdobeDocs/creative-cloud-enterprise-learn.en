@@ -3,6 +3,7 @@ title: Remove Background
 description: Learn how to remove the background from your pictures
 role: User
 level: Beginner
+exl-id: cc8f9193-a9a9-4b77-992a-a0abc4cb8b85
 ---
 # Remove background
 

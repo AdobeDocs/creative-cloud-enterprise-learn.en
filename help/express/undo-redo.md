@@ -3,6 +3,7 @@ title: Undo and redo
 description: Learn how to undo and redo actions
 role: User
 level: Beginner
+exl-id: 4d7c5ff0-43d8-4c34-bdad-1cae7955b63b
 ---
 # Undo and redo
 

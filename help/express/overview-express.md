@@ -3,6 +3,7 @@ title: Adobe [!DNL Express] Overview
 description: Get up-to-speed on Adobe [!DNL Express]
 role: User
 level: Beginner
+exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
 ---
 # Adobe [!DNL Express] overview
 

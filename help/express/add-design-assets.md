@@ -3,6 +3,7 @@ title: Add Design Assets
 description: Learn how to customize Instagram stickers and posts
 role: User
 level: Beginner
+exl-id: fbbc0591-c29b-4222-8d11-c95c600d4f62
 ---
 # Add design assets 
 

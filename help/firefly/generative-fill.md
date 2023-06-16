@@ -3,6 +3,7 @@ title: Generative Fill in Photoshop
 description: Learn how to use Generative Fill powered by Adobe Firefly
 role: User
 level: Beginner
+exl-id: 470703d3-94d1-4699-9112-13cc532a5d74
 ---
 # Generative Fill in Photoshop
 

@@ -3,6 +3,7 @@ title: Create Multiple Pages
 description: Learn how to add multiple pages to your project
 role: User
 level: Beginner
+exl-id: ae4151ea-6306-42c0-b885-6a970017f017
 ---
 # Create multiple pages
 

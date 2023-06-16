@@ -3,6 +3,7 @@ title: Refine a Cutout
 description: Removed background not perfect? Learn how to refine your cutouts
 role: User
 level: Beginner
+exl-id: 4beec7df-89e1-43a5-b8cd-8932aeb2d879
 ---
 # Refine a cutout
 
