@@ -44,12 +44,12 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
   </td>
 </tr>
 <tr>
-  <td>
+ <td>
       <a href="schedule.md">
          <img alt="Schedule social posts" src="assets/schedule.png" />
       </a>
   </td>
- <td>
+   <td>
    <a href="collaborate.md">
       <img alt="Invite project collaborators" src="assets/collaborate.png" />
    </a>
@@ -88,12 +88,12 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
   </td>
 </tr>
 <tr>
-  <td>
+   <td>
       <a href="undo-redo.md">
          <img alt="Undo and redo" src="assets/undo-redo.png" />
       </a>
-  </td>
- <td>
+   </td>
+  <td>
       <a href="cc-libraries.md">
          <img alt="Use CC Libraries" src="assets/cc-libraries.png" />
       </a>
@@ -109,12 +109,13 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
       </a>
   </td>
 </tr>
-  <td>
+<tr>
+   <td>
       <a href="remove-background.md">
          <img alt="Remove background" src="assets/background.png" />
       </a>
   </td>
-  <td>
+   <td>
       <a href="refine-cutout.md">
          <img alt="Refine a cutout" src="assets/cutouts.png" />
       </a>
@@ -131,11 +132,10 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
   </td>
 </tr>
 <tr>
-
   <td>
-      <a href="create-curved-text.md">
-         <img alt="Create curved text" src="assets/curved-text.png" />
-      </a>
+   <a href="create-curved-text.md">
+      <img alt="Create curved text" src="assets/curved-text.png" />
+   </a>
   </td>
   <td>
   <td>
