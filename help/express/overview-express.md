@@ -138,7 +138,6 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
    </a>
   </td>
   <td>
-  <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
