@@ -13,11 +13,11 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
 
 <br>&nbsp;
 
-## Get started with Adobe Express
+## Create your first design with Adobe Express
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/3420204?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
 ## Adobe Express tutorials
 
