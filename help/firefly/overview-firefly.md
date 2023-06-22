@@ -21,47 +21,39 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
 
 ## Learn more about Adobe Firefly
 
-<table>
+<table style="table-layout:fixed">
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
          <img alt="Adobe Firefly (Beta)" src="assets/firefly-beta.png" />
       </a>
-      <div>
-      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (Beta)</strong></a>
-      </div>
-      <em>Join the Adobe Firefly Beta program.</em>
-      <br>
   </td>
   <td>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
          <img alt="Explore Firefly in Photoshop" src="assets/firefly-photoshop.png" />
       </a>
-      <div>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Explore Firefly in Photoshop</strong></a>
-      </div>
-      <em>Firefly is now in Photoshop and the way that you create will never be the same</em>
-      <br>
   </td>
   <td>
       <a href="webinar-experimenting.md">
          <img alt="Experimenting with Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
-      <div>
-      <a href="webinar-experimenting.md"><strong>Experimenting with Firefly webinar</strong></a>
-      </div>
-      <em>Join Howard Pinsky as he dives into the Firefly beta in this webinar</em>
-      <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Firefly tutorials
+
+<table style="table-layout:fixed">
+<tr>
   <td>
       <a href="generative-fill.md">
          <img alt="Generative Fill in Photoshop" src="assets/generative-fill.png" />
       </a>
-      <div>
-      <a href="generative-fill.md"><strong>Generative Fill in Photoshop</strong></a>
-      </div>
-      <em>Learn how to use Generative Fill powered by Adobe Firefly</em>
-      <br>
   </td>
 </tr>
 <tr>
@@ -69,25 +61,16 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       <a href="web-banner-ad.md">
          <img alt="Banner ad variations in Photoshop" src="assets/banner-ad-variations.png" />
       </a>
-      <div>
-      <a href="web-banner-ad.md"><strong>Banner ad variations in Photoshop</strong></a>
-      </div>
-      <em>Learn how to use Generative Fill to accelerate web ad banner creation</em>
-      <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
+</tr>
 </table>

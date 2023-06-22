@@ -21,7 +21,7 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
 
 ## Adobe Express tutorials
 
-<table>
+<table style="table-layout:fixed">
 <tr>
    <td>
       <a href="get-started.md">
