@@ -21,7 +21,7 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
 
 ## Learn more about Adobe Firefly
 
-<table>
+<table style="table-layout:fixed">
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
@@ -39,6 +39,18 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       </a>
   </td>
   <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Firefly tutorials
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
       <a href="generative-fill.md">
          <img alt="Generative Fill in Photoshop" src="assets/generative-fill.png" />
       </a>
@@ -51,18 +63,14 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       </a>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
+</tr>
 </table>
