@@ -10,4 +10,6 @@ exl-id: e75836e5-206a-4fe1-807e-0ab973ea62ea
 
 Join Howard Pinsky in this webinar as he dives into the Firefly beta.
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/3420252?quality=12&learn=on&hidetitle=true)
