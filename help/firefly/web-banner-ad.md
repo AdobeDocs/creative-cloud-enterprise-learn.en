@@ -9,4 +9,6 @@ jira: KT-13468
 
 Learn how to use Generative Fill, powered by Adobe Firefly, in Adobe Photoshop to accelerate web ad banner creation. This tutorial uses [Photoshop Beta (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)

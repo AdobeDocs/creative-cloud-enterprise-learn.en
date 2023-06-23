@@ -9,4 +9,6 @@ jira: KT-13526
 
 Learn how to use Text Effects, powered by Adobe Firefly, to create unique and inspiring title imagery for a newsletter. Join the Adobe Firefly (Beta) [here](https://firefly.adobe.com/).
 
+<br>&nbsp;
+
 >[!VIDEO](https://video.tv.adobe.com/v/3420829?quality=12&learn=on&hidetitle=true)
