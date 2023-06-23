@@ -3,6 +3,7 @@ title: Text Effects
 description: Learn how to use Text Effects, powered by Adobe Firefly
 role: User
 level: Beginner
+jira: KT-13526
 ---
 # Text Effects
 
