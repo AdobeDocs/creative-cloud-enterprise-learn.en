@@ -55,6 +55,7 @@ type: Tutorial
     + [Banner ad variations in [!DNL Photoshop]](firefly/web-banner-ad.md)
     + [Generative Fill in [!DNL Photoshop]](firefly/generative-fill.md)
     + [Text Effects](firefly/text-effects.md)
+    + [Generative Recolor in [!DNL Illustrator]](firefly/generative-recolor.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

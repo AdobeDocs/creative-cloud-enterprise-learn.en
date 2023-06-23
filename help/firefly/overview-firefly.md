@@ -3,6 +3,7 @@ title: Adobe [!DNL Firefly] Overview
 description: Get up-to-speed on Adobe [!DNL Firefly]
 role: User
 level: Beginner
+jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
 ---
 # Adobe [!DNL Firefly] overview
@@ -66,9 +67,9 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       </a>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Generative Recolor in Illustrator" src="assets/firefly-recolor.png" />
+      </a>
   </td>
 </tr>
 </table>
