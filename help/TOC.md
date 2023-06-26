@@ -52,6 +52,7 @@ type: Tutorial
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [Overview](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
+    + [Overview of Adobe Firefly](firefly/overview-of-firefly.md)
     + [Banner ad variations in [!DNL Photoshop]](firefly/web-banner-ad.md)
     + [Generative Fill in [!DNL Photoshop]](firefly/generative-fill.md)
     + [Text Effects](firefly/text-effects.md)
