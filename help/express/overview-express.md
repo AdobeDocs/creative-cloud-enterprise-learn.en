@@ -29,10 +29,9 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
       </a>
   </td>
   <td>
-      <a href="create-blog-graphics.md">
-         <img alt="Create blog graphics with Firefly" src="assets/blog-graphic.png" />
+      <a href="create-on-boarding.md">
+         <img alt="Create recruiting and on-boarding content with Firefly" src="assets/on-boarding.png" />
       </a>
-  </td>
   <td>
       <a href="create-social-posters.md">
          <img alt="Create social posters with Firefly" src="assets/social-firefly.png" />
@@ -46,6 +45,11 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
 </tr>
 <tr>
  <td>
+      <a href="create-webinar-poster.md">
+         <img alt="Create webinar posters with Firefly" src="assets/webinar-poster.png" />
+      </a>
+  </td>
+  <td>
       <a href="schedule.md">
          <img alt="Schedule social posts" src="assets/schedule.png" />
       </a>
@@ -60,36 +64,36 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
          <img alt="Get quick inspiration" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="Create templates" src="assets/templates.png" />
    </a>
   </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="Add design assets" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="group-objects.md">
+            <img alt="Group objects" src="assets/group-objects.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="Select and move layers" src="assets/layers.png" />
+         </a>
+   </td>
 </tr>
 <tr>
-<td>
-      <a href="add-design-assets.md">
-         <img alt="Add design assets" src="assets/design-assets.png" />
-      </a>
-  </td>
- <td>
-      <a href="group-objects.md">
-         <img alt="Group objects" src="assets/group-objects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="layers.md">
-         <img alt="Select and move layers" src="assets/layers.png" />
-      </a>
-  </td>
   <td>
       <a href="multiple-pages.md">
          <img alt="Create multiple pages" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="undo-redo.md">
          <img alt="Undo and redo" src="assets/undo-redo.png" />
       </a>
@@ -104,13 +108,13 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
          <img alt="Apply your brand" src="assets/brand.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="google-drive.md">
          <img alt="Google Drive integration" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="remove-background.md">
          <img alt="Remove background" src="assets/background.png" />
@@ -126,22 +130,17 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
          <img alt="Use text effects" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="image-effects.md">
          <img alt="Use image effects" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="create-curved-text.md">
          <img alt="Create curved text" src="assets/curved-text.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
