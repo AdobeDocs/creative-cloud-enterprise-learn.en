@@ -30,7 +30,8 @@ type: Tutorial
   + Tutorials {#expresstutorials}
     + [Get started with Adobe Express](express/get-started.md)
     + [Adobe Express for beginners](express/adobe-express-beginners.md)
-    + [Creating social posters with Firefly](express/create-social-posters.md)
+    + [Create graphic content for blogs with Firefly](express/create-blog-graphics.md)
+    + [Create social posters with Firefly](express/create-social-posters.md)
     + [Create webinar posters with Firefly](express/create-webinar-poster.md)
     + [Schedule social posts](express/schedule.md)
     + [Invite project collaborators](express/collaborate.md)
