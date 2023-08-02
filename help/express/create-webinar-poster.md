@@ -1,6 +1,6 @@
 ---
 title: Create Webinar Posters with Firefly
-description: Learn how to use Text to Image and Text Effects, powered by Adobe Firefly
+description: Learn how to to create a webinar poster for a virtual reality event
 role: User
 level: Beginner
 ---
