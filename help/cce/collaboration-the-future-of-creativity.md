@@ -1,14 +1,16 @@
 ---
 title: Collaboration--The Future of Creativity
-description: Learn the many perks of an Adobe Creative Cloud subscription is free access to more than 20,000 professionally designed and curated fonts from Adobe Fonts
+description: Learn how to add comments and share feedback on Creative Cloud files and folders with your team members, stakeholders, and clients and curated fonts from Adobe Fonts
+feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
+jira: KT-11640
 thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
 ---
 # Collaboration: The Future of Creativity
 
-Among the many perks of an Adobe Creative Cloud subscription is free access to more than 20,000 professionally designed and curated fonts from Adobe Fonts. Originally known as Typekit, Adobe Fonts are available through a single licensing agreement that gives designers unlimited creative use for personal or commercial projects.
+Learn how to add comments and share feedback on Creative Cloud files and folders with your team members, stakeholders, and clients. Share from the Adobe Creative Cloud website or share for review from within apps like Illustrator, InDesign or Photoshop.
 
 Select the image below to view or download this PDF tutorial.
 

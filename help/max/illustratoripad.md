@@ -1,6 +1,7 @@
 ---
 title: Illustrator on iPad
 description: Adobe Illustrator on the iPad is a vector design experience reimagined for touch, the Apple Pencil, and iPad
+feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
@@ -58,7 +59,7 @@ Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
 **Illustrator on iPad Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/illustrator.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/illustrator.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html), and links to community forums.
 
 **October 2020 Release**
 

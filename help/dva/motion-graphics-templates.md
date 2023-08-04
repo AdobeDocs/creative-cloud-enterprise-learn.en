@@ -1,8 +1,10 @@
 ---
 title: Professional Motion Graphics templates
 description: Motion Graphics templates (.mogrt) are a collaborative and efficient way to create customizable motion graphics packages — titles, logo animations, lower thirds, and share them with editorial teams
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
+jira: KT-11642
 thumb: KT-11642.jpg
 exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
 ---

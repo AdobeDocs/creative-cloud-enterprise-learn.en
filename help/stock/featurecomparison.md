@@ -1,6 +1,7 @@
 ---
 title: Create a product feature comparison chart using Adobe [!DNL Stock]
 description: Create a graphic that compares product pricing plans to give prospective customers the information they need at a glance
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg

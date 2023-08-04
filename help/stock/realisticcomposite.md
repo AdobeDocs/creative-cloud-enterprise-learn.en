@@ -1,6 +1,7 @@
 ---
 title: Create realistic photo composites with Adobe [!DNL Stock] images
 description: Bring together two great Adobe [!DNL Stock] photos to draw people into your social posts
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg

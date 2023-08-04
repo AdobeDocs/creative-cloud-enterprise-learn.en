@@ -1,6 +1,7 @@
 ---
 title: Use Image Effects
 description: Learn how to brighten and darken images
+feature: Image Editing
 role: User
 level: Beginner
 exl-id: 6203686b-bc7c-4140-8107-26843753245e

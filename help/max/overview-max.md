@@ -19,7 +19,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 Is your creative staff spending too much time on manual, repetitive work? Help your organization get the most out of creative professionals. Enterprise systems like AEM and InDesign Server can provide both creative and production personnel means of rapidly pushing content into the hands of your target audience.
 
-In this recorded live session, you’ll see examples of template-based workflows in:  
+In this recorded live session, you'll see examples of template-based workflows in:  
 * Adobe Experience Manager (AEM) Assets is a digital asset management (DAM) solution that can integrate with Adobe Creative Cloud to help DAM users work together with creative teams, streamlining collaboration in the content creation process
 * Adobe InDesign Server is a layout and composition engine that powers automated publishing solutions by integrating into other systems
 

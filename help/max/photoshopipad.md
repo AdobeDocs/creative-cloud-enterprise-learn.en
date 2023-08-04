@@ -1,6 +1,7 @@
 ---
 title: Photoshop on iPad
 description: Create anything you can imagine, anywhere inspiration strikes with Photoshop on iPad
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
@@ -9,7 +10,7 @@ exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 
 ![Tutorial Hero Image](../assets/PSoniPad.jpg)
 
-Photoshop is the world’s best imaging and graphic design software, allowing unlimited creativity for professionals across devices. Now anyone can create anything they imagine, anywhere inspiration strikes. If you can think it, you can make it with Photoshop.
+Photoshop is the world's best imaging and graphic design software, allowing unlimited creativity for professionals across devices. Now anyone can create anything they imagine, anywhere inspiration strikes. If you can think it, you can make it with Photoshop.
 
 ## Browse Product Tutorials
 

@@ -1,6 +1,7 @@
 ---
 title: Create inspiring mood boards in no time with Adobe [!DNL Stock]
 description: Create a project mood board to relay information, ideas, visuals, and color palettes to teams/clients
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg

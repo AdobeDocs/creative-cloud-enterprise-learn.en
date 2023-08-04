@@ -1,6 +1,7 @@
 ---
 title: "[!DNL Dimension]"
 description: "[!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work"
+feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
@@ -55,7 +56,7 @@ Jim Babbage, Senior Solutions Consultant (Digital Media)
 
 **Dimension Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/dimension.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/dimension.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html), and links to community forums.
 
 **October 2020 Release**
 

@@ -1,6 +1,7 @@
 ---
 title: Experimenting with Firefly Beta Webinar
 description: Join Howard Pinsky as he dives into the Firefly beta
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13427

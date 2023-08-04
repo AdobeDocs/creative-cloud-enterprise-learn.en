@@ -1,6 +1,7 @@
 ---
 title: Generative Fill in Photoshop
 description: Learn how to use Generative Fill powered by Adobe Firefly
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13467

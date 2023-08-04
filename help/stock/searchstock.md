@@ -1,6 +1,7 @@
 ---
 title: Search Adobe [!DNL Stock] licensing history
 description: Learn how to quickly search your organization's Adobe [!DNL Stock] licensing history in Creative Cloud for enterprise
+feature: Licensable Assets
 role: User
 level: Beginner
 thumbnail: kt-8212.jpg

@@ -1,6 +1,7 @@
 ---
 title: InDesign
 description: Create rich digital and print experiences, from eBooks and electronic magazines, to books, reports and whitepapers
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
@@ -82,7 +83,7 @@ Generate QR code that links to a web site.
 In this tutorial, you will learn how:
 * Provide hands-free access to web content via mobile devices
 * Make your customers feel safe
-* Digital means it’s easy to keep content current
+* Digital means it's easy to keep content current
 
 **Presented by:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
@@ -143,7 +144,7 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 **InDesign Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/indesign.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/indesign.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html), and links to community forums.
 
 **October 2020 Release**
 

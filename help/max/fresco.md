@@ -1,6 +1,7 @@
 ---
 title: Fresco
 description: Adobe Fresco is a cross-platform app for creating drawings and paintings using brush-based methods combining vector and raster workflows with cloud documents
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
@@ -78,7 +79,7 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 
 **Fresco Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/adobe-fresco.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/fresco/using/whats-new.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/adobe-fresco.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/fresco/using/whats-new.html), and links to community forums.
 
 **October 2020 Release**
 

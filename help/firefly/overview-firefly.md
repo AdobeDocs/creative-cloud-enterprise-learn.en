@@ -1,6 +1,7 @@
 ---
 title: Adobe [!DNL Firefly] Overview
 description: Get up-to-speed on Adobe [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379

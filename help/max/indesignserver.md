@@ -1,6 +1,7 @@
 ---
 title: InDesign Server
-description: Adobe Adobe® InDesign® Server software delivers a robust and scalable engine that leverages the design, layout, and typographical capabilities of InDesign to let you programmatically create engaging automated documents
+description: Adobe Adobe&reg; InDesign&reg; Server software delivers a robust and scalable engine that leverages the design, layout, and typographical capabilities of InDesign to let you programmatically create engaging automated documents
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
@@ -9,7 +10,7 @@ exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 
 ![Tutorial Hero Image](../assets/InDesignServer.jpg)
 
-Adobe InDesign® Server software delivers a robust and scalable engine that leverages the design, layout, and typographical capabilities of InDesign to let you programmatically create engaging automated documents.
+Adobe InDesign&reg; Server software delivers a robust and scalable engine that leverages the design, layout, and typographical capabilities of InDesign to let you programmatically create engaging automated documents.
 
 ## Browse Product Tutorials
 
@@ -89,7 +90,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **InDesign Server Resources**
 
-[Learn & Support](https://www.adobe.com/products/indesignserver.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://www.adobe.com/products/indesignserver.html) is your hub for additional tutorials, What's New, and links to community forums.
 
 **October 2020 Release**
 

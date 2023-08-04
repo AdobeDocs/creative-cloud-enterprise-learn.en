@@ -1,6 +1,7 @@
 ---
 title: Decoding the Alphabet Soup of Graphic Formats
 description: JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. But what do they mean, and which should you pick?
+feature: Image editing
 role: User
 level: Beginner, Intermediate
 kt: 8038

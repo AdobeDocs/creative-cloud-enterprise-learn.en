@@ -1,6 +1,7 @@
 ---
 title: Generative Recolor in Illustrator
 description: Learn how to use Generative Recolor powered by Adobe Firefly
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13527

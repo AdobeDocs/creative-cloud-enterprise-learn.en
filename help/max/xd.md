@@ -1,6 +1,7 @@
 ---
 title: XD
 description: Adobe XD is a user experience design and prototyping tool for designing websites, apps, voice interfaces, games, and other types of digital experiences
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
@@ -209,7 +210,7 @@ In this tutorial, you will learn how to:
 
 **XD Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/xd.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/xd.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html), and links to community forums.
 
 **October 2020 Release**
 

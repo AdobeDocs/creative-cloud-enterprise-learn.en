@@ -3,6 +3,8 @@ user-guide-title: Creative Cloud for enterprise Tutorials
 breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: View tutorials and quick reference guides focused on Creative Cloud for enterprise
 solution: Creative Cloud
+feature-set: Creative Cloud
+role: User
 type: Tutorial
 ---
 

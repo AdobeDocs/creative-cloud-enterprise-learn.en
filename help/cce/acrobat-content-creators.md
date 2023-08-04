@@ -1,6 +1,7 @@
 ---
 title: Acrobat for Content Creators
 description: Learn about key tools in Adobe Acrobat that help streamline creative workflows
+feature: Share
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg

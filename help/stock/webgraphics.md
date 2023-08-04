@@ -1,6 +1,7 @@
 ---
 title: Create engaging web graphics by combining Adobe [!DNL Stock] images with CSS
 description: Create brand unity with varying images by combining colors and gradients across your advertising campaign
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg

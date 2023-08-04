@@ -1,6 +1,7 @@
 ---
 title: Adjust Text Size
 description: Learn how to make text big, and make text small
+feature: Graphic Design
 role: User
 level: Beginner
 ---

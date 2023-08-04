@@ -1,6 +1,7 @@
 ---
 title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] is the first all-in-one, cross-device video editing app that makes creating and sharing online content easier than ever
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
@@ -59,7 +60,7 @@ A.J. Wood, Solutions Consultant (Digital Media)
 
 **[!DNL Rush] Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/premiere-rush.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/premiere-rush.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), and links to community forums.
 
 **October 2020 Release**
 

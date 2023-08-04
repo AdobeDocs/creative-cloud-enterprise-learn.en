@@ -1,9 +1,10 @@
 ---
 title: Creating Creative Cloud Libraries for teams
 description: Learn how to share assets within a group or team using Creative Cloud Libraries for teams
+feature: Integrations
 role: User
 level: Beginner, Intermediate
-kt: 8209
+jira: KT-8209
 thumbnail: KT-8209
 exl-id: 1cb0d14d-4aa5-4002-85dc-e54f25b39945
 ---

@@ -1,6 +1,7 @@
 ---
 title: Stunning Digital Assets
 description: Learn how to integrate Adobe Stock with CC Libraries to create consistent and professional design results for print and screen in this hands-on tutorial
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg

@@ -1,6 +1,7 @@
 ---
 title: Video Review with Frame.io
 description: Learn how the Frame.io extension for Adobe Premiere Pro lets you centralize and share assets, receive real-time comments, track revisions, and get faster approvals—all without leaving the timeline
+feature: Collaboration
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg

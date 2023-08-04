@@ -1,6 +1,7 @@
 ---
 title: Customize and brand a 3D model with [!DNL Dimension] and Adobe [!DNL Stock]
 description: Customize and brand a 3D model in [!DNL [!DNL Dimension]] using materials, environmental properties, lighting, and photography, to create photo-realistic imagery for any design project
+feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 27eb25b1-f0ef-478d-b36f-bcbf8be616b0

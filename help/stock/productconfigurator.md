@@ -1,6 +1,7 @@
 ---
 title: Create an interactive product configurator with Adobe [!DNL Stock]
 description: Use the power of interactivity, animation, and editable artwork from Adobe [!DNL Stock] to present financial information in a visual way
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg

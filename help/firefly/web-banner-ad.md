@@ -1,6 +1,7 @@
 ---
 title: Banner ad variations in Photoshop
 description: Learn how to use Generative Fill to accelerate web ad banner creation
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13468

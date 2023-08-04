@@ -1,8 +1,10 @@
 ---
 title: Taming Type Anxiety
 description: Learn how to access and use over 20,000 professionally designed fonts in Creative Cloud
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
+jira: KT-10963
 thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
 ---
