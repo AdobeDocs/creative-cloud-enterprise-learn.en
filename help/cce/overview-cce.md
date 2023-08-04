@@ -1,7 +1,7 @@
 ---
 title: Creative Cloud for enterprise Tutorials
 description: Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products
-feature: Imaged Editing, Collaboration, Graphic Design, Integrations
+feature: Image Editing, Collaboration, Graphic Design, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-6942

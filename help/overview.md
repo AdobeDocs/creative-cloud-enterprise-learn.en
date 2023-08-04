@@ -1,7 +1,7 @@
 ---
 title: Creative Cloud for Enterprise Tutorials
 description: Welcome to the Creative Cloud for enterprise learning hub
-feature: Graphic Design, Imaged Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf

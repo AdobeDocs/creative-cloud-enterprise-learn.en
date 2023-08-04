@@ -1,7 +1,7 @@
 ---
 title: Bring creative to life with custom animations by Adobe [!DNL Stock]
 description: Use Adobe [!DNL Stock] images, textures, patterns to custom animations in Photoshop
-feature: Licensable Assets, Imaged Editing
+feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
 thumbnail: 331806.jpg

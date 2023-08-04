@@ -1,6 +1,7 @@
 ---
 title: MAX 2020 — the Enterprise Sessions
 description: About the demo assets
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
