@@ -1,6 +1,7 @@
 ---
 title: Creating cinemagraphs with Photoshop
 description: In this step-by-step workshop video tutorial, create a living photograph by combining video from Adobe [!DNL Stock] with clever masking techniques in Photoshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 858cdd40-5b23-4ef9-bdd3-e663d4d94002

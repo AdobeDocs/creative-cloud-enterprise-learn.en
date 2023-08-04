@@ -1,6 +1,7 @@
 ---
 title: Group Objects
 description: Learn how to resize text and images
+feature: Graphic Design
 role: User
 level: Beginner
 exl-id: 616230fc-756e-4d0e-8224-ad091a3144bc

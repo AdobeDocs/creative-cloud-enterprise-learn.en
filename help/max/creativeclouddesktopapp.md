@@ -1,6 +1,7 @@
 ---
 title: Creative Cloud Desktop App
 description: The Creative Cloud desktop app is your hub for managing CC apps, services, and collaboration—and more!
+feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a

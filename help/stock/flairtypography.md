@@ -1,6 +1,7 @@
 ---
 title: Add flair to typography with masks and animation
 description: Bring your text to life with elements from Adobe [!DNL Stock] and animation styles from After Effects
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg

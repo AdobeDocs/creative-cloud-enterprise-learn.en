@@ -1,6 +1,7 @@
 ---
 title: Create a company guidelines infographic with Adobe [!DNL Stock]
 description: Combine a variety of assets from Adobe [!DNL Stock] to communicate guidelines in the form of visually compelling infographics
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg

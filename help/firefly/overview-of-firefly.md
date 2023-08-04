@@ -1,6 +1,7 @@
 ---
 title: Overview of Adobe Firefly
 description: Learn what you can create in Adobe Firefly
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13528

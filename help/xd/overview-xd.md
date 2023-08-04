@@ -1,8 +1,10 @@
 ---
 title: Adobe XD tutorials
 description: Tutorials to help you get up-to-speed on Adobe XD
+feature: UI Design
 role: User
 level: Beginner, Intermediate
+jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
 ---
 # Adobe XD tutorials

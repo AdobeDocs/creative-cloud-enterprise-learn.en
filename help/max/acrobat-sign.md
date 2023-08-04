@@ -1,6 +1,7 @@
 ---
 title: Acrobat & Sign
 description: A listing of Acrobat and Adobe Sign tutorials
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
@@ -9,7 +10,7 @@ exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 
 ![Tutorial Hero Image](../assets/DC.jpg)
 
-With Adobe Document Cloud — which includes the world’s leading PDF and electronic signature solutions — you can turn manual document processes into efficient digital ones. Now your team can take quick action on documents, workflows, and tasks — across multiple screens and devices — anywhere, any time, and inside your favorite Microsoft and enterprise apps.
+With Adobe Document Cloud — which includes the world's leading PDF and electronic signature solutions — you can turn manual document processes into efficient digital ones. Now your team can take quick action on documents, workflows, and tasks — across multiple screens and devices — anywhere, any time, and inside your favorite Microsoft and enterprise apps.
 
 ## Browse Product Tutorials
 
@@ -148,7 +149,7 @@ With Adobe Scan, easily capture and convert documents, forms, business cards, an
 
 In this tutorial, you will learn how to:
 * Use your mobile phone to capture and convert documents, forms, business cards, and whiteboards into high-quality Adobe PDFs
-* Automatically identify and sharpen handwritten or printed text, while removing elements you don’t want, like glare and shadow
+* Automatically identify and sharpen handwritten or printed text, while removing elements you don't want, like glare and shadow
 * Open the scanned PDF in Acrobat Reader to make notes and comments and review with your team
 
 **Presented by:**
@@ -158,7 +159,7 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Acrobat & Adobe Sign Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/acrobat/using/whats-new.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/acrobat/using/whats-new.html), and links to community forums.
 
 **October 2020 Release**
 

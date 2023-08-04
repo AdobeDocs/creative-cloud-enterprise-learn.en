@@ -1,6 +1,7 @@
 ---
 title: Create a 3D collage for a poster using Adobe [!DNL Stock] images
 description: Design a collage in Adobe Illustrator that features an eye-catching 3D effect from images in Adobe [!DNL Stock]
+feature: Licensable Assets, 3D
 role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg

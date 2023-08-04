@@ -1,6 +1,7 @@
 ---
 title: Creating photorealistic virtual photography with 3D rendering and compositing
 description: Learn how to create stunningly deceptive, photorealistic virtual photography with 3D image compositing and rendering in Adobe [!DNL Dimension]
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: virtual photography, 100 Global MSV
@@ -14,7 +15,7 @@ Looking at the images above, you'd be forgiven for assuming everything you see i
 
 ![A scene from James Cameron's The Abyss in which Mary Mastrantonio reaches out to touch the CGI water tentacle](assets/Photorealistic_2.jpg)
 
-This technique, of layering, or ‘compositing’ 3D models into an image or video, is not new, and in fact its origins go back to the early days of VFX (as far back as the 1980s). What is new and exciting is that this technique has become a powerful tool for [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) users, and an intriguing new workflow for photographers.
+This technique, of layering, or 'compositing' 3D models into an image or video, is not new, and in fact its origins go back to the early days of VFX (as far back as the 1980s). What is new and exciting is that this technique has become a powerful tool for [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) users, and an intriguing new workflow for photographers.
 
 
 ## The technology behind creating composite images in Adobe [!DNL Dimension]
@@ -27,11 +28,11 @@ Adobe [!DNL Dimension] has allowed users to seamlessly combine 2D and 3D element
 
 The Match Image feature analyzes the background image and estimates the focal length and position of the camera that was used to capture it. A 3D camera is then created in the [!DNL Dimension] scene which can be used to render 3D elements within the same perspective as the background image so they will composite together.
 
-But what about everything not captured within the camera’s frame?  The full environment an image is captured in matters significantly because it defines how everything looks within it. An object within an image is reflecting the light of the world around it, which includes everything behind the camera too. So, for the layered 3D elements to really blend in with the background of your image, they need to fully reflect the lighting in the environment in which the image was taken.
+But what about everything not captured within the camera's frame?  The full environment an image is captured in matters significantly because it defines how everything looks within it. An object within an image is reflecting the light of the world around it, which includes everything behind the camera too. So, for the layered 3D elements to really blend in with the background of your image, they need to fully reflect the lighting in the environment in which the image was taken.
 
 ![A photorealistic 3d composite image of a moped in a living room](assets/Photorealistic_5.png)
 
-Match Image will attempt to ‘hallucinate’ the lighting environment in which a background image was taken. It does an impressive job that will produce excellent results in short order, but capturing the environment along with the background image will produce even more realistic results. This is even the method used to train the Adobe Sensei feature to do it on its own.
+Match Image will attempt to 'hallucinate' the lighting environment in which a background image was taken. It does an impressive job that will produce excellent results in short order, but capturing the environment along with the background image will produce even more realistic results. This is even the method used to train the Adobe Sensei feature to do it on its own.
 
 ![A 360 degree HDR panoramic of office space](assets/Photorealistic_6.png)
 
@@ -47,11 +48,11 @@ Cameras like the Ricoh Theta, Gopro MAX, and Insta 360 can capture 360 panoramas
 
 To get started capturing environments for compositing, you need two main elements; a high quality background image or images and a 360° HDR panorama of the environment in which it was taken.
 
-One of the most important aspects of capturing this type of content effectively is to take advantage of a photographer’s existing skills and tools. Creating a beautiful background image, requires an eye for composition and attention to detail. The background images also require a special mindset in order to create something that is useful for compositing 3D elements into.
+One of the most important aspects of capturing this type of content effectively is to take advantage of a photographer's existing skills and tools. Creating a beautiful background image, requires an eye for composition and attention to detail. The background images also require a special mindset in order to create something that is useful for compositing 3D elements into.
 
 ### Choosing a location
 
-Look for locations that are interesting for both their context and lighting. When considering context, it can be helpful to imagine a scene’s potential use. For example, a view of an empty road could be used for adding in a 3D car while a view of a table at a coffee shop might be used for [displaying packaging](https://www.adobe.com/products/dimension/packaging-design-mockup.html) of food products.
+Look for locations that are interesting for both their context and lighting. When considering context, it can be helpful to imagine a scene's potential use. For example, a view of an empty road could be used for adding in a 3D car while a view of a table at a coffee shop might be used for [displaying packaging](https://www.adobe.com/products/dimension/packaging-design-mockup.html) of food products.
 
 ![4 location scenes for a virtual photograph are contrasted against the same scenes with a 3D composite](assets/Photorealistic_8.png)
 
@@ -73,7 +74,7 @@ Place your 360° camera in the general center of the area where you will be focu
 
 ![A 360 degree HDR panoramic of an office space with a color chart in the foreground](assets/Photorealistic_11.png)
 
-Maintaining color between the camera used to shoot the environment and the camera used to shoot the background is very important since the images will be used together. Here we have both the cameras’ color temperature set to 5000k and took a photo of a color chart with both cameras for further alignment in post.
+Maintaining color between the camera used to shoot the environment and the camera used to shoot the background is very important since the images will be used together. Here we have both the cameras' color temperature set to 5000k and took a photo of a color chart with both cameras for further alignment in post.
 
 ### Bracketed exposure values
 
@@ -99,13 +100,13 @@ If the 360° used is capable of outputting RAW images, the EVs can be split in 2
 
 ![The Merge to HDR Pro file selection menu in Adobe Photoshop](assets/Photorealistic_13.png)
 
-After making any color adjustments to the EVs they can be exported temporarily to individual files to then be merged in Photoshop. The filetype should depend on the source, but don’t use a compressed format like JPEG in either case. In Photoshop use File > Automate > Merge to HDR Pro… and select all of the exported EVs.
+After making any color adjustments to the EVs they can be exported temporarily to individual files to then be merged in Photoshop. The filetype should depend on the source, but don't use a compressed format like JPEG in either case. In Photoshop use File > Automate > Merge to HDR Pro… and select all of the exported EVs.
 
 ![The Merge to HDR Pro preview screen in Adobe Photoshop](assets/Photorealistic_14.png)
 
 ![The Merge to HDR Pro configuration settings in Adobe Photoshop](assets/Photorealistic_15.png)
 
-Make sure ‘Mode’ is set to 32 bit. Using ‘remove ghosts’ can help remove details that changed between the EVs, but don’t use it if you don’t need it. The slider under the histogram only affects the preview exposure so ignore it. Uncheck ‘Complete Toning in Adobe Camera Raw’ and press OK.
+Make sure 'Mode' is set to 32 bit. Using 'remove ghosts' can help remove details that changed between the EVs, but don't use it if you don't need it. The slider under the histogram only affects the preview exposure so ignore it. Uncheck 'Complete Toning in Adobe Camera Raw' and press OK.
 
 ![A 360 degree HDR panoramic of an office space with shadows visible at the nadir](assets/Photorealistic_16.png)
 
@@ -139,17 +140,17 @@ Add the HDR pano by selecting the Environment Light and adding it to the Image i
 
 ![The Environment Light source can be added to the background image of a virtual photograph from the Scene menu in in Adobe [!DNL Dimension]](assets/Photorealistic_21.png)
 
-You can then use "Match Image" on your background to match the resolution and aspect as well as the camera perspective. Instead of generating the environment from the background image, the captured HDR pano image is used to light the scene, so the ‘create lights’ option can be left unchecked.
+You can then use "Match Image" on your background to match the resolution and aspect as well as the camera perspective. Instead of generating the environment from the background image, the captured HDR pano image is used to light the scene, so the 'create lights' option can be left unchecked.
 
 ![Using the Match Image feature in Adobe [!DNL Dimension] to render a 3D metal sphere image with the environment lights from an HDR panoramic](assets/Photorealistic_22.png)
 
 Now, objects that are added into the scene will be composited realistically into the background since they are being lit by the environment where the image was taken.
 
-To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in [!DNL Dimension], can be placed in the scene. The environment light’s rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano’s exposure should be increased or decreased to compensate.
+To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in [!DNL Dimension], can be placed in the scene. The environment light's rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano's exposure should be increased or decreased to compensate.
 
 ![A photorealistic virtual photograph of a metal sphere is composited onto a background image of office space](assets/Photorealistic_23.png)
 
-To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in [!DNL Dimension], can be placed in the scene. The environment light’s rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano’s exposure should be increased or decreased to compensate.
+To quickly assess the orientation and exposure of the HDR pano relative to the background, a sphere primitive with a metal material, taken from the free asset panel in [!DNL Dimension], can be placed in the scene. The environment light's rotation can then be positioned so the reflections look correct. If the lighting from the HDR pano over or under-exposes the sphere, the HDR pano's exposure should be increased or decreased to compensate.
 
 ## The end result: A photorealistic composite image
 

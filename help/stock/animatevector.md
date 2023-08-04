@@ -1,6 +1,7 @@
 ---
 title: Animate an Adobe [!DNL Stock] vector illustration in Photoshop
 description: Bring animation into your newsletter graphics with editable vectors for Adobe [!DNL Stock]
+feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg

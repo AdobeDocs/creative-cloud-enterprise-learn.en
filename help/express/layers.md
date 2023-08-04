@@ -1,6 +1,7 @@
 ---
 title: Select and move layers
 description: Move, reorder, or overlap stickers and text with layers
+feature: Graphic Design
 role: User
 level: Beginner
 exl-id: 9981b8c3-5de9-41e7-be2f-eab0ca8f65fe

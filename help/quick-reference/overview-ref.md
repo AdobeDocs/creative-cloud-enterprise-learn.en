@@ -3,6 +3,7 @@ title: Creative Cloud for Enterprise Quick Reference Guides
 description: Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products
 role: User
 level: Beginner, Intermediate
+jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 ---
 # Creative Cloud for enterprise quick reference guides

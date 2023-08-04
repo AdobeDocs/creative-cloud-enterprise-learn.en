@@ -1,6 +1,7 @@
 ---
 title: Photoshop
 description: A listing of Photoshop tutorials
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
@@ -9,7 +10,7 @@ exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 
 ![Tutorial Hero Image](../assets/Photoshop.jpg)
 
-Photoshop is the world’s best imaging and graphic design software, allowing unlimited creativity for professionals across devices. Now anyone can create anything they imagine, anywhere inspiration strikes. If you can think it, you can make it with Photoshop.
+Photoshop is the world's best imaging and graphic design software, allowing unlimited creativity for professionals across devices. Now anyone can create anything they imagine, anywhere inspiration strikes. If you can think it, you can make it with Photoshop.
 
 ## Browse Product Tutorials
 
@@ -78,7 +79,7 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 **Photoshop Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/photoshop.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/photoshop/using/whats-new.html), and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/photoshop.html) is your hub for additional tutorials, [What's New](https://helpx.adobe.com/photoshop/using/whats-new.html), and links to community forums.
 
 **October 2020 Release**
 

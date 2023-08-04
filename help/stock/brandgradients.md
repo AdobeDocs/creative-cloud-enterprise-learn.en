@@ -1,6 +1,7 @@
 ---
 title: Create cohesive brand imagery with beautiful gradients and Adobe [!DNL Stock] assets
 description: Create brand unity with varying images by combining colors and gradients across your advertising campaign
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331809.jpg

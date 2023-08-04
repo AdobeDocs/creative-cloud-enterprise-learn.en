@@ -1,6 +1,7 @@
 ---
 title: MAX 2020 — the Enterprise Sessions
 description: About the demo assets
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
@@ -19,7 +20,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 
 Is your creative staff spending too much time on manual, repetitive work? Help your organization get the most out of creative professionals. Enterprise systems like AEM and InDesign Server can provide both creative and production personnel means of rapidly pushing content into the hands of your target audience.
 
-In this recorded live session, you’ll see examples of template-based workflows in:  
+In this recorded live session, you'll see examples of template-based workflows in:  
 * Adobe Experience Manager (AEM) Assets is a digital asset management (DAM) solution that can integrate with Adobe Creative Cloud to help DAM users work together with creative teams, streamlining collaboration in the content creation process
 * Adobe InDesign Server is a layout and composition engine that powers automated publishing solutions by integrating into other systems
 

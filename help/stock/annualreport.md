@@ -1,6 +1,7 @@
 ---
 title: Begin Your Annual Report with a video created with Adobe [!DNL Stock] and Spark Video
 description: Make your annual report a story with Adobe [!DNL Stock] and Spark Video
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331808.jpg

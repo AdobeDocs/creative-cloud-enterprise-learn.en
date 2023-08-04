@@ -1,6 +1,7 @@
 ---
 title: CC Libraries
 description: Keep your assets on hand and your projects on brand
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
@@ -75,7 +76,7 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **CC Libraries Resources**
 
-[Learn & Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) is your hub for additional tutorials, What's New, and links to community forums.
 
 **October 2020 Release**
 

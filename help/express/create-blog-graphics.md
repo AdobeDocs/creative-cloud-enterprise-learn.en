@@ -1,6 +1,7 @@
 ---
 title: Create Graphic Content for Blogs with Firefly
 description: Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create unique graphic content for a blog
+feature: Image Editing
 role: User
 level: Beginner
 jira: KT-13744

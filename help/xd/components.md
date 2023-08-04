@@ -1,6 +1,7 @@
 ---
 title: Get comfortable with [!UICONTROL Components] in Adobe XD
 description: Learn how to use [!UICONTROL Components] to give you unprecedented flexibility for applying both speed and consistency to your design workflow
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a

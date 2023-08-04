@@ -1,6 +1,7 @@
 ---
 title: Create animations for email with Adobe [!DNL Stock] and Photoshop
 description: Empower your Emails with Stop-Action Animation with Adobe [!DNL Stock] and Photoshop
+feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg

@@ -1,6 +1,7 @@
 ---
 title: Add a hand-drawn aesthetic to Adobe [!DNL Stock] images
 description: Amp up your creative marketing with unique techniques that add depth and dimension to your imagery using Photoshop for iPad
+feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg

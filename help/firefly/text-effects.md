@@ -1,6 +1,7 @@
 ---
 title: Text Effects
 description: Learn how to use Text Effects, powered by Adobe Firefly
+feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526

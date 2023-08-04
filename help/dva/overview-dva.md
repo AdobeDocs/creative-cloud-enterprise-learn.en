@@ -1,8 +1,10 @@
 ---
 title: Adobe Video Tutorials
 description: Tutorials to help you get up-to-speed on Adobe DVA products
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
+jira: KT-6946
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 ---
 # Adobe video tutorials

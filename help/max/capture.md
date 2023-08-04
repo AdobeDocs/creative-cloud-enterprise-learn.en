@@ -1,6 +1,7 @@
 ---
 title: Capture
 description: Adobe [!DNL Capture] turns mobile phones and tablets into a design collection tool
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66

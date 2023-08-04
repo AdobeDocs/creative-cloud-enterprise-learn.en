@@ -1,6 +1,7 @@
 ---
 title: Create a semi-surreal composite with Adobe [!DNL Stock]
 description: Create a memorable editorial image by combining multiple images with color, motion, and masking effects
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg

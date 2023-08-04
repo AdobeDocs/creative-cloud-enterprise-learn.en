@@ -1,6 +1,7 @@
 ---
 title: Customize an Adobe [!DNL Stock] presentation template to look professional, yet eye-catching
 description: Create a beautiful stylized presentation in minutes with images and templates from Adobe [!DNL Stock] and some easy-to-do special effects
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331837.jpg

@@ -2,6 +2,7 @@
 title: Illustrator
 description: Create logos, icons, illustrations, and any other designs you can imagine for the web, mobile, or print
 role: User
+feature: Vector Editing
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
 ---

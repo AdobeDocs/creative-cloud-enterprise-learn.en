@@ -1,6 +1,7 @@
 ---
 title: AEM Assets and Asset Link
 description: A listing of AEM sssets and links
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
@@ -112,7 +113,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **Asset Link & AEM Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/experience-manager.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/experience-manager.html) is your hub for additional tutorials, What's New, and links to community forums.
 
 **October 2020 Release**
 

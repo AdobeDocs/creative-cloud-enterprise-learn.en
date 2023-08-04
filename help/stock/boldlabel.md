@@ -1,6 +1,7 @@
 ---
 title: Create a bold label with Adobe [!DNL Stock] templates and Photoshop Smart Objects
 description: Design and visualize your custom designs with realistic packaging templates from Adobe [!DNL Stock]
+feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate  
 thumbnail: 331823.jpg

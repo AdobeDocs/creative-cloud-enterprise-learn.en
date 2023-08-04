@@ -1,6 +1,7 @@
 ---
 title: Get Quick Inspiration
 description: Express yourself by learning how to create your first design
+feature: Graphic Design
 role: User
 level: Beginner
 exl-id: 2608daf8-eec4-4e67-acda-e0ea047e6688

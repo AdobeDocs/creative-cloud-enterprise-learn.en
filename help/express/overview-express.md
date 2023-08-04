@@ -1,6 +1,7 @@
 ---
 title: Adobe [!DNL Express] Overview
 description: Get up-to-speed on Adobe [!DNL Express]
+feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner
 jira: KT-13380

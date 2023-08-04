@@ -1,6 +1,7 @@
 ---
 title: Adobe Express--Content that Stands Out
 description: Create beautiful graphics, web pages, and video stories in minutes with Adobe Express
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 thumb: KT-11641.jpg

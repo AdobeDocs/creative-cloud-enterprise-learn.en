@@ -14,5 +14,5 @@ Creative Cloud for enterprise supports custom deployments and flexible license t
 * [Understanding Creative Cloud for enterprise and Acrobat Serial Number Expiration](cceserial.md)
   Learn about the serial number expiration experience for Creative Cloud for enterprise and Acrobat.
 
-* [Expiring serial numbers? Why it’s time for Named User Licensing](nameduserlicensing.md)
+* [Expiring serial numbers? Why it's time for Named User Licensing](nameduserlicensing.md)
   Learn about how licensing Adobe products through Named User Licensing (NUL) allows IT admins to easily deploy and manage Adobe tools using the Admin Console and gives end users access to world-class creative and productivity apps and Adobe Cloud services, even if the entire workforce is remote.

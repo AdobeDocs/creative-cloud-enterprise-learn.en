@@ -1,6 +1,7 @@
 ---
 title: 3D Design and Rendering
 description: Import content, arrange your scene, apply materials and textures, adjust image-based and physical lighting, save cameras with different resolutions, and render photorealistic imagery
+feature: 3D
 role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg

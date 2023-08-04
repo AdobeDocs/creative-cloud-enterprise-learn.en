@@ -1,6 +1,7 @@
 ---
 title: Customize the colors in an Adobe [!DNL Stock] vector illustration
 description: Add polish to any project with a great-looking illustration. Find the perfect vector in Adobe [!DNL Stock], and then match the colors to your project's palette using Adobe Illustrator
+feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
 thumbnail: 331826.jpg

@@ -3,6 +3,7 @@ title: Adobe [!DNL Stock] tutorials
 description: Tutorials to help you get up-to-speed on Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
+jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 ---
 # Adobe [!DNL Stock] tutorials
