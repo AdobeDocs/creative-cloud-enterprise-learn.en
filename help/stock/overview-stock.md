@@ -1,6 +1,7 @@
 ---
 title: Adobe [!DNL Stock] tutorials
 description: Tutorials to help you get up-to-speed on Adobe [!DNL Stock]
+feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943

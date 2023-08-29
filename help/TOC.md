@@ -4,6 +4,7 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: View tutorials and quick reference guides focused on Creative Cloud for enterprise
 solution: Creative Cloud
 feature-set: Creative Cloud
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
 ---

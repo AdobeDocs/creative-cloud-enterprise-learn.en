@@ -1,6 +1,7 @@
 ---
 title: Adobe 3D & VR tutorials
 description: Tutorials to help you get up-to-speed on Adobe 3D & VR
+feature: 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-6945

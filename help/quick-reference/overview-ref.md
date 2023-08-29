@@ -1,6 +1,7 @@
 ---
 title: Creative Cloud for Enterprise Quick Reference Guides
 description: Tutorials to help you get up-to-speed on the Creative Cloud for Enterprise products
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Video Editing, 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-7013
