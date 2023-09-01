@@ -1,7 +1,7 @@
 ---
 title: Improve CC workflows with CC Libraries
 description: Learn how Creative Cloud Libraries keep design elements together—ensuring project consistency for designers and teams
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
