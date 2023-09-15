@@ -32,6 +32,7 @@ type: Tutorial
   + [Overview](express/overview-express.md)
   + Tutorials {#expresstutorials}
     + [Get started with Adobe Express](express/get-started.md)
+    + [Jumpstart creative ideation](express/jumpstart-ideation.md)
     + [Adobe Express for beginners](express/adobe-express-beginners.md)
     + [Create flyer content for marketing campaign with Firefly](express/create-local-marketing.md)
     + [Create recruiting and on-boarding content with Firefly](express/create-on-boarding.md)
