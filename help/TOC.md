@@ -52,7 +52,7 @@ type: Tutorial
     + [Create curved text](express/create-curved-text.md)
     + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
-    + [Empower distributed teams to localize content](ex[ress/localized-narketing-content.md])
+    + [Empower distributed teams to localize content](express/localized-narketing-content.md)
     + [Jumpstart creative ideation](express/jumpstart-ideation.md)
     + [Adobe Express for beginners](express/adobe-express-beginners.md)
     + [Create flyer content for marketing campaign with Firefly](express/create-local-marketing.md)
