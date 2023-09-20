@@ -18,7 +18,7 @@ Discover how different teams within your organization can benefit from Adobe Exp
 <tr>
    <td>
       <a href="localized-marketing-content.md">
-         <img alt="Empower distributed teams to localize content" src="assets/marketing-region-content.png" />
+         <img alt="Empower distributed teams to localize content" src="assets/marketing-regional-content.png" />
       </a>
   </td>
   <td>

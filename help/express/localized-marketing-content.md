@@ -1,5 +1,5 @@
 ---
-title: Empower distributed teams to localize content 
+title: Empower Distributed Teams to Localize Content 
 description: Learn how distributed field marketing teams can easily customize content to their region for local marketing campaigns
 feature: Image Editing, Gen AI
 role: User
