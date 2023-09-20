@@ -50,7 +50,7 @@ type: Tutorial
     + [Use text effects](express/text-effects.md)
     + [Use image effects](express/image-effects.md)
     + [Create curved text](express/create-curved-text.md)
-    + Use case tutorials {#expressusecase}
+  + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
     + [Empower distributed teams to localize content](express/localized-marketing-content.md)
     + [Jumpstart creative ideation](express/jumpstart-ideation.md)
