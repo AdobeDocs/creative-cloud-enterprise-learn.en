@@ -3,7 +3,8 @@ title: Create Recruiting and On-boarding Content with Firefly
 description: Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create unique graphics for employee recruiting and on-boarding content
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
+jira: KT-13755
 ---
 # Create recruiting and on-boarding content with Firefly
 

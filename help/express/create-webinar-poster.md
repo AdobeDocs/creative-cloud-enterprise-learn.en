@@ -2,7 +2,8 @@
 title: Create Webinar Posters with Firefly
 description: Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create a webinar poster for a virtual reality event
 feature: Image Editing, Gen AI
-level: Beginner
+level: Intermediate
+jira: KT-13525
 ---
 # Create webinar posters with Firefly
 

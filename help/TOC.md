@@ -52,6 +52,7 @@ type: Tutorial
     + [Create curved text](express/create-curved-text.md)
   + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
+    + [Empower marketing teams to create multi-channel content](express/multi-channel-marketing-content.md)
     + [Empower distributed teams to localize content](express/localized-marketing-content.md)
     + [Jumpstart creative ideation](express/jumpstart-ideation.md)
     + [Adobe Express for beginners](express/adobe-express-beginners.md)
