@@ -3,7 +3,7 @@ title: Create Flyer Content for Marketing Campaign with Firefly
 description: Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express localized content from a global hotel marketing campaign
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13756
 ---
 # Create flyer content for marketing campaign with Firefly

@@ -3,7 +3,7 @@ title: Jumpstart Creative Ideation
 description: Learn how to get a head start on developing creative content for a marketing campaign
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13952
 ---
 # Jumpstart creative ideation
