@@ -7,6 +7,7 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
+auto-video-transcripts: true
 ---
 
 # Creative Cloud for enterprise tutorials {#cce-learning-hub}
