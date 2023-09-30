@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-14000
+exl-id: 49206474-7e53-446b-be2c-8445ee1df0f4
 ---
 # Empower marketing teams to create multi-channel content
 

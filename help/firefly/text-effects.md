@@ -5,6 +5,7 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
 ---
 # Text Effects
 

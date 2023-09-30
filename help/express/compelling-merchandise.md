@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13999
+exl-id: caafeb4c-7948-4a96-975d-c1f0d40dd96c
 ---
 # Create compelling merchandising content
 

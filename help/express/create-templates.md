@@ -4,7 +4,7 @@ description: Learn how to use the same project layout again
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 64d758ab-85ef-46fa-865d-1f18d2fb4c6f
+exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
 ---
 # Create templates
 

@@ -4,7 +4,7 @@ description: Learn how to add multiple pages to your project
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: ae4151ea-6306-42c0-b885-6a970017f017
+exl-id: 248ed0f4-383a-4e08-9854-37a8e2cad878
 ---
 # Create multiple pages
 

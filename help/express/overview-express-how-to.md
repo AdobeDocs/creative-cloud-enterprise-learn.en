@@ -5,6 +5,7 @@ feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner
 jira: KT-13994
+exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
 ---
 # Adobe [!DNL Express] how-to tutorials
 

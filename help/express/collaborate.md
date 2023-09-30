@@ -4,7 +4,7 @@ description: Learn how to invite your team to work on the same project
 feature: Collaboration
 role: User
 level: Beginner
-exl-id: 29f137a4-d322-4d36-ad56-dd9265e88809
+exl-id: 314d3e32-5e7f-4557-9439-e12ec9986256
 ---
 # Invite project collaborators
 

@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13528
+exl-id: 82dcb3aa-beb0-4ca1-8696-9897f86163c6
 ---
 # Overview of Adobe Firefly
 

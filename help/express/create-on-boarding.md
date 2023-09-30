@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13755
+exl-id: 58a1416f-7546-48db-93c0-825983af41b3
 ---
 # Create recruiting and on-boarding content with Firefly
 

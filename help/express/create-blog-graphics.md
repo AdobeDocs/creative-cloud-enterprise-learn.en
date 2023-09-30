@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13744
+exl-id: 36758179-0f46-4fea-9ff5-dae7ec3e8a58
 ---
 # Create graphic content for blogs with Firefly
 

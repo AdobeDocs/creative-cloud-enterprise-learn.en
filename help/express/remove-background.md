@@ -4,7 +4,7 @@ description: Learn how to remove the background from your pictures
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: cc8f9193-a9a9-4b77-992a-a0abc4cb8b85
+exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
 ---
 # Remove background
 

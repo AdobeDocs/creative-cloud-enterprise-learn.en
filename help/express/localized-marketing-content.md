@@ -1,10 +1,11 @@
 ---
-title: Empower Distributed Teams to Localize Content 
+title: Empower Distributed Teams to Localize Content
 description: Learn how distributed field marketing teams can easily customize content to their region for local marketing campaigns
 feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13991
+exl-id: c4c1b822-18d7-42b2-a8fe-ecf2ba32a4f4
 ---
 # Empower distributed teams to localize content
 

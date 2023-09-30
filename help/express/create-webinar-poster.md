@@ -4,6 +4,7 @@ description: Learn how to use Text to Image, powered by Adobe Firefly, in Adobe 
 feature: Image Editing, Gen AI
 level: Intermediate
 jira: KT-13525
+exl-id: ce793645-c186-48a3-96c8-3bd4c1f1fb7c
 ---
 # Create webinar posters with Firefly
 

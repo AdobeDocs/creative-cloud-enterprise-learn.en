@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13952
+exl-id: 52c1bc15-6591-4117-958d-9f211f08d23d
 ---
 # Jumpstart creative ideation
 

@@ -5,6 +5,7 @@ feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
 jira: KT-13995
+exl-id: 0608deaf-21d2-4833-9552-b4f4d963ce90
 ---
 # Adobe [!DNL Express] use case tutorials
 

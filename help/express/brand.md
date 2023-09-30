@@ -4,7 +4,7 @@ description: Learn how to add your logo and brand color to any template
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 21bbcd5a-a762-4169-a944-d8f1252699b9
+exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
 ---
 # Apply your brand
 

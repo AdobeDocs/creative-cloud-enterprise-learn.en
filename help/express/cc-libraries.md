@@ -4,7 +4,7 @@ description: Learn how to share CC Library assets with your team
 feature: Integrations
 role: User
 level: Beginner
-exl-id: 5dc5037c-2aee-4e12-80ad-27252e1b1551
+exl-id: 3facbfa1-14d2-4dd8-ba38-f53fdc7c7c57
 ---
 # Use CC Libraries
 

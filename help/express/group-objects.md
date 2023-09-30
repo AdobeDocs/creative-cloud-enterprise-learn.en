@@ -4,7 +4,7 @@ description: Learn how to resize text and images
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 616230fc-756e-4d0e-8224-ad091a3144bc
+exl-id: 099a4d15-a95c-4589-963f-1f63d05e2de1
 ---
 # Group objects
 

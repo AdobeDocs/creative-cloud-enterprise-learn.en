@@ -4,7 +4,7 @@ description: Express yourself by learning how to create your first design
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 2820c674-3175-4b91-a5d6-c9b00441e666
+exl-id: d71469a3-7bbe-4205-9450-a17e70f2e236
 ---
 # Adobe Express for beginners
 

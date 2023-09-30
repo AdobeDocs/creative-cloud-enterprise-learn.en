@@ -4,7 +4,7 @@ description: Learn how to brighten and darken images
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: 6203686b-bc7c-4140-8107-26843753245e
+exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
 ---
 # Use image effects
 

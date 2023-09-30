@@ -4,7 +4,7 @@ description: Learn how to customize Instagram stickers and posts
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: fbbc0591-c29b-4222-8d11-c95c600d4f62
+exl-id: a432839d-443c-4ae9-9d71-f8c6883151cd
 ---
 # Add design assets 
 

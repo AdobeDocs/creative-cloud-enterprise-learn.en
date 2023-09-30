@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13527
+exl-id: 3d633d50-d383-45ab-989e-9f9187012691
 ---
 # Generative Recolor in Illustrator
 

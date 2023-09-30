@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13756
+exl-id: d0753867-1e68-44d0-9dfb-33abbedd7a04
 ---
 # Create flyer content for marketing campaign with Firefly
 

@@ -4,7 +4,7 @@ description: Learn the basics of Adobe Express
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 8d532b2e-4eab-4c73-9ad6-30776904d59b
+exl-id: e348f971-0dee-4282-860b-f33c2a05cd47
 ---
 # Get started with Adobe Express
 

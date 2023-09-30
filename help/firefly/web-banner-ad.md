@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13468
+exl-id: 52190b7b-fe67-413f-be4e-8b3afb6a322d
 ---
 # Banner ad variations in Photoshop
 
