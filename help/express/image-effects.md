@@ -10,4 +10,4 @@ exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
 
 Learn how to add effects and adjustments to a photo.
 
->[!VIDEO](https://video.tv.adobe.com/v/34423770?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
