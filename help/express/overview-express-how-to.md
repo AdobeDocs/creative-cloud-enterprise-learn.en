@@ -99,21 +99,21 @@ Get started creating amazing work that stands out with generative AI powered by 
       </a>
   </td>
   <td>
-      <a href="text-effects.md">
-         <img alt="Use text effects" src="assets/text-effects.png" />
+      <a href="image-effects.md">
+         <img alt="Use image effects" src="assets/image-effects.png" />
       </a>
   </td>
 </tr>
 <tr>
   <td>
-      <a href="image-effects.md">
-         <img alt="Use image effects" src="assets/image-effects.png" />
-      </a>
-  </td>
-  <td>
          <a href="create-curved-text.md">
             <img alt="Create curved text" src="assets/curved-text.png" />
          </a>
+   </td>
+  <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
    <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
