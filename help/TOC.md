@@ -46,10 +46,10 @@ auto-video-transcripts: true
     + [Use CC Libraries](express/cc-libraries.md)
     + [Apply your brand](express/brand.md)
     + [Google Drive integration](express/google-drive.md)
-    + [Remove background](express/remove-background.md)
+    + [How to remove a background from a photo in one click](express/remove-background.md)
     + [Refine a cutout](express/refine-cutout.md)
     + [Use text effects](express/text-effects.md)
-    + [Use image effects](express/image-effects.md)
+    + [How to add effects and adjustments to a photo](express/image-effects.md)
     + [Create curved text](express/create-curved-text.md)
   + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
