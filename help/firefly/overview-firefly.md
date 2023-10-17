@@ -58,31 +58,31 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       </a>
    </td>
    <td>
+      <a href="enable-creative-efficiency.md">
+         <img alt="Enable creative efficiency" src="assets/enable-creative-efficiency.png" />
+      </a>
+   </td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Generative Fill in Photoshop" src="assets/generative-fill.png" />
       </a>
    </td>
-   <td>
+  <td>
       <a href="web-banner-ad.md">
          <img alt="Banner ad variations in Photoshop" src="assets/banner-ad-variations.png" />
-      </a>
-  </td>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Text Effects" src="assets/text-effects.png" />
       </a>
   </td>
 </tr>
 <tr>
 <td>
-      <a href="generative-recolor.md">
-         <img alt="Generative Recolor in Illustrator" src="assets/firefly-recolor.png" />
+      <a href="text-effects.md">
+         <img alt="Text Effects" src="assets/text-effects.png" />
       </a>
   </td>
 <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Generative Recolor in Illustrator" src="assets/firefly-recolor.png" />
+      </a>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
