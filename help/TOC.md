@@ -61,12 +61,13 @@ auto-video-transcripts: true
     + [Create flyer content for marketing campaign with Firefly](express/create-local-marketing.md)
     + [Create recruiting and on-boarding content with Firefly](express/create-on-boarding.md)
     + [Create social posters with Firefly](express/create-social-posters.md)
-    + [Create graphic content for blogs with Firefly](express/create-blog-graphics.md)
+    + [Easily run social campaigns](express/create-blog-graphics.md)
     + [Create webinar posters with Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [Overview](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
     + [Overview of Adobe Firefly](firefly/overview-of-firefly.md)
+    + [Enable creative efficiency](firefly/enable-creative-efficiency.md)
     + [Banner ad variations in [!DNL Photoshop]](firefly/web-banner-ad.md)
     + [Generative Fill in [!DNL Photoshop]](firefly/generative-fill.md)
     + [Text Effects](firefly/text-effects.md)
