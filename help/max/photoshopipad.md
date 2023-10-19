@@ -8,8 +8,6 @@ exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 ---
 # Photoshop on iPad
 
-![Tutorial Hero Image](../assets/PSoniPad.jpg)
-
 Photoshop is the world's best imaging and graphic design software, allowing unlimited creativity for professionals across devices. Now anyone can create anything they imagine, anywhere inspiration strikes. If you can think it, you can make it with Photoshop.
 
 ## Browse Product Tutorials

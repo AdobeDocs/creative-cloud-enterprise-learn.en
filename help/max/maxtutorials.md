@@ -8,8 +8,6 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 ---
 # Tutorials
 
-![Max 2020 Hero Image](../assets/MAX.jpg)
-
 As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective. 
 
 ## Tutorials by Desktop Products
