@@ -8,8 +8,6 @@ exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 ---
 # [!DNL Rush]
 
-![Tutorial Hero Image](../assets/Rush.jpg)
-
 Premiere [!DNL Rush] is the first all-in-one, cross-device video editing app that makes creating and sharing online content easier than ever. This integrated desktop and mobile solution automatically syncs your projects and edits to the cloud — allowing you to work anywhere, on any device.
 
 ## Browse Product Tutorials

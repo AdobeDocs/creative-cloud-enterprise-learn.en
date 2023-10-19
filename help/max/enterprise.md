@@ -8,8 +8,6 @@ exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 ---
 # Enterprise Administration
 
-![Tutorial Hero Image](../assets/hero_cce.jpg)
-
 Manage Adobe entitlements and assets across your entire organization.
 
 ## Browse Enterprise Administration Tutorials

@@ -9,8 +9,6 @@ exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
 ---
 # Adobe [!DNL Firefly] overview
 
-![Firefly Hero Image](../assets/firefly.png)
-
 Firefly is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation. Firefly offers new ways to ideate, create, and communicate while significantly improving creative workflows.
 
 <br>&nbsp;

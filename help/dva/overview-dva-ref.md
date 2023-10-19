@@ -8,8 +8,6 @@ exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
 ---
 # Video quick reference guides
 
-![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
-
 Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more. Select an image to download or view a PDF of the quick reference guide.
 
 ## Adobe Audition

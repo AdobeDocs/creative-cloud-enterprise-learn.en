@@ -8,8 +8,6 @@ exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 ---
 # CC Libraries
 
-![Tutorial Hero Image](../assets/CCLibs.jpg)
-
 Keep your assets on hand and your projects on brand.
 
 ## Browse Product Tutorials

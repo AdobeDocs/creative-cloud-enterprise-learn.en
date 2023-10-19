@@ -8,8 +8,6 @@ exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 ---
 # MAX 2020 — the Enterprise Sessions
 
-![Max 2020 Hero Image](../assets/MAX2020.jpg)
-
 As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective. 
 
 ## Operate at Scale—Leverage the power of AEM Assets and InDesign Server (26:54)

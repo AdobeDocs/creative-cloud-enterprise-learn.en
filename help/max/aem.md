@@ -8,8 +8,6 @@ exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 ---
 # AEM Assets and Asset Link
 
-![Tutorial Hero Image](../assets/AEM.jpg)
-
 Adobe Experience Manager is the industry-leading digital experience management solution for enterprises and midsize organizations. It provides a modern, scalable foundation to deliver compelling experiences that promote brand engagement, drive demand and increase customer loyalty. Experience Manager includes a complete set of tools to create, manage and deliver digital experiences across all channels.
 
 ## Browse Product Tutorials

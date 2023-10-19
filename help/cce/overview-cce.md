@@ -9,8 +9,6 @@ exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 ---
 # Creative Cloud for enterprise tutorials
 
-![Creative Cloud Hero Image](../assets/CCEbanner.png)
-
 As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials help you learn new features in Creative Cloud—-from an enterprise perspective.
 
 ## Click to view a product tutorial (listed in alphabetical order)

@@ -9,8 +9,6 @@ exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 ---
 # Adobe [!DNL Stock] tutorials
 
-![Creative Cloud Hero Image](../assets/Stock.jpg)
-
 Creatives are under pressure to quickly deliver engaging visual content. Adobe Stock gives creative teams access to more than 300 million royalty-free images, videos, audio files, templates, illustrations and 3D assets –inside the Creative Cloud apps they use every day. Get unlimited access to Adobe Stock standard assets with Creative Cloud Pro Edition. Explore the latest collections at stock.adobe.com. Select an image to view a tutorial.
 
 <table>

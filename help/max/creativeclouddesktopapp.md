@@ -8,8 +8,6 @@ exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 ---
 # Creative Cloud Desktop App
 
-![Tutorial Hero Image](../assets/CCDA.jpg)
-
 The Creative Cloud desktop app is your hub for managing CC apps, services, and collaboration—and more!
 
 ## Browse Product Tutorials

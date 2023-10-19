@@ -8,8 +8,6 @@ exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 ---
 # Photoshop
 
-![Tutorial Hero Image](../assets/Photoshop.jpg)
-
 Photoshop is the world's best imaging and graphic design software, allowing unlimited creativity for professionals across devices. Now anyone can create anything they imagine, anywhere inspiration strikes. If you can think it, you can make it with Photoshop.
 
 ## Browse Product Tutorials

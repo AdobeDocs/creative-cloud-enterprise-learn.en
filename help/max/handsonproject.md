@@ -8,8 +8,6 @@ exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 ---
 # Design to Print Plug-in–Customize a Face Mask
 
-![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
-
 Wouldn't it be cool if you could customize a face mask with your own artwork? With the Adobe Design to Print plug-in, you can visualize your designs on hundreds of Zazzle products, and publish directly to their online marketplace. 
 
 ## Browse Facemask Project Tutorials

@@ -8,8 +8,6 @@ exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
 ---
 # [!DNL Dimension]
 
-![Tutorial Hero Image](../assets/Dimenio.jpg)
-
 Create engaging content in 3D faster with high-quality models, materials, and lighting. [!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work.
 
 ## Browse Product Tutorials

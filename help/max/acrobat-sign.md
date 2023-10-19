@@ -8,8 +8,6 @@ exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 ---
 # Acrobat & Sign
 
-![Tutorial Hero Image](../assets/DC.jpg)
-
 With Adobe Document Cloud — which includes the world's leading PDF and electronic signature solutions — you can turn manual document processes into efficient digital ones. Now your team can take quick action on documents, workflows, and tasks — across multiple screens and devices — anywhere, any time, and inside your favorite Microsoft and enterprise apps.
 
 ## Browse Product Tutorials
