@@ -10,7 +10,7 @@ type: Tutorial
 auto-video-transcripts: true
 ---
 
-# Creative Cloud for enterprise tutorials {#cce-learning-hub}
+# Creative Cloud for Enterprise Tutorials {#cce-learning-hub}
 
 + [Overview](overview.md)
 + Creative Cloud for enterprise {#cceoverview}

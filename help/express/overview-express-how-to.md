@@ -9,8 +9,6 @@ exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
 ---
 # Adobe [!DNL Express] how-to tutorials
 
-![Express Hero Image](../assets/Express.png)
-
 Get started creating amazing work that stands out with generative AI powered by Adobe Firefly. Design flyers, TikToks, resumes, and Reels with Adobe Express.
 
 ## Adobe Express how-to tutorials

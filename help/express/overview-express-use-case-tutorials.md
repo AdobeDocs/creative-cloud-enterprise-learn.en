@@ -9,8 +9,6 @@ exl-id: 0608deaf-21d2-4833-9552-b4f4d963ce90
 ---
 # Adobe [!DNL Express] use case tutorials
 
-![Express Hero Image](../assets/Express.png)
-
 Discover how different teams within your organization can benefit from Adobe Express.
 
 ## What's new

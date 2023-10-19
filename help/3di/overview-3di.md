@@ -9,8 +9,6 @@ exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
 ---
 # Adobe 3D & VR tutorials
 
-![Creative Cloud Hero Image](../assets/Dimenio.jpg)
-
 Create engaging content in 3D faster with high-quality models, materials, and lighting. [!DNL Dimension] makes it easy to build brand visualizations, illustrations, product mockups, packaging designs, and other creative work. Select an image to view a tutorial.
 
 <table>

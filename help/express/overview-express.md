@@ -9,8 +9,6 @@ exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
 ---
 # Adobe [!DNL Express] overview
 
-![Express Hero Image](../assets/Express.png)
-
 Adobe Express is an easy-to-use creative tool, with no experience required. 
 
 ## Learning paths

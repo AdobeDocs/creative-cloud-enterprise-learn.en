@@ -9,8 +9,6 @@ exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 ---
 # Creative Cloud for enterprise quick reference guides
 
-![Creative Cloud Hero Image](../assets/CCEbanner.png)
-
 As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These quick reference guides (PDF) help you learn new features in Creative Cloud.
 
 ## Adobe Express (formerly Adobe Spark)

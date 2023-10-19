@@ -8,8 +8,6 @@ exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
 ---
 # Creative Cloud for enterprise tutorials
 
-![Creative Cloud Hero Image](assets/hero_cce.jpg)
-
 Welcome to the Creative Cloud for enterprise learning hub. Here you can find a wide range of learning experiences focused on Creative Cloud for enterprise. Our tutorials, webinars, and use cases are designed to quickly bring both beginners and administrators up-to-speed on the Creative Cloud for enterprise products.
 
 ## Browse topics

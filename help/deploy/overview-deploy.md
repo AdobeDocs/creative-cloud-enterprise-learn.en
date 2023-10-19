@@ -8,8 +8,6 @@ exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
 ---
 # Creative Cloud for enterprise deploy & manage topics
 
-![Creative Cloud Hero Image](../assets/CCEbanner.png)
-
 Creative Cloud for enterprise supports custom deployments and flexible license true-ups, and it works with other Adobe enterprise offerings.
 
 * [Understanding Creative Cloud for enterprise and Acrobat Serial Number Expiration](cceserial.md)
