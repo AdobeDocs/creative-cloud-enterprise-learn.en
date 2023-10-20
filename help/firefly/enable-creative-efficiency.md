@@ -8,7 +8,7 @@ jira: KT-14193
 ---
 # Enable creative efficiency
 
-Learn how to accelerate content creation with generative AI-powered tools in Adobe Photoshop and Illustrator. This tutorial uses Adobe Ilustrator Prerelease.
+Learn how to accelerate content creation with generative AI-powered tools in Adobe Photoshop and Illustrator. This tutorial uses Adobe Illustrator Prerelease.
 
 <br>&nbsp;
 
