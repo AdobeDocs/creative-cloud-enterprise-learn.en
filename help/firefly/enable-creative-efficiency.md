@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI, Vector Editing
 role: User
 level: Beginner
 jira: KT-14193
+exl-id: f2ef46a2-996e-4c9c-87bc-c65691c95199
 ---
 # Enable creative efficiency
 
