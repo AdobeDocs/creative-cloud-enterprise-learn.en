@@ -1,13 +1,14 @@
 ---
-title: Get Started with Adobe Express
-description: Learn the basics of Adobe Express
+title: What's on the Home Page
+description: Explore the Home page so you can easily navigate around the app
 feature: Graphic Design
 role: User
 level: Beginner
+jira: KT-13408
 exl-id: e348f971-0dee-4282-860b-f33c2a05cd47
 ---
-# Get started with Adobe Express
+# What's on the Home page
 
-Learn the basics of Adobe Express.
+Explore the Home page so you can easily navigate around the app.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)

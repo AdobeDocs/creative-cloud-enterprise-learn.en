@@ -33,7 +33,9 @@ auto-video-transcripts: true
   + [Overview](express/overview-express.md)
   + How-to tutorials {#expresshowto}
     + [Overview](express/overview-express-how-to.md)
-    + [Get started with Adobe Express](express/get-started.md)
+    + [What's on the Home Page](express/get-started.md)
+    + [Introduction to Quick actions](express/quick-actions.md)
+    + [Introduction to templates](express/introduction-templates.md)
     + [Schedule social posts](express/schedule.md)
     + [Invite project collaborators](express/collaborate.md)
     + [Get quick inspiration](express/get-inspiration.md)

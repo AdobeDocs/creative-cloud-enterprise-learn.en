@@ -38,6 +38,6 @@ Adobe Express is an easy-to-use creative tool, with no experience required.
 </tr>
 </table>
 
-## Create your first design with Adobe Express
+## What is Adobe Express?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
