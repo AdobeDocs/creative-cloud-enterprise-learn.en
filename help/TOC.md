@@ -62,7 +62,6 @@ auto-video-transcripts: true
     + [Empower marketing teams to create multi-channel content](express/multi-channel-marketing-content.md)
     + [Empower distributed teams to localize content](express/localized-marketing-content.md)
     + [Jumpstart creative ideation](express/jumpstart-ideation.md)
-    + [Adobe Express for beginners](express/adobe-express-beginners.md)
     + [Create flyer content for marketing campaign with Firefly](express/create-local-marketing.md)
     + [Create recruiting and on-boarding content with Firefly](express/create-on-boarding.md)
     + [Create social posters with Firefly](express/create-social-posters.md)
