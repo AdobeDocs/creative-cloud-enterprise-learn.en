@@ -1,13 +1,14 @@
 ---
-title: Apply your Brand
-description: Learn how to add your logo and brand color to any template
+title: Setting up a Brand Kit
+description: Learn how to create a collection of brand assets for your business or personal projects
 feature: Graphic Design
 role: User
 level: Beginner
+jira: KT-13417
 exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
 ---
-# Apply your brand
+# Setting up a brand kit
 
-Learn how to add your logo and brand color to any template.
+Learn how to create a collection of brand assets to create consistent and professional designs for your business or personal projects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
