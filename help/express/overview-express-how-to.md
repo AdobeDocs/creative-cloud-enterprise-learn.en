@@ -27,14 +27,46 @@ Get started creating amazing work that stands out with generative AI powered by 
       <a href="introduction-templates.md">
          <img alt="Introduction to Quick actions" src="assets/introduction-templates.png" />
       </a>
- </td>
+ </td>     
  <td>
-      <a href="schedule.md">
-         <img alt="Schedule social posts" src="assets/schedule.png" />
+      <a href="brand.md">
+         <img alt="Setting up a brand kit" src="assets/brand.png" />
       </a>
   </td>
 </tr>
 <tr>
+   <td>
+      <a href="new-project.md">
+         <img alt="Starting a project" src="assets/starting-a-project.png" />
+      </a>
+  </td>
+   <td>
+      <a href="workspace.md">
+         <img alt="UX of a project" src="assets/workspace.png" />
+      </a>
+  </td>
+  <td>
+      <a href="text-effects.md">
+         <img alt="How to add text" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
+      <a href="image-effects.md">
+         <img alt="How to add an image" src="assets/image-effects.png" />
+      </a>
+  </td>
+</tr>
+<tr>
+   <td>
+      <a href="add-gen-ai-image.md">
+         <img alt="How to add a Gen AI image" src="assets/gen-ai-image.png" />
+      </a>
+  </td>
+  <td>
+      <a href="schedule.md">
+         <img alt="Schedule social posts" src="assets/schedule.png" />
+      </a>
+  </td>
   <td>
    <a href="collaborate.md">
       <img alt="Invite project collaborators" src="assets/collaborate.png" />
@@ -45,7 +77,9 @@ Get started creating amazing work that stands out with generative AI powered by 
          <img alt="Get quick inspiration" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="Create templates" src="assets/templates.png" />
    </a>
@@ -55,8 +89,6 @@ Get started creating amazing work that stands out with generative AI powered by 
             <img alt="Add design assets" src="assets/design-assets.png" />
          </a>
  </td>
-</tr>
-<tr>
   <td>
          <a href="group-objects.md">
             <img alt="Group objects" src="assets/group-objects.png" />
@@ -67,7 +99,9 @@ Get started creating amazing work that stands out with generative AI powered by 
             <img alt="Select and move layers" src="assets/layers.png" />
          </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="multiple-pages.md">
          <img alt="Create multiple pages" src="assets/multiple-pages.png" />
       </a>
@@ -77,16 +111,9 @@ Get started creating amazing work that stands out with generative AI powered by 
          <img alt="Undo and redo" src="assets/undo-redo.png" />
       </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Use CC Libraries" src="assets/cc-libraries.png" />
-      </a>
-  </td>
-   <td>
-      <a href="brand.md">
-         <img alt="Apply your brand" src="assets/brand.png" />
       </a>
   </td>
    <td>
@@ -94,29 +121,24 @@ Get started creating amazing work that stands out with generative AI powered by 
          <img alt="Google Drive integration" src="assets/google-drive.png" />
       </a>
   </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="Remove background" src="assets/background.png" />
-      </a>
-  </td>
-  </tr>
+</tr>
 <tr>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Use text effects" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="Use image effects" src="assets/image-effects.png" />
-      </a>
-  </td>
+   <td>
+         <a href="remove-background.md">
+            <img alt="Remove background" src="assets/background.png" />
+         </a>
+   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Create curved text" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
       <br>
