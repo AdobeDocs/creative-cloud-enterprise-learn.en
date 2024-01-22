@@ -62,50 +62,68 @@ Get started creating amazing work that stands out with generative AI powered by 
          <img alt="How to add a Gen AI image" src="assets/gen-ai-image.png" />
       </a>
   </td>
+ <td>
+      <a href="grids.md">
+         <img alt="How to use grids" src="assets/grids.png" />
+      </a>
+  </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="How to use elements" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="Working with layers & artboards" src="assets/layers.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+   <a href="collaborate.md">
+      <img alt="How to collaborate" src="assets/collaborate.png" />
+   </a>
+  </td>
+  <td>
+   <a href="share.md">
+      <img alt="How to share & download" src="assets/share.png" />
+   </a>
+  </td>
+  <td>
+   <a href="version-history.md">
+      <img alt="How to use version history" src="assets/version-history.png" />
+   </a>
+  </td>
   <td>
       <a href="schedule.md">
          <img alt="Schedule social posts" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
-   <a href="collaborate.md">
-      <img alt="Invite project collaborators" src="assets/collaborate.png" />
-   </a>
-  </td>
+</tr>
+<tr>
   <td>
       <a href="get-inspiration.md">
          <img alt="Get quick inspiration" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
    <a href="create-templates.md">
       <img alt="Create templates" src="assets/templates.png" />
    </a>
   </td>
- <td>
-         <a href="add-design-assets.md">
-            <img alt="Add design assets" src="assets/design-assets.png" />
-         </a>
- </td>
+
   <td>
          <a href="group-objects.md">
             <img alt="Group objects" src="assets/group-objects.png" />
          </a>
    </td>
-  <td>
-         <a href="layers.md">
-            <img alt="Select and move layers" src="assets/layers.png" />
-         </a>
-   </td>
-</tr>
-<tr>
    <td>
       <a href="multiple-pages.md">
          <img alt="Create multiple pages" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="Undo and redo" src="assets/undo-redo.png" />
@@ -121,19 +139,24 @@ Get started creating amazing work that stands out with generative AI powered by 
          <img alt="Google Drive integration" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
          <a href="remove-background.md">
             <img alt="Remove background" src="assets/background.png" />
          </a>
    </td>
+</tr>
+<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="Create curved text" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
       <br>
