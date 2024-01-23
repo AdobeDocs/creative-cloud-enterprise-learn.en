@@ -147,12 +147,12 @@ Get started creating amazing work that stands out with generative AI powered by 
    </td>
    <td>
          <a href="tweak-animation.md">
-            <img alt="Tweaking the settings of your animations" src="assets/tweak-animation.png" />
+            <img alt="Tweaking the settings of your animations" src="assets/tweaking-settings.png" />
          </a>
    </td>
    <td>
          <a href="animation-timeline.md">
-            <img alt="What is the animation timeline?" src="assets/animation-timeline.png" />
+            <img alt="What is the animation timeline?" src="assets/what-is-animation-timeline.png" />
          </a>
    </td>
 </tr>
