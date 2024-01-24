@@ -163,7 +163,7 @@ Get started creating amazing work that stands out with generative AI powered by 
          </a>
    </td>
    <td>
-         <a href="add-sections-animations.md">
+         <a href="add-sections-animation.md">
             <img alt="Adding sections to your animation" src="assets/add-sections.png" />
          </a>
    </td>
@@ -173,7 +173,7 @@ Get started creating amazing work that stands out with generative AI powered by 
          </a>
    </td>
    <td>
-         <a href="resize-automations.md">
+         <a href="resize-animations.md">
             <img alt="How to resize your animations" src="assets/resize-animations.png" />
          </a>
    </td>
