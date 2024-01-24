@@ -181,7 +181,7 @@ Get started creating amazing work that stands out with generative AI powered by 
 <tr>
    <td>
          <a href="export-animations.md">
-            <img alt="Exporting your animations" src="assets/export-animations.png" />
+            <img alt="Exporting your animations" src="assets/exporting-animations.png" />
          </a>
    </td>
    <td>
