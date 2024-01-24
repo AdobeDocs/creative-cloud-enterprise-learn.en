@@ -142,7 +142,7 @@ Get started creating amazing work that stands out with generative AI powered by 
    </td>
   <td>
          <a href="different-types-animation.md">
-            <img alt="Different types of animation" src="assets/different-animations.png" />
+            <img alt="Different types of animations" src="assets/different-animations.png" />
          </a>
    </td>
    <td>
@@ -154,6 +154,50 @@ Get started creating amazing work that stands out with generative AI powered by 
          <a href="animation-timeline.md">
             <img alt="What is the animation timeline?" src="assets/what-is-animation-timeline.png" />
          </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="stagger-animations.md">
+            <img alt="How to stagger your animations" src="assets/stagger-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-sections-animations.md">
+            <img alt="Adding sections to your animation" src="assets/add-sections.png" />
+         </a>
+   </td>
+   <td>
+         <a href="audio-animation.md">
+            <img alt="Adding audio to your animations" src="assets/add-audio.png" />
+         </a>
+   </td>
+   <td>
+         <a href="resize-automations.md">
+            <img alt="How to resize your animations" src="assets/resize-animations.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-animations.md">
+            <img alt="Exporting your animations" src="assets/export-animations.png" />
+         </a>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>
