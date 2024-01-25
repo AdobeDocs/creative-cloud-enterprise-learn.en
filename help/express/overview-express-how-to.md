@@ -38,7 +38,7 @@ Get started creating amazing work that stands out with generative AI powered by 
 </tr>
 </table>
 
-## Basics
+## Basic tasks
 
 <table style="table-layout:fixed">
 <tr>
