@@ -63,7 +63,7 @@ auto-video-transcripts: true
     + [What are the new Gen AI features in Adobe Express?](express/intro-gen-ai.md)
     + [How to use the object eraser tool](express/object-eraser.md)
     + [How to use Generative Fill](express/generative-fill.md)
-    + [Improving your text design with Gen AI](express/gen-text-fill.md)
+    + [Improving your text design with Gen AI](express/gen-text.md)
     + [How to use Text-to-template Gen AI](express/text-to-template.md)
     + [How to bulk translate your content](express/bulk-translate.md)
     + [How to edit a PDF](express/edit-a-pdf.md)
