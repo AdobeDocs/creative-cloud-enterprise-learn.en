@@ -235,7 +235,7 @@ Get started creating amazing work that stands out with generative AI powered by 
    </td>
    <td>
       <a href="text-to-template.md">
-         <img alt="How to use Text-to-template Gen AI" src="assets/text-design.png" />
+         <img alt="How to use Text-to-template Gen AI" src="assets/text-to-template.png" />
       </a>
    </td>
    <td>
