@@ -288,7 +288,7 @@ Get started creating amazing work that stands out with generative AI powered by 
          </a>
    </td>
    <td>
-    <img alt="Spacer" src="../assets/Gray-thumbnail.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
