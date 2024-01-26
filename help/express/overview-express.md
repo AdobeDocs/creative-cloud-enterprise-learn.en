@@ -47,17 +47,17 @@ Design Reels and TikTok videos, flyers, resumes, banners, logos, and more with t
       </a>
    </td>
    <td>
-    <img alt="Spacer" src="../assets/Gray-thumbnail.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray-thumbnail.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray-thumbnail.png />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png />
     <div>
     <br>
   </td>
