@@ -23,24 +23,24 @@ Design Reels and TikTok videos, flyers, resumes, banners, logos, and more with t
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?#getting-started">
          <img alt="Getting started tutorials" src="assets/get-started.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#basic-tasks">
          <img alt="Basic tasks tutorials" src="assets/basic-tasks.png" />
       </a>
-  </td>
-<td>
+   </td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#animation">
          <img alt="Animation tutorials" src="assets/animation.png" />
       </a>
   </td>
-<td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#advanced-tasks">
          <img alt="Animation tutorials" src="assets/advanced-tasks.png" />
       </a>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
       <a href="overview-express-use-case-tutorials.md">
          <img alt="Adobe Express-use-case tutorials" src="assets/use-case-tutorials.png" />
@@ -57,7 +57,7 @@ Design Reels and TikTok videos, flyers, resumes, banners, logos, and more with t
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
