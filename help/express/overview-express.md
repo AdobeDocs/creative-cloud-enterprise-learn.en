@@ -29,14 +29,14 @@ Design Reels and TikTok videos, flyers, resumes, banners, logos, and more with t
          <img alt="Basic tasks tutorials" src="assets/basic-tasks.png" />
       </a>
   </td>
-   <td>
+<td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#animation">
-         <img alt="Animation tutorials" src="assets/advanced-tasks.png" />
+         <img alt="Animation tutorials" src="assets/animation.png" />
       </a>
   </td>
-  <td>
+<td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#advanced-tasks">
-         <img alt="Animation tutorials" src="assets/animation.png" />
+         <img alt="Animation tutorials" src="assets/advanced-tasks.png" />
       </a>
   </td>
   </tr>
@@ -47,17 +47,17 @@ Design Reels and TikTok videos, flyers, resumes, banners, logos, and more with t
       </a>
    </td>
    <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray-thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray-thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray-thumbnail.png />
     <div>
     <br>
   </td>
