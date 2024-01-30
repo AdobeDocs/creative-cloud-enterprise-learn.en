@@ -78,6 +78,7 @@ auto-video-transcripts: true
     + [How to start a video project](express/start-video.md)
     + [How to add video clips](express/add-video-clips.md)
     + [What's a video timeline?](express/video-timeline.md)
+    + [Working with multiple clips](express/multiple-clips.md)
     + [How to add audio](express/add-audio-video.md)
     + [How to export video](express/export-video.md)
   + Use case tutorials {#expressusecase}

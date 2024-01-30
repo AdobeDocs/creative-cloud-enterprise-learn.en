@@ -315,21 +315,21 @@ Get started creating amazing work that stands out with generative AI powered by 
          </a>
    </td>
    <td>
-         <a href="add-audio-video.md">
-            <img alt="How to add audio" src="assets/add-audio-video.png" />
+         <a href="multiple-clips.md">
+            <img alt="Working with multiple clips" src="assets/multiple-clips.png" />
          </a>
    </td>
 </tr>
 <tr>
-   <td>
+  <td>
+         <a href="add-audio-video.md">
+            <img alt="How to add audio" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+    <td>
          <a href="export-video.md">
             <img alt="How to export video" src="assets/export-video.png" />
          </a>
-   </td>
-   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
    </td>
    <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
