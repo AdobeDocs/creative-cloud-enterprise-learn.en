@@ -3,7 +3,7 @@ title: Adobe [!DNL Express] Overview
 description: Get up-to-speed on Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
 ---
