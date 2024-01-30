@@ -3,7 +3,7 @@ title: Improving your Text Design with Gen AI
 description: Learn how to create impactful designs using text effects powered by Adobe Firefly
 feature: Gen AI, Graphic Design
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14847
 ---
 # Improving your text design with Gen AI

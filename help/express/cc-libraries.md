@@ -3,7 +3,7 @@ title: Use CC Libraries
 description: Learn how to share CC Library assets with your team
 feature: Integrations
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 3facbfa1-14d2-4dd8-ba38-f53fdc7c7c57
 ---
 # Use CC Libraries

@@ -3,7 +3,7 @@ title: Create Curved Text
 description: Learn how to create curved text in your project
 feature: Graphic Design
 role: User
-level: Beginner
+level: Intermeditate
 exl-id: 1f1b5f06-4321-4e69-9519-7804ed2be2be
 ---
 # Create curved text

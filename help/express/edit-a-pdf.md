@@ -2,7 +2,7 @@
 title: How to Edit a PDF
 description: Learn how to give your static, outdated PDFs a makeover by adding eye-catching text, images, brands, colors, animations, and more
 role: User
-level: Beginner
+level: Intermeditate
 jira: KT-14852
 ---
 # How to edit a PDF
