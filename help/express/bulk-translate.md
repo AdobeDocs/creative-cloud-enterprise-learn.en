@@ -3,7 +3,7 @@ title: How to Bulk Translate your Content
 description: Learn how to bulk translate your content in seconds
 feature: Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14851
 ---
 # How to bulk translate your content

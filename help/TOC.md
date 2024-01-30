@@ -75,6 +75,11 @@ auto-video-transcripts: true
     + [Google Drive integration](express/google-drive.md)
     + [Refine a cutout](express/refine-cutout.md)
     + [Create curved text](express/create-curved-text.md)
+    + [How to start a video project](express/start-video.md)
+    + [How to add video clips](express/add-video-clips.md)
+    + [What's a video timeline?](express/video-timeline.md)
+    + [How to add audio](express/add-audio-video.md)
+    + [How to export video](express/export-video.md)
   + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
     + [Create compelling merchandising content](express/compelling-merchandise.md)

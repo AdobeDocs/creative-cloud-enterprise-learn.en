@@ -3,7 +3,7 @@ title: Adobe [!DNL Express] How-to Tutorials
 description: Get up-to-speed on Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
-level: Beginner
+level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
 ---
@@ -283,14 +283,63 @@ Get started creating amazing work that stands out with generative AI powered by 
       </a>
   </td>
   <td>
+         <a href="refine-cutout.md">
+            <img alt="Refine a cutout" src="assets/cutouts.png" />
+         </a>
+   </td>
+   <td>
          <a href="create-curved-text.md">
             <img alt="Create curved text" src="assets/curved-text.png" />
+         </a>
+   </td>
+</tr>
+</table>
+
+## Video
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="How to start a video project" src="assets/start-video.png" />
+         </a>
+   </td>
+  <td>
+         <a href="add-video-clips.md">
+            <img alt="How to add video clips" src="assets/add-video-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="video-timeline.md">
+            <img alt="What's a video timeline?" src="assets/video-timeline.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="How to add audio" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-video.md">
+            <img alt="How to export video" src="assets/export-video.png" />
          </a>
    </td>
    <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
-  </td>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
 </tr>
 </table>

@@ -3,7 +3,7 @@ title: How to Use Text-to-Template Gen AI
 description: Learn how to generate editable templates from a text description within seconds
 feature: Gen AI, Graphic Design
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14848
 ---
 # How to use Text-to-template Gen AI
