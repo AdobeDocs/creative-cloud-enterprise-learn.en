@@ -86,6 +86,12 @@ auto-video-transcripts: true
     + [How to use templates](express/use-templates.md)
   + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
+    + [Creating a promo visual for an online learning course](express/promo-visual.md)
+    + [Creating an end-of-year video](express/end-of-year-video.md)
+    + [How to create a newsletter](express/newsletter.md)
+    + [Create digital screen announcements for the office](express/create-digital-screens.md)
+    + [Creating backgrounds for presentations](express/create-backgrounds.md)
+    + [Update finance round-up image](express/update-image.md)
     + [Create compelling merchandising content](express/compelling-merchandise.md)
     + [Empower marketing teams to create multi-channel content](express/multi-channel-marketing-content.md)
     + [Empower distributed teams to localize content](express/localized-marketing-content.md)
