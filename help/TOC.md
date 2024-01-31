@@ -81,6 +81,10 @@ auto-video-transcripts: true
     + [Working with multiple clips](express/multiple-clips.md)
     + [How to add audio](express/add-audio-video.md)
     + [How to export video](express/export-video.md)
+    + [How to and why lock layers](express/lock-layers.md)
+    + [Creating a template](express/create-templates.md)
+    + [Save & share templates](express/share-templates.md)
+    + [How to use templates](express/use-templates.md)
   + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
     + [Create compelling merchandising content](express/compelling-merchandise.md)

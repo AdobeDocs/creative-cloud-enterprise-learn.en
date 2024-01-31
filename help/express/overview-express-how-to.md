@@ -256,11 +256,6 @@ Get started creating amazing work that stands out with generative AI powered by 
       </a>
    </td>
    <td>
-   <a href="create-templates.md">
-      <img alt="Create templates" src="assets/templates.png" />
-   </a>
-   </td>
-   <td>
          <a href="group-objects.md">
             <img alt="Group objects" src="assets/group-objects.png" />
          </a>
@@ -270,13 +265,13 @@ Get started creating amazing work that stands out with generative AI powered by 
          <img alt="Create multiple pages" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Use CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="google-drive.md">
          <img alt="Google Drive integration" src="assets/google-drive.png" />
@@ -291,6 +286,11 @@ Get started creating amazing work that stands out with generative AI powered by 
          <a href="create-curved-text.md">
             <img alt="Create curved text" src="assets/curved-text.png" />
          </a>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
    </td>
 </tr>
 </table>
@@ -340,6 +340,33 @@ Get started creating amazing work that stands out with generative AI powered by 
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
+   </td>
+</tr>
+</table>
+
+## Templates
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="lock-layers.md">
+            <img alt="How to and why lock layers" src="assets/lock-layers.png" />
+         </a>
+   </td>
+  <td>
+         <a href="create-templates.md">
+            <img alt="Creating a template" src="assets/create-template.png" />
+         </a>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="Save & share templates" src="assets/share-templates.png" />
+         </a>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="How to use templates" src="assets/use-templates.png" />
+         </a>
    </td>
 </tr>
 </table>
