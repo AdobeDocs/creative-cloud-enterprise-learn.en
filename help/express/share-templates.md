@@ -3,7 +3,7 @@ title: Save & Share Templates
 description: Learn how to save and share templates to a brand kit or library for your team
 feature: Graphic Design
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-14886
 ---
 # Save & share templates
