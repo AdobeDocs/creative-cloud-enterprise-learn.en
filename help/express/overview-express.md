@@ -41,21 +41,21 @@ Design Reels and TikTok videos, flyers, resumes, banners, logos, and more with t
   </td>
 </tr>
 <tr>
-  <td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#video">
          <img alt="Video tutorials" src="assets/video.png" />
       </a>
-  </td>
+   </td>
    <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#templates">
+         <img alt="Video tutorials" src="assets/templates.png" />
+      </a>
+   </td>
+  <td>
       <a href="overview-express-use-case-tutorials.md">
          <img alt="Adobe Express-use-case tutorials" src="assets/use-case-tutorials.png" />
       </a>
    </td>
-  <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
