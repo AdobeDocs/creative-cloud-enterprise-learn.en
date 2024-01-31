@@ -68,7 +68,6 @@ auto-video-transcripts: true
     + [How to bulk translate your content](express/bulk-translate.md)
     + [How to edit a PDF](express/edit-a-pdf.md)
     + [How to use the scheduler for posting](express/schedule.md)
-    + [Create templates](express/create-templates.md)
     + [Group objects](express/group-objects.md)
     + [Create multiple pages](express/multiple-pages.md)
     + [Use CC Libraries](express/cc-libraries.md)
