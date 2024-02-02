@@ -8,6 +8,6 @@ jira: KT-14845
 ---
 # How to use the object eraser tool
 
-Learn how to erase specific areas of your images.
+Learn how to erase specific areas of your images. Alternatively, you can use the restore tool to bring back parts of your image.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427019?quality=12&learn=on&hidetitle=true)

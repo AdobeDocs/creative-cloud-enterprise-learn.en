@@ -9,6 +9,6 @@ exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
 ---
 # How to remove background from any image
 
-Learn how to remove the background from your images in one click.
+Learn how to remove the background from your images in one click with a Quick action. After removing the background your image can be downloaded and used for multiple purposes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)

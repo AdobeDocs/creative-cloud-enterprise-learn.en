@@ -8,6 +8,6 @@ jira: KT-14875
 ---
 # How to export video
 
-Learn how to download or share your video.
+Learn how to set your video resolution, download, and share your video directly to social channels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
