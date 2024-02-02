@@ -11,3 +11,30 @@ jira: KT-14818
 Quick actions save time and provide basic editing tools for daily creative work. Examples of quick actions include merging and trimming videos, removing backgrounds, resizing images and videos, converting videos to gifs, and editing PDFs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+
+## Additional videos in this series
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+      <a href="get-started.md">
+         <img alt="What's on the Home page" src="assets/home-page.png" />
+      </a>
+ </td>
+ <td>
+      <a href="introduction-templates.md">
+         <img alt="Introduction to Quick actions" src="assets/introduction-templates.png" />
+      </a>
+ </td>
+ <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+</tr>
+</table>

@@ -12,6 +12,8 @@ Learn how to set your video resolution, download, and share your video directly 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
 
+## Additional videos in this series
+
 <table style="table-layout:fixed">
 <tr>
    <td>
