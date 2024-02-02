@@ -12,6 +12,8 @@ Learn how to add new video clips to the timeline, adjust their length, add trans
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
 
+## Additional videos in this series
+
 <table style="table-layout:fixed">
 <tr>
    <td>

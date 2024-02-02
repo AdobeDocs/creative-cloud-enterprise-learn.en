@@ -12,6 +12,8 @@ Learn about the timeline, where you arrange and edit video objects such as video
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
 
+## Additional videos in this series
+
 <table style="table-layout:fixed">
 <tr>
    <td>

@@ -12,6 +12,8 @@ Learn the various ways to start a video project, including how to use social med
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
 
+## Additional videos in this series
+
 <table style="table-layout:fixed">
 <tr>
   <td>
