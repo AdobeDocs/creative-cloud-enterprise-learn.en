@@ -8,6 +8,10 @@ jira: KT-14851
 ---
 # How to bulk translate your content
 
-Learn how to eliminate the need for manual translations and the hassles of external translation tools by translating the text on single and multiple-page files into your choice of 46 languages.
+Learn how to create language variations of your projects by automatically translating the content in 46 different languages. You can select the desired language, duplicate and translate the content, and retain all animations.
+
+>[!NOTE]
+>
+>It is important to review the translations for accuracy before sharing or downloading.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)

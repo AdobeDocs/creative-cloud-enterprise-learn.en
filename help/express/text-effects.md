@@ -9,6 +9,6 @@ exl-id: 38a01482-11c9-4117-8626-59679eca2c4f
 ---
 # How to add text
 
-Learn all the different ways you can add text and text effects to your creative projects.
+Learn all the different ways to add text to creative projects, including editing, moving, and deleting text layers, changing fonts, adjusting text size and layout, aligning text, changing fill color and outline, adding drop shadows, and using shapes and cut out text. Recommended fonts are provided for inspiration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)

@@ -8,6 +8,6 @@ jira: KT-14818
 ---
 # Introduction to Quick actions
 
-Quick actions are easy-to-use tools that offer fast and free editing for images, videos, and documents.
+Quick actions save time and provide basic editing tools for daily creative work. Examples of quick actions include merging and trimming videos, removing backgrounds, resizing images and videos, converting videos to gifs, and editing PDFs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)

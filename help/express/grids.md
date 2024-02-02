@@ -8,6 +8,6 @@ jira: KT-14826
 ---
 # How to use grids
 
-Learn how to use grids to make photo collages, mood boards, and eye catching posters.
+Learn how to use grids to make photo collages, mood boards, and eye catching posters. There are 40 different grid layouts available for you to customize with your own imagery or Adobe Stock photos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)

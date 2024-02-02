@@ -1,6 +1,6 @@
 ---
 title: Adding Audio to your Animations
-description: Create engaging and memorable projects by adding audio
+description: Create engaging and memorable projects by adding audio to your animations
 feature: Graphic Design
 role: User
 level: Beginner
