@@ -16,7 +16,7 @@ Learn the options to download and share projects in different file formats like 
 
 <table style="table-layout:fixed">
 <tr>
- <td>
+   <td>
       <a href="brand.md">
          <img alt="Setting up a brand kit" src="assets/brand.png" />
       </a>
@@ -30,12 +30,12 @@ Learn the options to download and share projects in different file formats like 
       <a href="workspace.md">
          <img alt="UX of a project" src="assets/workspace.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="text-effects.md">
          <img alt="How to add text" src="assets/text-effects.png" />
       </a>
-  </td>
+   </td>
 </tr>
 <tr>
    <td>
@@ -70,7 +70,6 @@ Learn the options to download and share projects in different file formats like 
       <img alt="How to collaborate" src="assets/collaborate.png" />
    </a>
    </td>
-   <td>
    <td>
    <a href="version-history.md">
       <img alt="How to use version history" src="assets/version-history.png" />
