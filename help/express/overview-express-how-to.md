@@ -353,7 +353,7 @@ Get started creating amazing work that stands out with generative AI powered by 
             <img alt="How to and why lock layers" src="assets/lock-layers.png" />
          </a>
    </td>
-  <td>
+   <td>
          <a href="create-templates.md">
             <img alt="Creating a template" src="assets/create-template.png" />
          </a>
