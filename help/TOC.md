@@ -104,11 +104,17 @@ auto-video-transcripts: true
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [Overview](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
-    + [Overview of Adobe Firefly](firefly/overview-of-firefly.md)
+    + [Overview of [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+    + [Discover [!DNL Adobe Firefly]](firefly/discover.md)
+    + [Landing page](firefly/landing-page.md)
+    + [Text to image](firefly/text-to-image.md)
+    + [Text effects](firefly/text-effects.md)
+    + [Generative fill](firefly/gen-fill.md)
+    + [Generative recolor](firefly/gen-recolor.md)
+    + [Examples of how to use [!DNL Firefly]](firefly/examples.md)
     + [Enable creative efficiency](firefly/enable-creative-efficiency.md)
     + [Banner ad variations in [!DNL Photoshop]](firefly/web-banner-ad.md)
     + [Generative Fill in [!DNL Photoshop]](firefly/generative-fill.md)
-    + [Text Effects](firefly/text-effects.md)
     + [Generative Recolor in [!DNL Illustrator]](firefly/generative-recolor.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
