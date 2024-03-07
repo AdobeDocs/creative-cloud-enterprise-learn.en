@@ -9,7 +9,7 @@ exl-id: 82dcb3aa-beb0-4ca1-8696-9897f86163c6
 ---
 # Overview of Adobe Firefly
 
-Learn what you can create with Adobe Firefly. Find out how you can accelerate content creation in Adobe Express and Adobe Creative Cloud apps like Adobe Photoshop. This tutorial uses [Photoshop Beta (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Learn what you can create with Adobe Firefly. Find out how you can accelerate content creation in Adobe Express and Adobe Creative Cloud apps like Adobe Photoshop.
 
 <br>&nbsp;
 

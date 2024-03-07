@@ -9,7 +9,7 @@ exl-id: abefcf4f-b8bb-4428-9b0e-801d21f2e587
 ---
 # Generative Fill in Photoshop
 
-Learn how to use Generative Fill, powered by Adobe Firefly, in Adobe Photoshop to make it easier to create a concept for a travel ad. This tutorial uses [Photoshop Beta (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Learn how to use Generative Fill, powered by Adobe Firefly, in Adobe Photoshop to make it easier to create a concept for a travel ad.
 
 <br>&nbsp;
 
