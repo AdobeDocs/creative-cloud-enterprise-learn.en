@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14844
+exl-id: 2d79317f-6bcb-4028-92e3-9da8a66b6026
 ---
 # What are the new Gen AI features in Adobe Express?
 

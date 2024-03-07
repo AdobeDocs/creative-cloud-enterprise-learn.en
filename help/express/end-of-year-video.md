@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Intermediate
 jira: KT-14895
+exl-id: 3799339b-abf0-4b47-8108-df9c7bb4f065
 ---
 # Creating an end-of-year video
 

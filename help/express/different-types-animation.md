@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
+exl-id: 9675124e-a1d4-47c4-be4f-704b7c43590f
 ---
 # Different types of animations
 

@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14887
+exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
 ---
 # How to use templates
 

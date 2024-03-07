@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Intermediate
 jira: KT-14894
+exl-id: 9afc2d24-6247-4b11-883e-d85d5bc6e8d7
 ---
 # How to create a newsletter
 

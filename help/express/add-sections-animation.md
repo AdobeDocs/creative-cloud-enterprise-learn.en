@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14836
+exl-id: 0483dabf-1d14-47f0-9835-8a018da04e38
 ---
 # Adding sections to your animation
 
@@ -60,4 +61,3 @@ Level up your animation by adding elements such as images and headlines to an an
    </td>
 </tr>
 </table>
-

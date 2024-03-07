@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14835
+exl-id: 665b5cb0-0e0e-44d3-ad30-616d1fa7f99f
 ---
 # How to stagger your animations
 

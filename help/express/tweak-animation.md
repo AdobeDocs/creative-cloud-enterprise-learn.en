@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14833
+exl-id: cbdb531e-64ee-4c34-878a-3fd61dcf297c
 ---
 # Tweaking the settings of your animations
 
@@ -60,4 +61,3 @@ Learn how to adjust the settings of your animations to improve the effectiveness
    </td>
 </tr>
 </table>
-

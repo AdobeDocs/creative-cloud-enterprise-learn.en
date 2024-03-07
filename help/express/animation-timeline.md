@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14834
+exl-id: 0f7995cb-a1c0-4adb-b167-b7b7c91f08c3
 ---
 # What is the animation timeline?
 

@@ -5,6 +5,7 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14875
+exl-id: d40a2865-cbe5-4eb5-9f92-c283c0bc3c91
 ---
 # How to export video
 

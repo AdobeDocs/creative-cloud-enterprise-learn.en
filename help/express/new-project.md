@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14822
+exl-id: 459c74ac-7b91-4b56-9957-f48603ee0a8e
 ---
 # Starting a project
 
@@ -81,4 +82,3 @@ Learn how to create a brand new project starting from scratch using a specific c
    </td>
 </tr>
 </table>
-

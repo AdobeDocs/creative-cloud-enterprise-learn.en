@@ -4,6 +4,7 @@ description: Learn how to give your static, outdated PDFs a makeover by adding e
 role: User
 level: Intermediate
 jira: KT-14852
+exl-id: e41e1db2-bd15-4dd0-95d5-0f19afe91b8b
 ---
 # How to edit a PDF
 

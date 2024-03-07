@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14831
+exl-id: 1a90ddca-f374-403f-a3ed-a589e8d7c870
 ---
 # Intro to animations
 
@@ -60,4 +61,3 @@ Learn how add animation to a social media post to increase engagement. The anima
    </td>
 </tr>
 </table>
-

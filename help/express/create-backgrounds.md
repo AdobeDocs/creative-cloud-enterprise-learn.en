@@ -5,6 +5,7 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14892
+exl-id: 025e9333-8b74-414a-8b74-97965cc5e7b8
 ---
 # Creating backgrounds for presentations
 

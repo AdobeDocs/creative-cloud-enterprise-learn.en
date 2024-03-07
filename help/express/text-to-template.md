@@ -5,6 +5,7 @@ feature: Gen AI, Graphic Design
 role: User
 level: Intermediate
 jira: KT-14848
+exl-id: 8160e596-4df5-42b1-a764-871fe31b5457
 ---
 # How to use Text-to-template Gen AI
 

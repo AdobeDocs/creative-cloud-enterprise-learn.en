@@ -5,6 +5,7 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14845
+exl-id: 7f3a9a0b-55c6-46c1-b756-e93d0fa9d687
 ---
 # How to use the object eraser tool
 

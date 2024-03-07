@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14885
+exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
 ---
 # How to and why lock layers
 

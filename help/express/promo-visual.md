@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Intermediate
 jira: KT-14896
+exl-id: 8f9a0dbb-2a61-4c9f-9a0d-ee366ae71d38
 ---
 # Creating a promo visual for an online learning course
 

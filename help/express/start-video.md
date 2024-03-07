@@ -5,6 +5,7 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14870
+exl-id: 818ccf92-4456-4ca6-a8a0-1cba8fd94784
 ---
 # How to start a video project
 

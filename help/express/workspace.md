@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14823
+exl-id: ae603124-9537-4aea-9e5f-f5c4fbf49495
 ---
 # UX of a project
 

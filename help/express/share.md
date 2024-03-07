@@ -1,10 +1,11 @@
 ---
 title: How to Share & Download
 description: Learn how to share your project with a colleague or with a client
-feature: Graphic Design 
+feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
+exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
 ---
 # How to share & download
 

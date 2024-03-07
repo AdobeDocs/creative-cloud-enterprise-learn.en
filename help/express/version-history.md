@@ -1,10 +1,11 @@
 ---
 title: How to Use Version History
 description: Learn how to access version history and view and copy previous versions of your projects
-feature: Graphic Design 
+feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14829
+exl-id: aa02b7fc-09be-47cd-8869-88b5d2511415
 ---
 # How to use version history
 

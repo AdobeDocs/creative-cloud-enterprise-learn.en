@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14838
+exl-id: 9b13b1c3-1868-4b53-82bf-2cfb0d657891
 ---
 # How to resize your animations
 

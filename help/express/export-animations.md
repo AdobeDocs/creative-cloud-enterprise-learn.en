@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14839
+exl-id: 09839d49-dc36-4e7a-af21-a76b5561fff6
 ---
 # Exporting your animations
 

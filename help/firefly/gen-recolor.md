@@ -4,6 +4,7 @@ description: Learn how to instantly preview diverse color variations for your pr
 role: User
 level: Beginner
 jira: KT-15040
+exl-id: 2b47eeb6-0ce2-4fe8-89b7-feca4f264174
 ---
 # Generative recolor
 
@@ -12,4 +13,3 @@ Learn how to instantly preview diverse color variations for your product packagi
 <br>&nbsp;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427610?quality=12&learn=on&hidetitle=true)
-

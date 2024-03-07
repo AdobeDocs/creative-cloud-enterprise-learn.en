@@ -1,10 +1,11 @@
 ---
 title: How to Use grids
 description: Learn how to use grids to make photo collages, mood boards, and eye catching posters
-feature: Graphic Design 
+feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14826
+exl-id: a8e11845-ad80-4f40-93e1-12b05e3c4201
 ---
 # How to use grids
 

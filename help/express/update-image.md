@@ -5,6 +5,7 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14891
+exl-id: 331b9122-2497-4e61-b479-5ffada2bb5a2
 ---
 # Update finance round-up image
 

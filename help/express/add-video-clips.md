@@ -5,6 +5,7 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14871
+exl-id: 0ef37dc8-c48e-49da-b6ef-c8da63519c9b
 ---
 # How to add video clips
 

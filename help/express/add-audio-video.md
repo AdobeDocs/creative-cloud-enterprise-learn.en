@@ -5,6 +5,7 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14874
+exl-id: 04e4642c-edd2-4de9-8fec-94b791f2103d
 ---
 # How to add audio
 

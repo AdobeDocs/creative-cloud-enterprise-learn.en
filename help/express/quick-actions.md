@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14818
+exl-id: f54d6ada-5fa3-40b9-8b2c-815208ddd004
 ---
 # Introduction to Quick actions
 

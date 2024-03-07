@@ -5,6 +5,7 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14872
+exl-id: 293704a0-970c-422a-a0a9-2777bd80910d
 ---
 # What's a video timeline?
 

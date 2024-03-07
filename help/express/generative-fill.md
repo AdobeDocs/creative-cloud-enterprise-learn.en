@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14846
+exl-id: ce097d61-070d-41f7-9cc4-3dcdb76a63d3
 ---
 # How to use Generative Fill
 

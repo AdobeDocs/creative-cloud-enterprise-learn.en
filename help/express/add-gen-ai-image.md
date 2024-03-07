@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-14824
+exl-id: 15906f59-1b56-4dfc-b425-f2f904f26183
 ---
 # How to add a Gen AI Image
 

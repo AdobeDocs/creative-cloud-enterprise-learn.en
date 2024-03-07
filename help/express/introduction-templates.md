@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14819
+exl-id: 2a2b4d76-270c-4d5f-a206-01b0ad6dcb5f
 ---
 # Introduction to templates
 

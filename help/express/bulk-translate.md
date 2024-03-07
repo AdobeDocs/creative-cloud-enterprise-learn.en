@@ -5,6 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
+exl-id: 1d07770d-e423-4c72-a771-97bca0df4fe1
 ---
 # How to bulk translate your content
 

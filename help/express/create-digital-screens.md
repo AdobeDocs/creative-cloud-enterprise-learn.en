@@ -5,6 +5,7 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14893
+exl-id: 92222487-042f-4034-9b7e-2f336e8c732e
 ---
 # Create digital screen announcements for the office
 

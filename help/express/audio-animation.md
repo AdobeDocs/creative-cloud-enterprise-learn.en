@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14837
+exl-id: 76a7b235-abb8-4a40-907a-2340a088e41b
 ---
 # Adding audio to your animations
 

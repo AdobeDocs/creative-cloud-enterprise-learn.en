@@ -5,6 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14886
+exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
 ---
 # Save & share templates
 

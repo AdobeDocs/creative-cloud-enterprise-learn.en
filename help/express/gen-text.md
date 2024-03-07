@@ -5,6 +5,7 @@ feature: Gen AI, Graphic Design
 role: User
 level: Intermediate
 jira: KT-14847
+exl-id: 13ed15ce-adc3-453c-98c8-365319d4d985
 ---
 # Improving your text design with Gen AI
 

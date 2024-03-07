@@ -4,7 +4,8 @@ description: Learn how to create a new scene in your video by adding clips to th
 feature: Video Editing
 role: User
 level: Beginner
-jira: KT-14873  
+jira: KT-14873
+exl-id: da2fc05e-d0ae-40cc-aad5-cd702365d2ed
 ---
 # Working with multiple clips
 
