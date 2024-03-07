@@ -9,7 +9,7 @@ exl-id: f2ef46a2-996e-4c9c-87bc-c65691c95199
 ---
 # Enable creative efficiency
 
-Learn how to accelerate content creation with generative AI-powered tools in Adobe Photoshop and Illustrator. This tutorial uses Adobe Illustrator Prerelease.
+Learn how to accelerate content creation with generative AI-powered tools in Adobe Photoshop and Illustrator.
 
 <br>&nbsp;
 

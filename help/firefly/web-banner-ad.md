@@ -9,7 +9,7 @@ exl-id: 52190b7b-fe67-413f-be4e-8b3afb6a322d
 ---
 # Banner ad variations in Photoshop
 
-Learn how to use Generative Fill, powered by Adobe Firefly, in Adobe Photoshop to accelerate web ad banner creation. This tutorial uses [Photoshop Beta (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Learn how to use Generative Fill, powered by Adobe Firefly, in Adobe Photoshop to accelerate web ad banner creation.
 
 <br>&nbsp;
 
