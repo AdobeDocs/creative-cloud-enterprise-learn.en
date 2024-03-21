@@ -106,6 +106,7 @@ auto-video-transcripts: true
   + Tutorials {#firefly-tutorials}
     + [Overview of [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
     + [Discover [!DNL Adobe Firefly]](firefly/discover.md)
+    + [Create a Custom Model using styles](firefly/custom-model-style.md)
     + [Landing page](firefly/landing-page.md)
     + [Text to image](firefly/text-to-image.md)
     + [Text effects](firefly/text-effects.md)
