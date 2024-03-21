@@ -55,7 +55,7 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
    </td>
    <td>
       <a href="custom-model-style.md">
-         <img alt="Create a Custom Model using styles" src="assets/custom-model-style.png" />
+         <img alt="Create a Custom Model using styles" src="assets/custom-model-styles.png" />
       </a>
    </td>
   <td>
