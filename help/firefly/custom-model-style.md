@@ -12,4 +12,4 @@ Learn how to build Custom Models in Firefly to create fresh new imagery for your
 
 <br>&nbsp;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428003quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428003?quality=12&learn=on&hidetitle=true)
