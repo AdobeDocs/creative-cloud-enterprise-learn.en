@@ -5,6 +5,7 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15203
+exl-id: c1f342c6-ab0b-4797-9dd1-f21477f4219f
 ---
 # Create a Custom Model using styles
 
