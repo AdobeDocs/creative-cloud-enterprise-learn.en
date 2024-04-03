@@ -9,7 +9,7 @@ exl-id: b7acc009-f2b5-463b-b2ea-b0a9015587b8
 ---
 # Discover Adobe Firefly
 
-Discover Adobe Firefly the future of creativity with generative AI, designed for commercial safety use and innovation. Try Adobe Firefly [here](https://firefly.adobe.com/).
+Discover Adobe Firefly the [future of creativity](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) with generative AI, designed for commercial safety use and innovation. Try Adobe Firefly [here](https://firefly.adobe.com/).
 
 <br>&nbsp;
 
