@@ -5,6 +5,7 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15269
+exl-id: ba38dcbf-5ccd-4060-a193-8773358b275a
 ---
 # Create a Custom Model using a subject
 
@@ -13,4 +14,3 @@ Learn how to build Custom Models in Firefly to create fresh new imagery for your
 <br>&nbsp;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428094?quality=12&learn=on&hidetitle=true)
-
