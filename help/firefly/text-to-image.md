@@ -9,7 +9,7 @@ exl-id: 3925fd1c-65b6-424d-92ad-975e3cb42a69
 ---
 # Text to image
 
-Learn how to create an image from text descriptions. Generating images according to your specific needs allows you to create personalized and inspiring content. Try Adobe Firefly [here](https://firefly.adobe.com/).
+Learn how to create an image from text descriptions. [Generating images](https://www.adobe.com/products/firefly/features/text-to-image.html) according to your specific needs allows you to create personalized and inspiring content. Try Adobe Firefly [here](https://firefly.adobe.com/).
 
 <br>&nbsp;
 
