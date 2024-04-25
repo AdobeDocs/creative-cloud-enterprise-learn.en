@@ -14,3 +14,7 @@ Learn how to build Custom Models in Firefly to create fresh new imagery for your
 <br>&nbsp;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428094?quality=12&learn=on&hidetitle=true)
+
+>[!IMPORTANT]
+>
+>Learn more about the [security architecture and data flow of Custom Models](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
