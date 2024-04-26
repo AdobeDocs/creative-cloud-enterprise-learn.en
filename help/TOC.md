@@ -106,6 +106,7 @@ auto-video-transcripts: true
   + Tutorials {#firefly-tutorials}
     + [Overview of [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
     + [Discover [!DNL Adobe Firefly]](firefly/discover.md)
+    + [Create reusable scenes for merchandise](firefly/reusable-scenes.md)
     + [Create a Custom Model using a subject](firefly/custom-model-subject.md)
     + [Create a Custom Model using styles](firefly/custom-model-style.md)
     + [Landing page](firefly/landing-page.md)
