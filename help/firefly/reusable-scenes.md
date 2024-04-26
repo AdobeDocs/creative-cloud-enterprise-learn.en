@@ -5,6 +5,7 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15372
+exl-id: 54fffb74-f0c8-49d8-802d-b24687ec3cf9
 ---
 # Create reusable scenes for merchandise
 
