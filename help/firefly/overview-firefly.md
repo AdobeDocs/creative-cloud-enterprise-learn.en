@@ -17,33 +17,6 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## Learn more about Adobe Firefly
-
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly (Beta)" src="assets/firefly-beta.png" />
-      </a>
-  </td>
-  <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="Explore Firefly in Photoshop" src="assets/firefly-photoshop.png" />
-      </a>
-  </td>
-  <td>
-      <a href="webinar-experimenting.md">
-         <img alt="Experimenting with Adobe Firefly" src="assets/webinar-experimenting.png" />
-      </a>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
 ## Firefly tutorials
 
 <table style="table-layout:fixed">
