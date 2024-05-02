@@ -54,11 +54,23 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       </a>
    </td>
    <td>
+      <a href="discover.md">
+         <img alt="Discover Adobe Firefly" src="assets/discover.png" />
+      </a>
+   </td>
+   <td>
+      <a href="accelerate-ideas.md">
+         <img alt="Accelerate creative ideation" src="assets/accelerate-creative-ideation.png" />
+      </a>
+   </td>
+   <td>
       <a href="reusable-scenes.md">
          <img alt="Create resuable scenes for merchandise" src="assets/reusable-scenes.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="custom-model-subject.md">
          <img alt="Create a Custom Model using a subject" src="assets/custom-model-subject.png" />
       </a>
@@ -66,13 +78,6 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
    <td>
       <a href="custom-model-style.md">
          <img alt="Create a Custom Model using styles" src="assets/custom-model-styles.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="discover.md">
-         <img alt="Discover Adobe Firefly" src="assets/discover.png" />
       </a>
    </td>
    <td>
@@ -85,14 +90,14 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
          <img alt="Text to image" src="assets/text-to-image.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+ <td>
       <a href="text-effects.md">
          <img alt="Text effects" src="assets/text-effects.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="gen-fill.md">
          <img alt="Generative fill" src="assets/generative-fill.png" />
       </a>
@@ -107,14 +112,14 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
          <img alt="Examples of how to use Firefly" src="assets/examples.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="enable-creative-efficiency.md">
          <img alt="Enable creative efficiency" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-fill.md">
          <img alt="Generative Fill in Photoshop" src="assets/generative-fill-ps.png" />
       </a>
@@ -128,10 +133,5 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
       <a href="generative-recolor.md">
             <img alt="Generative Recolor in Illustrator" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
 </table>
