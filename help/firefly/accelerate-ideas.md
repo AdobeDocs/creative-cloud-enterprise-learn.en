@@ -5,6 +5,7 @@ feature: Graphic Design, Gen AI
 role: User
 level: Intermediate
 jira: KT-15422
+exl-id: df991508-194c-4316-aeb6-76a5b06b10f2
 ---
 # Accelerate creative ideation
 
