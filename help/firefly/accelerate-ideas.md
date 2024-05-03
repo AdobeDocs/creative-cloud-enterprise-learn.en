@@ -1,7 +1,7 @@
 ---
 title: Accelerate Creative Ideation
 description: Learn how to quickly visualize ideas and explore concepts for business campaigns
-feature: Graphic Design, Gen AI
+feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-15422

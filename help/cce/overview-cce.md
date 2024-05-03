@@ -11,7 +11,7 @@ exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 
 As an enterprise creative, you must collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials help you learn new features in Creative Cloud—-from an enterprise perspective.
 
-## Click to view a product tutorial (listed in alphabetical order)
+## Select a product (listed in alphabetical order) tutorial to view 
 
 ### Adobe Acrobat
 
@@ -40,63 +40,6 @@ As an enterprise creative, you must collaborate with distributed teams, establis
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express (formerly Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express: Content that stands out" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content that stands out</strong></a>
-    </div>
-    <em> Create beautiful graphics, web pages, and video stories in minutes with Adobe Express</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Creating Your Brand in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark makes it easy to define your brand</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Adding a glideshow to your Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Adding a glideshow to your Spark Page (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark offers some amazing and easy-to-use layout components that bring your web stories to life</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Creating Your Brand in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Creating Your Brand in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark makes it easy to define your brand</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Meet Your New Production Artist: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Meet Your New Production Artist: Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark learns from you as you create layouts, define colors, import artwork, and arrange elements within your compositions</em>
     <br>
   </td>
 </tr>
@@ -250,6 +193,11 @@ As an enterprise creative, you must collaborate with distributed teams, establis
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>From Lightroom Web to InDesign via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Take your creativity from the camera to the final design with Creative Cloud files and libraries</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
