@@ -17,7 +17,7 @@ Discover how different teams within your organization can benefit from Adobe Exp
 
 >[!TAB Create multi-channel HR content for events]
 
-Learn how to quickly [create multi-channel HR content for events](create-hr-content).
+Learn how to quickly [create multi-channel HR content for events](create-hr-content.md).
 
 >[!TAB Creating a promo visual for an online learning course]
 
