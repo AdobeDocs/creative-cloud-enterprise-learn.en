@@ -86,6 +86,7 @@ auto-video-transcripts: true
     + [How to use templates](express/use-templates.md)
   + Use case tutorials {#expressusecase}
     + [Overview](express/overview-express-use-case-tutorials.md)
+    + [Create multi-channel HR content for events](express/create-hr-content.md)
     + [Creating a promo visual for an online learning course](express/promo-visual.md)
     + [Creating an end-of-year video](express/end-of-year-video.md)
     + [How to create a newsletter](express/newsletter.md)

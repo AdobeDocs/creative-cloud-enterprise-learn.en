@@ -1,6 +1,6 @@
 ---
 title: How to Create a Newsletter
-description: Learn how to create the front page of a newsletter
+description: Learn how to create dynamic front page for a newsletter
 feature: Graphic Design
 role: User
 level: Intermediate
