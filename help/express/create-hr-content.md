@@ -4,6 +4,7 @@ description: Learn how to quickly create multi-channel HR content for events
 feature: Image Editing, Gen AI
 level: Intermediate
 jira: KT-16224
+exl-id: 0892d003-487d-4caf-9b22-0293737e8dcc
 ---
 # Create multi-channel HR content for events
 
