@@ -24,7 +24,7 @@ Learn why it's important to lock various elements of your template so they can't
          <div>
          <a href="create-templates.md"><strong>Maximize efficiency: create reusable templates</strong></a>
          </div>
-         <em>Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with templates</em>
+         <em>Learn how bring brand consistency, efficiency, and cost savings to your organization with templates</em>
          <br>
    </td>
    <td>

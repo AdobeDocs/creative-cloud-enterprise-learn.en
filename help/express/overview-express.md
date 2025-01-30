@@ -21,7 +21,7 @@ Learn how to create on-brand content quickly and efficiently using [templates](u
 
 >[!TAB Maximize efficiency: create reusable templates]
 
-Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with [templates](create-templates.md)
+Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with [templates](create-templates.md).
 
 >[!ENDTABS]
 
