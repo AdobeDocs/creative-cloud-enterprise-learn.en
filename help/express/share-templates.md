@@ -34,7 +34,7 @@ Learn how to save and share templates to a brand kit or library for your team.
          <div>
          <a href="create-templates.md"><strong>Maximize efficiency: create reusable templates</strong></a>
          </div>
-         <em>Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with templates</em>
+         <em>Learn how bring brand consistency, efficiency, and cost savings to your organization with templates</em>
          <br>
    </td>
     <td>
