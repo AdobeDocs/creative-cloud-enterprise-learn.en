@@ -1,15 +1,15 @@
 ---
-title: How to Use Templates
-description: Your brand is one-of-a-kind, and using templates helps you stay on-brand
+title: Effortless Brand Consistency with Templates
+description: Learn how to create on-brand content quickly and efficiently across your entire organization
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
 ---
-# How to use templates
+# Effortless brand consistency with templates
 
-Your brand is one-of-a-kind, and using templates helps you stay on-brand.
+Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
 
@@ -18,20 +18,35 @@ Your brand is one-of-a-kind, and using templates helps you stay on-brand.
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="How to and why lock layers" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="How to and why lock layers" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>How to and why lock layers</strong></a>
+            </div>
+            <em>Learn why it's important to lock various elements of your template</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Creating a template" src="assets/create-template.png" />
+            <img alt="Maximize efficiency: create reusable templates" src="assets/create-template.png" />
          </a>
-    </td>
-    <td>
-            <a href="share-templates.md">
-                <img alt="Save & share templates" src="assets/share-templates.png" />
-            </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>Maximize efficiency: create reusable templates</strong></a>
+         </div>
+         <em>Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with templates</em>
+         <br>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="Save & share templates" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong>Save & share templates</strong></a>
+         </div>
+         <em>Learn how to save and share templates to a brand kit or library for your team</em>
+         <br>
+   </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>

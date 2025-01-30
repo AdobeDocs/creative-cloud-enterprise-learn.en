@@ -19,18 +19,33 @@ Learn why it's important to lock various elements of your template so they can't
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Creating a template" src="assets/create-template.png" />
+            <img alt="Maximize efficiency: create reusable templates" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Maximize efficiency: create reusable templates</strong></a>
+         </div>
+         <em>Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with templates</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Save & share templates" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Save & share templates</strong></a>
+         </div>
+         <em>Learn how to save and share templates to a brand kit or library for your team</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="How to use templates" src="assets/use-templates.png" />
+            <img alt="Effortless brand consistency with templates" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Effortless brand consistency with templates</strong></a>
+         </div>
+         <em>Learn how to create on-brand content quickly and efficiently across your entire organization</em>
+         <br>
    </td>
    <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
