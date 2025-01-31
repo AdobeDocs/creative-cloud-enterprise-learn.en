@@ -144,7 +144,7 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
    </td>
     <td>
       <a href="max/overview-max.md">
-         <img alt="Adobe MAX" src="assets/Maxxcard.png" />
+         <img alt="Adobe MAX" src="assets/Maxcard.png" />
       </a>
       <div>
           <a href="max/overview-max.md"><strong>Adobe MAX</strong></a>
