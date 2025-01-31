@@ -236,7 +236,7 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" title="Adobe MAX" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/327112?hidetitle=true&format=jpeg&nocache=1738341192616" alt="Adobe MAX"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/327112?hidetitle=true&format=jpeg&nocache=1738346230770" alt="Adobe MAX"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
