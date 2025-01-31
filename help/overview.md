@@ -129,7 +129,7 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
       <div>
           <a href="dva/overview-dva.md"><strong>Adobe Video</strong></a>
           </div>
-          <em>Bring your ideas to life with apps for video editing, motion graphics, visual affects, animation, and more</em>
+          <em>Bring your ideas to life with video</em>
         <br>
    </td>
    <td>
