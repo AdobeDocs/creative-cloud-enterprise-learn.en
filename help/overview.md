@@ -75,7 +75,7 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
          <img alt="Creative Cloud for enterprise tutorials" src="assets/CCecard.png" />
       </a>
       <div>
-          <a href="cce/overview-cce.mdoverview-cce.md"><strong>Creative Cloud for enterprise tutorials</strong></a>
+          <a href="cce/overview-cce.md"><strong>Creative Cloud for enterprise tutorials</strong></a>
           </div>
           <em>Learn new features in the latest release of Creative Cloud—from an enterprise perspective</em>
           <br>
