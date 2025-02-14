@@ -29,7 +29,7 @@ Learn how to create on-brand content quickly and efficiently across your entire 
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximize efficiency: create reusable templates" src="assets/create-template.png" />
+            <img alt="Maximize efficiency: Create a reusable template" src="assets/create-template.png" />
          </a>
          <div>
          <a href="create-templates.md"><strong>Maximize efficiency: create reusable templates</strong></a>

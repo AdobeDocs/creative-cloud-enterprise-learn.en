@@ -19,10 +19,10 @@ Learn why it's important to lock various elements of your template so they can't
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Maximize efficiency: create reusable templates" src="assets/create-template.png" />
+            <img alt="Maximize efficiency: Create a reusable template" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Maximize efficiency: create reusable templates</strong></a>
+         <a href="create-templates.md"><strong>Maximize efficiency: Create a reusable template</strong></a>
          </div>
          <em>Learn how bring brand consistency, efficiency, and cost savings to your organization with templates</em>
          <br>

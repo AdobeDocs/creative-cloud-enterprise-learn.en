@@ -1,5 +1,5 @@
 ---
-title: Maximize Efficiency--Create Reusable Templates
+title: Maximize Efficiency--Create a Reusable Template
 description: Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates
 feature: Graphic Design
 role: User
@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
 ---
-# Maximize efficiency: create reusable templates
+# Maximize efficiency: Create a reusable template
 
 Learn how bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. This tutorial walks through how to create a reusable from any existing content—whether it's a Photoshop, Illustrator, InDesign, or even a PowerPoint file.
 
