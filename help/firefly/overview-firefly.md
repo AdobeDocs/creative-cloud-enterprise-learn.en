@@ -110,6 +110,11 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_171503d937e79262529deabb4ac74f504bce2e143.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 -->
+<!-- END CARDS -->
+<!-- END COMMENT -->
+
+## Firefly tutorials
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Overview of Adobe Firefly">
@@ -958,4 +963,3 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<!-- END CARDS -->
