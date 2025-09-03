@@ -67,7 +67,6 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
   {target = _self}
   {title = Text effects}
   {description = Learn how to create unique and inspiring text for your projects using simple text prompts}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1722c641b14f224f555198dc8d1cd4fbb2a27a8b5.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill
   {target = _self}
@@ -112,7 +111,6 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_19bc35b610c89bc859531a1e33b29d8662f337fa3.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 -->
-
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
@@ -307,7 +305,7 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Text effects" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1722c641b14f224f555198dc8d1cd4fbb2a27a8b5.png?width=400&format=webply&optimize=medium" alt="Text effects"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1756913644751" alt="Text effects"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
