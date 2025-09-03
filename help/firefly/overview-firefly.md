@@ -27,6 +27,12 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
   {description = Discover Adobe Firefly the future of creativity with generative AI}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_13b319e0a7f29faac27c78f461f4081db09226c22.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
+* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production
+  {target = _self}
+  {title = Creative Production}
+  {description = Learn how Firefly Creative Production makes replacing backgrounds, cropping, and color grading on thousands of files a breeze}
+  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_1c848099a48b90bf2a35c472811b7d634960fe6cb.webp?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas
   {target = _self}
   {title = Accelerate creative ideation}
@@ -111,6 +117,7 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_19bc35b610c89bc859531a1e33b29d8662f337fa3.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
@@ -158,6 +165,29 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View tutorial</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Creative Production">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" title="Creative Production" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_1c848099a48b90bf2a35c472811b7d634960fe6cb.webp?width=400&format=webply&optimize=medium" alt="Creative Production"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" title="Creative Production">Creative Production</a>
+                    </p>
+                    <p class="is-size-6">Learn how Firefly Creative Production makes replacing backgrounds, cropping, and color grading on thousands of files a breeze</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse tutorials</span>
                 </a>
             </div>
         </div>
@@ -305,7 +335,7 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Text effects" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1756913644751" alt="Text effects"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1756924254317" alt="Text effects"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
