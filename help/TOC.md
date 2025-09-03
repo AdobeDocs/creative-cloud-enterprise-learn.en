@@ -107,7 +107,6 @@ auto-video-transcripts: true
   + Tutorials {#firefly-tutorials}
     + [Overview of [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
     + [Discover [!DNL Adobe Firefly]](firefly/discover.md)
-    + [Background Removal and Replacement with Creative Production](firefly/creative-production/background.md)
     + [Accelerate creative ideation](firefly/accelerate-ideas.md)
     + [Create reusable scenes for merchandise](firefly/reusable-scenes.md)
     + [Create a Custom Model using a subject](firefly/custom-model-subject.md)
@@ -122,6 +121,9 @@ auto-video-transcripts: true
     + [Banner ad variations in [!DNL Photoshop]](firefly/web-banner-ad.md)
     + [Generative Fill in [!DNL Photoshop]](firefly/generative-fill.md)
     + [Generative Recolor in [!DNL Illustrator]](firefly/generative-recolor.md)
+  + Creative Production tutorials {#firefly-creative-production}
+    + [Overview of [!DNL Adobe Firefly] Creative Production](firefly/creative-production/overview-firefly-creative-production.md)
+    + [Background Removal and Replacement](firefly/creative-production/background.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
