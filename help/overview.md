@@ -1,6 +1,6 @@
 ---
 title: Creative Cloud for Enterprise Tutorials
-description: Welcome to the Creative Cloud for enterprise learning hub
+description: Welcome to the Creative Cloud for enterprise Learning Hub
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
