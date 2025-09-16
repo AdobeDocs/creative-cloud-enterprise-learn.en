@@ -238,11 +238,11 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a Custom Model using a subject">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a Custom Model">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject" title="Create a Custom Model using a subject" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject" title="Create a Custom Model" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_102c0c47d65d716fcc039ff7eaba2add93c7db6d7.png?width=400&format=webply&optimize=medium" alt="Create a Custom Model using a subject"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -251,38 +251,16 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject" target="_self" rel="referrer" title="Create a Custom Model using a subject">Create a Custom Model using a subject</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" title="Create a Custom Model">Create a Custom Model</a>
                     </p>
-                    <p class="is-size-6">Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using a specific subject</p>
+                    <p class="is-size-6">Learn how to train Firefly Custom Models</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View tutorial</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a Custom Model using styles">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-style" title="Create a Custom Model using styles" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1c8bfca5d031b811a608d3d83d114acd5384b5027.png?width=400&format=webply&optimize=medium" alt="Create a Custom Model using styles"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-style" target="_self" rel="referrer" title="Create a Custom Model using styles">Create a Custom Model using styles</a>
-                    </p>
-                    <p class="is-size-6">Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-style" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View tutorial</span>
-                </a>
-            </div>
-        </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Landing page">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
