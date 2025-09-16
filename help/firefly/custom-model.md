@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-19197
 index: False
-hide: True
+hidefromtoc: True
 ---
 # Create a Custom Model using styles
 
