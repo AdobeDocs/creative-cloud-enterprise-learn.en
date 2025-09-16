@@ -45,17 +45,11 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
   {description = Learn how to create reusable scenes for merchandise such as handbags and accessories}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_124df1308bcacf789108a578565719a271ae5e4ac.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
-* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject
+* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model
   {target = _self}
-  {title = Create a Custom Model using a subject}
-  {description = Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using a specific subject}
+  {title = Create a Custom Model}
+  {description = Learn how to train Custom Models in Firefly to create fresh new imagery for your organization's brand}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_102c0c47d65d716fcc039ff7eaba2add93c7db6d7.png?width=400&format=webply&optimize=medium}
-  {cta = View tutorial}
-* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-style
-  {target = _self}
-  {title = Create a Custom Model using styles}
-  {description = Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1c8bfca5d031b811a608d3d83d114acd5384b5027.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page
   {target = _self}
