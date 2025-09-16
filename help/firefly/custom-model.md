@@ -8,7 +8,7 @@ jira: KT-19197
 index: False
 hidefromtoc: True
 ---
-# Create a Custom Model using styles
+# Create a Custom Model
 
 Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles—such as backgrounds, colors, and hues. Custom Models allow you to create relevant, personalized content at scale. Try Adobe Firefly [here](https://firefly.adobe.com/).
 
