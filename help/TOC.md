@@ -110,8 +110,6 @@ auto-video-transcripts: true
     + [Accelerate creative ideation](firefly/accelerate-ideas.md)
     + [Create reusable scenes for merchandise](firefly/reusable-scenes.md)
     + [Create a Custom Model](firefly/custom-model.md)
-    + [Create a Custom Model using a subject](firefly/custom-model-subject.md)
-    + [Create a Custom Model using styles](firefly/custom-model-style.md)
     + [Landing page](firefly/landing-page.md)
     + [Text to image](firefly/text-to-image.md)
     + [Text effects](firefly/text-effects.md)
