@@ -1,16 +1,14 @@
 ---
 title: Create a Custom Model
-description: Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand
+description: Learn how to train Firefly Custom Models. You can read more details [here](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-index: False
-hidefromtoc: True
 ---
 # Create a Custom Model
 
-Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles—such as backgrounds, colors, and hues. Custom Models allow you to create relevant, personalized content at scale. Try Adobe Firefly [here](https://firefly.adobe.com/).
+Learn how to train Custom Models in Firefly to create fresh new imagery for your organization's brand. Custom Models allow you to create relevant, personalized content at scale. Learn more about training Custom Models [here](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
 
 <br>&nbsp;
 
