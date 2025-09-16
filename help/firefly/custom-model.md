@@ -8,7 +8,7 @@ jira: KT-19197
 ---
 # Create a Custom Model
 
-Learn how to train Custom Models in Firefly to create fresh new imagery for your organization's brand. Custom Models allow you to create relevant, personalized content at scale. Learn more about training Custom Models [here](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
+Learn how to train Custom Models in Firefly to create fresh new imagery for your organization's brand. Custom Models allow you to create relevant, personalized brand content at scale. Learn more about training Custom Models [here](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br>&nbsp;
 
