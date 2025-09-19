@@ -13,4 +13,4 @@ Create beautiful graphics, web pages, and video stories in minutes with Adobe Ex
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Adobe-Express-content-that-stands-out.png){"width=680"}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}
+[![First page image of tutorial](assets/Adobe-Express-content-that-stands-out.png){width="680"}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}

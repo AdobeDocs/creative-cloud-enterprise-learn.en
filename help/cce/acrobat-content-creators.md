@@ -13,4 +13,4 @@ As a content creator, you probably generate PDFs and then routinely view those P
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Acrobatforcontentcreators.png){"width=680"}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
+[![First page image of tutorial](assets/Acrobatforcontentcreators.png){width="680"}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}

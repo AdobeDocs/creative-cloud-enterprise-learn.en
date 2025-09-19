@@ -14,4 +14,4 @@ Among the many perks of an Adobe Creative Cloud subscription, is free access to 
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/TamingTypeAnxiety.png){"width=680"}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}
+[![First page image of tutorial](assets/TamingTypeAnxiety.png){width="680"}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}

@@ -14,4 +14,4 @@ Learn how to add comments and share feedback on Creative Cloud files and folders
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Collaboration-The-Future-of-Creativity.png){"width=680"}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}
+[![First page image of tutorial](assets/Collaboration-The-Future-of-Creativity.png){width="680"}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

@@ -13,7 +13,7 @@ Learn how to integrate Adobe Stock with CC Libraries to create consistent and pr
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Stunningdigitalassets.png){"width=680"}](assets/Stunning-Digital-Assets.pdf){target="blank"}
+[![First page image of tutorial](assets/Stunningdigitalassets.png){width="680"}](assets/Stunning-Digital-Assets.pdf){target="blank"}
 
 >[!NOTE]
 >

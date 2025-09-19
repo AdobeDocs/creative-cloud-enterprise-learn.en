@@ -13,4 +13,4 @@ Learn how Creative Cloud Libraries keep design elements together—-ensuring pro
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Improveccworkflowswithcclibraries.png){"width=680"}](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}
+[![First page image of tutorial](assets/Improveccworkflowswithcclibraries.png){width="680"}](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}

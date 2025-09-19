@@ -13,4 +13,4 @@ Import content, arrange your scene, apply materials and textures, adjust image-b
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Substance3DStager.png){"width=680"}](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![First page image of tutorial](assets/Substance3DStager.png){width="680"}](assets/Adobe-Substance-Stager.pdf){target="blank"}

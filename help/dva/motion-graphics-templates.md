@@ -14,4 +14,4 @@ Motion Graphics templates (.mogrt) are a collaborative and efficient way to crea
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/MORGTs.png){"width=680"}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}
+[![First page image of tutorial](assets/MORGTs.png){width="680"}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}
