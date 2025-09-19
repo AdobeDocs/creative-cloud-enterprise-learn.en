@@ -13,4 +13,4 @@ Collaborate where you create. Learn how the Frame.io extension for Adobe Premier
 
 Select the image below to view or download this PDF tutorial.
 
-[![First page image of tutorial](assets/Videoreviewwithframe.png){"width=680"}](assets/Video-review-with-Frame.io.pdf){target="blank"}
+[![First page image of tutorial](assets/Videoreviewwithframe.png)](assets/Video-review-with-Frame.io.pdf){target="blank"}
