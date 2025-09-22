@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-18845
+exl-id: 2f5e1d85-c0bf-4ef5-9fdc-faf4389cfcbc
 ---
 # Background removal and replacement
 

@@ -5,6 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-18996
+exl-id: 19f51b11-4fc3-412e-a64d-3d653478fecb
 ---
 # Adobe [!DNL Firefly] Creative Production overview
 
