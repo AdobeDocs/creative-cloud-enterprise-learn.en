@@ -22,7 +22,7 @@ This technique, of layering, or 'compositing' 3D models into an image or video, 
 
 ![Editing the plane of a metal sphere model in an Adobe [!DNL Dimension] composite](assets/Photorealistic_3.png)
 
-Adobe [!DNL Dimension] has allowed users to seamlessly combine 2D and 3D elements together directly in the app by using the Adobe Sensei powered match image function. The main benefit of compositing elements in this way is that it turbo boosts the process of creating a realistic looking image by substituting a fully realized 3D scene with a background image, which can be captured from reality. 
+Adobe [!DNL Dimension] has allowed users to seamlessly combine 2D and 3D elements together directly in the app by using the Adobe AI. The main benefit of compositing elements in this way is that it turbo boosts the process of creating a realistic looking image by substituting a fully realized 3D scene with a background image, which can be captured from reality. 
 
 ![The Match Image feature in Adobe [!DNL Dimension] analyzes the background image and estimates the focal length and position of the camera that was used to capture it](assets/Photorealistic_4.gif)
 
@@ -32,7 +32,7 @@ But what about everything not captured within the camera's frame?  The full envi
 
 ![A photorealistic 3d composite image of a moped in a living room](assets/Photorealistic_5.png)
 
-Match Image will attempt to 'hallucinate' the lighting environment in which a background image was taken. It does an impressive job that will produce excellent results in short order, but capturing the environment along with the background image will produce even more realistic results. This is even the method used to train the Adobe Sensei feature to do it on its own.
+Match Image will attempt to 'hallucinate' the lighting environment in which a background image was taken. It does an impressive job that will produce excellent results in short order, but capturing the environment along with the background image will produce even more realistic results. This is even the method used to train the Adobe AI.
 
 ![A 360 degree HDR panoramic of office space](assets/Photorealistic_6.png)
 

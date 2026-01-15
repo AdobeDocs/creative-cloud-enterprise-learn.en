@@ -49,11 +49,11 @@ Photoshop is the world's best imaging and graphic design software, allowing unli
 **Description**
 Use the powerful selection and color editing tools in Adobe Photoshop to dramatically change an image to match your corporate branding needs.
 
-In this tutorial, you will learn how to:
+In this tutorial, learn how:
 * The Object Selection Tool makes selecting items faster and simpler
 * Content-Aware Fill allows more control of sample areas within a source image for better cloning and patching of target areas
 * Brushes can be different shapes for better results
-* Adobe Sensei helps leverage artificial intelligence for mundane tasks
+* Adobe AI leverages artificial intelligence for mundane tasks
 
 **Presented by:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
