@@ -21,7 +21,7 @@ Creatives are under pressure to quickly deliver new, visually compelling content
     <div>
    <a href="stock.md#tutorial1"><strong>Find the best assets faster with Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe Sensei, our artificial intelligence engine</em>
+    <em>Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe AI</em>
     <br>
   </td>
   <td>
@@ -48,9 +48,10 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Description**
-Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe Sensei, our artificial intelligence engine.
+Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe AI.
 
 In this tutorial, you will learn how to:
+
 * Take the time and stress out of your search for high-quality images and video
 * Easily manage and track asset licenses and usage across your enterprise
 * Search, preview, and license right inside of your Adobe Creative Cloud Apps
