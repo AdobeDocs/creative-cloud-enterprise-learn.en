@@ -169,7 +169,7 @@ auto-video-transcripts: true
 + Adobe XD {#xdoverview}
   + [Overview](xd/overview-xd.md)
   + Tutorials {#xdtutorials}
-   + [Get comfortable with [!UICONTROL Components] in Adobe XD](xd/components.md)
+    + [Get comfortable with [!UICONTROL Components] in Adobe XD](xd/components.md)
 + Deploy & Manage {#deploy}
   + [Overview](deploy/overview-deploy.md)
   + [Serial number expiration](deploy/cceserial.md)
