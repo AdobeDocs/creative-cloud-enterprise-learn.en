@@ -28,8 +28,9 @@ Learn how bring brand consistency, efficiency, professionalism, and cost savings
 ## Adobe [!DNL Express] tutorials
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started
   {target = _self}
   {title = Getting started}
@@ -72,8 +73,8 @@ Learn how bring brand consistency, efficiency, professionalism, and cost savings
   {description = Learn how different teams within your organization can benefit from using Adobe Express}
   {https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1bf41d6490283a6dd13de00d05c2860c9b389a3fe.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 

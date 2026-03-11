@@ -14,8 +14,9 @@ Firefly is the new family of creative generative AI models coming to Adobe produ
 ## Firefly tutorials
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly
   {title = Overview of Adobe Firefly}
   {description = Learn what you can create with Adobe Firefly}

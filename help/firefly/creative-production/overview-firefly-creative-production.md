@@ -14,12 +14,12 @@ Adobe Firefly Creative Production no-code interface makes common edits a breeze.
 ## Firefly Creative Production tutorials
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
-
 -->
 
 <!-- END CARDS -->

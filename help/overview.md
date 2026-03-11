@@ -13,8 +13,9 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
 ## Browse topics
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce
   {target = _self}
   {title = Creative Cloud for enterprise tutorials}
@@ -63,8 +64,8 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
   {description = Learn all about the MAX 2020 enterprise sessions}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_123d1f364e7b955b6abb56e8708e22f080254474d.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
