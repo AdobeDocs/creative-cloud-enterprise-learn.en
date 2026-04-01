@@ -6,6 +6,16 @@ role: User
 level: Beginner
 jira: KT-14829
 exl-id: aa02b7fc-09be-47cd-8869-88b5d2511415
+TQID: https://experienceleague.adobe.com/H3XuPtFEbmCPJHPvCT4R0wDn-TIIlD1e6n7xsVS0sho
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # How to use version history
 

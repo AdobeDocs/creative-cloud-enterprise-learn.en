@@ -6,6 +6,19 @@ role: User
 level: Intermediate
 jira: KT-14895
 exl-id: 3799339b-abf0-4b47-8108-df9c7bb4f065
+TQID: https://experienceleague.adobe.com/OmnpwfpSgl-Stfz2-a-BYMY1WqqEbGTYgg5HHhwkqKg
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
 ---
 # Creating an end-of-year video
 

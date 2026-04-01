@@ -5,6 +5,21 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
+TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Expiring serial numbers? Why it's time for Named User Licensing
 

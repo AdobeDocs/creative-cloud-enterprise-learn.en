@@ -6,6 +6,21 @@ role: User
 level: Beginner
 jira: KT-19197
 exl-id: a5719996-be82-4847-b5c2-2a5909ef43ea
+TQID: https://experienceleague.adobe.com/ll-CZjLQZu--txPq49ZIv-sMxt6pfLPhJX9KDkj4jAQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Create a Custom Model
 

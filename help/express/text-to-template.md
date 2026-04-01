@@ -6,6 +6,16 @@ role: User
 level: Intermediate
 jira: KT-14848
 exl-id: 8160e596-4df5-42b1-a764-871fe31b5457
+TQID: https://experienceleague.adobe.com/x85eRQcflxfWXRUb85kOFJqDhV64aaWdhAmJLF5HJF8
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # How to use Text-to-template Gen AI
 
