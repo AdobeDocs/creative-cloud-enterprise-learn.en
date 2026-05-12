@@ -6,6 +6,22 @@ role: User
 level: Beginner
 jira: KT-14873
 exl-id: da2fc05e-d0ae-40cc-aad5-cd702365d2ed
+TQID: https://experienceleague.adobe.com/hDwNEn-OyH9dN54wT2LpvhROdPQGfnYsHV6LnH4EH3k
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Working with multiple clips
 

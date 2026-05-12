@@ -6,6 +6,16 @@ role: User
 level: Intermediate
 jira: KT-14846
 exl-id: ce097d61-070d-41f7-9cc4-3dcdb76a63d3
+TQID: https://experienceleague.adobe.com/39YQsTw3RZTpnZX2t4yWt6e2jQ1Iy0QdpFMxAlaKgNA
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # How to use Generative Fill
 

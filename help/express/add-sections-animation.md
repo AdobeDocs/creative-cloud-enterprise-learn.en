@@ -6,6 +6,16 @@ role: User
 level: Beginner
 jira: KT-14836
 exl-id: 0483dabf-1d14-47f0-9835-8a018da04e38
+TQID: https://experienceleague.adobe.com/iExg6ohh7SZjgF1SMLZmHFn22PBQBdpVM2RfbgysyCk
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Adding sections to your animation
 

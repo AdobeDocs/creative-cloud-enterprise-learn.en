@@ -6,6 +6,16 @@ role: User
 level: Intermediate
 jira: KT-14844
 exl-id: 2d79317f-6bcb-4028-92e3-9da8a66b6026
+TQID: https://experienceleague.adobe.com/Dye5x2aCzyRromh0KnwX7y6QNGptwvoRpGv2bMReOeo
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # What are the new Gen AI features in Adobe Express?
 

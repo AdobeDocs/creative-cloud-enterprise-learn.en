@@ -6,6 +6,16 @@ role: User
 level: Beginner
 jira: KT-14838
 exl-id: 9b13b1c3-1868-4b53-82bf-2cfb0d657891
+TQID: https://experienceleague.adobe.com/81oaKeYCi-mB6zBYLOFLrpocLUfTL9XHL56PYYHnvHE
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # How to resize your animations
 

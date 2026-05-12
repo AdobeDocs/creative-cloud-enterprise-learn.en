@@ -6,6 +6,16 @@ role: User
 level: Intermediate
 jira: KT-14851
 exl-id: 1d07770d-e423-4c72-a771-97bca0df4fe1
+TQID: https://experienceleague.adobe.com/ijC1T8f4XNs3GzZZd4tsxJmxML-hqMHLzhnYoDl-BGM
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # How to bulk translate your content
 
