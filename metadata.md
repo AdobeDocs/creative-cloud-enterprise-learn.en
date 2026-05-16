@@ -5,7 +5,7 @@ git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.en
 solution: Creative Cloud
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-    label: "Creative Cloud"
+    internal-label: "Creative Cloud"
 index: true
 ---
 
