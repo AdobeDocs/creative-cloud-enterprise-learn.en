@@ -6,6 +6,7 @@ solution: Creative Cloud
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: "Creative Cloud"
+usetq: true
 index: true
 ---
 
