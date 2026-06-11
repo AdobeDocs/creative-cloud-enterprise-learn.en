@@ -254,28 +254,5 @@ Welcome to the Creative Cloud for enterprise learning hub. Here you can find a w
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe MAX">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" title="Adobe MAX" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_123d1f364e7b955b6abb56e8708e22f080254474d.png?width=400&format=webply&optimize=medium" alt="Adobe MAX"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" target="_self" rel="referrer" title="Adobe MAX">Adobe MAX</a>
-                    </p>
-                    <p class="is-size-6">Learn all about the MAX 2020 enterprise sessions</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse tutorials</span>
-                </a>
-            </div>
-        </div>
-    </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
