@@ -174,29 +174,3 @@ auto-video-transcripts: true
   + [Overview](deploy/overview-deploy.md)
   + [Serial number expiration](deploy/cceserial.md)
   + [Named User Licensing](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-  + [Overview](max/overview-max.md)
-  + Tutorials {#tutorials}
-    + [Overview](max/maxtutorials.md)
-    + Desktop Products {#desktop-products}
-      + [Acrobat & Sign](max/acrobat-sign.md)
-      + [[!DNL Dimension]](max/dimension.md)
-      + [Illustrator](max/illustrator.md)
-      + [InDesign](max/indesign.md)
-      + [Photoshop](max/photoshop.md)
-      + [[!DNL Rush]](max/rush.md)
-      + [XD](max/xd.md)
-    + Mobile Apps {#mobile-apps}
-      + [[!DNL Capture]](max/capture.md)
-      + [Fresco](max/fresco.md)
-      + [Illustrator on iPad](max/illustratoripad.md)
-      + [Photoshop on iPad](max/photoshopipad.md)
-    + Integrations {#integrations}
-      + [AEM](max/aem.md)
-      + [Creative Cloud Desktop App](max/creativeclouddesktopapp.md)
-      + [CC Libraries](max/cclibraries.md)
-      + [InDesign Server](max/indesignserver.md)
-      + [[!DNL Stock]](max/stock.md)
-      + [Enterprise Administration](max/enterprise.md)
-    + Hands-on Project {#project}
-      + [Create your own Face Mask](max/handsonproject.md)
