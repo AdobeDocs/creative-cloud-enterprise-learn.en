@@ -20,4 +20,4 @@ Every template ships with sample inputs and a generic use case. It becomes a wor
 
 ## Next step
 
-Not sure which template to start from? Browse the template libraryto find one close to your use case.
+Not sure which template to start from? Browse the [template library](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) to find one close to your use case.

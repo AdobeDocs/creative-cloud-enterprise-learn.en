@@ -20,8 +20,8 @@ Once you know what a node, connection, and template are, you're ready to build y
 
 ## What to try first
 
-If you're not sure where to start, open one of the ready-made templates in the template libraryinstead of a blank canvas — it's the fastest way to see a complete, working graph before you build one from scratch.
+If you're not sure where to start, open one of the ready-made templates in the template library instead of a blank canvas — it's the fastest way to see a complete, working graph before you build one from scratch.
 
 ## Next step
 
-Starting from a template? Head to Customize a templateto make it reflect your own brief.
+Starting from a template? Head to [Customize a template](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) to make it reflect your own brief.
