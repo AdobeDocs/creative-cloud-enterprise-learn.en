@@ -21,7 +21,7 @@ This page walks you through everything you need to build your first graph: the c
 ## Learn the basics
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
