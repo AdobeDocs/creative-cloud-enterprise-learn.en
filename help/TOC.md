@@ -123,6 +123,13 @@ auto-video-transcripts: true
   + Creative Production tutorials {#firefly-creative-production}
     + [Overview of [!DNL Adobe Firefly] Creative Production](firefly/creative-production/overview-firefly-creative-production.md)
     + [Background Removal and Replacement](firefly/creative-production/background.md)
+  + Graph tutorials {#firefly-graph}
+    + [Overview of [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+    + [What is Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
+    + [Firefly Graph key concepts](firefly/graph/key-concepts.md)
+    + [Create you first graph](firefly/graph/create-your-first-graph.md)
+    + [Customize a template](firefly/graph/customize-template.md)
+    + [Template library](firefly/graph/template-library.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
