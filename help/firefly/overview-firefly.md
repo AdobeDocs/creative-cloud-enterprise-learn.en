@@ -25,7 +25,7 @@ level_v2:
 ---
 # Adobe [!DNL Firefly] overview
 
-Firefly is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation. Firefly offers new ways to ideate, create, and communicate while significantly improving creative workflows.
+Firefly is a family of creative generative AI models in Adobe products, focused on image and text effect generation. Firefly offers new ways to ideate, create, and communicate while significantly improving creative workflows.
 
 ## Firefly tutorials
 
