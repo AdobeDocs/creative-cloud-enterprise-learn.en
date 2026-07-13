@@ -45,7 +45,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
     <div>
    <a href="create-your-first-graph.md"><strong>3. Create your first graph</strong></a>
     </div>
-    <em>A 5-step walkthrough from canvas to export</em>
+    <em>A walkthrough from canvas to export</em>
     <br>
   </td>
   <td>
