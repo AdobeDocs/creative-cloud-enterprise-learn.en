@@ -75,9 +75,9 @@ If you've used a generative AI tool before, you're probably used to typing a pro
       <img alt="Digital book" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>Introducing Firefly Graph</strong></a>
+   <a href="introducing-graph.md"><strong>Introducing Firefly Graph webinar</strong></a>
     </div>
-    <em>Learn about Firefly's fully visual workflow system Graph</em>
+    <em>In this webinar, learn all about Firefly's fully visual workflow system Graph</em>
     <br>
   </td>
   <td>
