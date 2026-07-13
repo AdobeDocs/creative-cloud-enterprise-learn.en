@@ -1,5 +1,5 @@
 ---
-title: 5. Firefly Graph Template Library
+title: 4. Firefly Graph Template Library
 description: Browse ready-made Firefly Graph templates you can open and adapt to your own project
 feature: Image Editing, Gen AI
 role: User
@@ -8,7 +8,7 @@ jira: KT-
 hide: true
 hidefromtoc: true
 ---
-# 5. Firefly Graph template library
+# 4. Firefly Graph template library
 
 Each template is a complete graph someone has already built. Open one to see exactly how it works, then make it your ownby swapping in your own inputs.
 
