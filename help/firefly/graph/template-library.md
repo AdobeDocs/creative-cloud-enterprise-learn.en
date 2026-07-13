@@ -14,7 +14,7 @@ Each template is a complete graph someone has already built. Open one to see exa
 
 | Template | What it does | Link |
 |---|---|---|
-| **Bullet-Time VFX Generator** | Generate bullet-time style VFX sequences. | [Open template][(https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:b6edd909-614b-5c49-a79c-6d4f2cc18d03)] |
+| **Bullet-Time VFX Generator** | Generate bullet-time style VFX sequences. | [Open template][(https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:b6edd909-614b-5c49-a79c-6d4f2cc18d03) |
 | **Design System Generator** | Build reusable design system assets. | [Open template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:5300d435-e46d-5691-ba9c-501a3ba6fb25) |
 | **Hero's Journey Story Builder** | Build narrative sequences and story structures for storyboards or campaign arcs. | [Open template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:065565bb-a76c-5332-ac80-9d0eed4dfdb8) |
 | **Custom Real-Time Shaders and Brush Strokes** | Create custom real-time shader and brush stroke effects. | [Open template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:aeace815-1165-5a35-a7d1-13964d3b8268) |
