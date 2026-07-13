@@ -130,6 +130,7 @@ auto-video-transcripts: true
     + [Create you first graph](firefly/graph/create-your-first-graph.md)
     + [Customize a template](firefly/graph/customize-template.md)
     + [Template library](firefly/graph/template-library.md)
+    + [Introducing Firefly Graph webinar](firefly/graph/introducing-graph.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

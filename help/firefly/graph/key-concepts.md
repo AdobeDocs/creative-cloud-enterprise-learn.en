@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: yes
+hidefromtoc: true
 ---
 # 2. Firefly Graph key concepts
 

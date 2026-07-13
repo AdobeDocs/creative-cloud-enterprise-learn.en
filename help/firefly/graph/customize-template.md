@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: yes
+hidefromtoc: true
 ---
 # 4. Customize a template
 
