@@ -20,7 +20,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Tray of candy" src="../assets/graph-what-is.png" />
+      <img alt="Tray of candy" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>What is Firefly Graph?</strong></a>
@@ -30,7 +30,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-key-concepts.png" />
+      <img alt="Origami" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Key concepts</strong></a>
@@ -40,7 +40,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Jar of makeup" src="../assets/graph-first.png" />
+      <img alt="Jar of makeup" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Create your first graph</strong></a>
@@ -50,7 +50,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Bees" src="../assets/graph-template.png" />
+      <img alt="Bees" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Customize a template</strong></a>
@@ -62,7 +62,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Digital book" src="../assets/graph-library.png" />
+      <img alt="Digital book" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Template library</strong></a>
