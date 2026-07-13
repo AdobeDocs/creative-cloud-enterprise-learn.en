@@ -8,7 +8,7 @@ jira: KT-
 hide: true
 hidefromtoc: true
 ---
-# 3. Create your first Graph
+# 3. Create your first graph
 
 Once you know what a node, connection, and template are, you're ready to build your first workflow.
 
