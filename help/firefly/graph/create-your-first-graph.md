@@ -22,8 +22,6 @@ Once you know what a node, connection, and template are, you're ready to build y
     ![Node with image](../assets/node-image.png)
 1. Right-click on the blank canvas and select **+ new node** and select **Gradient Mask** in the dialog.
 1. Right-click on the blank canvas and select **+ new node** and select **Apply Mask** in the dialog.
-1. 
-
 
 ## Next step
 
