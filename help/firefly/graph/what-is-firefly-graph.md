@@ -1,5 +1,5 @@
 ---
-title: What is [!DNL Firefly Graph]?
+title: 1. What is [!DNL Firefly Graph]?
 description: Learn how a graph compares to a single prompt, and why making every step visible and reusable matters
 feature: Image Editing, Gen AI
 role: User
@@ -8,11 +8,13 @@ jira: KT-
 hide: true
 hidefromtoc: yes
 ---
-# What is [!DNL Firefly Graph]?
+# 1. What is [!DNL Firefly Graph]?
 
 Most generative AI tools give you one output from one prompt. If the brief changes, you rebuild the whole thing by hand, and there's nothing to hand off but the final file.
 
 Firefly Graph works differently. Instead of a single prompt, you build a **graph**: a visual, step-by-step workflow where every input, transformation, and output is captured together. Change one step and rerun it — you don't rebuild the whole chain. Every step is a visible node your team can inspect, adjust, and hand off intact.
+
+![Visual Graph screenshot](../assets/what-is-1.png)
 
 In short, Graph doesn't replace your creative process — it turns that process into something you can see, reuse, and scale.
 
@@ -32,4 +34,4 @@ That's the shift: the same work, but every decision along the way is now somethi
 
 ## Next step
 
-Once you're comfortable with the idea, move on to [Key concepts: nodes, connections, and templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) to learn the vocabulary you'll use to actually build a graph.
+Once you're comfortable with the idea, move on to [2. Key concepts: nodes, connections, and templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) to learn the vocabulary you'll use to actually build a graph.

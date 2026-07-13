@@ -23,9 +23,9 @@ If you've used a generative AI tool before, you're probably used to typing a pro
       <img alt="Makeup jar" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>What is Firefly Graph?</strong></a>
+   <a href="what-is-firefly-graph.md"><strong>1. What is Firefly Graph?</strong></a>
     </div>
-    <em>How a graph compares to a single prompt</em>
+    <em>Learn what Firefly Graph is and how it compares to a single prompt</em>
     <br>
   </td>
   <td>
@@ -33,9 +33,9 @@ If you've used a generative AI tool before, you're probably used to typing a pro
       <img alt="Makeup jar with background" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>Key concepts</strong></a>
+   <a href="key-concepts.md"><strong>2. Key concepts</strong></a>
     </div>
-    <em>Nodes, connections, and templates</em>
+    <em>Learn about nodes, connections, and templates</em>
     <br>
   </td>
   <td>
@@ -43,7 +43,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
       <img alt="Makeup jar new background" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>Create your first graph</strong></a>
+   <a href="create-your-first-graph.md"><strong>3. Create your first graph</strong></a>
     </div>
     <em>A 5-step walkthrough from canvas to export</em>
     <br>
@@ -53,7 +53,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
       <img alt="Makeup jar differenct background" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>Customize a template</strong></a>
+   <a href="customize-template.md"><strong>4. Customize a template</strong></a>
     </div>
     <em>Make a template reflect your own starting idea</em>
     <br>
@@ -65,7 +65,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
       <img alt="Makeup jar with final background" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>Template library</strong></a>
+   <a href="template-library.md"><strong>5. Template library</strong></a>
     </div>
     <em>Browse all templates, with a description and link for each</em>
     <br>
