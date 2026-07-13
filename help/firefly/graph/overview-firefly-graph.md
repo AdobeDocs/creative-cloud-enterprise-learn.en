@@ -72,7 +72,7 @@ If you've used a generative AI tool before, you're probably used to typing a pro
   </td>
   <td>
    <a href="introducing-graph.md">
-      <img alt="Digital book" src="../assets/graph-introducing.png" />
+      <img alt="Box of chocolates" src="../assets/graph-introducing.png" />
    </a>
     <div>
    <a href="introducing-graph.md"><strong>Introducing Firefly Graph webinar</strong></a>
@@ -81,12 +81,12 @@ If you've used a generative AI tool before, you're probably used to typing a pro
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
