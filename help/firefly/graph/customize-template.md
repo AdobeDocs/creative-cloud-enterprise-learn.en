@@ -1,5 +1,5 @@
 ---
-title: Customize a Template
+title: 4. Customize a Template
 description: A short checklist for turning a Firefly Graph template into a workflow that reflects your own brief and assets
 feature: Image Editing, Gen AI
 role: User
@@ -8,7 +8,7 @@ jira: KT-
 hide: true
 hidefromtoc: yes
 ---
-# Customize a template
+# 4. Customize a template
 
 Every template ships with sample inputs and a generic use case. It becomes a workflow that works for *you* only once it reflects your own brief, assets, and outcome.
 

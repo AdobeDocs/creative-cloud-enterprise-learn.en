@@ -1,5 +1,5 @@
 ---
-title: Create your First Graph
+title: 3. Create your First Graph
 description: A step-by-step walkthrough for building your first Firefly Graph workflow, from blank canvas to export
 feature: Image Editing, Gen AI
 role: User
@@ -8,7 +8,7 @@ jira: KT-
 hide: true
 hidefromtoc: yes
 ---
-# Create your first Graph
+# 3. Create your first Graph
 
 Once you know what a node, connection, and template are, you're ready to build your first workflow.
 
@@ -24,4 +24,4 @@ If you're not sure where to start, open one of the ready-made templates in the t
 
 ## Next step
 
-Starting from a template? Head to [Customize a template](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) to make it reflect your own brief.
+Starting from a template? Head to [4. Customize a template](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) to make it reflect your own brief.

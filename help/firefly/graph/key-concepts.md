@@ -1,5 +1,5 @@
 ---
-title: Firefly Graph Key Concepts
+title: 2. Firefly Graph Key Concepts
 description: The four ideas that cover the Firefly Graph mental model - node, connection, workflow, and template
 feature: Image Editing, Gen AI
 role: User
@@ -8,9 +8,11 @@ jira: KT-
 hide: true
 hidefromtoc: yes
 ---
-# Firefly Graph key concepts
+# 2. Firefly Graph key concepts
 
 Four ideas cover the mental model you need to get started with Firefly Graph.
+
+![Key concepts](../assets/concepts.png)
 
 ## A node
 
@@ -19,10 +21,6 @@ A node performs one step in the workflow — one node, one job. A node might gen
 ## A connection
 
 A connection carries an input or output between two nodes. A graph reads left to right, from your source input to the final output.
-
-## A workflow (or graph)
-
-A workflow, or graph, is the complete, end-to-end chain of connected nodes — from first input to final output. Once built, it can be run, refined, saved, and shared.
 
 ## A template
 
@@ -34,4 +32,4 @@ Graph is flexible by design. That flexibility means it's worth being specific ab
 
 ## Next step
 
-Ready to build something? Move on to [Create your first graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) for a step-by-step walkthrough.
+Ready to build something? Move on to [3. Create your first graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) for a step-by-step walkthrough.
