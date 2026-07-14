@@ -24,3 +24,5 @@ Samples files to follow along with (ZIP, 1.45 MB)
 ## Next step
 
 Want to start from a template? Head to [4. Customize a template](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) to make it reflect your own brief.
+
+Return to [Firefly Graph overview](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
