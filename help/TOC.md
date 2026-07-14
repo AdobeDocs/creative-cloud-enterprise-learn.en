@@ -129,7 +129,6 @@ auto-video-transcripts: true
     + {hide-from-toc} [Firefly Graph key concepts](firefly/graph/key-concepts.md)
     + {hide-from-toc} [Create your first graph](firefly/graph/create-your-first-graph.md)
     + {hide-from-toc} [Customize a template](firefly/graph/customize-template.md)
-    + {hide-from-toc} [Template library](firefly/graph/template-library.md)
     + {hide-from-toc} [Introducing Firefly Graph webinar](firefly/graph/introducing-graph.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
