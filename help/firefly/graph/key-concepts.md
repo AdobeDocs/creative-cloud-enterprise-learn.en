@@ -33,3 +33,5 @@ Graph is flexible by design. That flexibility means it's worth being specific ab
 ## Next step
 
 Ready to build something? Move on to [3. Create your first graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) for a step-by-step walkthrough.
+
+Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

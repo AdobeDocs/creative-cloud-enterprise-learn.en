@@ -35,3 +35,5 @@ That's the shift: the same work, but every decision along the way is now somethi
 ## Next step
 
 Once you're comfortable with the idea, move on to [2. Key concepts: nodes, connections, and templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) to learn the vocabulary you'll use to actually build a graph.
+
+Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
