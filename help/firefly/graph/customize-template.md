@@ -1,5 +1,5 @@
 ---
-title: 5. Customize a Template
+title: 4. Customize a Template
 description: A short checklist for turning a Firefly Graph template into a workflow that reflects your own brief and assets
 feature: Image Editing, Gen AI
 role: User
@@ -8,7 +8,7 @@ jira: KT-
 hide: true
 hidefromtoc: true
 ---
-# 5. Customize a template
+# 4. Customize a template
 
 Every template ships with sample inputs and a generic use case. It becomes a workflow that works for *you* only once it reflects your own brief, assets, and outcome.
 
@@ -17,7 +17,3 @@ Every template ships with sample inputs and a generic use case. It becomes a wor
 3. **Run the graph once, fully, before you rely on the result.**
 4. **Change one variable and rerun it**, so you can see exactly what that step controls.
 5. **Save your customized version under its own name.**
-
-## Next step
-
-Not sure which template to start from? Browse the [template library](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) to find one close to your use case.
