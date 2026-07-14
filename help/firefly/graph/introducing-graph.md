@@ -15,3 +15,5 @@ In this webinar, learn about Firefly's fully visual workflow system Graph, desig
 <br>&nbsp;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
+
+Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

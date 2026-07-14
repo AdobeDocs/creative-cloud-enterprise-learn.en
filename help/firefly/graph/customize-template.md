@@ -18,4 +18,4 @@ Every template ships with sample inputs and a generic use case. It becomes a wor
 4. **Change one variable and rerun it**, so you can see exactly what that step controls.
 5. **Save your customized version under its own name.**
 
-Return to [Firefly Graph overview](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
