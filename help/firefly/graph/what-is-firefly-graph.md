@@ -14,7 +14,7 @@ Most generative AI tools give you one output from one prompt. If the brief chang
 
 Firefly Graph works differently. Instead of a single prompt, you build a **graph**: a visual, step-by-step workflow where every input, transformation, and output is captured together. Change one step and rerun it — you don't rebuild the whole chain. Every step is a visible node your team can inspect, adjust, and hand off intact.
 
-![Visual Graph screenshot](../assets/what-is-1.png)
+![Visual Graph screenshot](../assets/what-is-1.png){align="center"}
 
 In short, Graph doesn't replace your creative process — it turns that process into something you can see, reuse, and scale.
 

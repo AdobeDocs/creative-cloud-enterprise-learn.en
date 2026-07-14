@@ -1,6 +1,6 @@
 ---
 title: 2. Firefly Graph Key Concepts
-description: The four ideas that cover the Firefly Graph mental model - node, connection, workflow, and template
+description: Learn about the key concepts to help you get started with Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ hidefromtoc: true
 ---
 # 2. Firefly Graph key concepts
 
-Four ideas cover the mental model you need to get started with Firefly Graph.
+Learn about the key concepts to help you get started with Firefly Graph.
 
-![Key concepts](../assets/concepts.png)
+![Key concepts](../assets/concepts.png){align="center"}
 
 ## A node
 
