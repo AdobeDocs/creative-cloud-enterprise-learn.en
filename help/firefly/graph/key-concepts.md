@@ -1,12 +1,11 @@
 ---
-title: 2. Firefly Graph Key Concepts
+title: "2. Firefly Graph Key Concepts"
 description: Learn about the key concepts to help you get started with Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: true
 ---
 # 2. Firefly Graph key concepts
 
