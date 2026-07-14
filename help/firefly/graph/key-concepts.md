@@ -14,21 +14,21 @@ Learn about the key concepts to help you get started with Firefly Graph.
 
 ![Key concepts](../assets/concepts.png){align="center"}
 
-## A node
+## Node
 
 A node performs one step in the workflow — one node, one job. A node might generate an image, apply a mask, shift a color, or run any other single creative action.
 
-## A connection
+## Connection
 
 A connection carries an input or output between two nodes. A graph reads left to right, from your source input to the final output.
 
-## A template
+## Template
 
 A template is a graph someone has already built. Starting from a template removes the blank canvas and gives you a working starting point to adapt to your own brief.
 
 ## Why this matters before you build
 
-Graph is flexible by design. That flexibility means it's worth being specific about the outcome and workflow you want *before* you start building — that's what makes the templates and node library easy to point at the right job.
+Graph is flexible by design. That flexibility means it's worth being specific about the outcome and workflow you want *before* you start building.
 
 ## Next step
 
