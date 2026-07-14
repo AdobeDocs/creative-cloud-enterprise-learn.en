@@ -6,7 +6,6 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-hidefromtoc: true
 ---
 # Get started with Firefly Graph
 
