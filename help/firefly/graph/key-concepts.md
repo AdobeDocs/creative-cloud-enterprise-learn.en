@@ -4,7 +4,7 @@ description: Learn about the key concepts to help you get started with Firefly G
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22053
 hide: true
 hidefromtoc: true
 ---
@@ -12,23 +12,35 @@ hidefromtoc: true
 
 Learn about the key concepts to help you get started with Firefly Graph.
 
-![Key concepts](../assets/concepts.png){align="center"}
-
 ## Node
 
 A node performs one step in the workflow — one node, one job. A node might generate an image, apply a mask, shift a color, or run any other single creative action.
+
+![Node](../assets/node.png){align="center"}
+
+## Port
+
+The connection points on a node. Output ports pass data out of a node; input ports receive data coming in. Connecting ports is how data flows through your workflow.
+
+![Port](../assets/port.png){align="center"}
+
+## Widget
+
+The interactive controls on a node, like text fields, dropdowns, and sliders, that let you configure its settings directly in the editor.
+
+![Widget](../assets/widget.png){align="center"}
 
 ## Connection
 
 A connection carries an input or output between two nodes. A graph reads left to right, from your source input to the final output.
 
-## Template
+![Connection](../assets/connection.png){align="center"}
 
-A template is a graph someone has already built. Starting from a template removes the blank canvas and gives you a working starting point to adapt to your own brief.
+## Graph
 
-## Why this matters before you build
+The complete workflow you build in the editor. A graph is made up of nodes and connections arranged on the canvas to produce a final output.
 
-Graph is flexible by design. That flexibility means it's worth being specific about the outcome and workflow you want *before* you start building.
+![Graph](../assets/graph.png){align="center"}
 
 ## Next step
 

@@ -4,7 +4,7 @@ description: Learn how a graph compares to a single prompt, and why making every
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22055
 hide: true
 hidefromtoc: true
 ---
