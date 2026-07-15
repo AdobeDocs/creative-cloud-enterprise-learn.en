@@ -4,7 +4,7 @@ description: Learn how to share a graph with others
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
 ---
