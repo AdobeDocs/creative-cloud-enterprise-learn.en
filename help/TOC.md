@@ -8,6 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
+nudge: true
 ---
 
 # Creative Cloud for Enterprise Tutorials {#cce-learning-hub}
@@ -181,3 +182,4 @@ auto-video-transcripts: true
   + [Overview](deploy/overview-deploy.md)
   + [Serial number expiration](deploy/cceserial.md)
   + [Named User Licensing](deploy/nameduserlicensing.md)
+

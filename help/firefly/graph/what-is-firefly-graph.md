@@ -1,12 +1,11 @@
 ---
-title: 1. What is [!DNL Firefly Graph]?
+title: "1. What is [!DNL Firefly Graph]?"
 description: Learn how a graph compares to a single prompt, and why making every step visible and reusable matters
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: true
 ---
 # 1. What is [!DNL Firefly Graph]?
 
