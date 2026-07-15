@@ -128,6 +128,7 @@ auto-video-transcripts: true
     + {hide-from-toc} [What is Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
     + {hide-from-toc} [Firefly Graph key concepts](firefly/graph/key-concepts.md)
     + {hide-from-toc} [Create your first graph](firefly/graph/create-your-first-graph.md)
+    + {hide-from-toc} [Share your graph](firefly/graph/share-a-graph.md)
     + {hide-from-toc} [Customize a template](firefly/graph/customize-template.md)
     + {hide-from-toc} [Introducing Firefly Graph webinar](firefly/graph/introducing-graph.md)
   + Webinars {#firefly-webinars}
