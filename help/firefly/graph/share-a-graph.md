@@ -4,7 +4,7 @@ description: Learn how to share a graph with others
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
 ---
@@ -28,10 +28,11 @@ Learn how to share a graph with others. Sharing a graph shares the live workflow
 
     ![Access](../assets/share_3.png){align="center"}
     
-    Turn on Discoverable via search so members can find the graph without needing the link at all.
-    A confirmation banner states exactly who can view the graph using the link. Check this before sending the link anywhere. It applies to every future recipient of that link, not just the next person invited.
+1. Turn on Discoverable via search so members can find the graph without needing the link at all. 
 
     ![Banner](../assets/share_4.png){align="center"}
+
+    A confirmation banner states exactly who can view the graph using the link. Check this before sending the link anywhere. It applies to every future recipient of that link, not just the next person invited.
 
 1. Type an email address directly into the invite field to give one person named access, separate from the general link setting. Select their entry from the suggestion that appears below the field.
 
