@@ -48,17 +48,27 @@ If you've used a generative AI tool before, you're probably used to typing a pro
     <br>
   </td>
    <td>
-   <a href="customize-template.md">
+   <a href="share-a-graph.md">
       <img alt="Makeup jar different background" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. Customize a template</strong></a>
+   <a href="share-a-graph.md"><strong>4. Share a graph</strong></a>
     </div>
-    <em>Make a template reflect your own starting idea</em>
+    <em>Learn how to share a graph with others</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Makeup jar different background" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. Customize a template</strong></a>
+    </div>
+    <em>Make a template reflect your own starting idea</em>
+    <br>
+  </td>
   <td>
    <a href="introducing-graph.md">
       <img alt="Box of chocolates" src="../assets/graph-introducing.png" />
@@ -67,11 +77,6 @@ If you've used a generative AI tool before, you're probably used to typing a pro
    <a href="introducing-graph.md"><strong>Introducing Firefly Graph webinar</strong></a>
     </div>
     <em>In this webinar, learn all about Firefly's fully visual workflow system Graph</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
