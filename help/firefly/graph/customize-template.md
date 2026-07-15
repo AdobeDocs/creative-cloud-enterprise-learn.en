@@ -4,7 +4,7 @@ description: A short checklist for turning a Firefly Graph template into a workf
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22056
 hide: true
 hidefromtoc: true
 ---

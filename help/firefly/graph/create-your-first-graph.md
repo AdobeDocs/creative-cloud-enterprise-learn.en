@@ -4,7 +4,7 @@ description: A step-by-step walkthrough for building your first Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22054
 hide: true
 hidefromtoc: true
 ---
