@@ -1,6 +1,6 @@
 ---
 title: Getting Started - Generate an Image
-description: Learn how to create a basic graph: one prompt node into one generation node into one output
+description: Learn how to create a basic graph - one prompt node into one generation node into one output
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
