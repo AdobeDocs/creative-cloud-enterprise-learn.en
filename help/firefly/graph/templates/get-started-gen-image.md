@@ -1,5 +1,5 @@
 ---
-title: Get Started - Generate an Image
+title: Getting Started - Generate an Image
 description: Learn how to get started with the simplest possible graph
 feature: Graphic Design, Gen AI
 role: User
@@ -7,19 +7,17 @@ level: Beginner
 jira: KT-
 hide: true
 ---
-# Get started - generate an image
+# Getting started - Generate an image
 
-Learn the basics with the simplest possible graph: one prompt node into one generation node into one output. [Open Get started - generate an image template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Learn the basics with the simplest possible graph: one prompt node into one generation node into one output. [Open Getting Started - Generate an image template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
->**Before you start** - Always customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
+>**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
 ![Gen image](../../assets/get-started-gen-image.png){align="center"}
 
-|Type|Badge|
-|---|---|
-|Informative (default)|[!BADGE Use cases]{type=Informative tooltip="Use cases"}|
+[!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Retail** - Generate a first product hero image from a brief, to learn the basic node flow before touching a real campaign asset.
 * **Health** - Test the simplest image generation flow on a placeholder product shot before scaling to a full content calendar.
