@@ -4,13 +4,12 @@ description: Learn how to feed a hero product or subject image to generate a rot
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22104
 hide: true
 ---
 # Bullet Time VFX
 
-Learn how to feed a hero product or subject image to generate a rotating sequence of
-angles around it, then stitch the freeze frame sweep automatically. [Open Bullet Time VFX template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
+Learn how to feed a hero product or subject image to generate a rotating sequence of angles around it, then stitch the freeze frame sweep automatically. [Open Bullet Time VFX template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
 
 >[!TIP]
 >

@@ -4,7 +4,7 @@ description: Learn how to isolate the subject from its background
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22100
 hide: true
 ---
 # Getting started - Segment an image

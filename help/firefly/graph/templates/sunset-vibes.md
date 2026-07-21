@@ -4,7 +4,7 @@ description: Learn how to create a 3D typographic image featuring the word “Vi
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22099
 hide: true
 ---
 # Sunset vibes

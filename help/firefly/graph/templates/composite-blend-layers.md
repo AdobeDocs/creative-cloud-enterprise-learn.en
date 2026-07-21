@@ -3,7 +3,7 @@ title: Composite and Blend Layers
 description: Learn how to stack a product cutout and a background scene as separate layer inputs
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
 ---
 # Composite and blend layers

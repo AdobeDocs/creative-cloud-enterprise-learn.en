@@ -4,7 +4,7 @@ description: Learn how to mask a specific region that needs correction and set t
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22102
 hide: true
 ---
 # Selective color correction

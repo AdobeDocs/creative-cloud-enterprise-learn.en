@@ -4,7 +4,7 @@ description: Learn how to feed in the approved still key art and a short motion 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22103
 hide: true
 ---
 # Getting started - Video generation

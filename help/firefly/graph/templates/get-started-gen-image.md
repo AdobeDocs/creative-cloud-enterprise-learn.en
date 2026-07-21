@@ -4,7 +4,7 @@ description: Learn how to create a basic graph - one prompt node into one genera
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22096
 hide: true
 ---
 # Getting started - Generate an image
