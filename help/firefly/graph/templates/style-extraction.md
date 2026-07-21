@@ -4,7 +4,7 @@ description: Learn how to the style from a reference image that can then be appl
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22098
 hide: true
 ---
 # Style extraction

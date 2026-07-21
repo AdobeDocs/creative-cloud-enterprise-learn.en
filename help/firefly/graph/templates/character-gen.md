@@ -4,7 +4,7 @@ description: Learn how to generate a consistent character reference while the su
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
 ---
 # Consistent character generation
