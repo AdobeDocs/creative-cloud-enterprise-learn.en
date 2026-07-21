@@ -1,5 +1,5 @@
 ---
-title: Firefly Graph Template Library
+title: Template Library
 description: Browse ready-made Firefly Graph templates you can open and adapt to your own project
 feature: Image Editing, Gen AI
 role: User
@@ -8,21 +8,13 @@ jira: KT-
 hide: true
 hidefromtoc: yes
 ---
-# Firefly Graph template library
+# 5. Template library
 
-Each template is a complete graph someone has already built. Open one to see exactly how it works, then make it your ownby swapping in your own inputs.
+A quick-reference index of Firefly Graph templates, organized by what each one produces or does. Every example is a starting point — swap in your own brand, product, and prompts before using a template in production.
 
-| Template | What it does | Link |
-|---|---|---|
-| **Bullet-Time VFX Generator** | Generate bullet-time style VFX sequences. | Open template |
-| **Design System Generator** | Build reusable design system assets. | Open template |
-| **Hero's Journey Story Builder** | Build narrative sequences and story structures for storyboards or campaign arcs. | Open template |
-| **Custom Real-Time Shaders and Brush Strokes** | Create custom real-time shader and brush stroke effects. | Open template |
-| **Sketch to 3D Turnaround** | Convert a sketch into a 3D turnaround view. | Open template |
-| **Targeted Color Correction** | Apply selective, localized color correction non-destructively. | Open template |
-| **Consistent Headshots** | Generate a consistent set of headshots across a group. | Open template |
-| **Editorial Photoshoot + Clothes Swap** | Produce an editorial photoshoot look with garment swapping across a shoot. | Open template |
+## Image Generation & Style
 
-## Next step
-
-Not sure which template fits your project? Start with for the core concepts, then come back to open the closest match.
+* [**Getting Started - Generate an image**](/help/firefly/graph/templates/get-started-gen-image.md) — The simplest possible graph: one prompt node into one generation node into one output. Use it as the first template to open with any brand new user.
+* [**Consistent character generation**](/help/firefly/graph/templates/character-gen.md) — Load one reference image of the character, then swap the scene or pose prompt for each new shot. The character reference stays locked while the surrounding scene changes.
+* [**Style Extraction**](/help/firefly/graph/templates/style-extraction.md) — Feed in one approved reference image. The style node extracts its color, light, and texture treatment, then applies that treatment to any new image run through the same graph.
+* [**Sunset Vibes**](/help/firefly/graph/templates/sunset-vibes.md) — Learn how to create a 3D typographic image featuring the word “Vibe” from a text prompt. The template handles placement and color balance automatically.
