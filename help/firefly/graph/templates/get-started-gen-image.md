@@ -1,6 +1,6 @@
 ---
 title: Getting Started - Generate an Image
-description: Learn how to get started with the simplest possible graph
+description: Learn how to create a basic graph: one prompt node into one generation node into one output
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ hide: true
 ---
 # Getting started - Generate an image
 
-Learn the basics with the simplest possible graph: one prompt node into one generation node into one output. [Open Getting Started - Generate an image template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Learn how to create a basic graph: one prompt node into one generation node into one output. [Open Getting Started - Generate an image template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >

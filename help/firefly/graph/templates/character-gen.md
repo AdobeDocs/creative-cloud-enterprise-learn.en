@@ -9,7 +9,7 @@ hide: true
 ---
 # Consistent character generation
 
-Learn how to generate a consistent character reference while the surrounding scene changes. [Open Consistent character generation template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Learn how to load one reference image of the character, then swap the scene or pose prompt for each new shot. [Open Consistent character generation template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
