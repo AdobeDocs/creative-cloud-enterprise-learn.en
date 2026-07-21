@@ -133,7 +133,7 @@ nudge: true
     + {hide-from-toc} [Customize a template](firefly/graph/customize-template.md)
     + {hide-from-toc} [Introducing Firefly Graph webinar](firefly/graph/introducing-graph.md)
     + {hide-from-toc} Graph templates {#graph-templates}
-    + {hide-from-toc} [Get started - Generate an image](firefly/graph/templates/get-started-gen-image.md)
+      + {hide-from-toc} [Get started - Generate an image](firefly/graph/templates/get-started-gen-image.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
