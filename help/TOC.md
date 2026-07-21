@@ -138,6 +138,11 @@ nudge: true
       + {hide-from-toc} [Consistent character generation](firefly/graph/templates/character-gen.md)
       + {hide-from-toc} [Style extraction](firefly/graph/templates/style-extraction.md)
       + {hide-from-toc} [Sunset vibes](firefly/graph/templates/sunset-vibes.md)
+      + {hide-from-toc} [Getting Started - Segment an image](firefly/graph/templates/get-started-segment-image.md)
+      + {hide-from-toc} [Composite and blend layers](firefly/graph/templates/composite-blend-layers.md)
+      + {hide-from-toc} [Selective color correction](firefly/graph/templates/selective-color-correction.md)
+      + {hide-from-toc} [Getting Started - Video generation](firefly/graph/templates/get-started-video-gen.md)
+      + {hide-from-toc} [Bullet Time VFX](firefly/graph/templates/bullet-time-vfx.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

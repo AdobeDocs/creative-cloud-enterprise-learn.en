@@ -9,7 +9,7 @@ hide: true
 ---
 # Style extraction
 
-Learn how to the style from a reference image that can then be applied to any new image. [Open Style extraction template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Learn how to feed in a reference image to extract its color, light, and texture treatment. You can then apply that treatment to any new image run through the same graph. [Open Style extraction template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
