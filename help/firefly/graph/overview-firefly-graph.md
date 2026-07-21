@@ -69,14 +69,15 @@ If you've used a generative AI tool before, you're probably used to typing a pro
     <em>Learn all about the various templates</em>
     <br>
   </td>
-  <a href="customize-template.md">
-      <img alt="Makeup jar different background" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>6. Customize a template</strong></a>
-    </div>
-    <em>Make a template reflect your own starting idea</em>
-    <br>
+  <td>
+    <a href="customize-template.md">
+        <img alt="Makeup jar different background" src="../assets/graph-5.png" />
+    </a>
+      <div>
+    <a href="customize-template.md"><strong>6. Customize a template</strong></a>
+      </div>
+      <em>Make a template reflect your own starting idea</em>
+      <br>
   </td>
   <td>
    <a href="introducing-graph.md">
