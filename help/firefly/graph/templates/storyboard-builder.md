@@ -15,12 +15,12 @@ Learn how to turn your ideas into a storyboard automatically using text prompts.
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-![Storyboard builder](../../assets/storyboard-builder.png){align="center"}
-
 [!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Communications & Telecom** - Storyboard a 30 second launch spot for a new plan, testing three different narrative structures before booking a shoot.
 * **Beverages** - Build a scene by scene storyboard for a seasonal campaign and reorder beats to test pacing before locking the cut.
 * **Travel** - Storyboard a destination campaign's narrative arc before committing to a shoot list.
+
+![Storyboard builder](../../assets/storyboard-builder.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

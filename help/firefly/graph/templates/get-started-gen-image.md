@@ -15,13 +15,12 @@ Learn how to create a basic graph: one prompt node into one generation node into
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-![Gen image](../../assets/get-started-gen-image.png){align="center"}
-
 [!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Retail** - Generate a first product hero image from a brief, to learn the basic node flow before touching a real campaign asset.
 * **Health** - Test the simplest image generation flow on a placeholder product shot before scaling to a full content calendar.
 * **Education** - Build a first sample image to demonstrate the graph to new team members before assigning real project work.
 
+![Gen image](../../assets/get-started-gen-image.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

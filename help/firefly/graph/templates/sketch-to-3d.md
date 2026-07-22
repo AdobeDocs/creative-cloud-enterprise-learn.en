@@ -15,12 +15,12 @@ Learn how to turn a sketch into a 3D character. The graph builds a rotating 3D t
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-![Sketch to 3D](../../assets/sketch-to-3d.png){align="center"}
-
 [!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Turn an early hardware concept sketch into a 3D turnaround for design review, before committing to a physical prototype build.
 * **Automotive** - Visualize an early vehicle concept sketch as a rotating 3D turnaround for internal review.
 * **Entertainment** - Turn a character concept sketch into a 3D turnaround for a pitch deck.
+
+![Sketch to 3D](../../assets/sketch-to-3d.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
