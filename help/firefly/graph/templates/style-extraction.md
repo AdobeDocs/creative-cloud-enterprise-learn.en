@@ -15,12 +15,12 @@ Learn how to feed in a reference image to extract its color, light, and texture 
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-![Consistent character gen](../../assets/style-extraction.png){align="center"}
-
 [!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Travel** - Extract the color and light treatment from an approved hero campaign photo and apply it across twenty new destination images for visual consistency.
 * **Retail** - Extract an art director's approved look from one hero shot and apply it to an entire season's product photography.
 * **Beverages** - Match new packaging renders to the mood of an award-winning campaign photo.
+
+![Consistent character gen](../../assets/style-extraction.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

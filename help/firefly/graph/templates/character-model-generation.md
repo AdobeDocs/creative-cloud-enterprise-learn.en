@@ -15,12 +15,12 @@ Learn how to create a 3D animated style of an illustration. The template generat
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-![Character model generation](../../assets/character-model-generation.png){align="center"}
-
 [!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Outdoors** - Build a 3D model of a trail mascot character for use across packaging renders and video, starting from a single approved character brief.
 * **Tech** - Generate a base 3D character model from a written brief, ready to hand to a modeler for cleanup.
 * **Education** - Build a 3D instructor character model for use across a course's video lessons.
+
+![Character model generation](../../assets/character-model-generation.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

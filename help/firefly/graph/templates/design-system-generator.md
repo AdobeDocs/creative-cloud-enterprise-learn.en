@@ -15,12 +15,12 @@ Learn how to generate a design system based on a website screenshot. The graph p
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-![Design system generator](../../assets/design-system.png){align="center"}
-
 [!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Generate a reusable set of icons and background patterns for a quarterly feature launch, reused across ads, landing pages, and social without rebriefing design.
 * **Finance** - Build a consistent icon and color system for a new app redesign before development begins.
 * **Communications & Telecom** - Generate a matching visual language for a new plan tier across web and in-store signage.
+
+![Design system generator](../../assets/design-system.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -15,12 +15,12 @@ Learn how to mask a specific region that needs correction and set the target col
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-![Selective color correction](../../assets/selective-color.png){align="center"}
-
 [!BADGE Use cases]{type=Informative tooltip="Use cases"}
 
 * **Communications & Telecom** - Correct brand color across a batch of retail store photography so every location matches the brand's signature color, without a full regrade.
 * **Retail** - Standardize product color across a photo set shot under inconsistent lighting.
 * **Finance** - Correct a stray brand color across a batch of marketing photography before publishing.
+
+![Selective color correction](../../assets/selective-color.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
