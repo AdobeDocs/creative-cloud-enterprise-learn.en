@@ -1,6 +1,6 @@
 ---
 title: Branding Visualization
-description: Learn how visualize your logo in product scenes
+description: Learn how to visualize your logo or brand in product scenes
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ hide: true
 ---
 # Branding visualization
 
-Learn how to visualize your logo in product scenes. Feed in brand guidelines or a logo and color palette and the graph outputs both static key art and a short motion pass in one run, so both formats stay visually aligned.[Open Branding visualization template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
+Learn how to visualize your logo or brand in product scenes. Feed in brand guidelines or a logo and color palette and the graph outputs both static key art and a short motion pass in one run, so both formats stay visually aligned.[Open Branding visualization template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
 
 >[!TIP]
 >
