@@ -149,6 +149,13 @@ nudge: true
       + {hide-from-toc} [Character model generation](firefly/graph/templates/character-model-generation.md)
       + {hide-from-toc} [Vinyl toy design](firefly/graph/templates/vinyl-toy-design.md)
       + {hide-from-toc} [Sketch to 3D turnaround](firefly/graph/templates/sketch-to-3d.md)
+      + {hide-from-toc} [Branding visualization](firefly/graph/templates/branding-visualization.md)
+      + {hide-from-toc} [Brand product mockup](firefly/graph/templates/brand-product-mockup.md)
+      + {hide-from-toc} [Editorial photoshoot](firefly/graph/templates/editorial-photoshoot.md)
+      + {hide-from-toc} [Photography studio](firefly/graph/templates/photography-studio.md)
+      + {hide-from-toc} [Apply decal to surfaces](firefly/graph/templates/decal-to-surfaces.md)
+      + {hide-from-toc} [Design system generator](firefly/graph/templates/design-system-generator.md)
+      + {hide-from-toc} [Headshots generation](firefly/graph/templates/headshots-generation.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

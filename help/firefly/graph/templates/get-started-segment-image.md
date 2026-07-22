@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22100
 hide: true
 ---
-# Getting started - Segment an image
+# Getting Started - Segment an image
 
 Learn how to load any source image and run the segmentation node to isolate the subject from its background. [Open Getting Started - Segment an image template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:c090820d-b733-44c7-910d-5e216c19c5cc).
 
