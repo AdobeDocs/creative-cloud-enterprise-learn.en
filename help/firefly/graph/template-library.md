@@ -30,4 +30,16 @@ A quick-reference index of Firefly Graph templates, organized by what each one p
 * [**Getting Started - Video generation**](/help/firefly/graph/templates/get-started-video-gen.md) — In this graph template you feed in an approved still key art and a short motion prompt. The template generates a video cut built from that same key art rather than a new shoot.
 * [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) — In this graph template, you feed a hero product or subject image to generate a rotating sequence of angles around it, then stitch the freeze frame sweep automatically.
 
+## Storyboarding
+
+* [**Text to storyboard**](/help/firefly/graph/templates/text-to-storyboard.md) — In this graph template you replace text input nodes with elements from your story. Each line becomes its own storyboard frame, generated in sequence and laid out for review as a single panel set.
+* [**Storyboard builder**](/help/firefly/graph/templates/storyboard-builder.md) — In this graph template you build a storyboard scene by scene, adding one node per beat of the narrative. Reorder nodes to test a different sequence before locking the final panel order.
+
+## 3D & Character
+
+* [**Real time shaders**](/help/firefly/graph/templates/real-time-shaders.md) — In this graph template you start with an image and apply three different custom shaders and preview the result in real time. Adjust shader parameters directly on the node rather than re-rendering from scratch.
+* [**Character model generation**](/help/firefly/graph/templates/character-model-generation.md) — In this graph template you create a 3D animated style of an illustration. The template generates a base 3D model pass ready to hand to a modeler for cleanup, rather than starting from a blank scene.
+* [**Vinyl toy design**](/help/firefly/graph/templates/vinyl-toy-design.md) — In this graph template you input a character or mascot reference, and render it in a stylized vinyl toy form. There are turnaround angles for a licensing or product review deck.
+* [**Sketch to 3D turnaround**](/help/firefly/graph/templates/sketch-to-3d.md) — In this graph template you turn a sketch into a 3D character. The graph builds a rotating 3D turnaround from it, ready for an internal design review before any physical prototype.
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
