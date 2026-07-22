@@ -146,7 +146,7 @@ nudge: true
       + {hide-from-toc} [Text to storyboard](firefly/graph/templates/text-to-storyboard.md)
       + {hide-from-toc} [Storyboard builder](firefly/graph/templates/storyboard-builder.md)
       + {hide-from-toc} [Real time shaders](firefly/graph/templates/real-time-shaders.md)
-      + {hide-from-toc} [Character model generation](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc} [Character model generation](firefly/graph/templates/character-model-generation.md)
       + {hide-from-toc} [Vinyl toy design](firefly/graph/templates/vinyl-toy-design.md)
       + {hide-from-toc} [Sketch to 3D turnaround](firefly/graph/templates/sketch-to-3d.md)
   + Webinars {#firefly-webinars}
