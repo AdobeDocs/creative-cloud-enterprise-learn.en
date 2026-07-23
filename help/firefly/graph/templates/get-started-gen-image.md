@@ -23,5 +23,4 @@ Learn how to create a basic graph: one prompt node into one generation node into
 
 ![Gen image](../../assets/get-started-gen-image.png){align="center"}
 
-
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
