@@ -4,7 +4,7 @@ description: Learn how to generate a design system based on a website screenshot
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22125
 hide: true
 ---
 # Design system generator

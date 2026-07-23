@@ -4,7 +4,7 @@ description: Learn how to turn your ideas into a storyboard automatically using 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22131
 hide: true
 ---
 # Storyboard builder

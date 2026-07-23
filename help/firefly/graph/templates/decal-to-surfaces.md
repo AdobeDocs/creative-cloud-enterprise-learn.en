@@ -4,7 +4,7 @@ description: Learn how to visualize decals or logos on product mockups
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22124
 hide: true
 ---
 # Apply decal to surfaces

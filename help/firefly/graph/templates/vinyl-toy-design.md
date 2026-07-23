@@ -4,7 +4,7 @@ description: Learn how to input a character or mascot reference and render it in
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22133
 hide: true
 ---
 # Vinyl toy design

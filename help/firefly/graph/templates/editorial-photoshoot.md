@@ -4,7 +4,7 @@ description: Learn how to input a model reference and swap the garment input for
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22126
 hide: true
 ---
 # Editorial photoshoot

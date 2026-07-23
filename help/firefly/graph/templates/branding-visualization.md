@@ -4,7 +4,7 @@ description: Learn how to visualize your logo or brand in product scenes
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22122
 hide: true
 ---
 # Branding visualization

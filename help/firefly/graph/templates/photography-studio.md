@@ -4,7 +4,7 @@ description: Learn how place a product render on the studio backdrop and adjust 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22128
 hide: true
 ---
 # Photography studio

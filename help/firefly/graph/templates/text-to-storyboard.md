@@ -4,7 +4,7 @@ description: Learn how to generate a storyboard from a script or shot list
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22132
 hide: true
 ---
 # Text to storyboard

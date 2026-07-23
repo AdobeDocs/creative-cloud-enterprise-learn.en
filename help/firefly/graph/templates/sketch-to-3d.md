@@ -4,7 +4,7 @@ description: Learn how to turn a sketch into a 3D character
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22130
 hide: true
 ---
 # Sketch to 3D turnaround

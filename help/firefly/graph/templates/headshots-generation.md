@@ -1,13 +1,13 @@
 ---
-title: Headshots Generations
+title: Headshots Generation
 description: Learn how harmonize a batch of corporate headshots
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22127
 hide: true
 ---
-# Headshots generations
+# Headshots generation
 
 Learn how harmonize a batch of corporate headshots. The graph normalizes lighting, background,
 and crop across the whole set in one run. [Open Headshots generation template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:5da3f95f-63e5-5335-9e10-58cfadd7ad3f).

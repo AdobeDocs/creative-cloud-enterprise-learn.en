@@ -4,7 +4,7 @@ description: Learn how to create a 3D animated style of an illustration
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22123
 hide: true
 ---
 # Character model generation
