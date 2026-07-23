@@ -4,7 +4,7 @@ description: Learn how to generate a design system based on a website screenshot
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22125
 hide: true
 ---
 # Design system generator
@@ -15,7 +15,9 @@ Learn how to generate a design system based on a website screenshot. The graph p
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Design system generator](../../assets/design-system.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Generate a reusable set of icons and background patterns for a quarterly feature launch, reused across ads, landing pages, and social without rebriefing design.
 * **Finance** - Build a consistent icon and color system for a new app redesign before development begins.

@@ -4,7 +4,7 @@ description: Learn how to generate a storyboard from a script or shot list
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22132
 hide: true
 ---
 # Text to storyboard
@@ -15,7 +15,9 @@ Learn how to generate a storyboard from a script or shot list. Each line becomes
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Text to storyboard](../../assets/text-storyboard.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Finance** - Turn an approved script for a new savings product into a storyboard the agency can shoot from the same day legal signs off on the copy.
 * **Retail** - Storyboard a product launch video straight from the campaign brief, before a director is booked.

@@ -4,7 +4,7 @@ description: Learn how to start with an image and apply three different custom s
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22129
 hide: true
 ---
 # Real time shaders
@@ -15,7 +15,9 @@ Learn how to start with an image and apply three different custom shaders and pr
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Real time shaders](../../assets/real-time-shaders.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Build custom stylized shader looks for a 3D product configurator used in an interactive trade show demo.
 * **Automotive** - Preview custom paint and material shaders on a vehicle model before a physical prototype exists.

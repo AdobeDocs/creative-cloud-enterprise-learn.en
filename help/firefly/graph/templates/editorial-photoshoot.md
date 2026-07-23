@@ -4,7 +4,7 @@ description: Learn how to input a model reference and swap the garment input for
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22126
 hide: true
 ---
 # Editorial photoshoot
@@ -15,7 +15,9 @@ Learn how to input a model reference and swap the garment input for each new loo
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Editorial photoshoot](../../assets/editorial-photoshoot.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Retail** - swap garments on one model across a full editorial shoot for a seasonal lookbook, without rebooking the model for every individual look.
 * **Beauty** - Build a consistent editorial series across multiple product looks using one model reference.

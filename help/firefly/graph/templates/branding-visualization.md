@@ -4,7 +4,7 @@ description: Learn how to visualize your logo or brand in product scenes
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22122
 hide: true
 ---
 # Branding visualization
@@ -15,7 +15,9 @@ Learn how to visualize your logo or brand in product scenes. Feed in brand guide
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Branding visualization](../../assets/branding-visualization.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Visualize a new product sub-brand as both key art and a launch teaser before committing design or media budget to full production.
 * **Beverages** - Test three logo and color-palette directions as finished-looking key art before choosing one to move into production.

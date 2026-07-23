@@ -15,7 +15,9 @@ Learn how to feed in a reference image to extract its color, light, and texture 
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Style extraction](../../assets/style-extraction.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Travel** - Extract the color and light treatment from an approved hero campaign photo and apply it across twenty new destination images for visual consistency.
 * **Retail** - Extract an art director's approved look from one hero shot and apply it to an entire season's product photography.

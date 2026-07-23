@@ -4,7 +4,7 @@ description: Learn how to turn a sketch into a 3D character
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22130
 hide: true
 ---
 # Sketch to 3D turnaround
@@ -15,7 +15,9 @@ Learn how to turn a sketch into a 3D character. The graph builds a rotating 3D t
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Sketch to 3D](../../assets/sketch-to-3d.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Turn an early hardware concept sketch into a 3D turnaround for design review, before committing to a physical prototype build.
 * **Automotive** - Visualize an early vehicle concept sketch as a rotating 3D turnaround for internal review.

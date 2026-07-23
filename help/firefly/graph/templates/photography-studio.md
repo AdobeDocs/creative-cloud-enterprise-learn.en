@@ -4,7 +4,7 @@ description: Learn how place a product render on the studio backdrop and adjust 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22128
 hide: true
 ---
 # Photography studio
@@ -15,7 +15,9 @@ Learn how to place a product render on the studio backdrop node and adjust the l
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Photography studio](../../assets/photography-studio.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Beverages** - Generate clean studio product shots of a new flavor SKU ahead of the physical product photography being scheduled.
 * **Tech** - Create studio-quality renders of a new device for a launch page before units are available to photograph.

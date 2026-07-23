@@ -15,7 +15,9 @@ Learn how to create a 3D typographic image featuring the word “Vibe” from a 
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Sunset vibes](../../assets/sunset-vibes.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Travel** - Overlay a new destination tagline on a stylized sunset background for a social carousel post, built and tested inside one afternoon.
 * **Beverages** - Pair a seasonal tagline with a warm lifestyle backdrop for a summer promotion.

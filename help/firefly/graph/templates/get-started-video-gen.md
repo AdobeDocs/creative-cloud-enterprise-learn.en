@@ -15,7 +15,9 @@ Learn how to feed in the approved still key art and a short motion prompt. The t
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Video generation](../../assets/video-generation.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Finance** - Turn an approved print campaign's key art into a short video for paid social, without scheduling a separate video shoot.
 * **Beverages** - Animate a hero product shot into a short teaser for launch day.

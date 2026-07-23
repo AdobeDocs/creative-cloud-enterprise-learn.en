@@ -15,7 +15,9 @@ Learn how to load one reference image of the character, then swap the scene or p
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Consistent character gen](../../assets/character-gen.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Travel** - Keep a recurring guide or mascot character consistent across a multi-video destination series and social content, without re-briefing an illustrator for every scene.
 * **Retail** - Maintain one branded spokes-character across dozens of seasonal product shots and social posts.

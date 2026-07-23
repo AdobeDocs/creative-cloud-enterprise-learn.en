@@ -4,7 +4,7 @@ description: Learn how visualize your product in difference scenes
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22121
 hide: true
 ---
 # Brand product mockup
@@ -15,7 +15,9 @@ Learn how to visualize your product in difference scenes. Drop a product render 
 >
 >**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+![Branding product mockup](../../assets/brand-mockup.png){align="center"}
+
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Retail** - Mock up a new seasonal product line inside a branded in-store display scene, before the physical display exists.
 * **Beverages** - Preview a new bottle design inside a fully branded retail cooler scene ahead of production.
