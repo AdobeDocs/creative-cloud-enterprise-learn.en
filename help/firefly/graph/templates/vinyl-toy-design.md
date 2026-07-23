@@ -23,4 +23,6 @@ Learn how to input a character or mascot reference and render it in a stylized v
 * **Beverages** - Mock up a collectible figure of a brand mascot for a limited-run merchandise drop.
 * **Entertainment** - Preview a character in vinyl toy form for a licensing pitch deck.
 
+![Vinyl toy design](../../assets/vinyl-toy-design.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

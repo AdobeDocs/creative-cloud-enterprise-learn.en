@@ -23,4 +23,7 @@ Learn how to create a 3D typographic image featuring the word “Vibe” from a 
 * **Beverages** - Pair a seasonal tagline with a warm lifestyle backdrop for a summer promotion.
 * **Retail** - Generate a quick styled text-and-background asset for a flash sale announcement.
 
+![Sunset vibes](../../assets/sunset-vibes.png){align="center"}
+
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

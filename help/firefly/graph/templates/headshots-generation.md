@@ -24,4 +24,6 @@ and crop across the whole set in one run. [Open Headshots generation template](h
 * **Finance** - Normalize headshots across an advisor team for a meet-the-team page.
 * **Health** - Standardize staff headshots across multiple clinic locations for a unified website look.
 
+![Headshots generation](../../assets/headshots-generation.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

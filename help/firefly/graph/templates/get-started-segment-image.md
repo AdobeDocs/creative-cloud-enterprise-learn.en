@@ -23,4 +23,6 @@ Learn how to load any source image and run the segmentation node to isolate the 
 * **Retail** - Isolate a garment from a lifestyle photo to build a clean product-only catalog image.
 * **Automotive** - Cut a vehicle out of a location shoot to place it against a studio backdrop for print.
 
+![Segment image](../../assets/get-started-segment-image.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

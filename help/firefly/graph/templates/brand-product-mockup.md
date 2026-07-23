@@ -23,4 +23,6 @@ Learn how to visualize your product in difference scenes. Drop a product render 
 * **Beverages** - Preview a new bottle design inside a fully branded retail cooler scene ahead of production.
 * **Tech** - Mock up a new device inside a branded retail shelf scene for a launch deck.
 
+![Branding product mockup](../../assets/brand-mockup.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

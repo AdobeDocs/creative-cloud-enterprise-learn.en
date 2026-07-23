@@ -23,4 +23,6 @@ Learn how to start with an image and apply three different custom shaders and pr
 * **Automotive** - Preview custom paint and material shaders on a vehicle model before a physical prototype exists.
 * **Retail** - Test stylized material looks on a 3D product render for a digital shelf display.
 
+![Real time shaders](../../assets/real-time-shaders.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -23,4 +23,6 @@ Learn how to visualize your logo or brand in product scenes. Feed in brand guide
 * **Beverages** - Test three logo and color-palette directions as finished-looking key art before choosing one to move into production.
 * **Finance** - Preview a new card or app identity as branded visuals before it reaches a design review.
 
+![Branding visualization](../../assets/branding-visualization.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -23,4 +23,6 @@ Learn how to generate a design system based on a website screenshot. The graph p
 * **Finance** - Build a consistent icon and color system for a new app redesign before development begins.
 * **Communications & Telecom** - Generate a matching visual language for a new plan tier across web and in-store signage.
 
+![Design system generator](../../assets/design-system.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

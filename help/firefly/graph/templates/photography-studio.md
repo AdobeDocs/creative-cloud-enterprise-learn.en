@@ -23,4 +23,6 @@ Learn how to place a product render on the studio backdrop node and adjust the l
 * **Tech** - Create studio-quality renders of a new device for a launch page before units are available to photograph.
 * **Retail** - Build consistent studio shots across an entire product line without booking individual photography sessions.
 
+![Photography studio](../../assets/photography-studio.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

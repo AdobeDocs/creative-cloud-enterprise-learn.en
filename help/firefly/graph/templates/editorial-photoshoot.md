@@ -23,4 +23,6 @@ Learn how to input a model reference and swap the garment input for each new loo
 * **Beauty** - Build a consistent editorial series across multiple product looks using one model reference.
 * **Outdoors** - Generate a full editorial set across a new jacket colorway lineup from a single model shoot.
 
+![Editorial photoshoot](../../assets/editorial-photoshoot.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

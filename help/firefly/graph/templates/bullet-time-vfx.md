@@ -23,4 +23,6 @@ Learn how to feed a hero product or subject image to generate a rotating sequenc
 * **Retail** - Create a 360-degree freeze-frame shot of a new sneaker for a product launch page.
 * **Automotive** - Generate a rotating hero shot of a vehicle for a digital showroom, without a turntable studio session.
 
+![Bullet Time VFX](../../assets/bullet-time-vfx.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

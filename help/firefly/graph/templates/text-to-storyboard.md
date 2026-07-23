@@ -23,4 +23,6 @@ Learn how to generate a storyboard from a script or shot list. Each line becomes
 * **Retail** - Storyboard a product launch video straight from the campaign brief, before a director is booked.
 * **Tech** - Storyboard an explainer video from a feature script to align stakeholders before animation begins.
 
+![Text to storyboard](../../assets/text-storyboard.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

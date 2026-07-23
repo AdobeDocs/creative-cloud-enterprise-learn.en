@@ -23,4 +23,6 @@ Learn how to mask a specific region that needs correction and set the target col
 * **Retail** - Standardize product color across a photo set shot under inconsistent lighting.
 * **Finance** - Correct a stray brand color across a batch of marketing photography before publishing.
 
+![Selective color correction](../../assets/selective-color.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

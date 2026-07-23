@@ -23,4 +23,6 @@ Learn how to load one reference image of the character, then swap the scene or p
 * **Retail** - Maintain one branded spokes-character across dozens of seasonal product shots and social posts.
 * **Education** - Keep an animated instructor character consistent across every lesson video in a course.
 
+![Consistent character gen](../../assets/character-gen.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

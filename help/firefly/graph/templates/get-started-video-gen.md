@@ -23,5 +23,6 @@ Learn how to feed in the approved still key art and a short motion prompt. The t
 * **Beverages** - Animate a hero product shot into a short teaser for launch day.
 * **Retail** - Extend a single campaign photo into a short-form video cut for social.
 
+![Video generation](../../assets/video-generation.png){align="center"}
 
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

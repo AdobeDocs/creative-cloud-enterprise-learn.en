@@ -23,4 +23,6 @@ Learn how to feed in a reference image to extract its color, light, and texture 
 * **Retail** - Extract an art director's approved look from one hero shot and apply it to an entire season's product photography.
 * **Beverages** - Match new packaging renders to the mood of an award-winning campaign photo.
 
+![Consistent character gen](../../assets/style-extraction.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

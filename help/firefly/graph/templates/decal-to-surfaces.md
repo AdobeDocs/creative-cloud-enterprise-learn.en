@@ -23,4 +23,6 @@ Learn how to visualize decals or logos on product mockups. The template wraps th
 * **Automotive** - Preview a new livery or decal design across a vehicle model before wrap production.
 * **Retail** - Test a new logo placement across a full apparel mockup line before print approval.
 
+![Apply decal to surfaces](../../assets/apply-decal.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

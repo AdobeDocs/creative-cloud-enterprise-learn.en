@@ -23,4 +23,6 @@ photo crew to a location.
 * **Retail** - Blend a product cutout into a seasonal lifestyle backdrop for a homepage banner.
 * **Travel** - Composite a destination backdrop behind a product shot for a co-branded promotion.
 
+![Composite and blend layers](../../assets/composite-blend-layers.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

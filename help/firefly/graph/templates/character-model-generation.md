@@ -23,4 +23,6 @@ Learn how to create a 3D animated style of an illustration. The template generat
 * **Tech** - Generate a base 3D character model from a written brief, ready to hand to a modeler for cleanup.
 * **Education** - Build a 3D instructor character model for use across a course's video lessons.
 
+![Character model generation](../../assets/character-model-generation.png){align="center"}
+
 Return to [Get started with Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
