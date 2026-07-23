@@ -17,7 +17,7 @@ Learn how to turn your ideas into a storyboard automatically using text prompts.
 
 ![Storyboard builder](../../assets/storyboard-builder.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Communications & Telecom** - Storyboard a 30 second launch spot for a new plan, testing three different narrative structures before booking a shoot.
 * **Beverages** - Build a scene by scene storyboard for a seasonal campaign and reorder beats to test pacing before locking the cut.

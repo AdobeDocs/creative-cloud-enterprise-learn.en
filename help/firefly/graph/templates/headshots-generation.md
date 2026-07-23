@@ -18,7 +18,7 @@ and crop across the whole set in one run. [Open Headshots generation template](h
 
 ![Headshots generation](../../assets/headshots-generation.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Generate a consistent headshot set for an updated employee directory ahead of an all hands, without scheduling a photographer for every new hire.
 * **Finance** - Normalize headshots across an advisor team for a meet-the-team page.

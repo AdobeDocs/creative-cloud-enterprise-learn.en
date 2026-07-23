@@ -17,7 +17,7 @@ Learn how to place a product render on the studio backdrop node and adjust the l
 
 ![Photography studio](../../assets/photography-studio.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Beverages** - Generate clean studio product shots of a new flavor SKU ahead of the physical product photography being scheduled.
 * **Tech** - Create studio-quality renders of a new device for a launch page before units are available to photograph.

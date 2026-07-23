@@ -16,7 +16,7 @@ Learn how to stack a product cutout and a background scene as separate layer inp
 
 ![Composite and blend layers](../../assets/composite-blend-layers.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Beverages** - Composite a new can design into a beach lifestyle scene for a summer campaign, without flying a
 photo crew to a location.

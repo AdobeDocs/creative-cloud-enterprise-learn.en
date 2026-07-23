@@ -17,7 +17,7 @@ Learn how to load any source image and run the segmentation node to isolate the 
 
 ![Segment image](../../assets/get-started-segment-image.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Health** - Segment a medical device out of a busy studio shot to drop it onto a clean clinical background for a product page, without a background rescan.
 * **Retail** - Isolate a garment from a lifestyle photo to build a clean product-only catalog image.

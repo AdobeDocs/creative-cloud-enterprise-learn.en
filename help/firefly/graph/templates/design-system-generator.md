@@ -17,7 +17,7 @@ Learn how to generate a design system based on a website screenshot. The graph p
 
 ![Design system generator](../../assets/design-system.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Generate a reusable set of icons and background patterns for a quarterly feature launch, reused across ads, landing pages, and social without rebriefing design.
 * **Finance** - Build a consistent icon and color system for a new app redesign before development begins.

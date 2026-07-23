@@ -17,7 +17,7 @@ Learn how to create a basic graph: one prompt node into one generation node into
 
 ![Gen image](../../assets/get-started-gen-image.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Retail** - Generate a first product hero image from a brief, to learn the basic node flow before touching a real campaign asset.
 * **Health** - Test the simplest image generation flow on a placeholder product shot before scaling to a full content calendar.

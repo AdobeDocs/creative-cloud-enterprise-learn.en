@@ -17,7 +17,7 @@ Learn how to mask a specific region that needs correction and set the target col
 
 ![Selective color correction](../../assets/selective-color.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Communications & Telecom** - Correct brand color across a batch of retail store photography so every location matches the brand's signature color, without a full regrade.
 * **Retail** - Standardize product color across a photo set shot under inconsistent lighting.

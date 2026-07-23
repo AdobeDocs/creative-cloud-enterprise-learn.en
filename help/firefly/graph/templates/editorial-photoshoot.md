@@ -17,7 +17,7 @@ Learn how to input a model reference and swap the garment input for each new loo
 
 ![Editorial photoshoot](../../assets/editorial-photoshoot.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Retail** - swap garments on one model across a full editorial shoot for a seasonal lookbook, without rebooking the model for every individual look.
 * **Beauty** - Build a consistent editorial series across multiple product looks using one model reference.

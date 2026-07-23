@@ -17,7 +17,7 @@ Learn how to generate a storyboard from a script or shot list. Each line becomes
 
 ![Text to storyboard](../../assets/text-storyboard.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Finance** - Turn an approved script for a new savings product into a storyboard the agency can shoot from the same day legal signs off on the copy.
 * **Retail** - Storyboard a product launch video straight from the campaign brief, before a director is booked.

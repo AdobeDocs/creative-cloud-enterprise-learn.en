@@ -17,7 +17,7 @@ Learn how to turn a sketch into a 3D character. The graph builds a rotating 3D t
 
 ![Sketch to 3D](../../assets/sketch-to-3d.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Turn an early hardware concept sketch into a 3D turnaround for design review, before committing to a physical prototype build.
 * **Automotive** - Visualize an early vehicle concept sketch as a rotating 3D turnaround for internal review.

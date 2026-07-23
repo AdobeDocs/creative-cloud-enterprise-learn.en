@@ -17,7 +17,7 @@ Learn how to visualize decals or logos on product mockups. The template wraps th
 
 ![Apply decal to surfaces](../../assets/apply-decal.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Outdoors** - Apply a refreshed logo decal onto a full line of gear mockups to preview a rebrand before production tooling is ordered.
 * **Automotive** - Preview a new livery or decal design across a vehicle model before wrap production.

@@ -17,7 +17,7 @@ Learn how to load one reference image of the character, then swap the scene or p
 
 ![Consistent character gen](../../assets/character-gen.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Travel** - Keep a recurring guide or mascot character consistent across a multi-video destination series and social content, without re-briefing an illustrator for every scene.
 * **Retail** - Maintain one branded spokes-character across dozens of seasonal product shots and social posts.

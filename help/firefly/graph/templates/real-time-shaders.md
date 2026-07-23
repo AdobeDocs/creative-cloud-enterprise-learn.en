@@ -17,7 +17,7 @@ Learn how to start with an image and apply three different custom shaders and pr
 
 ![Real time shaders](../../assets/real-time-shaders.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Tech** - Build custom stylized shader looks for a 3D product configurator used in an interactive trade show demo.
 * **Automotive** - Preview custom paint and material shaders on a vehicle model before a physical prototype exists.

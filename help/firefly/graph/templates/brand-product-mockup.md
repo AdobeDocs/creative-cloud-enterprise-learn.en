@@ -17,7 +17,7 @@ Learn how to visualize your product in difference scenes. Drop a product render 
 
 ![Branding product mockup](../../assets/brand-mockup.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Retail** - Mock up a new seasonal product line inside a branded in-store display scene, before the physical display exists.
 * **Beverages** - Preview a new bottle design inside a fully branded retail cooler scene ahead of production.

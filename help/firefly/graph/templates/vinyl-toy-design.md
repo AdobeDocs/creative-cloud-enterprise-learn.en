@@ -17,7 +17,7 @@ Learn how to input a character or mascot reference and render it in a stylized v
 
 ![Vinyl toy design](../../assets/vinyl-toy-design.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Retail** - Design a limited edition collectible tied to a loyalty program launch, reviewed as a concept before committing to a manufacturing run.
 * **Beverages** - Mock up a collectible figure of a brand mascot for a limited-run merchandise drop.

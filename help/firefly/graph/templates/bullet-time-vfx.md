@@ -17,7 +17,7 @@ Learn how to feed a hero product or subject image to generate a rotating sequenc
 
 ![Bullet Time VFX](../../assets/bullet-time-vfx.png){align="center"}
 
-[!BADGE Use cases]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
 
 * **Outdoors** - Build a bullet-time hero shot of a climber in motion for a paid social ad, without a multi-camera rig on location.
 * **Retail** - Create a 360-degree freeze-frame shot of a new sneaker for a product launch page.
