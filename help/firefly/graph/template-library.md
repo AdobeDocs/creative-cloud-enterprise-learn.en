@@ -16,7 +16,7 @@ A quick-reference index of Firefly Graph templates, organized by what each one p
 
 | Graph template | Description | Use cases |
 |---|---|---|
-| [**Getting tarted - Generate an image**](/help/firefly/graph/templates/get-started-gen-image.md) | A basic graph with one prompt node into one generation node into one output. | <ul><li>Hero image</li><li>Placeholder test</li><li>Sample image</li></ul> |
+| [**Getting started - Generate an image**](/help/firefly/graph/templates/get-started-gen-image.md) | A basic graph with one prompt node into one generation node into one output. | <ul><li>Hero image</li><li>Placeholder test</li><li>Sample image</li></ul> |
 | [**Consistent character generation**](/help/firefly/graph/templates/character-gen.md) | Load one reference image of a character, then swap the scene or pose prompt for each new shot. | <ul><li>Recurring mascot</li><li>Spokes character</li><li>Instructor character</li></ul> |
 | [**Style extraction**](/help/firefly/graph/templates/style-extraction.md) | Feed in a reference image to extract its color, light, and texture treatment. | <ul><li>Look transfer</li><li>Seasonal look match</li><li>Mood match</li></ul> |
 | [**Sunset vibes**](/help/firefly/graph/templates/sunset-vibes.md) | Create a 3D typographic image from a text prompt. | <ul><li>Tagline overlay</li><li>Seasonal tagline</li><li>Flash sale asset</li></ul> |
