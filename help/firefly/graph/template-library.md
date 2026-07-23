@@ -25,8 +25,8 @@ A quick-reference index of Firefly Graph templates, organized by what each one p
 
 | Graph template | Description | Use cases |
 |---|---|---|
-| [**Getting started - Segment an image**](/help/firefly/graph/templates/get-started-segment-image.md) | Load any source image and run the segmentation node to isolate the subject from its background. | <ul><li>Clean cutout</li><li>Catalog isolate</li><li>ackdrop swap</li></ul> |
-| [**Composite and blend layers**](/help/firefly/graph/templates/composite-blend-layers.md) | Stack a product cutout and a background scene as separate layer inputs. | <ul><li>Lifestyle/Social composite</li><li>Homepage banner</li><li>o-branded composite</li></ul> |
+| [**Getting started - Segment an image**](/help/firefly/graph/templates/get-started-segment-image.md) | Load any source image and run the segmentation node to isolate the subject from its background. | <ul><li>Clean cutout</li><li>Catalog isolate</li><li>backdrop swap</li></ul> |
+| [**Composite and blend layers**](/help/firefly/graph/templates/composite-blend-layers.md) | Stack a product cutout and a background scene as separate layer inputs. | <ul><li>Lifestyle/Social composite</li><li>Homepage banner</li><li>Co-branded composite</li></ul> |
 | [**Selective color correction**](/help/firefly/graph/templates/selective-color-correction.md) | Mask a specific region that needs correction and set the target color on that node only. | <ul><li>Brand color match</li><li>Color standardization</li><li>Stray color fix</li></ul> |
 
 ## Video & motion
@@ -60,7 +60,7 @@ A quick-reference index of Firefly Graph templates, organized by what each one p
 | [**Brand product mockup**](/help/firefly/graph/templates/brand-product-mockup.md) | Visualize your product in different scenes. | <ul><li>In-store mockup</li><li>Product mockup</li><li>Architectural mockup</li></ul> |
 | [**Editorial photoshoot**](/help/firefly/graph/templates/editorial-photoshoot.md) | Load a model reference and swap the garment input for each new look. | <ul><li>Lookbook shoot</li><li>Editorial series</li><li>Colorway lineup</li></ul> |
 | [**Photography studio**](/help/firefly/graph/templates/photography-studio.md) | Place a product render on the studio backdrop and adjust the lighting until the result reads like a real studio capture. | <ul><li>SKU studio shot</li><li>Launch page render</li><li>Product line shots</li></ul> |
-| [**Apply decal to surfaces**](/help/firefly/graph/templates/decal-to-surfaces.md) | Load the base product mockup and the decal or logo asset as separate inputs. | <ul><li>Rebrand preview</li><li> Livery preview</li><li>Logo placement test</li></ul> |
+| [**Apply decal to surfaces**](/help/firefly/graph/templates/decal-to-surfaces.md) | Load the base product mockup and the decal or logo asset as separate inputs. | <ul><li>Rebrand preview</li><li>Livery preview</li><li>Logo placement test</li></ul> |
 
 ## Batch & consistency operations
 
