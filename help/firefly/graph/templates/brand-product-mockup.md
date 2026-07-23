@@ -11,17 +11,15 @@ hide: true
 
 Learn how to visualize your product in difference scenes. Drop a product render or photo into the mockup node. The graph places it inside a fully branded scene, with lighting and shadow matched to that scene automatically. [Open Brand product mockup template](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:18717173-ecd7-5f76-8788-6be6cb977d93).
 
->[!TIP]
->
->**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
-
-![Branding product mockup](../../assets/brand-mockup.png){align="center"}
-
-[!BADGE Industry examples]{type=Informative tooltip="Use cases"}
+[!BADGE Industry examples]{type=Informative tooltip="Industry examples"}
 
 * **Retail** - Mock up a new seasonal product line inside a branded in-store display scene, before the physical display exists.
 * **Beverages** - Preview a new bottle design inside a fully branded retail cooler scene ahead of production.
 * **Tech** - Mock up a new device inside a branded retail shelf scene for a launch deck.
+
+>[!TIP]
+>
+>**Before you start** - For the best results customize this template to your own brand, product, and workflow. Swap in your reference images, prompts, and copy before using any output.
 
 ![Branding product mockup](../../assets/brand-mockup.png){align="center"}
 

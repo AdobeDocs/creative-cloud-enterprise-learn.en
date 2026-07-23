@@ -4,7 +4,7 @@ description: Browse ready-made Firefly Graph templates you can open and adapt to
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22134
 hide: true
 hidefromtoc: yes
 ---
