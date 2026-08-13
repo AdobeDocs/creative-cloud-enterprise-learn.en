@@ -124,6 +124,8 @@ nudge: true
   + Creative Production tutorials {#firefly-creative-production}
     + [Overview of [!DNL Adobe Firefly] Creative Production](firefly/creative-production/overview-firefly-creative-production.md)
     + [Background Removal and Replacement](firefly/creative-production/background.md)
+    + {hide-from-toc} [Photoshoot pre-visualization](firefly/photoshoot-pre-visualization.md)
+    + {hide-from-toc} [Explore product ideas without meetings, markers, and mockups ](firefly/explore-product-ideas.md)
   + {hide-from-toc} Graph tutorials {#firefly-graph}
     + {hide-from-toc} [Overview of Adobe Firefly Graph](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc} [What is Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
