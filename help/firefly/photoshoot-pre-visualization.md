@@ -8,7 +8,7 @@ jira: KT-22291
 hide: true
 hidefromtoc: true
 ---
-# Photoshoot Pre-visualization
+# Photoshoot pre-visualization
 
 Preview your entire photoshoot vision with the full power of Adobe Firefly.
 
