@@ -126,6 +126,7 @@ nudge: true
     + [Background Removal and Replacement](firefly/creative-production/background.md)
     + {hide-from-toc} [Photoshoot pre-visualization](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc} [Explore product ideas without meetings, markers, and mockups ](firefly/explore-product-ideas.md)
+    + {hide-from-toc} [Turn one word into a shared creative vision](firefly/creative-vision.md)
   + {hide-from-toc} Graph tutorials {#firefly-graph}
     + {hide-from-toc} [Overview of Adobe Firefly Graph](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc} [What is Firefly Graph?](firefly/graph/what-is-firefly-graph.md)

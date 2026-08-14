@@ -1,15 +1,15 @@
 ---
 title: Photoshoot Pre-visualization
-description: Preview your entire photoshoot vision with the full power of Adobe Firefly
+description: Learn how how Gen AI lets you previsualize an entire photoshoot
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Advanced
 jira: KT-22291
 hide: true
 hidefromtoc: true
 ---
 # Photoshoot pre-visualization
 
-Preview your entire photoshoot vision with the full power of Adobe Firefly.
+Learn how Gen AI lets you previsualize an entire photoshoot, placing your product in aspirational environments so you can lock in location, setting, and characters with client sign-off before a single frame is captured. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
