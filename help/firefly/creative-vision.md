@@ -3,7 +3,7 @@ title: Turn One Word into a Shared Creative Vision
 description: Learn how to unleash your creative team's ideas and define a shared style early
 feature: Image Editing, Gen AI
 role: User
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 jira: KT-22330
 hide: true
 hidefromtoc: true

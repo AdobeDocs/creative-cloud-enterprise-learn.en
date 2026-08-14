@@ -3,7 +3,7 @@ title: Explore Product Ideas Without Meetings, Markers, and Mockups
 description: Learn how Firefly Boards lets you generate concepts in stunning realism
 feature: Image Editing, Gen AI
 role: User
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 jira: KT-22321
 hide: true
 hidefromtoc: true

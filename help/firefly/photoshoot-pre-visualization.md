@@ -3,7 +3,7 @@ title: Photoshoot Pre-visualization
 description: Learn how how Gen AI lets you previsualize an entire photoshoot
 feature: Image Editing, Gen AI
 role: User
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 jira: KT-22291
 hide: true
 hidefromtoc: true
