@@ -163,7 +163,7 @@ nudge: true
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
     + [Think out loud: Turn your ideas into striking visuals](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
-  + [!DNL Adobe Stock] {#stockoverview}
++ [!DNL Adobe Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
     + [Stunning digital assets](stock/stunning-digital-assets.md)
