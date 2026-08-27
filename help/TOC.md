@@ -162,6 +162,7 @@ nudge: true
       + {hide-from-toc} [Headshots generation](firefly/graph/templates/headshots-generation.md)
   + Webinars {#firefly-webinars}
     + [Experimenting with Adobe Firefly](firefly/webinar-experimenting.md)
+    + [Think out loud: Turn your ideas into striking visuals](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Overview](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
