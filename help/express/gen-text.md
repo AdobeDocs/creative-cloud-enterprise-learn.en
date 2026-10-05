@@ -6,10 +6,15 @@ role: User
 level: Intermediate
 jira: KT-14847
 exl-id: 13ed15ce-adc3-453c-98c8-365319d4d985
-TQID: https://experienceleague.adobe.com/f3IH3o6tPKEt5CMCOR7uukzFGkwLYbS5SWqygzP1vA8
+TQID: 'https://experienceleague.adobe.com/f3IH3o6tPKEt5CMCOR7uukzFGkwLYbS5SWqygzP1vA8'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

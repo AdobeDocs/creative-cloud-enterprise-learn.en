@@ -5,10 +5,13 @@ feature: Graphic Design
 role: User
 level: Intermediate
 exl-id: 099a4d15-a95c-4589-963f-1f63d05e2de1
-TQID: https://experienceleague.adobe.com/5jEBT87bMGupJ6bR1Vxf3vQGa86XDNOXWPiWT9ztAl8
+TQID: 'https://experienceleague.adobe.com/5jEBT87bMGupJ6bR1Vxf3vQGa86XDNOXWPiWT9ztAl8'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

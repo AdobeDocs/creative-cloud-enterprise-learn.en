@@ -6,10 +6,13 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-TQID: https://experienceleague.adobe.com/fKtZZFwi7HI-1JOrdM7YicWs8nU6tjZv9AEtTfjdkaE
+TQID: 'https://experienceleague.adobe.com/fKtZZFwi7HI-1JOrdM7YicWs8nU6tjZv9AEtTfjdkaE'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

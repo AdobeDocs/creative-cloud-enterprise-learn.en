@@ -7,10 +7,13 @@ level: Beginner, Intermediate
 jira: KT-10963
 thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
-TQID: https://experienceleague.adobe.com/UgBJx5HBqvNjlbDIiSqV7KtzqmccwpbxwnXAHR9s13U
+TQID: 'https://experienceleague.adobe.com/UgBJx5HBqvNjlbDIiSqV7KtzqmccwpbxwnXAHR9s13U'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

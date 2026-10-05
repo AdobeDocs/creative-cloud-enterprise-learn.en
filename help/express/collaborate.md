@@ -4,12 +4,15 @@ description: Learn how to collaborate with colleagues on creative projects
 feature: Collaboration
 role: User
 level: Beginner
-jira: null
+jira: 
 exl-id: 314d3e32-5e7f-4557-9439-e12ec9986256
-TQID: https://experienceleague.adobe.com/q8zRc-EvSNKj2Hi9UAbD3Bogu0lHuiyqRd7Wls4xcaQ
+TQID: 'https://experienceleague.adobe.com/q8zRc-EvSNKj2Hi9UAbD3Bogu0lHuiyqRd7Wls4xcaQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: 1fb90542-ecf7-55a9-93b7-4011ddcd40b5
+    internal-label: Collaboration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

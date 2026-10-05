@@ -6,13 +6,15 @@ role: User
 level: Beginner
 jira: KT-14193
 exl-id: f2ef46a2-996e-4c9c-87bc-c65691c95199
-TQID: https://experienceleague.adobe.com/XoPdlOXb2UWxBqmDQLkBUWcZn38qLBEzAOYNqD1dtjw
+TQID: 'https://experienceleague.adobe.com/XoPdlOXb2UWxBqmDQLkBUWcZn38qLBEzAOYNqD1dtjw'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
     internal-label: Editing
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
     internal-label: Vector editing

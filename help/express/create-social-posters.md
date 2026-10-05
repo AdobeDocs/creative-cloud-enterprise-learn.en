@@ -6,13 +6,17 @@ role: User
 level: Intermediate
 jira: KT-13463
 exl-id: f004fcdd-6628-4d53-ae8c-48e5096051a1
-TQID: https://experienceleague.adobe.com/6hhSEgqHlhYoj5VH8fZpePE-dZ2ZMT0hu1Yf06aMdF0
+TQID: 'https://experienceleague.adobe.com/6hhSEgqHlhYoj5VH8fZpePE-dZ2ZMT0hu1Yf06aMdF0'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
     internal-label: Editing
+  - id: e3b67aac-252b-5c12-b4f2-e2ebb05e4916
+    internal-label: Social Media
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 subfeature_v2:
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
     internal-label: Image editing

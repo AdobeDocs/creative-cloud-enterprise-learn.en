@@ -6,13 +6,15 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg
 exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
-TQID: https://experienceleague.adobe.com/OaSriPjWZV6L3KVxtbgyDXgsNwNelwqCS8DJpJPQrOQ
+TQID: 'https://experienceleague.adobe.com/OaSriPjWZV6L3KVxtbgyDXgsNwNelwqCS8DJpJPQrOQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
 feature_v2:
   - id: ea6dc974-a44f-423e-aaf9-c4e3a361445b
     internal-label: Download and install
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
 subfeature_v2:
   - id: ccd686d0-28ab-4b99-88f4-09de44dadca3
     internal-label: Install

@@ -6,10 +6,15 @@ role: User
 level: Intermediate
 jira: KT-13430
 exl-id: f248c621-f50c-45c8-97de-4f28c7ea97f1
-TQID: https://experienceleague.adobe.com/6rljjy1u63w3iFmoqbePPyzSeVMrJXfgm1F9bCnhAGw
+TQID: 'https://experienceleague.adobe.com/6rljjy1u63w3iFmoqbePPyzSeVMrJXfgm1F9bCnhAGw'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: 8b07a0b0-e985-53c7-a040-ce9d17c25ae8
+    internal-label: Share
+  - id: e3b67aac-252b-5c12-b4f2-e2ebb05e4916
+    internal-label: Social Media
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

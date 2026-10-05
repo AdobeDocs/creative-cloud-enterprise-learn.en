@@ -6,10 +6,13 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
-TQID: https://experienceleague.adobe.com/kBFdVC5BQK6YZ370Hf3rIaPnNcpIYY1ILkS1DMJUijg
+TQID: 'https://experienceleague.adobe.com/kBFdVC5BQK6YZ370Hf3rIaPnNcpIYY1ILkS1DMJUijg'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
