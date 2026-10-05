@@ -7,10 +7,15 @@ level: Beginner, Intermediate
 jira: KT-11640
 thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
-TQID: https://experienceleague.adobe.com/sKkpgnGYCQIiMJiegiHXqlKB-0fvGQ1TPTxqdDpdfuo
+TQID: 'https://experienceleague.adobe.com/sKkpgnGYCQIiMJiegiHXqlKB-0fvGQ1TPTxqdDpdfuo'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: 1fb90542-ecf7-55a9-93b7-4011ddcd40b5
+    internal-label: Collaboration
+  - id: 8b07a0b0-e985-53c7-a040-ce9d17c25ae8
+    internal-label: Share
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

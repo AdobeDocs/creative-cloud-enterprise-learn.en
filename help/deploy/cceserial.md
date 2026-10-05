@@ -5,10 +5,13 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+TQID: 'https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: f3adbe6f-7e4c-5fb5-874d-60c3e79c80a8
+    internal-label: Deploy
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

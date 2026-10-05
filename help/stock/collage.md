@@ -6,10 +6,15 @@ role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg
 exl-id: 500c88f5-1313-49b5-a3ca-38535e172640
-TQID: https://experienceleague.adobe.com/ZWLUePRMTPeIXe8SSxZXz5MbvaiWBz4eaudaCDBtchw
+TQID: 'https://experienceleague.adobe.com/ZWLUePRMTPeIXe8SSxZXz5MbvaiWBz4eaudaCDBtchw'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -6,13 +6,21 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
+TQID: 'https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
     internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
     internal-label: Vector editing

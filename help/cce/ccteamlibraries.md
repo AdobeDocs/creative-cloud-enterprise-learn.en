@@ -7,10 +7,13 @@ level: Beginner, Intermediate
 jira: KT-8209
 thumbnail: KT-8209
 exl-id: 1cb0d14d-4aa5-4002-85dc-e54f25b39945
-TQID: https://experienceleague.adobe.com/0k1zEUAAOIvL12a33K1zrtInmEAjtgIBsQ-63kHJ9EM
+TQID: 'https://experienceleague.adobe.com/0k1zEUAAOIvL12a33K1zrtInmEAjtgIBsQ-63kHJ9EM'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
     internal-label: Creative Cloud
+feature_v2:
+  - id: dcec6556-a754-5235-b219-42ccb80fd3a2
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
