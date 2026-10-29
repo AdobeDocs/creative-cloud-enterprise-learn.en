@@ -23,6 +23,7 @@ nudge: true
     + {hide-from-toc} [20 directions from one brief, before lunch](cce/ai-tutorials/one-brief.md)
     + {hide-from-toc} [From brief to storyboard: Explore video directions before production](cce/ai-tutorials/brief-to-storyboard.md)
     + {hide-from-toc} [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
+    + {hide-from-toc} [Build presets for consistent color across a shoot](cce/ai-tutorials/build-presets.md)
     + {hide-from-toc} [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)

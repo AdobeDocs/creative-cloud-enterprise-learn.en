@@ -101,8 +101,13 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="build-presets.md">
+      <img alt="Build presets for consistent color across a shoot" src="../../assets/build-presets.png" />
+   </a>
     <div>
+   <a href="build-presets.md"><strong>Build presets for consistent color across a shoot</strong></a>
+    </div>
+    <em>Learn how to give a whole photoshoot a consistent look without editing each image one by one</em>
     <br>
   </td>
   <td>
