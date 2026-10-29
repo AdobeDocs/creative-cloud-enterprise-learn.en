@@ -16,7 +16,8 @@ nudge: true
 + [Overview](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
   + [Overview](cce/overview-cce.md)
-  + {hide-from-toc} [AI tutorials](cce/ai-tutorials/overview-ai-tutorials.md)
+  + {hide-from-toc} [AI tutorials] {#cceaitutorials}
+    + {hide-from-toc} [Overview](cce/ai-tutorials/overview-ai-tutorials.md)
     + {hide-from-toc} [Turn flat vector art to any angle — without redrawing it](cce/ai-tutorials/turn-flat-vector-art.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
