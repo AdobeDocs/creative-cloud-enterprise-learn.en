@@ -27,8 +27,13 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="seamless-vector.md">
+      <img alt="Seamless vector patterns in minutes, not hours" src="../../assets/seamless-vector.png" />
+   </a>
     <div>
+   <a href="seamless-vector.md"><strong>Seamless vector patterns in minutes, not hours</strong></a>
+    </div>
+    <em>Learn how to build a seamless brand pattern in Illustrator without checking every repeat edge by hand</em>
     <br>
   </td>
   <td>
