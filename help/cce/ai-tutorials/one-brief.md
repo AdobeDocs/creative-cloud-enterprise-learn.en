@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23024
-hide: true
-hidefromtoc: true
 ---
 # 20 directions from one brief, before lunch
 

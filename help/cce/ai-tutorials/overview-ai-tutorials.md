@@ -3,10 +3,8 @@ title: Creative Cloud for enterprise AI Tutorials
 description: Learn about Creative Cloud for enterprise AI tutorials
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-23021
-hide: true
-hidefromtoc: true
 ---
 # Creative Cloud for enterprise AI tutorials
 

@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23037
-hide: true
-hidefromtoc: true
 ---
 # Get to your rough cut faster
 

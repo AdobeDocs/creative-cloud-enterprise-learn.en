@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23025
-hide: true
-hidefromtoc: true
 ---
 # Retouch faster and keep your original pixels
 

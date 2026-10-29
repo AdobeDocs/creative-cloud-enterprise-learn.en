@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23027
-hide: true
-hidefromtoc: true
 ---
 # From brief to storyboard: Explore video directions before production
 
