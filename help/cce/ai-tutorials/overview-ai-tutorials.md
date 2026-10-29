@@ -137,9 +137,14 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <em>Learn how to use Generative Extend in Premiere</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="Get to your rough cut faster" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>Get to your rough cut faster</strong></a>
+    </div>
+    <em>Learn how to build a rough cut from interviews and B-roll faster in Premiere, without scrubbing through every clip</em>
     <br>
   </td>
   <td>
