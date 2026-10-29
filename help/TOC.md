@@ -11,11 +11,14 @@ auto-video-transcripts: true
 nudge: true
 ---
 
-# Creative Cloud for Enterprise Tutorials {#cce-learning-hub}
+# Creative Cloud for enterprise tutorials {#cce-learning-hub}
 
 + [Overview](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
   + [Overview](cce/overview-cce.md)
+  + {hide-from-toc} [AI tutorials] {#cceaitutorials}
+    + {hide-from-toc} [Overview](cce/ai-tutorials/overview-ai-tutorials.md)
+    + {hide-from-toc} [Turn flat vector art to any angle — without redrawing it](cce/ai-tutorials/turn-flat-vector-art.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
