@@ -16,7 +16,7 @@ nudge: true
 + [Overview](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
   + [Overview](cce/overview-cce.md)
-  + [AI tutorials] {#cceaitutorials}
+  + AI tutorials {#cceaitutorials}
     + [Overview](cce/ai-tutorials/overview-ai-tutorials.md)
     + [Turn flat vector art to any angle — without redrawing it](cce/ai-tutorials/turn-flat-vector-art.md)
     + [Seamless vector patterns in minutes, not hours](cce/ai-tutorials/seamless-vector.md)
@@ -25,7 +25,7 @@ nudge: true
     + [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
     + [Build presets for consistent color across a shoot](cce/ai-tutorials/build-presets.md)
     + [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
-    + {hide-from-toc} [Get to your rough cut faster](cce/ai-tutorials/rough-cut.md)
+    + [Get to your rough cut faster](cce/ai-tutorials/rough-cut.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
