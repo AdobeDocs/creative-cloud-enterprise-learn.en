@@ -10,7 +10,7 @@ hidefromtoc: true
 ---
 # Creative Cloud for enterprise AI tutorials
 
-Explore tutorials that can help you discover ideas, create content, and streamline creative workflows across Creative Cloud. These tutorials are group by role: Graphic Designer, Creative/Art Director, Photoshop Artist/Retoucher, and Video Editor.
+Explore tutorials that can help you discover ideas, create content, and streamline creative workflows using AI in Creative Cloud. These tutorials are grouped by role: Graphic Designer, Creative/Art Director, Photoshop Artist/Retoucher, and Video Editor.
 
 ## Graphic Designer
 
