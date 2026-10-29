@@ -25,6 +25,7 @@ nudge: true
     + {hide-from-toc} [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
     + {hide-from-toc} [Build presets for consistent color across a shoot](cce/ai-tutorials/build-presets.md)
     + {hide-from-toc} [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
+    + {hide-from-toc} [Get to your rough cut faster](cce/ai-tutorials/rough-cut.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
