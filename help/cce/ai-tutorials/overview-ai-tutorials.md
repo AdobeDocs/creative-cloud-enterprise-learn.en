@@ -81,3 +81,36 @@ Explore tutorials that can help you discover ideas, create content, and streamli
 </tr>
 </table>
 
+## Photoshop Artist/Retoucher
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="retouch-faster.md">
+      <img alt="Retouch faster and keep your original pixels" src="../../assets/retouch.png" />
+   </a>
+    <div>
+   <a href="retouch-faster.md"><strong>Retouch faster and keep your original pixels</strong></a>
+    </div>
+    <em>Learn how to add natural shadows to a product photo in Photoshop while keeping your original pixels intact</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+
