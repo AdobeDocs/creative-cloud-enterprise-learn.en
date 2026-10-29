@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23023
-hide: true
-hidefromtoc: true
 ---
 # Turn flat vector art to any angle — without redrawing it
 

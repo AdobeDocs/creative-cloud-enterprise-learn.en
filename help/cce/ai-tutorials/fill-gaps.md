@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23026
-hide: true
-hidefromtoc: true
 ---
 # Fill gaps in your cut: B-roll, audio, and clips that end too soon
 

@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23036
-hide: true
-hidefromtoc: true
 ---
 # Build presets for consistent color across a shoot
 

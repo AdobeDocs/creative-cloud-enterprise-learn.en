@@ -16,15 +16,15 @@ nudge: true
 + [Overview](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
   + [Overview](cce/overview-cce.md)
-  + {hide-from-toc} [AI tutorials] {#cceaitutorials}
-    + {hide-from-toc} [Overview](cce/ai-tutorials/overview-ai-tutorials.md)
-    + {hide-from-toc} [Turn flat vector art to any angle — without redrawing it](cce/ai-tutorials/turn-flat-vector-art.md)
-    + {hide-from-toc} [Seamless vector patterns in minutes, not hours](cce/ai-tutorials/seamless-vector.md)
-    + {hide-from-toc} [20 directions from one brief, before lunch](cce/ai-tutorials/one-brief.md)
-    + {hide-from-toc} [From brief to storyboard: Explore video directions before production](cce/ai-tutorials/brief-to-storyboard.md)
-    + {hide-from-toc} [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
-    + {hide-from-toc} [Build presets for consistent color across a shoot](cce/ai-tutorials/build-presets.md)
-    + {hide-from-toc} [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
+  + [AI tutorials] {#cceaitutorials}
+    + [Overview](cce/ai-tutorials/overview-ai-tutorials.md)
+    + [Turn flat vector art to any angle — without redrawing it](cce/ai-tutorials/turn-flat-vector-art.md)
+    + [Seamless vector patterns in minutes, not hours](cce/ai-tutorials/seamless-vector.md)
+    + [20 directions from one brief, before lunch](cce/ai-tutorials/one-brief.md)
+    + [From brief to storyboard: Explore video directions before production](cce/ai-tutorials/brief-to-storyboard.md)
+    + [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
+    + [Build presets for consistent color across a shoot](cce/ai-tutorials/build-presets.md)
+    + [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
     + {hide-from-toc} [Get to your rough cut faster](cce/ai-tutorials/rough-cut.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)

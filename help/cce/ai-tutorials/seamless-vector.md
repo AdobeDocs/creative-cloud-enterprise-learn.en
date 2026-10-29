@@ -5,8 +5,6 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23022
-hide: true
-hidefromtoc: true
 ---
 # Seamless vector patterns in minutes, not hours
 
