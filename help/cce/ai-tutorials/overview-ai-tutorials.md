@@ -113,4 +113,36 @@ Explore tutorials that can help you discover ideas, create content, and streamli
 </tr>
 </table>
 
+## Video Editor
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="fill-gaps.md">
+      <img alt="Fill gaps in your cut: B-roll, audio, and clips that end too soon" src="../../assets/fill-gaps.png" />
+   </a>
+    <div>
+   <a href="fill-gaps.md"><strong>Fill gaps in your cut: B-roll, audio, and clips that end too soon</strong></a>
+    </div>
+    <em>Learn how to use Generative Extend in Premiere</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 
