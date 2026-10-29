@@ -21,6 +21,7 @@ nudge: true
     + {hide-from-toc} [Turn flat vector art to any angle — without redrawing it](cce/ai-tutorials/turn-flat-vector-art.md)
     + {hide-from-toc} [Seamless vector patterns in minutes, not hours](cce/ai-tutorials/seamless-vector.md)
     + {hide-from-toc} [20 directions from one brief, before lunch](cce/ai-tutorials/one-brief.md)
+    + {hide-from-toc} [From brief to storyboard: Explore video directions before production](cce/ai-tutorials/brief-to-storyboard.md)
     + {hide-from-toc} [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
     + {hide-from-toc} [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
   + Tutorials {#ccetutorials}

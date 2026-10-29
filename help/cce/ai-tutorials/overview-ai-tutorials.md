@@ -64,8 +64,13 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="brief-to-storyboard.md">
+      <img alt="From brief to storyboard: Explore video directions before production" src="../../assets/brief-to-storyboard.png" />
+   </a>
     <div>
+   <a href="brief-to-storyboard.md"><strong>From brief to storyboard: Explore video directions before production</strong></a>
+    </div>
+    <em>Learn how to turn a creative brief into a shared board of strong visual directions</em>
     <br>
   </td>
   <td>
