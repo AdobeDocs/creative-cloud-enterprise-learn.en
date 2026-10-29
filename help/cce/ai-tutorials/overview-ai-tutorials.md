@@ -48,3 +48,36 @@ Explore tutorials that can help you discover ideas, create content, and streamli
   </td>
 </tr>
 </table>
+
+## Creative/Art Director
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="one-brief.md">
+      <img alt="20 directions from one brief, before lunch" src="../../assets/one-brief.png" />
+   </a>
+    <div>
+   <a href="one-brief.md"><strong>20 directions from one brief, before lunch</strong></a>
+    </div>
+    <em>Learn how to turn a creative brief into a shared board of strong visual directions</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
