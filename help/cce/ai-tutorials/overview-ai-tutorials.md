@@ -27,17 +27,17 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
