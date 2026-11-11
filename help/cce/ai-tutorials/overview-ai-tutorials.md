@@ -145,14 +145,19 @@ Explore tutorials that can help you discover ideas, create content, and streamli
       <img alt="Get to your rough cut faster" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>Get to your rough cut faster</strong></a>
+   <a href="rough-cut.md"><strong>Get to your rough cut faster</strong></a>
     </div>
     <em>Learn how to build a rough cut from interviews and B-roll faster in Premiere, without scrubbing through every clip</em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="Match color across shots — no color wheels required" src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>Match color across shots — no color wheels required</strong></a>
+    </div>
+    <em>Learn how to make shots lit differently look like they belong in the same edit</em>
     <br>
   </td>
   <td>
