@@ -35,8 +35,13 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="From sketch to clean, editable vector" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>From sketch to clean, editable vector</strong></a>
+    </div>
+    <em>Learn how to turn a rough sketch into editable vector artwork in Illustrator</em>
     <br>
   </td>
   <td>

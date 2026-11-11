@@ -20,6 +20,7 @@ nudge: true
     + [Overview](cce/ai-tutorials/overview-ai-tutorials.md)
     + [Turn flat vector art to any angle — without redrawing it](cce/ai-tutorials/turn-flat-vector-art.md)
     + [Seamless vector patterns in minutes, not hours](cce/ai-tutorials/seamless-vector.md)
+    + [From sketch to clean, editable vector](cce/ai-tutorials/sketch-to-clean.md)
     + [20 directions from one brief, before lunch](cce/ai-tutorials/one-brief.md)
     + [From brief to storyboard: Explore video directions before production](cce/ai-tutorials/brief-to-storyboard.md)
     + [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
