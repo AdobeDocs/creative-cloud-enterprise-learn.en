@@ -114,8 +114,13 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="Clean up and adapt an image with generative tools" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>Clean up and adapt an image with generative tools</strong></a>
+    </div>
+    <em>Learn how to use Generative Expand and Generative Fill extend to enhance your ideas</em>
     <br>
   </td>
   <td>
