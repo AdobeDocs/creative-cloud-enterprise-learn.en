@@ -45,8 +45,13 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="Move vector art into an InDesign layout and package it for handoff" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>Move vector art into an InDesign layout and package it for handoff</strong></a>
+    </div>
+    <em>Learn how to check a print layout by asking the AI Assistant in InDesign</em>
     <br>
   </td>
 </tr>

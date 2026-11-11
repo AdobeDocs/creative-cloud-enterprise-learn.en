@@ -26,6 +26,7 @@ nudge: true
     + [Retouch faster and keep your original pixels](cce/ai-tutorials/retouch-faster.md)
     + [Build presets for consistent color across a shoot](cce/ai-tutorials/build-presets.md)
     + [Clean up and adapt an image with generative tools](cce/ai-tutorials/adapt.md)
+    + [Move vector art into an InDesign layout and package it for handoff](cce/ai-tutorials/vector-to-layout.md)
     + [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
     + [Get to your rough cut faster](cce/ai-tutorials/rough-cut.md)
     + [Match color across shots — no color wheels required](cce/ai-tutorials/match-color.md)
