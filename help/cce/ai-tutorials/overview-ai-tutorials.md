@@ -160,12 +160,18 @@ Explore tutorials that can help you discover ideas, create content, and streamli
     <em>Learn how to make shots lit differently look like they belong in the same edit</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="New in Adobe Premiere: Pull dialogue, ambience, and noise apart" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>New in Adobe Premiere: Pull dialogue, ambience, and noise apart</strong></a>
+    </div>
+    <em>Learn how to rescue dialog by pulling apart the audio</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 

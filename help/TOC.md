@@ -28,6 +28,7 @@ nudge: true
     + [Fill gaps in your cut: B-roll, audio, and clips that end too soon](cce/ai-tutorials/fill-gaps.md)
     + [Get to your rough cut faster](cce/ai-tutorials/rough-cut.md)
     + [Match color across shots — no color wheels required](cce/ai-tutorials/match-color.md)
+    + [New in Adobe Premiere: Pull dialogue, ambience, and noise apart](cce/ai-tutorials/pull-noise.md)
   + Tutorials {#ccetutorials}
     + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
     + [Improve CC workflows with CC Libraries](cce/cc-workflows-cc-libraries.md)
