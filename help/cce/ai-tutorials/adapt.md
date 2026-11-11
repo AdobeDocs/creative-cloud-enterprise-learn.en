@@ -1,6 +1,6 @@
 ---
-title: Retouch Faster and Keep Your Original Pixels
-description: Learn how to add natural shadows to a product photo in Photoshop while keeping your original pixels intact
+title: Clean up and Adapt an Image with Generative Tools
+description: Learn how to use Generative Expand and Generative Fill extend
 feature: Image Editing, Gen AI
 role: User
 level: Intermediate
@@ -8,6 +8,8 @@ jira: KT-23110
 ---
 # Clean up and adapt an image with generative tools
 
-Need your product shots to match without altering the original photo? Learn how to add natural shadows to a product photo in Photoshop while keeping your original pixels intact. See how Harmonize generates shadow options, then paint on a layer mask to reveal the original photo underneath. The result matches your brand’s style and stays fully editable.
+Your team loves the photo, but it’s the wrong shape. Learn how to expand the scene, adjust the background, and blend your edits with the original image in Photoshop, so you keep the emotion of the shot.
+
+In this tutorial learn how to use Generative Expand and Generative Fill extend a scene and bring a blocked person into view, then how a layer mask restores the original pixels where you need them.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508142?quality=12&learn=on&hidetitle=true)
